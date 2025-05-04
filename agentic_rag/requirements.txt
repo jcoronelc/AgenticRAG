@@ -1,0 +1,19 @@
+# openai==0.28
+openai
+crewai
+fpdf
+pymupdf
+chromadb
+openpyxl
+pandas
+fpdf
+jinja2
+crewai-tools
+streamlit
+nlk
+transformers==4.46.0
+tokenizers==0.20.3
+numpy == 1.26.4
+sentence-transformers == 3.4.1
+tavily-python
+pymongo

@@ -1,0 +1,83 @@
+# retrieve_task:
+#   description: >
+#     Dado la {question} de un usuario universitario (estudiante o personal), recupera entre 3 y 5 documentos o fragmentos relevantes desde la base de datos interna (ChromaDB).
+#     No generes interpretaciones, solo proporciona la información más relevante posible.
+#   expected_output: >
+#     Solo retorna exactamente los documentos que obtuviste de la herramienta. No hagas ningún análisis ni interpretación.
+#   agent: retriever_agent
+
+# context_task:
+#   description: >
+#     Analiza los documentos recuperados para determinar si contienen suficiente información para responder el {question}.
+#     Justifica tu decisión.
+#   expected_output: >
+#     Un objeto JSON con tres campos: 
+#       - "sufficient_context": booleano (true/false)
+#       - "reasoning": texto con la justificación
+#       - "next_action": "proceed" o "search_web"
+#       - relevance_score: puntaje de relevancia (0-1)
+#   agent: evaluator_agent
+
+# web_task:
+#   description: >
+#     Realiza una búsqueda web para encontrar información adicional cuando los documentos recuperados no sean suficientes.
+#     Concéntrate en sitios confiables como universidades, ministerios de educación, o fuentes académicas.
+#   expected_output: >
+#     Texto relevante encontrado en la web que complemente los datos internos, idealmente 1-2 párrafos de alta calidad.
+#   agent: web_agent
+
+# answer_task:
+#   description: >
+#     Redacta una respuesta final clara y formal en español al {question}, utilizando toda la información recopilada.
+#     Estructura:
+#             1. Respuesta directa (1 párrafo)
+#             2. Detalles de apoyo (bullets)
+#             3. Fuentes (internas y externas)
+#   expected_output: >
+#     Una respuesta redactada en español, clara, completa y académicamente adecuada al {question}.
+#     Respuesta formateada en Markdown con:
+#       # Respuesta
+#         [Contenido principal]
+            
+#       ## Detalles
+#         - Punto 1
+#         - Punto 2
+            
+#       ### Fuentes
+#         1. [Fuente interna]...
+#         2. [Fuente web]...
+#   agent: answer_agent
+
+retrieve_task:
+  description: >
+    Dada la pregunta {question}, recupera entre 3 y 5 documentos o fragmentos relevantes desde la base de datos interna (ChromaDB).
+    No generes interpretaciones, solo proporciona la información.
+  expected_output: >
+    Solo retorna exactamente los documentos que obtuviste de la herramienta. No hagas ningún análisis ni interpretación.
+  agent: retriever_agent
+
+context_task:
+  description: >
+    Analiza los documentos recuperados para determinar si contienen suficiente información para responder la pregunta {question}.
+    Justifica tu decisión.
+  expected_output: >
+    Un objeto JSON con tres campos: 
+      - "sufficient_context": booleano (true/false)
+      - "reasoning": texto con la justificación
+      - "next_action": "proceed" o "search_web"
+  agent: evaluator_agent
+
+web_task:
+  description: >
+    Realiza una búsqueda web para encontrar información adicional cuando los documentos internos no sean suficientes.
+    Concéntrate en sitios confiables como universidades, ministerios de educación, o fuentes académicas referentes a la Universidad Tecnica Particular de Loja (UTPL).
+  expected_output: >
+    Texto relevante encontrado en la web que complemente los datos internos, idealmente 1-2 párrafos de alta calidad.
+  agent: web_agent
+
+answer_task:
+  description: >
+    Redacta una respuesta final clara y formal en español al {question}, utilizando toda la información recopilada (interna y web si aplica).
+  expected_output: >
+    Una respuesta redactada en español, clara, completa y académicamente adecuada al {question}.
+  agent: answer_agent
