@@ -4,7 +4,6 @@ import warnings
 
 # from agentic_rag_crew.crew import AgenticRagCrew
 from crew import AgenticRagCrew
-
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
 # This main file is intended to be a way for you to run your
@@ -17,9 +16,9 @@ def run():
     Run the crew.
     """
     inputs = {
-        # "question": "¿Qué cursos solo fueron dictados en la facultad de 'INGENIERÍA' durante el 202462?"
+        #"question": "¿Qué cursos solo fueron dictados en la facultad de 'INGENIERÍA' durante el 202462?"
         # "question": "¿Qué puedes contarme con respecto al programa contabilidad y auditoria?"
-        "question": "¿Cuál es la edad, sexo y correo del estudiante cuyo nombre es Ana Juana Caño Muñoz?"
+        "question": "¿Cuál es la edad, genero y correo del estudiante cuyo nombre es Ana Juana Caño Muñoz?"
     }
     result = AgenticRagCrew().crew().kickoff(inputs=inputs)
     print("\n\n=== FINAL REPORT ===\n\n")

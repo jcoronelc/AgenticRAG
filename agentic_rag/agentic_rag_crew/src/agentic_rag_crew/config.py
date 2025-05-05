@@ -27,7 +27,7 @@ models_llm = {
     2: "mistral-nemo-instruct-2407",
     3: 'gemma-3-4b-it',
     4: 'utplllama',
-    5: 'llama-3.2-1b-instruct'
+    5: 'llama-3.2-3b-instruct'
    
 }
 
@@ -36,4 +36,6 @@ model_llm_responses = models_llm[5]
 
 retrieval_method = 'naive' # naive / reranking 
 collection_name = "bdv2"  #collection chroma  (ver read_me)
+collection_name_active = "bdv5"
+
 persist_directory = os.path.join(".", "data", "output", "chroma", "persistent_directory")

@@ -56,28 +56,31 @@ retrieve_task:
     Solo retorna exactamente los documentos que obtuviste de la herramienta. No hagas ningún análisis ni interpretación.
   agent: retriever_agent
 
-context_task:
-  description: >
-    Analiza los documentos recuperados para determinar si contienen suficiente información para responder la pregunta {question}.
-    Justifica tu decisión.
-  expected_output: >
-    Un objeto JSON con tres campos: 
-      - "sufficient_context": booleano (true/false)
-      - "reasoning": texto con la justificación
-      - "next_action": "proceed" o "search_web"
-  agent: evaluator_agent
 
-web_task:
-  description: >
-    Realiza una búsqueda web para encontrar información adicional cuando los documentos internos no sean suficientes.
-    Concéntrate en sitios confiables como universidades, ministerios de educación, o fuentes académicas referentes a la Universidad Tecnica Particular de Loja (UTPL).
-  expected_output: >
-    Texto relevante encontrado en la web que complemente los datos internos, idealmente 1-2 párrafos de alta calidad.
-  agent: web_agent
+# context_task:
+#   description: >
+#     Analiza los documentos y metadatos recuperados para determinar si contienen suficiente información para responder la pregunta {question}.
+#     Justifica tu decisión de forma clara y técnica.
+#   expected_output: >
+#     Un objeto JSON con tres campos:
+#       - "sufficient_context": true | false
+#       - "reasoning": Justificación de la decisión
+#       - "next_action": "proceed" o "search_web"
+#   agent: evaluator_agent
+
+# web_task:
+#   description: >
+#     Realiza una búsqueda web para encontrar información académica confiable que complemente los datos internos, cuando estos no sean suficientes.
+#     Prioriza fuentes institucionales oficiales como universidades, ministerios de educación o sitios relacionados con la UTPL.
+#   expected_output: >
+#     Un texto claro y relevante (idealmente 1 o 2 párrafos) que complemente los datos internos con contenido académico de alta calidad.
+#   agent: web_agent
 
 answer_task:
   description: >
-    Redacta una respuesta final clara y formal en español al {question}, utilizando toda la información recopilada (interna y web si aplica).
+    Integra los documentos, metadatos internos devueltos por el RAG TOOL y, si corresponde, la información web para redactar una respuesta final clara y formal en español
+    a la pregunta {question}. La respuesta debe estar completamente basada en la información recopilada.
   expected_output: >
-    Una respuesta redactada en español, clara, completa y académicamente adecuada al {question}.
+    Una respuesta redactada en español, clara, completa, académicamente adecuada y directamente relacionada con la pregunta {question}.
   agent: answer_agent
+

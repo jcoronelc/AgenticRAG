@@ -46,7 +46,7 @@ def main():
     )
      
     use_agents = False 
-    create_bd = True # Cambia a False para realizar querys a la bd
+    create_bd = False # Cambia a False para realizar querys a la bd
     save_as_pdf = False  # Cambia a False para guardar en TXT
     format_type = "detailed" # Formato de datos: detailed o general
     chunk_size = 300

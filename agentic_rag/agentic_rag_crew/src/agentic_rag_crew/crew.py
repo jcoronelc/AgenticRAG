@@ -2,7 +2,7 @@ from crewai import Agent, Crew, Process, Task, LLM
 from crewai.project import CrewBase, agent, crew, task, before_kickoff, after_kickoff
 from crewai.memory import LongTermMemory
 from crewai.memory.storage.ltm_sqlite_storage import LTMSQLiteStorage
-# Uncomment the following line to use an example of a custom tool
+
 from tools.rag_tool import RAGTool
 from tools.web_tool import WebSearchTool
 from config import api_key, base_url, model_llm_responses
@@ -45,35 +45,37 @@ class AgenticRagCrew():
 		# Example of logging results, dynamically changing the output
 		print(f"Results: {output}")
 		return output
+	
+	# AGENTS
 
 	@agent
 	def retriever_agent(self) -> Agent:
 		return Agent(
 			config=self.agents_config['retriever_agent'],
-			tools=[RAGTool()], # Example of custom tool, loaded on the beginning of file
+			tools=[RAGTool()], 
 			llm = self.llm,
 			allow_delegation=False,
 			verbose=True
 		)
 
-	@agent
-	def evaluator_agent(self) -> Agent:
-		return Agent(
-			config=self.agents_config['evaluator_agent'],
-			allow_delegation=False,
-			llm = self.llm,
-			verbose=True
-		)
+	# @agent
+	# def evaluator_agent(self) -> Agent:
+	# 	return Agent(
+	# 		config=self.agents_config['evaluator_agent'],
+	# 		allow_delegation=False,
+	# 		llm = self.llm,
+	# 		verbose=True
+	# 	)
 
-	@agent
-	def web_agent(self) -> Agent:
-		return Agent(
-			config=self.agents_config['web_agent'],
-			tools=[WebSearchTool()],
-			llm = self.llm,
-			allow_delegation=False,
-			verbose=True
-		)
+	# @agent
+	# def web_agent(self) -> Agent:
+	# 	return Agent(
+	# 		config=self.agents_config['web_agent'],
+	# 		tools=[WebSearchTool()],
+	# 		llm = self.llm,
+	# 		allow_delegation=False,
+	# 		verbose=True
+	# 	)
   
 	@agent
 	def answer_agent(self) -> Agent:
@@ -83,6 +85,8 @@ class AgenticRagCrew():
 			llm = self.llm,
 			verbose=True
 		)
+	
+	# TASK
 
 	@task
 	def retrieve_task(self) -> Task:
@@ -90,19 +94,19 @@ class AgenticRagCrew():
 			config=self.tasks_config['retrieve_task']
 			# output_file='report.md'
 		)
-	@task
-	def evaluator_task(self) -> Task:
-		return Task(
-			config=self.tasks_config['context_task'],
-			# context=[self.retrieve_task] 
-		)
+	# @task
+	# def evaluator_task(self) -> Task:
+	# 	return Task(
+	# 		config=self.tasks_config['context_task'],
+	# 		# context=[self.retrieve_task] 
+	# 	)
   
-	@task
-	def web_task(self) -> Task:
-		return Task(
-			config=self.tasks_config['web_task'],
-			# context=[self.evaluator_task] 
-		)
+	# @task
+	# def web_task(self) -> Task:
+	# 	return Task(
+	# 		config=self.tasks_config['web_task'],
+	# 		# context=[self.evaluator_task] 
+	# 	)
   
 	@task
 	def answer_task(self) -> Task:
@@ -123,11 +127,14 @@ class AgenticRagCrew():
 		# 	),
 		# ]
 
+		# tool = RAGTool()
+		# print(tool._run("¿Cuál es la edad del estudiante llamado Ana Juana?"))
+
 		return Crew(
 			agents=self.agents, # Automatically created by the @agent decorator
 			tasks=self.tasks, # Automatically created by the @task decorator
 			process=Process.sequential,
-			verbose=True,
+			verbose=False,
 			# memory=True,
 			# long_term_memory=LongTermMemory(
  			#          storage=LTMSQLiteStorage(db_path=f"{memory_storage_path}/memory.db")),
