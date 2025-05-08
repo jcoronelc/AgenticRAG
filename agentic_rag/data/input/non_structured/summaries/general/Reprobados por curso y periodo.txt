@@ -1,0 +1,978 @@
+periodo_academico: 202264, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, numero_reprobados: 25
+periodo_academico: 202264, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, numero_reprobados: 19
+periodo_academico: 202264, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, numero_reprobados: 187
+periodo_academico: 202264, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, numero_reprobados: 32
+periodo_academico: 202264, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, numero_reprobados: 14
+periodo_academico: 202264, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, numero_reprobados: 60
+periodo_academico: 202264, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_reprobados: 29
+periodo_academico: 202264, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: ECON_4112, curso_nombre: ADMINISTRACION FINANCIERA OPER, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, numero_reprobados: 79
+periodo_academico: 202264, curso_codigo: MATE_2029, curso_nombre: ANA MATEMATICO MULTIVARIADO, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: TURI_4022, curso_nombre: ANALISIS DE MERCADOS TURISTICO, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: RELI_3002, curso_nombre: ANTROPOLOGIA, numero_reprobados: 14
+periodo_academico: 202264, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, numero_reprobados: 160
+periodo_academico: 202264, curso_codigo: TURI_1020, curso_nombre: ANTROPOLOGIA CULTURAL Y TURIS, numero_reprobados: 8
+periodo_academico: 202264, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, numero_reprobados: 10
+periodo_academico: 202264, curso_codigo: TURI_2014, curso_nombre: AREAS PROTEGIDAS, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: COMP_5006, curso_nombre: ARQ Y COMP PARALELA, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: DRBD_5003, curso_nombre: ARQ Y SEGURIDAD DE REDES, numero_reprobados: 10
+periodo_academico: 202264, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, numero_reprobados: 19
+periodo_academico: 202264, curso_codigo: CONT_4006, curso_nombre: AUDITORIA I, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: CONT_1015, curso_nombre: AUDITORIA II, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: CONT_5002, curso_nombre: AUDITORIA III, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, numero_reprobados: 16
+periodo_academico: 202264, curso_codigo: MATE_1091, curso_nombre: CALCULO, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, numero_reprobados: 26
+periodo_academico: 202264, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, numero_reprobados: 86
+periodo_academico: 202264, curso_codigo: CONT_4010, curso_nombre: COMPUTACION APLICADA, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: COMP_1078, curso_nombre: COMPUTACION Y SOCIEDAD, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, numero_reprobados: 22
+periodo_academico: 202264, curso_codigo: CONT_2015, curso_nombre: CONTABILIDAD BANCARIA, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, numero_reprobados: 26
+periodo_academico: 202264, curso_codigo: CONT_2032, curso_nombre: CONTABILIDAD DE COSTOS OPERATI, numero_reprobados: 8
+periodo_academico: 202264, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, numero_reprobados: 8
+periodo_academico: 202264, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, numero_reprobados: 34
+periodo_academico: 202264, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, numero_reprobados: 92
+periodo_academico: 202264, curso_codigo: CONT_5006, curso_nombre: CONTABILIDAD GERENCIAL, numero_reprobados: 12
+periodo_academico: 202264, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, numero_reprobados: 13
+periodo_academico: 202264, curso_codigo: CONT_3017, curso_nombre: CONTABILIDAD GUBERNAMENTAL, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, numero_reprobados: 48
+periodo_academico: 202264, curso_codigo: TURI_4014, curso_nombre: COSMOVISION ANDINA, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: LITE_4003, curso_nombre: CULTURE AND LITERATURE IN ENGL, numero_reprobados: 13
+periodo_academico: 202264, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: FDCE_4001, curso_nombre: CURRICULUM AND MATERIALS, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: DERE_1181, curso_nombre: DERECHO LABORAL, numero_reprobados: 24
+periodo_academico: 202264, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, numero_reprobados: 39
+periodo_academico: 202264, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, numero_reprobados: 34
+periodo_academico: 202264, curso_codigo: ECON_4002, curso_nombre: DESARROLLO ECONOMICO, numero_reprobados: 14
+periodo_academico: 202264, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, numero_reprobados: 10
+periodo_academico: 202264, curso_codigo: HOTE_5003, curso_nombre: DIRECCION HOTELERA, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: TURI_3016, curso_nombre: DISEÑO DE PRODUCTOS TURISTICOS, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: RELI_1001, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, numero_reprobados: 24
+periodo_academico: 202264, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: ECMA_4003, curso_nombre: ECONOMETRIA II, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: ECON_4108, curso_nombre: ECONOMIA AMBIENTAL Y DE REC NA, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: ECON_2035, curso_nombre: ECONOMIA DE LA EMPRESA Y MERCA, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: ECON_5077, curso_nombre: ECONOMIA INTERNACIONAL, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: ECON_5014, curso_nombre: ECONOMIA POLITICA, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: ADMI_1127, curso_nombre: ECONOMIA POPULAR Y SOLIDARIA, numero_reprobados: 21
+periodo_academico: 202264, curso_codigo: MATE_3100, curso_nombre: ECUACIONES DIFER Y MET NUMER, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: FDSE_4007, curso_nombre: EDUCATIONAL RESEARCH I, numero_reprobados: 7
+periodo_academico: 202264, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, numero_reprobados: 124
+periodo_academico: 202264, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, numero_reprobados: 19
+periodo_academico: 202264, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, numero_reprobados: 10
+periodo_academico: 202264, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, numero_reprobados: 15
+periodo_academico: 202264, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, numero_reprobados: 20
+periodo_academico: 202264, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, numero_reprobados: 95
+periodo_academico: 202264, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, numero_reprobados: 14
+periodo_academico: 202264, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, numero_reprobados: 86
+periodo_academico: 202264, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, numero_reprobados: 16
+periodo_academico: 202264, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, numero_reprobados: 194
+periodo_academico: 202264, curso_codigo: ESTA_1044, curso_nombre: ESTADISTICA, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: ESTA_4004, curso_nombre: ESTADISTICA APLICADA A EDUCA, numero_reprobados: 12
+periodo_academico: 202264, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, numero_reprobados: 27
+periodo_academico: 202264, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, numero_reprobados: 60
+periodo_academico: 202264, curso_codigo: ESTA_3022, curso_nombre: ESTADISTICA Y PROBABILIDAD, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: DSOF_2030, curso_nombre: ESTRUCTURAS DISCRETAS, numero_reprobados: 13
+periodo_academico: 202264, curso_codigo: RELI_3000, curso_nombre: ETICA, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, numero_reprobados: 38
+periodo_academico: 202264, curso_codigo: EDUC_1143, curso_nombre: FAMILIA Y EDUCACION: RETOS Y D, numero_reprobados: 8
+periodo_academico: 202264, curso_codigo: FILO_4002, curso_nombre: FILOSOFIA DE LA EDUCACION, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, numero_reprobados: 91
+periodo_academico: 202264, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, numero_reprobados: 25
+periodo_academico: 202264, curso_codigo: FINZ_1026, curso_nombre: FINANZAS I, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: FINZ_1065, curso_nombre: FINANZAS II, numero_reprobados: 14
+periodo_academico: 202264, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, numero_reprobados: 27
+periodo_academico: 202264, curso_codigo: TURI_3011, curso_nombre: FINANZAS Y PRESUPUESTOS, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: FINZ_1073, curso_nombre: FINTECH BANCA 4.0, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, numero_reprobados: 14
+periodo_academico: 202264, curso_codigo: ECON_3045, curso_nombre: FORMULACION DE PROYECTOS, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: IDIO_3013, curso_nombre: FRANCES I, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: IDIO_3014, curso_nombre: FRANCES II, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: IDIO_4016, curso_nombre: FRANCES III, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: COMP_1075, curso_nombre: FUNDAMENTOS COMPUTACIONALES, numero_reprobados: 14
+periodo_academico: 202264, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, numero_reprobados: 13
+periodo_academico: 202264, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, numero_reprobados: 21
+periodo_academico: 202264, curso_codigo: DRBD_2004, curso_nombre: FUNDAMENTOS DE BASE DE DATOS, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, numero_reprobados: 345
+periodo_academico: 202264, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, numero_reprobados: 127
+periodo_academico: 202264, curso_codigo: SIST_3012, curso_nombre: FUNDAMENTOS DE INGENIERIA DE S, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: COMP_1034, curso_nombre: FUNDAMENTOS INFORMATICOS, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, numero_reprobados: 210
+periodo_academico: 202264, curso_codigo: HOTE_1047, curso_nombre: GEOGRAFIA TURISTICA, numero_reprobados: 24
+periodo_academico: 202264, curso_codigo: RENR_3001, curso_nombre: GERENCIA DE RECURSOS NATURALES, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: ADMI_4015, curso_nombre: GESTION DE LA CALIDAD, numero_reprobados: 21
+periodo_academico: 202264, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, numero_reprobados: 20
+periodo_academico: 202264, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: ADMI_5077, curso_nombre: GESTION DE PROYECTOS, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, numero_reprobados: 47
+periodo_academico: 202264, curso_codigo: TURI_2011, curso_nombre: GESTION DEL PATRIMONIO CULTU, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: TURI_4017, curso_nombre: GESTION E INNOVACION DE DESTIN, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: ECON_5021, curso_nombre: GESTION PRODUCTIVA GP 4.1, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: TURI_4018, curso_nombre: GESTION PUBLICA DEL TURISMO, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: TURI_2016, curso_nombre: GUIANZA, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, numero_reprobados: 229
+periodo_academico: 202264, curso_codigo: ECON_1055, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: ECON_1087, curso_nombre: HISTORIA ECONOMICA DEL ECUADOR, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, numero_reprobados: 408
+periodo_academico: 202264, curso_codigo: PERI_3015, curso_nombre: IMAGEN PERSONAL Y CORPORATIVA, numero_reprobados: 15
+periodo_academico: 202264, curso_codigo: EDUC_1102, curso_nombre: INCLUSION Y APRENDIZAJE SOSTEN, numero_reprobados: 30
+periodo_academico: 202264, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: DSOF_3037, curso_nombre: INGENIERIA WEB, numero_reprobados: 7
+periodo_academico: 202264, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, numero_reprobados: 15
+periodo_academico: 202264, curso_codigo: DSOF_4009, curso_nombre: INTELIGENCIA ARTIFICIAL, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: EDUC_1146, curso_nombre: INTELIGENCIA EMOCIONAL, numero_reprobados: 19
+periodo_academico: 202264, curso_codigo: PAGR_1017, curso_nombre: INTRO A LA CAD DE VALOR EN CAF, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, numero_reprobados: 29
+periodo_academico: 202264, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, numero_reprobados: 78
+periodo_academico: 202264, curso_codigo: DSOF_1067, curso_nombre: INTRODUCCION A LA PROGRAMACION, numero_reprobados: 16
+periodo_academico: 202264, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, numero_reprobados: 32
+periodo_academico: 202264, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: EDUC_2022, curso_nombre: JORN DE INVES LA CREDIBILIDAD, numero_reprobados: 7
+periodo_academico: 202264, curso_codigo: EDUC_2021, curso_nombre: JORNADA DE INVESTIGACION TEMAT, numero_reprobados: 10
+periodo_academico: 202264, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, numero_reprobados: 41
+periodo_academico: 202264, curso_codigo: FDCE_4011, curso_nombre: LANGUAGE TESTING, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, numero_reprobados: 82
+periodo_academico: 202264, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, numero_reprobados: 57
+periodo_academico: 202264, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, numero_reprobados: 118
+periodo_academico: 202264, curso_codigo: DERE_1102, curso_nombre: LEGISLACION MONETARIA Y BANCAR, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: TURI_2013, curso_nombre: LEGISLACION TURISTICA Y AMBIEN, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: EDUC_1141, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: EDUC_1147, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, numero_reprobados: 20
+periodo_academico: 202264, curso_codigo: ELEN_2008, curso_nombre: LOGICA DIGITAL, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: ADMI_4027, curso_nombre: LOGISTICA EMPRESARIAL, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: MERC_1005, curso_nombre: MARKETING, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: MERC_4007, curso_nombre: MARKETING, numero_reprobados: 56
+periodo_academico: 202264, curso_codigo: MERC_4004, curso_nombre: MARKETING TURISTICO, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, numero_reprobados: 154
+periodo_academico: 202264, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, numero_reprobados: 20
+periodo_academico: 202264, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, numero_reprobados: 12
+periodo_academico: 202264, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: FDCE_4014, curso_nombre: METHODOLOGY AND DIDACTICS III:, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, numero_reprobados: 21
+periodo_academico: 202264, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, numero_reprobados: 7
+periodo_academico: 202264, curso_codigo: ECON_3042, curso_nombre: MICROECONOMIA APLICADA, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: ECON_3040, curso_nombre: MODELOS ECONOMETRICOS, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: ECON_4110, curso_nombre: MODELOS OPTIMIZA PARA USO DE R, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, numero_reprobados: 19
+periodo_academico: 202264, curso_codigo: TURI_4021, curso_nombre: NEURO MARKT Y TEORIAS DE INFOR, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, numero_reprobados: 14
+periodo_academico: 202264, curso_codigo: TURI_2018, curso_nombre: NUEVAS ALTERNATIVAS DE TURISMO, numero_reprobados: 8
+periodo_academico: 202264, curso_codigo: TURI_2015, curso_nombre: ORGANIZACION DE EVENTOS Y PROT, numero_reprobados: 8
+periodo_academico: 202264, curso_codigo: PIND_5008, curso_nombre: ORGANIZACION INDUSTRIAL, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: CONT_5010, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_reprobados: 7
+periodo_academico: 202264, curso_codigo: ADMI_4046, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_reprobados: 17
+periodo_academico: 202264, curso_codigo: CONT_4000, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: FDCE_3015, curso_nombre: PASANTIA PRE-PRO1, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: FDCE_4023, curso_nombre: PASANTIA PRE-PRO2, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: ADMI_3023, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: CONT_3002, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: ADMI_4045, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: CONT_4008, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: TURI_3013, curso_nombre: PATRIMONIO NATURAL Y BIODIVERS, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: TURI_4016, curso_nombre: PLANIFICACION DE DESTINOS TURI, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: DSOF_4070, curso_nombre: PLATAFORMAS MOVILES, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: ECON_4009, curso_nombre: POLITICA ECONOMICA II, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, numero_reprobados: 44
+periodo_academico: 202264, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, numero_reprobados: 36
+periodo_academico: 202264, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, numero_reprobados: 107
+periodo_academico: 202264, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, numero_reprobados: 40
+periodo_academico: 202264, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, numero_reprobados: 25
+periodo_academico: 202264, curso_codigo: TURI_2010, curso_nombre: PRACTICUM 1, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: COMP_2011, curso_nombre: PRACTICUM 1.1, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, numero_reprobados: 28
+periodo_academico: 202264, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: TURI_3017, curso_nombre: PRACTICUM 2, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: COMP_3019, curso_nombre: PRACTICUM 2.1, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, numero_reprobados: 24
+periodo_academico: 202264, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, numero_reprobados: 20
+periodo_academico: 202264, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: TURI_4020, curso_nombre: PRACTICUM 4.1, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_reprobados: 13
+periodo_academico: 202264, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_reprobados: 10
+periodo_academico: 202264, curso_codigo: ECON_4115, curso_nombre: PRACTICUM 4.1:TRABAJO DE INT E, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: FDCE_4028, curso_nombre: PRACTICUM ACADE 3 ASESORIA TT, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: FDCE_3021, curso_nombre: PRACTICUM ACADEMICO 1, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: FDCE_4027, curso_nombre: PRACTICUM ACADEMICO 2, numero_reprobados: 12
+periodo_academico: 202264, curso_codigo: FINZ_1018, curso_nombre: PRESUPUESTOS, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, numero_reprobados: 28
+periodo_academico: 202264, curso_codigo: ECON_2032, curso_nombre: PRINCIPIOS DE MICROECONOMIA, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: HOTE_1045, curso_nombre: PRINCIPIOS DEL TURISMO, numero_reprobados: 18
+periodo_academico: 202264, curso_codigo: DSOF_2035, curso_nombre: PROG FUNCIONAL Y REACTIVA, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 44
+periodo_academico: 202264, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 49
+periodo_academico: 202264, curso_codigo: EDUC_4118, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, numero_reprobados: 15
+periodo_academico: 202264, curso_codigo: COMP_5004, curso_nombre: PROYEC DE FIN DE CARRER GP4.1, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: ADMI_4035, curso_nombre: PROYECTOS, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: DRBD_4014, curso_nombre: REDES Y SISTEMAS DISTRIBUIDOS, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, numero_reprobados: 60
+periodo_academico: 202264, curso_codigo: ELEC_1018, curso_nombre: ROBOTICA INDUSTRIAL, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: DSOF_5015, curso_nombre: SEGURIDAD DE LA INFORMACION, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: ADMI_5047, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 11
+periodo_academico: 202264, curso_codigo: CONT_5004, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 10
+periodo_academico: 202264, curso_codigo: ECON_5035, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: FDCE_4031, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: TURI_5007, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 2
+periodo_academico: 202264, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, numero_reprobados: 67
+periodo_academico: 202264, curso_codigo: COMP_3011, curso_nombre: SISTEMAS OPERATIVOS, numero_reprobados: 9
+periodo_academico: 202264, curso_codigo: TURI_4013, curso_nombre: SISTEMAS TECNOLOGICOS APLICADO, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, numero_reprobados: 46
+periodo_academico: 202264, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, numero_reprobados: 56
+periodo_academico: 202264, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: FDCE_4038, curso_nombre: TEACHING TECHNIQUES, numero_reprobados: 8
+periodo_academico: 202264, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, numero_reprobados: 38
+periodo_academico: 202264, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, numero_reprobados: 26
+periodo_academico: 202264, curso_codigo: COMP_5023, curso_nombre: TECNOLOGIAS EMERGENTES, numero_reprobados: 3
+periodo_academico: 202264, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, numero_reprobados: 32
+periodo_academico: 202264, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, numero_reprobados: 22
+periodo_academico: 202264, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, numero_reprobados: 43
+periodo_academico: 202264, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_reprobados: 6
+periodo_academico: 202264, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_reprobados: 4
+periodo_academico: 202264, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, numero_reprobados: 16
+periodo_academico: 202264, curso_codigo: TURI_2017, curso_nombre: TRANSPORTACION TURISTICA, numero_reprobados: 5
+periodo_academico: 202264, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, numero_reprobados: 8
+periodo_academico: 202264, curso_codigo: ARQU_1092, curso_nombre: URBANIZACION Y CAMBIO CLIMATIC, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: ADMI_1030, curso_nombre: VALIDACION DE PRODUCTO, numero_reprobados: 1
+periodo_academico: 202264, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, numero_reprobados: 40
+periodo_academico: 202362, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, numero_reprobados: 15
+periodo_academico: 202362, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, numero_reprobados: 8
+periodo_academico: 202362, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, numero_reprobados: 9
+periodo_academico: 202362, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, numero_reprobados: 25
+periodo_academico: 202362, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, numero_reprobados: 122
+periodo_academico: 202362, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, numero_reprobados: 25
+periodo_academico: 202362, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, numero_reprobados: 25
+periodo_academico: 202362, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, numero_reprobados: 34
+periodo_academico: 202362, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_reprobados: 14
+periodo_academico: 202362, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_reprobados: 21
+periodo_academico: 202362, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: ADMI_1009, curso_nombre: ADMINISTRACION I, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, numero_reprobados: 44
+periodo_academico: 202362, curso_codigo: DSOF_2036, curso_nombre: ANALISIS DE ALGORITMOS, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: TURI_4022, curso_nombre: ANALISIS DE MERCADOS TURISTICO, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: TIER_1075, curso_nombre: ANALISIS EXPLORATORIO DE DATOS, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: MATE_1101, curso_nombre: ANALISIS MATEMATICO UNIVARIADO, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: RELI_3002, curso_nombre: ANTROPOLOGIA, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, numero_reprobados: 110
+periodo_academico: 202362, curso_codigo: TURI_1020, curso_nombre: ANTROPOLOGIA CULTURAL Y TURIS, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, numero_reprobados: 9
+periodo_academico: 202362, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: TURI_2014, curso_nombre: AREAS PROTEGIDAS, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: COMP_2010, curso_nombre: ARQ Y ORGANIZACION DE COMP, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: PERI_1110, curso_nombre: ARTE ESCENICO Y EXPRESION ORAL, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, numero_reprobados: 12
+periodo_academico: 202362, curso_codigo: CONT_5002, curso_nombre: AUDITORIA III, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: DRBD_2005, curso_nombre: BASE DE DATOS AVANZADA, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: TURI_3014, curso_nombre: CIUDAD Y TURISMO, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, numero_reprobados: 26
+periodo_academico: 202362, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, numero_reprobados: 32
+periodo_academico: 202362, curso_codigo: CONT_4010, curso_nombre: COMPUTACION APLICADA, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: ECON_4116, curso_nombre: CONSTRUCCION DE INDICADORES, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, numero_reprobados: 15
+periodo_academico: 202362, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, numero_reprobados: 18
+periodo_academico: 202362, curso_codigo: CONT_2032, curso_nombre: CONTABILIDAD DE COSTOS OPERATI, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, numero_reprobados: 22
+periodo_academico: 202362, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, numero_reprobados: 91
+periodo_academico: 202362, curso_codigo: CONT_5006, curso_nombre: CONTABILIDAD GERENCIAL, numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, numero_reprobados: 10
+periodo_academico: 202362, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, numero_reprobados: 37
+periodo_academico: 202362, curso_codigo: TURI_4014, curso_nombre: COSMOVISION ANDINA, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: LITE_4003, curso_nombre: CULTURE AND LITERATURE IN ENGL, numero_reprobados: 10
+periodo_academico: 202362, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, numero_reprobados: 8
+periodo_academico: 202362, curso_codigo: DERE_1181, curso_nombre: DERECHO LABORAL, numero_reprobados: 14
+periodo_academico: 202362, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, numero_reprobados: 20
+periodo_academico: 202362, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, numero_reprobados: 23
+periodo_academico: 202362, curso_codigo: ECON_4002, curso_nombre: DESARROLLO ECONOMICO, numero_reprobados: 10
+periodo_academico: 202362, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, numero_reprobados: 13
+periodo_academico: 202362, curso_codigo: ECON_3047, curso_nombre: DESARROLLO REGIONAL, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, numero_reprobados: 13
+periodo_academico: 202362, curso_codigo: HOTE_5003, curso_nombre: DIRECCION HOTELERA, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: TURI_3016, curso_nombre: DISEÑO DE PRODUCTOS TURISTICOS, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, numero_reprobados: 13
+periodo_academico: 202362, curso_codigo: RELI_1001, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, numero_reprobados: 13
+periodo_academico: 202362, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: ECON_3043, curso_nombre: ECONOMETRIA AVANZADA, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: ECON_2035, curso_nombre: ECONOMIA DE LA EMPRESA Y MERCA, numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: ECON_5076, curso_nombre: ECONOMIA POLITICA, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: ADMI_1127, curso_nombre: ECONOMIA POPULAR Y SOLIDARIA, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: ADMI_5078, curso_nombre: EMPREN CON BASE TECNOLOGICA I, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, numero_reprobados: 91
+periodo_academico: 202362, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, numero_reprobados: 11
+periodo_academico: 202362, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, numero_reprobados: 22
+periodo_academico: 202362, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, numero_reprobados: 9
+periodo_academico: 202362, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, numero_reprobados: 19
+periodo_academico: 202362, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, numero_reprobados: 81
+periodo_academico: 202362, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, numero_reprobados: 14
+periodo_academico: 202362, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, numero_reprobados: 60
+periodo_academico: 202362, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, numero_reprobados: 10
+periodo_academico: 202362, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, numero_reprobados: 129
+periodo_academico: 202362, curso_codigo: ESTA_1044, curso_nombre: ESTADISTICA, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: ESTA_4004, curso_nombre: ESTADISTICA APLICADA A EDUCA, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, numero_reprobados: 21
+periodo_academico: 202362, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, numero_reprobados: 45
+periodo_academico: 202362, curso_codigo: DSOF_2029, curso_nombre: ESTRUCTURAS DE DATOS, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: RELI_3000, curso_nombre: ETICA, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: RELI_1109, curso_nombre: ETICA DE LA INTELIGENCIA ARTIF, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, numero_reprobados: 29
+periodo_academico: 202362, curso_codigo: ADMI_4089, curso_nombre: EVALUACION DE PROYECTOS, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: EDUC_1143, curso_nombre: FAMILIA Y EDUCACION: RETOS Y D, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: CONT_4026, curso_nombre: FIJACION PREC Y ADMIN DE COSTO, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, numero_reprobados: 72
+periodo_academico: 202362, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, numero_reprobados: 29
+periodo_academico: 202362, curso_codigo: FINZ_1026, curso_nombre: FINANZAS I, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: FINZ_1065, curso_nombre: FINANZAS II, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, numero_reprobados: 24
+periodo_academico: 202362, curso_codigo: TURI_3011, curso_nombre: FINANZAS Y PRESUPUESTOS, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: FISI_1039, curso_nombre: FISICA BASICA, numero_reprobados: 28
+periodo_academico: 202362, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: IDIO_3013, curso_nombre: FRANCES I, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: IDIO_3014, curso_nombre: FRANCES II, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: IDIO_4016, curso_nombre: FRANCES III, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: IDIO_5001, curso_nombre: FRANCES IV, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, numero_reprobados: 12
+periodo_academico: 202362, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, numero_reprobados: 14
+periodo_academico: 202362, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, numero_reprobados: 187
+periodo_academico: 202362, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, numero_reprobados: 72
+periodo_academico: 202362, curso_codigo: DRBD_4012, curso_nombre: FUNDAMENTOS DE REDES, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: COMP_1034, curso_nombre: FUNDAMENTOS INFORMATICOS, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, numero_reprobados: 141
+periodo_academico: 202362, curso_codigo: HOTE_1047, curso_nombre: GEOGRAFIA TURISTICA, numero_reprobados: 18
+periodo_academico: 202362, curso_codigo: TIER_1074, curso_nombre: GEOLOGIA DEL SUBSUELO, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: MINE_1005, curso_nombre: GERENCIA DE OPERACIONES MINERA, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: SIST_4000, curso_nombre: GEST DE TECN DE LA INFO, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: TURI_5011, curso_nombre: GESTION DE CADENA DE VALOR Y C, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: ADMI_4015, curso_nombre: GESTION DE LA CALIDAD, numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, numero_reprobados: 19
+periodo_academico: 202362, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, numero_reprobados: 42
+periodo_academico: 202362, curso_codigo: TURI_2011, curso_nombre: GESTION DEL PATRIMONIO CULTU, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: TURI_4017, curso_nombre: GESTION E INNOVACION DE DESTIN, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: TURI_2016, curso_nombre: GUIANZA, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, numero_reprobados: 182
+periodo_academico: 202362, curso_codigo: ECON_1055, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: ECON_1089, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: ECON_1087, curso_nombre: HISTORIA ECONOMICA DEL ECUADOR, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, numero_reprobados: 241
+periodo_academico: 202362, curso_codigo: EDUC_1102, curso_nombre: INCLUSION Y APRENDIZAJE SOSTEN, numero_reprobados: 9
+periodo_academico: 202362, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: DSOF_3039, curso_nombre: INGENIERIA DE REQUISITOS, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: DSOF_5003, curso_nombre: INTE ARTIFICIAL AVANZADO, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, numero_reprobados: 8
+periodo_academico: 202362, curso_codigo: DRBD_1009, curso_nombre: INTELIGENCIA DE NEGOCIOS, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: EDUC_1146, curso_nombre: INTELIGENCIA EMOCIONAL, numero_reprobados: 8
+periodo_academico: 202362, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, numero_reprobados: 21
+periodo_academico: 202362, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, numero_reprobados: 52
+periodo_academico: 202362, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, numero_reprobados: 20
+periodo_academico: 202362, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, numero_reprobados: 25
+periodo_academico: 202362, curso_codigo: FDCE_4011, curso_nombre: LANGUAGE TESTING, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, numero_reprobados: 53
+periodo_academico: 202362, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, numero_reprobados: 28
+periodo_academico: 202362, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, numero_reprobados: 79
+periodo_academico: 202362, curso_codigo: TURI_2013, curso_nombre: LEGISLACION TURISTICA Y AMBIEN, numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: EDUC_1147, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, numero_reprobados: 8
+periodo_academico: 202362, curso_codigo: ADMI_4027, curso_nombre: LOGISTICA EMPRESARIAL, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: ECON_3041, curso_nombre: MACROECONOMIA ABIERTA, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: MERC_1005, curso_nombre: MARKETING, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: MERC_4007, curso_nombre: MARKETING, numero_reprobados: 38
+periodo_academico: 202362, curso_codigo: MERC_4004, curso_nombre: MARKETING TURISTICO, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, numero_reprobados: 93
+periodo_academico: 202362, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, numero_reprobados: 21
+periodo_academico: 202362, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, numero_reprobados: 10
+periodo_academico: 202362, curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: EDUC_3187, curso_nombre: METHO FOR ACADEMIC PURPOSES, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: FDCE_4014, curso_nombre: METHODOLOGY AND DIDACTICS III:, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, numero_reprobados: 17
+periodo_academico: 202362, curso_codigo: ECON_3042, curso_nombre: MICROECONOMIA APLICADA, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, numero_reprobados: 10
+periodo_academico: 202362, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, numero_reprobados: 10
+periodo_academico: 202362, curso_codigo: TURI_2018, curso_nombre: NUEVAS ALTERNATIVAS DE TURISMO, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: TURI_2015, curso_nombre: ORGANIZACION DE EVENTOS Y PROT, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: PIND_5008, curso_nombre: ORGANIZACION INDUSTRIAL, numero_reprobados: 8
+periodo_academico: 202362, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: ADMI_4046, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_reprobados: 10
+periodo_academico: 202362, curso_codigo: CONT_4000, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: FDCE_4023, curso_nombre: PASANTIA PRE-PRO2, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: CONT_3002, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: ADMI_4045, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: CONT_4008, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: TURI_3013, curso_nombre: PATRIMONIO NATURAL Y BIODIVERS, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, numero_reprobados: 14
+periodo_academico: 202362, curso_codigo: DSOF_1074, curso_nombre: PLAN ESTRATEGIC TRANSF DIGITAL, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: TURI_4016, curso_nombre: PLANIFICACION DE DESTINOS TURI, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: ECON_3046, curso_nombre: POLITICA AMBIENTAL, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: ECON_4009, curso_nombre: POLITICA ECONOMICA II, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, numero_reprobados: 27
+periodo_academico: 202362, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, numero_reprobados: 19
+periodo_academico: 202362, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, numero_reprobados: 97
+periodo_academico: 202362, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, numero_reprobados: 18
+periodo_academico: 202362, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, numero_reprobados: 19
+periodo_academico: 202362, curso_codigo: TURI_2010, curso_nombre: PRACTICUM 1, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: COMP_2012, curso_nombre: PRACTICUM 1.2, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, numero_reprobados: 24
+periodo_academico: 202362, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: TURI_3017, curso_nombre: PRACTICUM 2, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: COMP_3014, curso_nombre: PRACTICUM 2.2, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, numero_reprobados: 42
+periodo_academico: 202362, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, numero_reprobados: 11
+periodo_academico: 202362, curso_codigo: TURI_3012, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: COMP_4015, curso_nombre: PRACTICUM 4.1, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, numero_reprobados: 8
+periodo_academico: 202362, curso_codigo: TURI_4020, curso_nombre: PRACTICUM 4.1, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: ECON_4115, curso_nombre: PRACTICUM 4.1:TRABAJO DE INT E, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_reprobados: 14
+periodo_academico: 202362, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_reprobados: 18
+periodo_academico: 202362, curso_codigo: ECON_5074, curso_nombre: PRACTICUM 4.2:TRABAJO DE INTEG, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: FDCE_4027, curso_nombre: PRACTICUM ACADEMICO 2, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, numero_reprobados: 25
+periodo_academico: 202362, curso_codigo: ECON_2033, curso_nombre: PRINCIPIOS DE MACROECONOMIA, numero_reprobados: 10
+periodo_academico: 202362, curso_codigo: HOTE_1045, curso_nombre: PRINCIPIOS DEL TURISMO, numero_reprobados: 14
+periodo_academico: 202362, curso_codigo: DSOF_5001, curso_nombre: PROC DE INGENIERIA DE SOFTWARE, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: DSOF_2034, curso_nombre: PROG ORIENTADA A OBJETOS, numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: COMP_4011, curso_nombre: PROGRAMACION AVANZADA, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: EDUC_3108, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 35
+periodo_academico: 202362, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 44
+periodo_academico: 202362, curso_codigo: EDUC_4118, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, numero_reprobados: 46
+periodo_academico: 202362, curso_codigo: DSOF_3036, curso_nombre: PROTOTIPADO, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: COMP_5009, curso_nombre: PROYEC DE FIN DE CARRER GP4.2, numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: ADMI_4035, curso_nombre: PROYECTOS, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, numero_reprobados: 11
+periodo_academico: 202362, curso_codigo: PERI_1120, curso_nombre: RADIO Y NUEVAS TECNOLOGIAS, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: TURI_3015, curso_nombre: RECURSOS TANGIB E INTANGIB, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, numero_reprobados: 8
+periodo_academico: 202362, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, numero_reprobados: 33
+periodo_academico: 202362, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, numero_reprobados: 2
+periodo_academico: 202362, curso_codigo: ADMI_5047, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: CONT_5004, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: FDCE_4031, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 6
+periodo_academico: 202362, curso_codigo: TURI_5007, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: COMP_5018, curso_nombre: SIST BASADOS EN CONOCIMIENTOS, numero_reprobados: 1
+periodo_academico: 202362, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, numero_reprobados: 38
+periodo_academico: 202362, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, numero_reprobados: 37
+periodo_academico: 202362, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, numero_reprobados: 60
+periodo_academico: 202362, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, numero_reprobados: 7
+periodo_academico: 202362, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, numero_reprobados: 27
+periodo_academico: 202362, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, numero_reprobados: 10
+periodo_academico: 202362, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, numero_reprobados: 55
+periodo_academico: 202362, curso_codigo: COMP_3012, curso_nombre: TEORIA DE AUTOMATAS Y COMPILAD, numero_reprobados: 4
+periodo_academico: 202362, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, numero_reprobados: 9
+periodo_academico: 202362, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, numero_reprobados: 25
+periodo_academico: 202362, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_reprobados: 3
+periodo_academico: 202362, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, numero_reprobados: 9
+periodo_academico: 202362, curso_codigo: TURI_2017, curso_nombre: TRANSPORTACION TURISTICA, numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, numero_reprobados: 5
+periodo_academico: 202362, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, numero_reprobados: 24
+periodo_academico: 202364, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, numero_reprobados: 7
+periodo_academico: 202364, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, numero_reprobados: 6
+periodo_academico: 202364, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, numero_reprobados: 16
+periodo_academico: 202364, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, numero_reprobados: 103
+periodo_academico: 202364, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, numero_reprobados: 26
+periodo_academico: 202364, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, numero_reprobados: 15
+periodo_academico: 202364, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, numero_reprobados: 21
+periodo_academico: 202364, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_reprobados: 8
+periodo_academico: 202364, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_reprobados: 15
+periodo_academico: 202364, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, numero_reprobados: 12
+periodo_academico: 202364, curso_codigo: ECON_4112, curso_nombre: ADMINISTRACION FINANCIERA OPER, numero_reprobados: 10
+periodo_academico: 202364, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, numero_reprobados: 29
+periodo_academico: 202364, curso_codigo: MATE_2029, curso_nombre: ANA MATEMATICO MULTIVARIADO, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: TURI_4022, curso_nombre: ANALISIS DE MERCADOS TURISTICO, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, numero_reprobados: 64
+periodo_academico: 202364, curso_codigo: TURI_1020, curso_nombre: ANTROPOLOGIA CULTURAL Y TURIS, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, numero_reprobados: 8
+periodo_academico: 202364, curso_codigo: TURI_2014, curso_nombre: AREAS PROTEGIDAS, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: DSOF_4069, curso_nombre: ARQUITECTURA DE SOFTWARE, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, numero_reprobados: 8
+periodo_academico: 202364, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, numero_reprobados: 7
+periodo_academico: 202364, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: TURI_3014, curso_nombre: CIUDAD Y TURISMO, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, numero_reprobados: 23
+periodo_academico: 202364, curso_codigo: TURI_4015, curso_nombre: COMPETITIVIDAD DESTINOS TURIST, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, numero_reprobados: 21
+periodo_academico: 202364, curso_codigo: COMP_1078, curso_nombre: COMPUTACION Y SOCIEDAD, numero_reprobados: 6
+periodo_academico: 202364, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, numero_reprobados: 10
+periodo_academico: 202364, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, numero_reprobados: 20
+periodo_academico: 202364, curso_codigo: CONT_2032, curso_nombre: CONTABILIDAD DE COSTOS OPERATI, numero_reprobados: 6
+periodo_academico: 202364, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, numero_reprobados: 7
+periodo_academico: 202364, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, numero_reprobados: 22
+periodo_academico: 202364, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, numero_reprobados: 49
+periodo_academico: 202364, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, numero_reprobados: 7
+periodo_academico: 202364, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, numero_reprobados: 12
+periodo_academico: 202364, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, numero_reprobados: 36
+periodo_academico: 202364, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: DERE_1181, curso_nombre: DERECHO LABORAL, numero_reprobados: 14
+periodo_academico: 202364, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, numero_reprobados: 25
+periodo_academico: 202364, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, numero_reprobados: 17
+periodo_academico: 202364, curso_codigo: ECON_4002, curso_nombre: DESARROLLO ECONOMICO, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, numero_reprobados: 9
+periodo_academico: 202364, curso_codigo: RELI_1001, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: ECON_3043, curso_nombre: ECONOMETRIA AVANZADA, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: ECON_4108, curso_nombre: ECONOMIA AMBIENTAL Y DE REC NA, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: ECON_2035, curso_nombre: ECONOMIA DE LA EMPRESA Y MERCA, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: ECON_5077, curso_nombre: ECONOMIA INTERNACIONAL, numero_reprobados: 8
+periodo_academico: 202364, curso_codigo: MATE_3100, curso_nombre: ECUACIONES DIFER Y MET NUMER, numero_reprobados: 12
+periodo_academico: 202364, curso_codigo: RELI_1110, curso_nombre: EL ARTE DE AMAR, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, numero_reprobados: 92
+periodo_academico: 202364, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, numero_reprobados: 8
+periodo_academico: 202364, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, numero_reprobados: 21
+periodo_academico: 202364, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, numero_reprobados: 10
+periodo_academico: 202364, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, numero_reprobados: 19
+periodo_academico: 202364, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, numero_reprobados: 101
+periodo_academico: 202364, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, numero_reprobados: 18
+periodo_academico: 202364, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, numero_reprobados: 82
+periodo_academico: 202364, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, numero_reprobados: 94
+periodo_academico: 202364, curso_codigo: ESTA_1044, curso_nombre: ESTADISTICA, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: ESTA_4004, curso_nombre: ESTADISTICA APLICADA A EDUCA, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, numero_reprobados: 14
+periodo_academico: 202364, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, numero_reprobados: 30
+periodo_academico: 202364, curso_codigo: ESTA_3022, curso_nombre: ESTADISTICA Y PROBABILIDAD, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: DSOF_2030, curso_nombre: ESTRUCTURAS DISCRETAS, numero_reprobados: 11
+periodo_academico: 202364, curso_codigo: RELI_3000, curso_nombre: ETICA, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: RELI_1109, curso_nombre: ETICA DE LA INTELIGENCIA ARTIF, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, numero_reprobados: 29
+periodo_academico: 202364, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, numero_reprobados: 84
+periodo_academico: 202364, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, numero_reprobados: 19
+periodo_academico: 202364, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, numero_reprobados: 34
+periodo_academico: 202364, curso_codigo: TURI_3011, curso_nombre: FINANZAS Y PRESUPUESTOS, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: ECON_3045, curso_nombre: FORMULACION DE PROYECTOS, numero_reprobados: 11
+periodo_academico: 202364, curso_codigo: IDIO_3013, curso_nombre: FRANCES I, numero_reprobados: 7
+periodo_academico: 202364, curso_codigo: IDIO_3014, curso_nombre: FRANCES II, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: IDIO_4016, curso_nombre: FRANCES III, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: COMP_4012, curso_nombre: FUND DE INTE ARTIFICIAL, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: COMP_1075, curso_nombre: FUNDAMENTOS COMPUTACIONALES, numero_reprobados: 13
+periodo_academico: 202364, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, numero_reprobados: 9
+periodo_academico: 202364, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, numero_reprobados: 15
+periodo_academico: 202364, curso_codigo: DRBD_2004, curso_nombre: FUNDAMENTOS DE BASE DE DATOS, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, numero_reprobados: 191
+periodo_academico: 202364, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, numero_reprobados: 75
+periodo_academico: 202364, curso_codigo: COMP_1034, curso_nombre: FUNDAMENTOS INFORMATICOS, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, numero_reprobados: 133
+periodo_academico: 202364, curso_codigo: HOTE_1047, curso_nombre: GEOGRAFIA TURISTICA, numero_reprobados: 16
+periodo_academico: 202364, curso_codigo: ADMI_4015, curso_nombre: GESTION DE LA CALIDAD, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, numero_reprobados: 15
+periodo_academico: 202364, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, numero_reprobados: 6
+periodo_academico: 202364, curso_codigo: ADMI_5077, curso_nombre: GESTION DE PROYECTOS, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, numero_reprobados: 37
+periodo_academico: 202364, curso_codigo: TURI_2011, curso_nombre: GESTION DEL PATRIMONIO CULTU, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: TURI_4017, curso_nombre: GESTION E INNOVACION DE DESTIN, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: TURI_4018, curso_nombre: GESTION PUBLICA DEL TURISMO, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: TURI_2016, curso_nombre: GUIANZA, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, numero_reprobados: 129
+periodo_academico: 202364, curso_codigo: ECON_1087, curso_nombre: HISTORIA ECONOMICA DEL ECUADOR, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, numero_reprobados: 257
+periodo_academico: 202364, curso_codigo: PERI_3015, curso_nombre: IMAGEN PERSONAL Y CORPORATIVA, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: EDUC_1102, curso_nombre: INCLUSION Y APRENDIZAJE SOSTEN, numero_reprobados: 8
+periodo_academico: 202364, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: DSOF_3037, curso_nombre: INGENIERIA WEB, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: EDUC_1149, curso_nombre: INNOVAR EN LOS FUTUROS DE LA E, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, numero_reprobados: 8
+periodo_academico: 202364, curso_codigo: EDUC_1146, curso_nombre: INTELIGENCIA EMOCIONAL, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, numero_reprobados: 6
+periodo_academico: 202364, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, numero_reprobados: 12
+periodo_academico: 202364, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, numero_reprobados: 49
+periodo_academico: 202364, curso_codigo: DSOF_1067, curso_nombre: INTRODUCCION A LA PROGRAMACION, numero_reprobados: 17
+periodo_academico: 202364, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, numero_reprobados: 13
+periodo_academico: 202364, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, numero_reprobados: 9
+periodo_academico: 202364, curso_codigo: EDUC_2022, curso_nombre: JORN DE INVES LA CREDIBILIDAD, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, numero_reprobados: 14
+periodo_academico: 202364, curso_codigo: FDCE_4011, curso_nombre: LANGUAGE TESTING, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, numero_reprobados: 81
+periodo_academico: 202364, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, numero_reprobados: 19
+periodo_academico: 202364, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, numero_reprobados: 72
+periodo_academico: 202364, curso_codigo: TURI_2013, curso_nombre: LEGISLACION TURISTICA Y AMBIEN, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: EDUC_1147, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, numero_reprobados: 8
+periodo_academico: 202364, curso_codigo: ELEN_2008, curso_nombre: LOGICA DIGITAL, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: ECON_2034, curso_nombre: MACROECONOMIA CERRADA, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, numero_reprobados: 7
+periodo_academico: 202364, curso_codigo: MERC_4007, curso_nombre: MARKETING, numero_reprobados: 28
+periodo_academico: 202364, curso_codigo: MERC_4004, curso_nombre: MARKETING TURISTICO, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, numero_reprobados: 86
+periodo_academico: 202364, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, numero_reprobados: 22
+periodo_academico: 202364, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, numero_reprobados: 7
+periodo_academico: 202364, curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: EDUC_3187, curso_nombre: METHO FOR ACADEMIC PURPOSES, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: FDCE_4014, curso_nombre: METHODOLOGY AND DIDACTICS III:, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, numero_reprobados: 9
+periodo_academico: 202364, curso_codigo: ECON_3042, curso_nombre: MICROECONOMIA APLICADA, numero_reprobados: 7
+periodo_academico: 202364, curso_codigo: ECON_3040, curso_nombre: MODELOS ECONOMETRICOS, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, numero_reprobados: 9
+periodo_academico: 202364, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, numero_reprobados: 11
+periodo_academico: 202364, curso_codigo: TURI_2018, curso_nombre: NUEVAS ALTERNATIVAS DE TURISMO, numero_reprobados: 6
+periodo_academico: 202364, curso_codigo: TURI_2015, curso_nombre: ORGANIZACION DE EVENTOS Y PROT, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: PIND_5008, curso_nombre: ORGANIZACION INDUSTRIAL, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: ADMI_4046, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_reprobados: 10
+periodo_academico: 202364, curso_codigo: FDCE_4023, curso_nombre: PASANTIA PRE-PRO2, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: TURI_3013, curso_nombre: PATRIMONIO NATURAL Y BIODIVERS, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, numero_reprobados: 15
+periodo_academico: 202364, curso_codigo: ECON_3046, curso_nombre: POLITICA AMBIENTAL, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: ECON_3044, curso_nombre: POLITICA ECONOMICA, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, numero_reprobados: 25
+periodo_academico: 202364, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, numero_reprobados: 25
+periodo_academico: 202364, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, numero_reprobados: 83
+periodo_academico: 202364, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, numero_reprobados: 22
+periodo_academico: 202364, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, numero_reprobados: 20
+periodo_academico: 202364, curso_codigo: TURI_2010, curso_nombre: PRACTICUM 1, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: COMP_2011, curso_nombre: PRACTICUM 1.1, numero_reprobados: 6
+periodo_academico: 202364, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, numero_reprobados: 44
+periodo_academico: 202364, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, numero_reprobados: 20
+periodo_academico: 202364, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, numero_reprobados: 18
+periodo_academico: 202364, curso_codigo: TURI_3017, curso_nombre: PRACTICUM 2, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: COMP_3019, curso_nombre: PRACTICUM 2.1, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, numero_reprobados: 50
+periodo_academico: 202364, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, numero_reprobados: 8
+periodo_academico: 202364, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, numero_reprobados: 27
+periodo_academico: 202364, curso_codigo: TURI_3012, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: TURI_4020, curso_nombre: PRACTICUM 4.1, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_reprobados: 7
+periodo_academico: 202364, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_reprobados: 10
+periodo_academico: 202364, curso_codigo: ECON_4115, curso_nombre: PRACTICUM 4.1:TRABAJO DE INT E, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: COMP_5022, curso_nombre: PRACTICUM 4.2, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: TURI_5010, curso_nombre: PRACTICUM 4.2, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_reprobados: 6
+periodo_academico: 202364, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_reprobados: 15
+periodo_academico: 202364, curso_codigo: FDCE_4027, curso_nombre: PRACTICUM ACADEMICO 2, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, numero_reprobados: 20
+periodo_academico: 202364, curso_codigo: ECON_2032, curso_nombre: PRINCIPIOS DE MICROECONOMIA, numero_reprobados: 13
+periodo_academico: 202364, curso_codigo: HOTE_1045, curso_nombre: PRINCIPIOS DEL TURISMO, numero_reprobados: 16
+periodo_academico: 202364, curso_codigo: DSOF_2035, curso_nombre: PROG FUNCIONAL Y REACTIVA, numero_reprobados: 9
+periodo_academico: 202364, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 49
+periodo_academico: 202364, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 57
+periodo_academico: 202364, curso_codigo: EDUC_4118, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 7
+periodo_academico: 202364, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, numero_reprobados: 6
+periodo_academico: 202364, curso_codigo: COMP_5004, curso_nombre: PROYEC DE FIN DE CARRER GP4.1, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, numero_reprobados: 10
+periodo_academico: 202364, curso_codigo: PERI_1120, curso_nombre: RADIO Y NUEVAS TECNOLOGIAS, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: DRBD_4014, curso_nombre: REDES Y SISTEMAS DISTRIBUIDOS, numero_reprobados: 4
+periodo_academico: 202364, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, numero_reprobados: 33
+periodo_academico: 202364, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: ADMI_5047, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 8
+periodo_academico: 202364, curso_codigo: CONT_5004, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 6
+periodo_academico: 202364, curso_codigo: FDCE_4031, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, numero_reprobados: 29
+periodo_academico: 202364, curso_codigo: COMP_3011, curso_nombre: SISTEMAS OPERATIVOS, numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: TURI_4013, curso_nombre: SISTEMAS TECNOLOGICOS APLICADO, numero_reprobados: 3
+periodo_academico: 202364, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, numero_reprobados: 25
+periodo_academico: 202364, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, numero_reprobados: 39
+periodo_academico: 202364, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, numero_reprobados: 14
+periodo_academico: 202364, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, numero_reprobados: 15
+periodo_academico: 202364, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, numero_reprobados: 17
+periodo_academico: 202364, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, numero_reprobados: 11
+periodo_academico: 202364, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, numero_reprobados: 27
+periodo_academico: 202364, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_reprobados: 5
+periodo_academico: 202364, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_reprobados: 2
+periodo_academico: 202364, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, numero_reprobados: 8
+periodo_academico: 202364, curso_codigo: TURI_2017, curso_nombre: TRANSPORTACION TURISTICA, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, numero_reprobados: 1
+periodo_academico: 202364, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, numero_reprobados: 8
+periodo_academico: 202462, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, numero_reprobados: 9
+periodo_academico: 202462, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, numero_reprobados: 12
+periodo_academico: 202462, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, numero_reprobados: 6
+periodo_academico: 202462, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, numero_reprobados: 20
+periodo_academico: 202462, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, numero_reprobados: 84
+periodo_academico: 202462, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, numero_reprobados: 18
+periodo_academico: 202462, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, numero_reprobados: 15
+periodo_academico: 202462, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, numero_reprobados: 9
+periodo_academico: 202462, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, numero_reprobados: 26
+periodo_academico: 202462, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_reprobados: 15
+periodo_academico: 202462, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, numero_reprobados: 6
+periodo_academico: 202462, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, numero_reprobados: 63
+periodo_academico: 202462, curso_codigo: DSOF_1070, curso_nombre: ALGORITMOS Y RESOLUCION DE PRO, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: DSOF_2036, curso_nombre: ANALISIS DE ALGORITMOS, numero_reprobados: 4
+periodo_academico: 202462, curso_codigo: TURI_4022, curso_nombre: ANALISIS DE MERCADOS TURISTICO, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: MATE_1101, curso_nombre: ANALISIS MATEMATICO UNIVARIADO, numero_reprobados: 9
+periodo_academico: 202462, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, numero_reprobados: 71
+periodo_academico: 202462, curso_codigo: TURI_1020, curso_nombre: ANTROPOLOGIA CULTURAL Y TURIS, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, numero_reprobados: 10
+periodo_academico: 202462, curso_codigo: TURI_2014, curso_nombre: AREAS PROTEGIDAS, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: COMP_2010, curso_nombre: ARQ Y ORGANIZACION DE COMP, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, numero_reprobados: 8
+periodo_academico: 202462, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: DRBD_2005, curso_nombre: BASE DE DATOS AVANZADA, numero_reprobados: 6
+periodo_academico: 202462, curso_codigo: MATE_1114, curso_nombre: CALCULO DIFERENCIAL, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: TURI_3014, curso_nombre: CIUDAD Y TURISMO, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, numero_reprobados: 19
+periodo_academico: 202462, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, numero_reprobados: 24
+periodo_academico: 202462, curso_codigo: LITE_1108, curso_nombre: COMPOSICION DE TEXTOS CIENTIFI, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, numero_reprobados: 12
+periodo_academico: 202462, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, numero_reprobados: 14
+periodo_academico: 202462, curso_codigo: CONT_2032, curso_nombre: CONTABILIDAD DE COSTOS OPERATI, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, numero_reprobados: 9
+periodo_academico: 202462, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, numero_reprobados: 23
+periodo_academico: 202462, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, numero_reprobados: 44
+periodo_academico: 202462, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, numero_reprobados: 10
+periodo_academico: 202462, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, numero_reprobados: 29
+periodo_academico: 202462, curso_codigo: TURI_4014, curso_nombre: COSMOVISION ANDINA, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: DERE_1181, curso_nombre: DERECHO LABORAL, numero_reprobados: 15
+periodo_academico: 202462, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, numero_reprobados: 28
+periodo_academico: 202462, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, numero_reprobados: 19
+periodo_academico: 202462, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, numero_reprobados: 12
+periodo_academico: 202462, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: TURI_3016, curso_nombre: DISEÑO DE PRODUCTOS TURISTICOS, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, numero_reprobados: 11
+periodo_academico: 202462, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, numero_reprobados: 4
+periodo_academico: 202462, curso_codigo: ECON_3043, curso_nombre: ECONOMETRIA AVANZADA, numero_reprobados: 7
+periodo_academico: 202462, curso_codigo: ECON_3039, curso_nombre: ECONOMETRIA BASICA, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: ECON_5077, curso_nombre: ECONOMIA INTERNACIONAL, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: ECON_5076, curso_nombre: ECONOMIA POLITICA, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: RELI_1110, curso_nombre: EL ARTE DE AMAR, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: ADMI_5078, curso_nombre: EMPREN CON BASE TECNOLOGICA I, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, numero_reprobados: 79
+periodo_academico: 202462, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, numero_reprobados: 13
+periodo_academico: 202462, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, numero_reprobados: 16
+periodo_academico: 202462, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, numero_reprobados: 9
+periodo_academico: 202462, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, numero_reprobados: 26
+periodo_academico: 202462, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, numero_reprobados: 73
+periodo_academico: 202462, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, numero_reprobados: 23
+periodo_academico: 202462, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, numero_reprobados: 46
+periodo_academico: 202462, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, numero_reprobados: 8
+periodo_academico: 202462, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, numero_reprobados: 55
+periodo_academico: 202462, curso_codigo: ESTA_1044, curso_nombre: ESTADISTICA, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, numero_reprobados: 16
+periodo_academico: 202462, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, numero_reprobados: 37
+periodo_academico: 202462, curso_codigo: ESTA_2029, curso_nombre: ESTADISTICA PARA LAS ING Y ARQ, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: DSOF_2029, curso_nombre: ESTRUCTURAS DE DATOS, numero_reprobados: 12
+periodo_academico: 202462, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, numero_reprobados: 39
+periodo_academico: 202462, curso_codigo: CONT_4026, curso_nombre: FIJACION PREC Y ADMIN DE COSTO, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, numero_reprobados: 53
+periodo_academico: 202462, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, numero_reprobados: 35
+periodo_academico: 202462, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, numero_reprobados: 36
+periodo_academico: 202462, curso_codigo: TURI_3011, curso_nombre: FINANZAS Y PRESUPUESTOS, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: FISI_1039, curso_nombre: FISICA BASICA, numero_reprobados: 34
+periodo_academico: 202462, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, numero_reprobados: 6
+periodo_academico: 202462, curso_codigo: ECON_3045, curso_nombre: FORMULACION DE PROYECTOS, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: ADMI_4121, curso_nombre: FORMULACION Y EVALUACION DE PR, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: IDIO_3013, curso_nombre: FRANCES I, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: IDIO_3014, curso_nombre: FRANCES II, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: IDIO_4016, curso_nombre: FRANCES III, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, numero_reprobados: 18
+periodo_academico: 202462, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, numero_reprobados: 10
+periodo_academico: 202462, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, numero_reprobados: 157
+periodo_academico: 202462, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, numero_reprobados: 48
+periodo_academico: 202462, curso_codigo: DSOF_1073, curso_nombre: FUNDAMENTOS DE PROGRAMACION, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: DRBD_4012, curso_nombre: FUNDAMENTOS DE REDES, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, numero_reprobados: 90
+periodo_academico: 202462, curso_codigo: HOTE_1047, curso_nombre: GEOGRAFIA TURISTICA, numero_reprobados: 9
+periodo_academico: 202462, curso_codigo: DSOF_3035, curso_nombre: GEST DE LA CALIDAD DE SOFTWARE, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: TURI_5011, curso_nombre: GESTION DE CADENA DE VALOR Y C, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, numero_reprobados: 17
+periodo_academico: 202462, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, numero_reprobados: 10
+periodo_academico: 202462, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, numero_reprobados: 33
+periodo_academico: 202462, curso_codigo: TURI_2011, curso_nombre: GESTION DEL PATRIMONIO CULTU, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: TURI_4017, curso_nombre: GESTION E INNOVACION DE DESTIN, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, numero_reprobados: 10
+periodo_academico: 202462, curso_codigo: TURI_4018, curso_nombre: GESTION PUBLICA DEL TURISMO, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, numero_reprobados: 113
+periodo_academico: 202462, curso_codigo: ECON_1089, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, numero_reprobados: 165
+periodo_academico: 202462, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, numero_reprobados: 10
+periodo_academico: 202462, curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, numero_reprobados: 9
+periodo_academico: 202462, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, numero_reprobados: 34
+periodo_academico: 202462, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, numero_reprobados: 7
+periodo_academico: 202462, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, numero_reprobados: 21
+periodo_academico: 202462, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, numero_reprobados: 18
+periodo_academico: 202462, curso_codigo: EDUC_4160, curso_nombre: JORNADA DE INVEST Y FORMA ESP, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, numero_reprobados: 10
+periodo_academico: 202462, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, numero_reprobados: 59
+periodo_academico: 202462, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, numero_reprobados: 22
+periodo_academico: 202462, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, numero_reprobados: 43
+periodo_academico: 202462, curso_codigo: TURI_2013, curso_nombre: LEGISLACION TURISTICA Y AMBIEN, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: ECON_3041, curso_nombre: MACROECONOMIA ABIERTA, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: ECON_2034, curso_nombre: MACROECONOMIA CERRADA, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: MERC_4007, curso_nombre: MARKETING, numero_reprobados: 24
+periodo_academico: 202462, curso_codigo: MERC_4004, curso_nombre: MARKETING TURISTICO, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, numero_reprobados: 49
+periodo_academico: 202462, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, numero_reprobados: 30
+periodo_academico: 202462, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, numero_reprobados: 4
+periodo_academico: 202462, curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, numero_reprobados: 22
+periodo_academico: 202462, curso_codigo: ECON_3040, curso_nombre: MODELOS ECONOMETRICOS, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, numero_reprobados: 8
+periodo_academico: 202462, curso_codigo: TURI_4021, curso_nombre: NEURO MARKT Y TEORIAS DE INFOR, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, numero_reprobados: 15
+periodo_academico: 202462, curso_codigo: TURI_2018, curso_nombre: NUEVAS ALTERNATIVAS DE TURISMO, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: TURI_2015, curso_nombre: ORGANIZACION DE EVENTOS Y PROT, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_reprobados: 14
+periodo_academico: 202462, curso_codigo: TURI_3013, curso_nombre: PATRIMONIO NATURAL Y BIODIVERS, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, numero_reprobados: 8
+periodo_academico: 202462, curso_codigo: TURI_4016, curso_nombre: PLANIFICACION DE DESTINOS TURI, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: DSOF_4071, curso_nombre: PLATAFORMAS PARA JUEGOS, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: DSOF_3038, curso_nombre: PLATAFORMAS WEB, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: ECON_3046, curso_nombre: POLITICA AMBIENTAL, numero_reprobados: 6
+periodo_academico: 202462, curso_codigo: ECON_3044, curso_nombre: POLITICA ECONOMICA, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, numero_reprobados: 19
+periodo_academico: 202462, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, numero_reprobados: 21
+periodo_academico: 202462, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, numero_reprobados: 73
+periodo_academico: 202462, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, numero_reprobados: 30
+periodo_academico: 202462, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, numero_reprobados: 36
+periodo_academico: 202462, curso_codigo: TURI_2010, curso_nombre: PRACTICUM 1, numero_reprobados: 4
+periodo_academico: 202462, curso_codigo: COMP_2012, curso_nombre: PRACTICUM 1.2, numero_reprobados: 4
+periodo_academico: 202462, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, numero_reprobados: 27
+periodo_academico: 202462, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, numero_reprobados: 4
+periodo_academico: 202462, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, numero_reprobados: 8
+periodo_academico: 202462, curso_codigo: TURI_3017, curso_nombre: PRACTICUM 2, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: COMP_3014, curso_nombre: PRACTICUM 2.2, numero_reprobados: 4
+periodo_academico: 202462, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, numero_reprobados: 40
+periodo_academico: 202462, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, numero_reprobados: 9
+periodo_academico: 202462, curso_codigo: ECON_3054, curso_nombre: PRACTICUM 3 SERVICIO COMUN, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, numero_reprobados: 21
+periodo_academico: 202462, curso_codigo: TURI_3012, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: COMP_4015, curso_nombre: PRACTICUM 4.1, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: TURI_4020, curso_nombre: PRACTICUM 4.1, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_reprobados: 9
+periodo_academico: 202462, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_reprobados: 11
+periodo_academico: 202462, curso_codigo: ECON_4115, curso_nombre: PRACTICUM 4.1:TRABAJO DE INT E, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, numero_reprobados: 8
+periodo_academico: 202462, curso_codigo: TURI_5010, curso_nombre: PRACTICUM 4.2, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_reprobados: 17
+periodo_academico: 202462, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_reprobados: 49
+periodo_academico: 202462, curso_codigo: ECON_5074, curso_nombre: PRACTICUM 4.2:TRABAJO DE INTEG, numero_reprobados: 4
+periodo_academico: 202462, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, numero_reprobados: 22
+periodo_academico: 202462, curso_codigo: ECON_2033, curso_nombre: PRINCIPIOS DE MACROECONOMIA, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: HOTE_1045, curso_nombre: PRINCIPIOS DEL TURISMO, numero_reprobados: 8
+periodo_academico: 202462, curso_codigo: DSOF_5001, curso_nombre: PROC DE INGENIERIA DE SOFTWARE, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: DSOF_2034, curso_nombre: PROG ORIENTADA A OBJETOS, numero_reprobados: 24
+periodo_academico: 202462, curso_codigo: COMP_4011, curso_nombre: PROGRAMACION AVANZADA, numero_reprobados: 7
+periodo_academico: 202462, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 46
+periodo_academico: 202462, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 49
+periodo_academico: 202462, curso_codigo: EDUC_4118, curso_nombre: PROPUESTA DE INVESTIGACION, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, numero_reprobados: 31
+periodo_academico: 202462, curso_codigo: DSOF_3036, curso_nombre: PROTOTIPADO, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, numero_reprobados: 9
+periodo_academico: 202462, curso_codigo: TURI_3015, curso_nombre: RECURSOS TANGIB E INTANGIB, numero_reprobados: 2
+periodo_academico: 202462, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: COMP_4014, curso_nombre: REPRESENT AVAN CONOCI Y RAZON, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, numero_reprobados: 8
+periodo_academico: 202462, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, numero_reprobados: 25
+periodo_academico: 202462, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, numero_reprobados: 6
+periodo_academico: 202462, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: ADMI_5047, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 10
+periodo_academico: 202462, curso_codigo: FDCE_4031, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, numero_reprobados: 31
+periodo_academico: 202462, curso_codigo: TURI_4013, curso_nombre: SISTEMAS TECNOLOGICOS APLICADO, numero_reprobados: 4
+periodo_academico: 202462, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, numero_reprobados: 23
+periodo_academico: 202462, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, numero_reprobados: 26
+periodo_academico: 202462, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, numero_reprobados: 6
+periodo_academico: 202462, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, numero_reprobados: 10
+periodo_academico: 202462, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, numero_reprobados: 16
+periodo_academico: 202462, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, numero_reprobados: 18
+periodo_academico: 202462, curso_codigo: COMP_3012, curso_nombre: TEORIA DE AUTOMATAS Y COMPILAD, numero_reprobados: 6
+periodo_academico: 202462, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, numero_reprobados: 14
+periodo_academico: 202462, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, numero_reprobados: 26
+periodo_academico: 202462, curso_codigo: ECON_5075, curso_nombre: TEORIAS DEL DESARROLLO, numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_reprobados: 3
+periodo_academico: 202462, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, numero_reprobados: 5
+periodo_academico: 202462, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, numero_reprobados: 1
+periodo_academico: 202462, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, numero_reprobados: 7

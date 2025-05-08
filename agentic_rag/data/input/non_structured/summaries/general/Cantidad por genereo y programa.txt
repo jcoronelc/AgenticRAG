@@ -1,0 +1,12 @@
+programa_nombre: ADMINISTRACION DE EMPRESAS, genero: hombre, cantidad_estudiantes: 2400
+programa_nombre: ADMINISTRACION DE EMPRESAS, genero: mujer, cantidad_estudiantes: 2334
+programa_nombre: COMPUTACION, genero: hombre, cantidad_estudiantes: 202
+programa_nombre: COMPUTACION, genero: mujer, cantidad_estudiantes: 217
+programa_nombre: CONTABILIDAD Y AUDITORIA, genero: hombre, cantidad_estudiantes: 1804
+programa_nombre: CONTABILIDAD Y AUDITORIA, genero: mujer, cantidad_estudiantes: 1756
+programa_nombre: ECONOMIA, genero: hombre, cantidad_estudiantes: 103
+programa_nombre: ECONOMIA, genero: mujer, cantidad_estudiantes: 95
+programa_nombre: PED. IDIOMA NACIONALES Y EXTR, genero: hombre, cantidad_estudiantes: 1202
+programa_nombre: PED. IDIOMA NACIONALES Y EXTR, genero: mujer, cantidad_estudiantes: 1141
+programa_nombre: TURISMO, genero: hombre, cantidad_estudiantes: 240
+programa_nombre: TURISMO, genero: mujer, cantidad_estudiantes: 238

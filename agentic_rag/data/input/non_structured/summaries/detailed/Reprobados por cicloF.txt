@@ -1,0 +1,4 @@
+En el periodo académico '202264', el total de estudiantes reprobados es de 2233.
+En el periodo académico '202362', el total de estudiantes reprobados es de 1736.
+En el periodo académico '202364', el total de estudiantes reprobados es de 1481.
+En el periodo académico '202462', el total de estudiantes reprobados es de 1367.

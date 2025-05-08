@@ -1,0 +1,4 @@
+periodo_academico: 202264, total_reprobados: 2233
+periodo_academico: 202362, total_reprobados: 1736
+periodo_academico: 202364, total_reprobados: 1481
+periodo_academico: 202462, total_reprobados: 1367

@@ -1,0 +1,48 @@
+En el periodo académico '202264', el programa 'ADMINISTRACION DE EMPRESAS' tiene un total de 1563 estudiantes del género hombre.
+En el periodo académico '202264', el programa 'ADMINISTRACION DE EMPRESAS' tiene un total de 1479 estudiantes del género mujer.
+En el periodo académico '202264', el programa 'COMPUTACION' tiene un total de 129 estudiantes del género hombre.
+En el periodo académico '202264', el programa 'COMPUTACION' tiene un total de 151 estudiantes del género mujer.
+En el periodo académico '202264', el programa 'CONTABILIDAD Y AUDITORIA' tiene un total de 1153 estudiantes del género hombre.
+En el periodo académico '202264', el programa 'CONTABILIDAD Y AUDITORIA' tiene un total de 1095 estudiantes del género mujer.
+En el periodo académico '202264', el programa 'ECONOMIA' tiene un total de 76 estudiantes del género hombre.
+En el periodo académico '202264', el programa 'ECONOMIA' tiene un total de 69 estudiantes del género mujer.
+En el periodo académico '202264', el programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un total de 698 estudiantes del género hombre.
+En el periodo académico '202264', el programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un total de 631 estudiantes del género mujer.
+En el periodo académico '202264', el programa 'TURISMO' tiene un total de 150 estudiantes del género hombre.
+En el periodo académico '202264', el programa 'TURISMO' tiene un total de 141 estudiantes del género mujer.
+En el periodo académico '202362', el programa 'ADMINISTRACION DE EMPRESAS' tiene un total de 1571 estudiantes del género hombre.
+En el periodo académico '202362', el programa 'ADMINISTRACION DE EMPRESAS' tiene un total de 1516 estudiantes del género mujer.
+En el periodo académico '202362', el programa 'COMPUTACION' tiene un total de 117 estudiantes del género hombre.
+En el periodo académico '202362', el programa 'COMPUTACION' tiene un total de 136 estudiantes del género mujer.
+En el periodo académico '202362', el programa 'CONTABILIDAD Y AUDITORIA' tiene un total de 1161 estudiantes del género hombre.
+En el periodo académico '202362', el programa 'CONTABILIDAD Y AUDITORIA' tiene un total de 1125 estudiantes del género mujer.
+En el periodo académico '202362', el programa 'ECONOMIA' tiene un total de 75 estudiantes del género hombre.
+En el periodo académico '202362', el programa 'ECONOMIA' tiene un total de 68 estudiantes del género mujer.
+En el periodo académico '202362', el programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un total de 715 estudiantes del género hombre.
+En el periodo académico '202362', el programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un total de 664 estudiantes del género mujer.
+En el periodo académico '202362', el programa 'TURISMO' tiene un total de 149 estudiantes del género hombre.
+En el periodo académico '202362', el programa 'TURISMO' tiene un total de 136 estudiantes del género mujer.
+En el periodo académico '202364', el programa 'ADMINISTRACION DE EMPRESAS' tiene un total de 1583 estudiantes del género hombre.
+En el periodo académico '202364', el programa 'ADMINISTRACION DE EMPRESAS' tiene un total de 1552 estudiantes del género mujer.
+En el periodo académico '202364', el programa 'COMPUTACION' tiene un total de 176 estudiantes del género hombre.
+En el periodo académico '202364', el programa 'COMPUTACION' tiene un total de 186 estudiantes del género mujer.
+En el periodo académico '202364', el programa 'CONTABILIDAD Y AUDITORIA' tiene un total de 1172 estudiantes del género hombre.
+En el periodo académico '202364', el programa 'CONTABILIDAD Y AUDITORIA' tiene un total de 1074 estudiantes del género mujer.
+En el periodo académico '202364', el programa 'ECONOMIA' tiene un total de 91 estudiantes del género hombre.
+En el periodo académico '202364', el programa 'ECONOMIA' tiene un total de 83 estudiantes del género mujer.
+En el periodo académico '202364', el programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un total de 771 estudiantes del género hombre.
+En el periodo académico '202364', el programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un total de 715 estudiantes del género mujer.
+En el periodo académico '202364', el programa 'TURISMO' tiene un total de 149 estudiantes del género hombre.
+En el periodo académico '202364', el programa 'TURISMO' tiene un total de 131 estudiantes del género mujer.
+En el periodo académico '202462', el programa 'ADMINISTRACION DE EMPRESAS' tiene un total de 1514 estudiantes del género hombre.
+En el periodo académico '202462', el programa 'ADMINISTRACION DE EMPRESAS' tiene un total de 1449 estudiantes del género mujer.
+En el periodo académico '202462', el programa 'COMPUTACION' tiene un total de 162 estudiantes del género hombre.
+En el periodo académico '202462', el programa 'COMPUTACION' tiene un total de 164 estudiantes del género mujer.
+En el periodo académico '202462', el programa 'CONTABILIDAD Y AUDITORIA' tiene un total de 1058 estudiantes del género hombre.
+En el periodo académico '202462', el programa 'CONTABILIDAD Y AUDITORIA' tiene un total de 1031 estudiantes del género mujer.
+En el periodo académico '202462', el programa 'ECONOMIA' tiene un total de 81 estudiantes del género hombre.
+En el periodo académico '202462', el programa 'ECONOMIA' tiene un total de 76 estudiantes del género mujer.
+En el periodo académico '202462', el programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un total de 758 estudiantes del género hombre.
+En el periodo académico '202462', el programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un total de 689 estudiantes del género mujer.
+En el periodo académico '202462', el programa 'TURISMO' tiene un total de 120 estudiantes del género hombre.
+En el periodo académico '202462', el programa 'TURISMO' tiene un total de 112 estudiantes del género mujer.

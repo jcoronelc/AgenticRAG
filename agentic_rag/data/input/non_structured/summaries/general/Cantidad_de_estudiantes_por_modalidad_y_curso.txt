@@ -1,0 +1,605 @@
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, cantidad_estudiantes: 398
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, cantidad_estudiantes: 418
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, cantidad_estudiantes: 361
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, cantidad_estudiantes: 986
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1026, curso_nombre: ADMINISTRACION, cantidad_estudiantes: 7
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, cantidad_estudiantes: 1659
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, cantidad_estudiantes: 1014
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, cantidad_estudiantes: 888
+programa_modalidad_nombre: DISTANCIA, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, cantidad_estudiantes: 201
+programa_modalidad_nombre: DISTANCIA, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, cantidad_estudiantes: 1158
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, cantidad_estudiantes: 258
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, cantidad_estudiantes: 874
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, cantidad_estudiantes: 679
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, cantidad_estudiantes: 2128
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4022, curso_nombre: ANALISIS DE MERCADOS TURISTICO, cantidad_estudiantes: 88
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_3002, curso_nombre: ANTROPOLOGIA, cantidad_estudiantes: 49
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, cantidad_estudiantes: 2762
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_1020, curso_nombre: ANTROPOLOGIA CULTURAL Y TURIS, cantidad_estudiantes: 107
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, cantidad_estudiantes: 356
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, cantidad_estudiantes: 722
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2014, curso_nombre: AREAS PROTEGIDAS, cantidad_estudiantes: 75
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, cantidad_estudiantes: 219
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, cantidad_estudiantes: 569
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, cantidad_estudiantes: 710
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4006, curso_nombre: AUDITORIA I, cantidad_estudiantes: 7
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_1015, curso_nombre: AUDITORIA II, cantidad_estudiantes: 21
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5002, curso_nombre: AUDITORIA III, cantidad_estudiantes: 102
+programa_modalidad_nombre: DISTANCIA, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, cantidad_estudiantes: 162
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1091, curso_nombre: CALCULO, cantidad_estudiantes: 8
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3014, curso_nombre: CIUDAD Y TURISMO, cantidad_estudiantes: 61
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, cantidad_estudiantes: 109
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, cantidad_estudiantes: 732
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4015, curso_nombre: COMPETITIVIDAD DESTINOS TURIST, cantidad_estudiantes: 28
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, cantidad_estudiantes: 1097
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COMP_1000, curso_nombre: COMPUTACION, cantidad_estudiantes: 1
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4010, curso_nombre: COMPUTACION APLICADA, cantidad_estudiantes: 20
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, cantidad_estudiantes: 843
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2015, curso_nombre: CONTABILIDAD BANCARIA, cantidad_estudiantes: 7
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, cantidad_estudiantes: 550
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, cantidad_estudiantes: 666
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2032, curso_nombre: CONTABILIDAD DE COSTOS OPERATI, cantidad_estudiantes: 82
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, cantidad_estudiantes: 573
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, cantidad_estudiantes: 848
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, cantidad_estudiantes: 1020
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5006, curso_nombre: CONTABILIDAD GERENCIAL, cantidad_estudiantes: 129
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, cantidad_estudiantes: 442
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, cantidad_estudiantes: 756
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3017, curso_nombre: CONTABILIDAD GUBERNAMENTAL, cantidad_estudiantes: 7
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, cantidad_estudiantes: 218
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, cantidad_estudiantes: 818
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4014, curso_nombre: COSMOVISION ANDINA, cantidad_estudiantes: 39
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4029, curso_nombre: COSTOS RELEV PARA TOMA DECISIO, cantidad_estudiantes: 141
+programa_modalidad_nombre: DISTANCIA, curso_codigo: LITE_4003, curso_nombre: CULTURE AND LITERATURE IN ENGL, cantidad_estudiantes: 58
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, cantidad_estudiantes: 69
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, cantidad_estudiantes: 152
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4001, curso_nombre: CURRICULUM AND MATERIALS, cantidad_estudiantes: 8
+programa_modalidad_nombre: DISTANCIA, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, cantidad_estudiantes: 59
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_1181, curso_nombre: DERECHO LABORAL, cantidad_estudiantes: 826
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, cantidad_estudiantes: 884
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, cantidad_estudiantes: 1027
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_4002, curso_nombre: DESARROLLO ECONOMICO, cantidad_estudiantes: 107
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, cantidad_estudiantes: 343
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1043, curso_nombre: DESARROLLO EMPRESARIAL, cantidad_estudiantes: 1
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5000, curso_nombre: DESARROLLO TRAB PRACTICUM 4, cantidad_estudiantes: 57
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, cantidad_estudiantes: 733
+programa_modalidad_nombre: DISTANCIA, curso_codigo: HOTE_5003, curso_nombre: DIRECCION HOTELERA, cantidad_estudiantes: 12
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, cantidad_estudiantes: 204
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3016, curso_nombre: DISEÑO DE PRODUCTOS TURISTICOS, cantidad_estudiantes: 82
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, cantidad_estudiantes: 344
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4167, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, cantidad_estudiantes: 2
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_1001, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, cantidad_estudiantes: 293
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, cantidad_estudiantes: 376
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1127, curso_nombre: ECONOMIA POPULAR Y SOLIDARIA, cantidad_estudiantes: 91
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDSE_4007, curso_nombre: EDUCATIONAL RESEARCH I, cantidad_estudiantes: 13
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_1110, curso_nombre: EL ARTE DE AMAR, cantidad_estudiantes: 67
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, cantidad_estudiantes: 2253
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, cantidad_estudiantes: 392
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, cantidad_estudiantes: 428
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, cantidad_estudiantes: 432
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, cantidad_estudiantes: 421
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, cantidad_estudiantes: 516
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, cantidad_estudiantes: 947
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, cantidad_estudiantes: 516
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, cantidad_estudiantes: 922
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, cantidad_estudiantes: 390
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, cantidad_estudiantes: 286
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, cantidad_estudiantes: 1529
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_1044, curso_nombre: ESTADISTICA, cantidad_estudiantes: 84
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_4004, curso_nombre: ESTADISTICA APLICADA A EDUCA, cantidad_estudiantes: 44
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, cantidad_estudiantes: 522
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, cantidad_estudiantes: 1903
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_1012, curso_nombre: ESTADISTICA II, cantidad_estudiantes: 1
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_3000, curso_nombre: ETICA, cantidad_estudiantes: 129
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_1109, curso_nombre: ETICA DE LA INTELIGENCIA ARTIF, cantidad_estudiantes: 83
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, cantidad_estudiantes: 2020
+programa_modalidad_nombre: DISTANCIA, curso_codigo: UTPL_500, curso_nombre: EXAMEN COMPLEXIVO CON CURSO, cantidad_estudiantes: 29
+programa_modalidad_nombre: DISTANCIA, curso_codigo: UTPL_600, curso_nombre: EXAMEN COMPLEXIVO SIN CURSO, cantidad_estudiantes: 66
+programa_modalidad_nombre: DISTANCIA, curso_codigo: LITE_1016, curso_nombre: EXPRESION ORAL Y ESCRITA, cantidad_estudiantes: 1
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1143, curso_nombre: FAMILIA Y EDUCACION: RETOS Y D, cantidad_estudiantes: 128
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4026, curso_nombre: FIJACION PREC Y ADMIN DE COSTO, cantidad_estudiantes: 249
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FILO_4002, curso_nombre: FILOSOFIA DE LA EDUCACION, cantidad_estudiantes: 18
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, cantidad_estudiantes: 1035
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, cantidad_estudiantes: 995
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_1026, curso_nombre: FINANZAS I, cantidad_estudiantes: 30
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_1065, curso_nombre: FINANZAS II, cantidad_estudiantes: 89
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, cantidad_estudiantes: 1071
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3011, curso_nombre: FINANZAS Y PRESUPUESTOS, cantidad_estudiantes: 93
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_1073, curso_nombre: FINTECH BANCA 4.0, cantidad_estudiantes: 18
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, cantidad_estudiantes: 393
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4121, curso_nombre: FORMULACION Y EVALUACION DE PR, cantidad_estudiantes: 61
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_3013, curso_nombre: FRANCES I, cantidad_estudiantes: 114
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_3014, curso_nombre: FRANCES II, cantidad_estudiantes: 90
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_4016, curso_nombre: FRANCES III, cantidad_estudiantes: 95
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_5001, curso_nombre: FRANCES IV, cantidad_estudiantes: 19
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, cantidad_estudiantes: 724
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, cantidad_estudiantes: 160
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, cantidad_estudiantes: 2942
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, cantidad_estudiantes: 1263
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COMP_1034, curso_nombre: FUNDAMENTOS INFORMATICOS, cantidad_estudiantes: 154
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, cantidad_estudiantes: 1795
+programa_modalidad_nombre: DISTANCIA, curso_codigo: HOTE_1047, curso_nombre: GEOGRAFIA TURISTICA, cantidad_estudiantes: 168
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RENR_3001, curso_nombre: GERENCIA DE RECURSOS NATURALES, cantidad_estudiantes: 7
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5011, curso_nombre: GESTION DE CADENA DE VALOR Y C, cantidad_estudiantes: 45
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4015, curso_nombre: GESTION DE LA CALIDAD, cantidad_estudiantes: 65
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, cantidad_estudiantes: 999
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, cantidad_estudiantes: 286
+programa_modalidad_nombre: DISTANCIA, curso_codigo: SEPR_1002, curso_nombre: GESTION DE NUEVOS RIESGOS LABO, cantidad_estudiantes: 3
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, cantidad_estudiantes: 1189
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2011, curso_nombre: GESTION DEL PATRIMONIO CULTU, cantidad_estudiantes: 83
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4094, curso_nombre: GESTION DEL TALENTO HUMANO, cantidad_estudiantes: 56
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4017, curso_nombre: GESTION E INNOVACION DE DESTIN, cantidad_estudiantes: 44
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, cantidad_estudiantes: 177
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4018, curso_nombre: GESTION PUBLICA DEL TURISMO, cantidad_estudiantes: 52
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2016, curso_nombre: GUIANZA, cantidad_estudiantes: 72
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, cantidad_estudiantes: 1971
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_1055, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, cantidad_estudiantes: 40
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, cantidad_estudiantes: 4102
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PERI_3015, curso_nombre: IMAGEN PERSONAL Y CORPORATIVA, cantidad_estudiantes: 131
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1102, curso_nombre: INCLUSION Y APRENDIZAJE SOSTEN, cantidad_estudiantes: 232
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, cantidad_estudiantes: 229
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_3010, curso_nombre: INGLES VI, cantidad_estudiantes: 1
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1149, curso_nombre: INNOVAR EN LOS FUTUROS DE LA E, cantidad_estudiantes: 35
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, cantidad_estudiantes: 604
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1146, curso_nombre: INTELIGENCIA EMOCIONAL, cantidad_estudiantes: 255
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PAGR_1017, curso_nombre: INTRO A LA CAD DE VALOR EN CAF, cantidad_estudiantes: 23
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, cantidad_estudiantes: 463
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, cantidad_estudiantes: 450
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, cantidad_estudiantes: 1247
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, cantidad_estudiantes: 344
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, cantidad_estudiantes: 1114
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, cantidad_estudiantes: 603
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2022, curso_nombre: JORN DE INVES LA CREDIBILIDAD, cantidad_estudiantes: 43
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1033, curso_nombre: JORNADA DE ASESORIA DE SISTEMA, cantidad_estudiantes: 1
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4160, curso_nombre: JORNADA DE INVEST Y FORMA ESP, cantidad_estudiantes: 21
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2021, curso_nombre: JORNADA DE INVESTIGACION TEMAT, cantidad_estudiantes: 25
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, cantidad_estudiantes: 474
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4011, curso_nombre: LANGUAGE TESTING, cantidad_estudiantes: 40
+programa_modalidad_nombre: DISTANCIA, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, cantidad_estudiantes: 945
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, cantidad_estudiantes: 1054
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, cantidad_estudiantes: 1190
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_1102, curso_nombre: LEGISLACION MONETARIA Y BANCAR, cantidad_estudiantes: 5
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2013, curso_nombre: LEGISLACION TURISTICA Y AMBIEN, cantidad_estudiantes: 100
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1141, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, cantidad_estudiantes: 16
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1147, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, cantidad_estudiantes: 221
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4027, curso_nombre: LOGISTICA EMPRESARIAL, cantidad_estudiantes: 17
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, cantidad_estudiantes: 153
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MERC_1005, curso_nombre: MARKETING, cantidad_estudiantes: 38
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MERC_4007, curso_nombre: MARKETING, cantidad_estudiantes: 1171
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MERC_4004, curso_nombre: MARKETING TURISTICO, cantidad_estudiantes: 84
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, cantidad_estudiantes: 1261
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1095, curso_nombre: MATEMATICA FINANCIERA, cantidad_estudiantes: 1
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, cantidad_estudiantes: 1744
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, cantidad_estudiantes: 273
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, cantidad_estudiantes: 224
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, cantidad_estudiantes: 244
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3187, curso_nombre: METHO FOR ACADEMIC PURPOSES, cantidad_estudiantes: 85
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, cantidad_estudiantes: 286
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4014, curso_nombre: METHODOLOGY AND DIDACTICS III:, cantidad_estudiantes: 34
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, cantidad_estudiantes: 131
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, cantidad_estudiantes: 556
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, cantidad_estudiantes: 450
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4021, curso_nombre: NEURO MARKT Y TEORIAS DE INFOR, cantidad_estudiantes: 15
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, cantidad_estudiantes: 500
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2018, curso_nombre: NUEVAS ALTERNATIVAS DE TURISMO, cantidad_estudiantes: 120
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5013, curso_nombre: ORDENAMIENTO TURISTICO TERRITO, cantidad_estudiantes: 30
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2015, curso_nombre: ORGANIZACION DE EVENTOS Y PROT, cantidad_estudiantes: 76
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PIND_5008, curso_nombre: ORGANIZACION INDUSTRIAL, cantidad_estudiantes: 110
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, cantidad_estudiantes: 340
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5010, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, cantidad_estudiantes: 164
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5006, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, cantidad_estudiantes: 50
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4046, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, cantidad_estudiantes: 210
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4000, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, cantidad_estudiantes: 106
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4012, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, cantidad_estudiantes: 27
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_3015, curso_nombre: PASANTIA PRE-PRO1, cantidad_estudiantes: 25
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4023, curso_nombre: PASANTIA PRE-PRO2, cantidad_estudiantes: 55
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3023, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, cantidad_estudiantes: 15
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3002, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, cantidad_estudiantes: 22
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4045, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, cantidad_estudiantes: 90
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4008, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, cantidad_estudiantes: 58
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3013, curso_nombre: PATRIMONIO NATURAL Y BIODIVERS, cantidad_estudiantes: 106
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, cantidad_estudiantes: 475
+programa_modalidad_nombre: DISTANCIA, curso_codigo: UTPL_4000, curso_nombre: PERIODO ADICIONAL 1, cantidad_estudiantes: 10
+programa_modalidad_nombre: DISTANCIA, curso_codigo: UTPL_5000, curso_nombre: PERIODO ADICIONAL 2, cantidad_estudiantes: 10
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4016, curso_nombre: PLANIFICACION DE DESTINOS TURI, cantidad_estudiantes: 66
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, cantidad_estudiantes: 686
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, cantidad_estudiantes: 765
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, cantidad_estudiantes: 1223
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, cantidad_estudiantes: 723
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, cantidad_estudiantes: 431
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2010, curso_nombre: PRACTICUM 1, cantidad_estudiantes: 105
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, cantidad_estudiantes: 994
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, cantidad_estudiantes: 630
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, cantidad_estudiantes: 368
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3017, curso_nombre: PRACTICUM 2, cantidad_estudiantes: 93
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, cantidad_estudiantes: 917
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, cantidad_estudiantes: 325
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, cantidad_estudiantes: 652
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3012, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, cantidad_estudiantes: 83
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, cantidad_estudiantes: 237
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4020, curso_nombre: PRACTICUM 4.1, cantidad_estudiantes: 47
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, cantidad_estudiantes: 608
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, cantidad_estudiantes: 513
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, cantidad_estudiantes: 124
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5010, curso_nombre: PRACTICUM 4.2, cantidad_estudiantes: 26
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, cantidad_estudiantes: 339
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, cantidad_estudiantes: 310
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4028, curso_nombre: PRACTICUM ACADE 3 ASESORIA TT, cantidad_estudiantes: 109
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_3021, curso_nombre: PRACTICUM ACADEMICO 1, cantidad_estudiantes: 13
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4027, curso_nombre: PRACTICUM ACADEMICO 2, cantidad_estudiantes: 107
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_1018, curso_nombre: PRESUPUESTOS, cantidad_estudiantes: 3
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, cantidad_estudiantes: 781
+programa_modalidad_nombre: DISTANCIA, curso_codigo: HOTE_1045, curso_nombre: PRINCIPIOS DEL TURISMO, cantidad_estudiantes: 160
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, cantidad_estudiantes: 834
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, cantidad_estudiantes: 888
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4118, curso_nombre: PROPUESTA DE INVESTIGACION, cantidad_estudiantes: 87
+programa_modalidad_nombre: DISTANCIA, curso_codigo: UTPL_1000, curso_nombre: PRORROGA 1, cantidad_estudiantes: 217
+programa_modalidad_nombre: DISTANCIA, curso_codigo: UTPL_2000, curso_nombre: PRORROGA 2, cantidad_estudiantes: 65
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, cantidad_estudiantes: 572
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4035, curso_nombre: PROYECTOS, cantidad_estudiantes: 60
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, cantidad_estudiantes: 757
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PERI_1120, curso_nombre: RADIO Y NUEVAS TECNOLOGIAS, cantidad_estudiantes: 98
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3015, curso_nombre: RECURSOS TANGIB E INTANGIB, cantidad_estudiantes: 39
+programa_modalidad_nombre: DISTANCIA, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, cantidad_estudiantes: 246
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, cantidad_estudiantes: 380
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, cantidad_estudiantes: 980
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, cantidad_estudiantes: 312
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, cantidad_estudiantes: 305
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5047, curso_nombre: SEMINARIO DE FIN DE CARRERA, cantidad_estudiantes: 339
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5004, curso_nombre: SEMINARIO DE FIN DE CARRERA, cantidad_estudiantes: 229
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4031, curso_nombre: SEMINARIO DE FIN DE CARRERA, cantidad_estudiantes: 133
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5007, curso_nombre: SEMINARIO DE FIN DE CARRERA, cantidad_estudiantes: 40
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, cantidad_estudiantes: 1147
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4013, curso_nombre: SISTEMAS TECNOLOGICOS APLICADO, cantidad_estudiantes: 78
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, cantidad_estudiantes: 705
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, cantidad_estudiantes: 1185
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, cantidad_estudiantes: 311
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4038, curso_nombre: TEACHING TECHNIQUES, cantidad_estudiantes: 12
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, cantidad_estudiantes: 537
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, cantidad_estudiantes: 1770
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, cantidad_estudiantes: 523
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, cantidad_estudiantes: 1680
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, cantidad_estudiantes: 1700
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), cantidad_estudiantes: 337
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), cantidad_estudiantes: 313
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, cantidad_estudiantes: 151
+programa_modalidad_nombre: DISTANCIA, curso_codigo: UTPL_700, curso_nombre: TRABAJO DE TITULACION CON CURS, cantidad_estudiantes: 7
+programa_modalidad_nombre: DISTANCIA, curso_codigo: UTPL_800, curso_nombre: TRABAJO DE TITULACION SIN CURS, cantidad_estudiantes: 191
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2017, curso_nombre: TRANSPORTACION TURISTICA, cantidad_estudiantes: 90
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4019, curso_nombre: TURISMO RURAL Y DESARRO LOCAL, cantidad_estudiantes: 17
+programa_modalidad_nombre: DISTANCIA, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, cantidad_estudiantes: 133
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, cantidad_estudiantes: 218
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, cantidad_estudiantes: 45
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, cantidad_estudiantes: 42
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, cantidad_estudiantes: 47
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, cantidad_estudiantes: 49
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, cantidad_estudiantes: 95
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, cantidad_estudiantes: 52
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, cantidad_estudiantes: 31
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, cantidad_estudiantes: 84
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, cantidad_estudiantes: 29
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, cantidad_estudiantes: 18
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4112, curso_nombre: ADMINISTRACION FINANCIERA OPER, cantidad_estudiantes: 74
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1009, curso_nombre: ADMINISTRACION I, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ARTE_1050, curso_nombre: AEROGRAFIA, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, cantidad_estudiantes: 345
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_1070, curso_nombre: ALGORITMOS Y RESOLUCION DE PRO, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_2029, curso_nombre: ANA MATEMATICO MULTIVARIADO, cantidad_estudiantes: 72
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_4016, curso_nombre: ANA Y VISUAL GRA VOL DE DATOS, cantidad_estudiantes: 26
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2036, curso_nombre: ANALISIS DE ALGORITMOS, cantidad_estudiantes: 130
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1075, curso_nombre: ANALISIS EXPLORATORIO DE DATOS, cantidad_estudiantes: 5
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1101, curso_nombre: ANALISIS MATEMATICO UNIVARIADO, cantidad_estudiantes: 234
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4109, curso_nombre: ANALISIS TERRITORIAL, cantidad_estudiantes: 40
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_3002, curso_nombre: ANTROPOLOGIA, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, cantidad_estudiantes: 406
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, cantidad_estudiantes: 18
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, cantidad_estudiantes: 19
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5006, curso_nombre: ARQ Y COMP PARALELA, cantidad_estudiantes: 8
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_2010, curso_nombre: ARQ Y ORGANIZACION DE COMP, cantidad_estudiantes: 125
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_5003, curso_nombre: ARQ Y SEGURIDAD DE REDES, cantidad_estudiantes: 16
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4004, curso_nombre: ARQUITECTURA DE APLICACIONES, cantidad_estudiantes: 15
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2039, curso_nombre: ARQUITECTURA DE COMPUTADORAS, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4069, curso_nombre: ARQUITECTURA DE SOFTWARE, cantidad_estudiantes: 56
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PERI_1110, curso_nombre: ARTE ESCENICO Y EXPRESION ORAL, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, cantidad_estudiantes: 14
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, cantidad_estudiantes: 15
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, cantidad_estudiantes: 19
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_1012, curso_nombre: AUDITORIA INFORMATICA, cantidad_estudiantes: 5
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_2005, curso_nombre: BASE DE DATOS AVANZADA, cantidad_estudiantes: 130
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RENR_1004, curso_nombre: BIOECONOMIA CIRCULAR, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1114, curso_nombre: CALCULO DIFERENCIAL, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1078, curso_nombre: CARACTERIZACION DE MATERIALES, cantidad_estudiantes: 5
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1076, curso_nombre: CICLO DEL MERCURIO EN LA NATUR, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, cantidad_estudiantes: 22
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4013, curso_nombre: COMP PARALELA Y DISTRIBUIDA, cantidad_estudiantes: 55
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, cantidad_estudiantes: 69
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: LITE_1108, curso_nombre: COMPOSICION DE TEXTOS CIENTIFI, cantidad_estudiantes: 69
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_1078, curso_nombre: COMPUTACION Y SOCIEDAD, cantidad_estudiantes: 196
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_1081, curso_nombre: COMPUTACION Y SOCIEDAD, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_3019, curso_nombre: COMUNICACION DE DATOS, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4116, curso_nombre: CONSTRUCCION DE INDICADORES, cantidad_estudiantes: 49
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, cantidad_estudiantes: 17
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, cantidad_estudiantes: 17
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, cantidad_estudiantes: 23
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, cantidad_estudiantes: 18
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, cantidad_estudiantes: 32
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, cantidad_estudiantes: 25
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, cantidad_estudiantes: 13
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, cantidad_estudiantes: 18
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, cantidad_estudiantes: 23
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, cantidad_estudiantes: 22
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, cantidad_estudiantes: 8
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, cantidad_estudiantes: 17
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, cantidad_estudiantes: 16
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DERE_3045, curso_nombre: DERECHO LABORAL, cantidad_estudiantes: 31
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, cantidad_estudiantes: 31
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, cantidad_estudiantes: 70
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3048, curso_nombre: DESARROLLO BASADO EN PLAT WEB, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4075, curso_nombre: DESARROLLO BASADO EN PLATAF MO, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4002, curso_nombre: DESARROLLO ECONOMICO, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, cantidad_estudiantes: 25
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1043, curso_nombre: DESARROLLO EMPRESARIAL, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_3005, curso_nombre: DESARROLLO ESPIRITUAL III, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3047, curso_nombre: DESARROLLO REGIONAL, cantidad_estudiantes: 53
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, cantidad_estudiantes: 22
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, cantidad_estudiantes: 23
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1080, curso_nombre: DISEÑO DE CIMENTACIONES PRO Y, cantidad_estudiantes: 6
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ARQU_1021, curso_nombre: DISEÑO PARAM Y FABRIC DIGITAL, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_1001, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_5002, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, cantidad_estudiantes: 19
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3043, curso_nombre: ECONOMETRIA AVANZADA, cantidad_estudiantes: 66
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3039, curso_nombre: ECONOMETRIA BASICA, cantidad_estudiantes: 73
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECMA_4003, curso_nombre: ECONOMETRIA II, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECMA_4004, curso_nombre: ECONOMETRIA III, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5008, curso_nombre: ECONOMIA AMBIEN DES ECON SUST, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4108, curso_nombre: ECONOMIA AMBIENTAL Y DE REC NA, cantidad_estudiantes: 76
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2035, curso_nombre: ECONOMIA DE LA EMPRESA Y MERCA, cantidad_estudiantes: 75
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5013, curso_nombre: ECONOMIA INTERNACIONAL, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5077, curso_nombre: ECONOMIA INTERNACIONAL, cantidad_estudiantes: 52
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5014, curso_nombre: ECONOMIA POLITICA, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5076, curso_nombre: ECONOMIA POLITICA, cantidad_estudiantes: 47
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1127, curso_nombre: ECONOMIA POPULAR Y SOLIDARIA, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_3100, curso_nombre: ECUACIONES DIFER Y MET NUMER, cantidad_estudiantes: 132
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_1110, curso_nombre: EL ARTE DE AMAR, cantidad_estudiantes: 11
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5078, curso_nombre: EMPREN CON BASE TECNOLOGICA I, cantidad_estudiantes: 60
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5079, curso_nombre: EMPREN CON BASE TECNOLOGICA II, cantidad_estudiantes: 24
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, cantidad_estudiantes: 222
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_7125, curso_nombre: EMPRENDIMIENTO Y FUNDAMENTOS P, cantidad_estudiantes: 8
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, cantidad_estudiantes: 65
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, cantidad_estudiantes: 66
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, cantidad_estudiantes: 69
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, cantidad_estudiantes: 67
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, cantidad_estudiantes: 106
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, cantidad_estudiantes: 109
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, cantidad_estudiantes: 104
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, cantidad_estudiantes: 109
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, cantidad_estudiantes: 40
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, cantidad_estudiantes: 24
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, cantidad_estudiantes: 35
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1081, curso_nombre: ESTABILIDAD DE LADERAS Y TALUD, cantidad_estudiantes: 5
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, cantidad_estudiantes: 69
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, cantidad_estudiantes: 187
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_1012, curso_nombre: ESTADISTICA II, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_2029, curso_nombre: ESTADISTICA PARA LAS ING Y ARQ, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_3022, curso_nombre: ESTADISTICA Y PROBABILIDAD, cantidad_estudiantes: 94
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2029, curso_nombre: ESTRUCTURAS DE DATOS, cantidad_estudiantes: 173
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2030, curso_nombre: ESTRUCTURAS DISCRETAS, cantidad_estudiantes: 206
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_1109, curso_nombre: ETICA DE LA INTELIGENCIA ARTIF, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, cantidad_estudiantes: 292
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4089, curso_nombre: EVALUACION DE PROYECTOS, cantidad_estudiantes: 37
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: UTPL_500, curso_nombre: EXAMEN COMPLEXIVO CON CURSO, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1143, curso_nombre: FAMILIA Y EDUCACION: RETOS Y D, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, cantidad_estudiantes: 110
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, cantidad_estudiantes: 46
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, cantidad_estudiantes: 53
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FISI_1039, curso_nombre: FISICA BASICA, cantidad_estudiantes: 188
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, cantidad_estudiantes: 13
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3045, curso_nombre: FORMULACION DE PROYECTOS, cantidad_estudiantes: 51
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4012, curso_nombre: FUND DE INTE ARTIFICIAL, cantidad_estudiantes: 54
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ARTE_1089, curso_nombre: FUND DEL LENGUAJE VISUAL, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_1075, curso_nombre: FUNDAMENTOS COMPUTACIONALES, cantidad_estudiantes: 200
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, cantidad_estudiantes: 16
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, cantidad_estudiantes: 77
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_3014, curso_nombre: FUNDAMENTOS DE ANALISIS DE DAT, cantidad_estudiantes: 62
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_2004, curso_nombre: FUNDAMENTOS DE BASE DE DATOS, cantidad_estudiantes: 123
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_2006, curso_nombre: FUNDAMENTOS DE BASE DE DATOS, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, cantidad_estudiantes: 203
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, cantidad_estudiantes: 34
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_1071, curso_nombre: FUNDAMENTOS DE HARDWARE, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_3011, curso_nombre: FUNDAMENTOS DE INGENIERIA DE S, cantidad_estudiantes: 78
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_3012, curso_nombre: FUNDAMENTOS DE INGENIERIA DE S, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_1073, curso_nombre: FUNDAMENTOS DE PROGRAMACION, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_4012, curso_nombre: FUNDAMENTOS DE REDES, cantidad_estudiantes: 82
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_1034, curso_nombre: FUNDAMENTOS INFORMATICOS, cantidad_estudiantes: 6
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, cantidad_estudiantes: 358
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4077, curso_nombre: FUNDAMENTOS Y APLICACION DE SE, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1062, curso_nombre: GEOESTADISTICA BASICA, cantidad_estudiantes: 5
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1074, curso_nombre: GEOLOGIA DEL SUBSUELO, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MINE_1005, curso_nombre: GERENCIA DE OPERACIONES MINERA, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RENR_3001, curso_nombre: GERENCIA DE RECURSOS NATURALES, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3035, curso_nombre: GEST DE LA CALIDAD DE SOFTWARE, cantidad_estudiantes: 79
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_4000, curso_nombre: GEST DE TECN DE LA INFO, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, cantidad_estudiantes: 38
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3045, curso_nombre: GESTION DE LA CALIDAD DEL SOFT, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, cantidad_estudiantes: 15
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SEPR_1002, curso_nombre: GESTION DE NUEVOS RIESGOS LABO, cantidad_estudiantes: 5
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5077, curso_nombre: GESTION DE PROYECTOS, cantidad_estudiantes: 36
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, cantidad_estudiantes: 56
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_7129, curso_nombre: GESTION ESTRATEGICA DE LA INNO, cantidad_estudiantes: 6
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, cantidad_estudiantes: 6
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5025, curso_nombre: GESTION PRODUCTIVA 4.2, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5021, curso_nombre: GESTION PRODUCTIVA GP 4.1, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5023, curso_nombre: GESTION PRODUCTIVA GP 4.2, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, cantidad_estudiantes: 96
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_1055, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_1089, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, cantidad_estudiantes: 73
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_1087, curso_nombre: HISTORIA ECONOMICA DEL ECUADOR, cantidad_estudiantes: 75
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, cantidad_estudiantes: 488
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PERI_3015, curso_nombre: IMAGEN PERSONAL Y CORPORATIVA, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1102, curso_nombre: INCLUSION Y APRENDIZAJE SOSTEN, cantidad_estudiantes: 29
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, cantidad_estudiantes: 25
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3039, curso_nombre: INGENIERIA DE REQUISITOS, cantidad_estudiantes: 82
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3037, curso_nombre: INGENIERIA WEB, cantidad_estudiantes: 87
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1149, curso_nombre: INNOVAR EN LOS FUTUROS DE LA E, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_5003, curso_nombre: INTE ARTIFICIAL AVANZADO, cantidad_estudiantes: 13
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, cantidad_estudiantes: 21
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4009, curso_nombre: INTELIGENCIA ARTIFICIAL, cantidad_estudiantes: 11
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_1009, curso_nombre: INTELIGENCIA DE NEGOCIOS, cantidad_estudiantes: 9
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1146, curso_nombre: INTELIGENCIA EMOCIONAL, cantidad_estudiantes: 14
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_4015, curso_nombre: INTEROPERY EXPLO DATOS ECO HET, cantidad_estudiantes: 28
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PAGR_1017, curso_nombre: INTRO A LA CAD DE VALOR EN CAF, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, cantidad_estudiantes: 20
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, cantidad_estudiantes: 47
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_1007, curso_nombre: INTRODUCCION A LA AUDITORIA, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, cantidad_estudiantes: 159
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_3013, curso_nombre: INTRODUCCION A LA INTELIGENCIA, cantidad_estudiantes: 85
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_1067, curso_nombre: INTRODUCCION A LA PROGRAMACION, cantidad_estudiantes: 203
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DISE_1032, curso_nombre: INTRODUCCIÓN AL DISEÑO INTERIO, cantidad_estudiantes: 12
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, cantidad_estudiantes: 44
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, cantidad_estudiantes: 68
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, cantidad_estudiantes: 35
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_2022, curso_nombre: JORN DE INVES LA CREDIBILIDAD, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4160, curso_nombre: JORNADA DE INVEST Y FORMA ESP, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, cantidad_estudiantes: 48
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, cantidad_estudiantes: 110
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, cantidad_estudiantes: 71
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, cantidad_estudiantes: 33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1147, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, cantidad_estudiantes: 18
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ELEN_2008, curso_nombre: LOGICA DIGITAL, cantidad_estudiantes: 131
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3041, curso_nombre: MACROECONOMIA ABIERTA, cantidad_estudiantes: 64
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2034, curso_nombre: MACROECONOMIA CERRADA, cantidad_estudiantes: 65
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, cantidad_estudiantes: 8
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MERC_4007, curso_nombre: MARKETING, cantidad_estudiantes: 74
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, cantidad_estudiantes: 34
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, cantidad_estudiantes: 165
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, cantidad_estudiantes: 14
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, cantidad_estudiantes: 23
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3187, curso_nombre: METHO FOR ACADEMIC PURPOSES, cantidad_estudiantes: 14
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, cantidad_estudiantes: 24
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, cantidad_estudiantes: 15
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, cantidad_estudiantes: 34
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3042, curso_nombre: MICROECONOMIA APLICADA, cantidad_estudiantes: 76
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1071, curso_nombre: MODELAMIENTO GEOLOGICO CON LEA, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3040, curso_nombre: MODELOS ECONOMETRICOS, cantidad_estudiantes: 70
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4110, curso_nombre: MODELOS OPTIMIZA PARA USO DE R, cantidad_estudiantes: 12
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, cantidad_estudiantes: 15
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, cantidad_estudiantes: 75
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1069, curso_nombre: OFIMAT PARA EL MODEL Y ANALISI, cantidad_estudiantes: 5
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4000, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, cantidad_estudiantes: 74
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: UTPL_4000, curso_nombre: PERIODO ADICIONAL 1, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: UTPL_5000, curso_nombre: PERIODO ADICIONAL 2, cantidad_estudiantes: 5
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ARTE_4020, curso_nombre: PINTURA, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_1074, curso_nombre: PLAN ESTRATEGIC TRANSF DIGITAL, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MINE_1007, curso_nombre: PLANIFICACION SUBTERRANEA, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4114, curso_nombre: PLANIFICACION Y GEST DESA SOST, cantidad_estudiantes: 9
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4113, curso_nombre: PLANIFICACION Y ORDENAM TERRIT, cantidad_estudiantes: 38
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4070, curso_nombre: PLATAFORMAS MOVILES, cantidad_estudiantes: 28
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4071, curso_nombre: PLATAFORMAS PARA JUEGOS, cantidad_estudiantes: 29
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3038, curso_nombre: PLATAFORMAS WEB, cantidad_estudiantes: 24
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3046, curso_nombre: POLITICA AMBIENTAL, cantidad_estudiantes: 29
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3044, curso_nombre: POLITICA ECONOMICA, cantidad_estudiantes: 46
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4009, curso_nombre: POLITICA ECONOMICA II, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, cantidad_estudiantes: 107
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, cantidad_estudiantes: 20
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4007, curso_nombre: PRACTICAS EN CITTES GP 3.2, cantidad_estudiantes: 7
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, cantidad_estudiantes: 69
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, cantidad_estudiantes: 21
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2037, curso_nombre: PRACTICUM 1, cantidad_estudiantes: 68
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, cantidad_estudiantes: 64
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_2011, curso_nombre: PRACTICUM 1.1, cantidad_estudiantes: 134
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_2012, curso_nombre: PRACTICUM 1.2, cantidad_estudiantes: 123
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, cantidad_estudiantes: 42
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, cantidad_estudiantes: 18
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3053, curso_nombre: PRACTICUM 2, cantidad_estudiantes: 68
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, cantidad_estudiantes: 41
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_3019, curso_nombre: PRACTICUM 2.1, cantidad_estudiantes: 88
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_3014, curso_nombre: PRACTICUM 2.2, cantidad_estudiantes: 82
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, cantidad_estudiantes: 50
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, cantidad_estudiantes: 40
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3054, curso_nombre: PRACTICUM 3 SERVICIO COMUN, cantidad_estudiantes: 63
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, cantidad_estudiantes: 20
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4010, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, cantidad_estudiantes: 61
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4015, curso_nombre: PRACTICUM 4.1, cantidad_estudiantes: 56
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, cantidad_estudiantes: 20
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, cantidad_estudiantes: 35
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, cantidad_estudiantes: 21
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4115, curso_nombre: PRACTICUM 4.1:TRABAJO DE INT E, cantidad_estudiantes: 55
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5022, curso_nombre: PRACTICUM 4.2, cantidad_estudiantes: 27
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, cantidad_estudiantes: 20
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, cantidad_estudiantes: 28
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, cantidad_estudiantes: 17
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5074, curso_nombre: PRACTICUM 4.2:TRABAJO DE INTEG, cantidad_estudiantes: 45
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_1018, curso_nombre: PRESUPUESTOS, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, cantidad_estudiantes: 19
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2033, curso_nombre: PRINCIPIOS DE MACROECONOMIA, cantidad_estudiantes: 76
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2032, curso_nombre: PRINCIPIOS DE MICROECONOMIA, cantidad_estudiantes: 78
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_5001, curso_nombre: PROC DE INGENIERIA DE SOFTWARE, cantidad_estudiantes: 19
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2035, curso_nombre: PROG FUNCIONAL Y REACTIVA, cantidad_estudiantes: 135
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2034, curso_nombre: PROG ORIENTADA A OBJETOS, cantidad_estudiantes: 167
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4011, curso_nombre: PROGRAMACION AVANZADA, cantidad_estudiantes: 126
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3108, curso_nombre: PROPUESTA DE INVESTIGACION, cantidad_estudiantes: 65
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, cantidad_estudiantes: 21
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, cantidad_estudiantes: 51
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: UTPL_1000, curso_nombre: PRORROGA 1, cantidad_estudiantes: 34
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: UTPL_2000, curso_nombre: PRORROGA 2, cantidad_estudiantes: 13
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, cantidad_estudiantes: 36
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3036, curso_nombre: PROTOTIPADO, cantidad_estudiantes: 129
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5004, curso_nombre: PROYEC DE FIN DE CARRER GP4.1, cantidad_estudiantes: 25
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5009, curso_nombre: PROYEC DE FIN DE CARRER GP4.2, cantidad_estudiantes: 32
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_5012, curso_nombre: PROYECTO FIN CARRERA II GP 4.2, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, cantidad_estudiantes: 26
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5034, curso_nombre: PROYECTOS II, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_1077, curso_nombre: PYTHON INTERMEDIO APLICADO A L, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PERI_1120, curso_nombre: RADIO Y NUEVAS TECNOLOGIAS, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_4014, curso_nombre: REDES Y SISTEMAS DISTRIBUIDOS, cantidad_estudiantes: 59
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, cantidad_estudiantes: 10
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4014, curso_nombre: REPRESENT AVAN CONOCI Y RAZON, cantidad_estudiantes: 53
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, cantidad_estudiantes: 43
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, cantidad_estudiantes: 26
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ELEC_1018, curso_nombre: ROBOTICA INDUSTRIAL, cantidad_estudiantes: 6
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, cantidad_estudiantes: 33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_5015, curso_nombre: SEGURIDAD DE LA INFORMACION, cantidad_estudiantes: 5
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_5025, curso_nombre: SEGURIDAD DE LA INFORMACION, cantidad_estudiantes: 26
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, cantidad_estudiantes: 24
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_5004, curso_nombre: SEMINARIO DE FIN DE CARRERA, cantidad_estudiantes: 6
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5035, curso_nombre: SEMINARIO DE FIN DE CARRERA, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_5013, curso_nombre: SIST BASADOS EN CONOCIMIENTO, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5018, curso_nombre: SIST BASADOS EN CONOCIMIENTOS, cantidad_estudiantes: 14
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, cantidad_estudiantes: 83
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5020, curso_nombre: SISTEMAS INTELIGENTES, cantidad_estudiantes: 23
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_3011, curso_nombre: SISTEMAS OPERATIVOS, cantidad_estudiantes: 92
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, cantidad_estudiantes: 108
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, cantidad_estudiantes: 54
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, cantidad_estudiantes: 33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, cantidad_estudiantes: 68
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, cantidad_estudiantes: 161
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_7132, curso_nombre: TECNOLOGIA APLICADA, cantidad_estudiantes: 6
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5023, curso_nombre: TECNOLOGIAS EMERGENTES, cantidad_estudiantes: 38
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2043, curso_nombre: TECNOLOGIAS WEB, cantidad_estudiantes: 2
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, cantidad_estudiantes: 68
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_3012, curso_nombre: TEORIA DE AUTOMATAS Y COMPILAD, cantidad_estudiantes: 90
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, cantidad_estudiantes: 80
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, cantidad_estudiantes: 87
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5039, curso_nombre: TEORIAS DE ACUMULACION Y CREC, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5075, curso_nombre: TEORIAS DEL DESARROLLO, cantidad_estudiantes: 72
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), cantidad_estudiantes: 9
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), cantidad_estudiantes: 6
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5040, curso_nombre: TRABAJO DE TIT (PRACTICUM IV), cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, cantidad_estudiantes: 4
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_4044, curso_nombre: TRABAJO DE TITULACION, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: UTPL_800, curso_nombre: TRABAJO DE TITULACION SIN CURS, cantidad_estudiantes: 51
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1070, curso_nombre: TRATAMIENTO Y EDICION DE IMAGE, cantidad_estudiantes: 1
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, cantidad_estudiantes: 10
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ARQU_1092, curso_nombre: URBANIZACION Y CAMBIO CLIMATIC, cantidad_estudiantes: 6
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1030, curso_nombre: VALIDACION DE PRODUCTO, cantidad_estudiantes: 5
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, cantidad_estudiantes: 3
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MINE_4001, curso_nombre: VOLADURA DE ROCAS, cantidad_estudiantes: 2

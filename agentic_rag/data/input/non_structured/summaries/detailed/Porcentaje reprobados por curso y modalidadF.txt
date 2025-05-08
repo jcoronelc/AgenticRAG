@@ -1,0 +1,587 @@
+En la modalidad 'DISTANCIA', el curso 'ACADEMIC READING AND WRITIN II' (código: EDUC_3183) tuvo 36 reprobados de 407 estudiantes, lo que representa un 8.85% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ACADEMIC READING AND WRITING I' (código: EDUC_3178) tuvo 50 reprobados de 436 estudiantes, lo que representa un 11.47% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ADAPTACIONES CURRICULARES Y DI' (código: EDUC_3185) tuvo 27 reprobados de 356 estudiantes, lo que representa un 7.58% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ADMIN DE CAD DE SUM Y LOG EMPR' (código: ADMI_2030) tuvo 80 reprobados de 989 estudiantes, lo que representa un 8.09% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ADMINISTRACION' (código: ADMI_1109) tuvo 487 reprobados de 1529 estudiantes, lo que representa un 31.85% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ADMINISTRACION' (código: ADMI_1026) tuvo 0 reprobados de 7 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ADMINISTRACION DE OPERAC Y PR' (código: PIND_2010) tuvo 92 reprobados de 1029 estudiantes, lo que representa un 8.94% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ADMINISTRACION DE TECN Y SISTE' (código: ADMI_4095) tuvo 62 reprobados de 890 estudiantes, lo que representa un 6.97% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ADMINISTRACION DE TECNOLOGIAS' (código: SIST_5001) tuvo 30 reprobados de 208 estudiantes, lo que representa un 14.42% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ADMINISTRACION DEL TALENTO HUM' (código: LABO_3002) tuvo 138 reprobados de 1102 estudiantes, lo que representa un 12.52% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5066) tuvo 57 reprobados de 874 estudiantes, lo que representa un 6.52% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5005) tuvo 52 reprobados de 274 estudiantes, lo que representa un 18.98% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ADMINISTRACION FINANCIERA' (código: FINZ_4057) tuvo 33 reprobados de 680 estudiantes, lo que representa un 4.85% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ALGEBRA LINEAL' (código: MATE_1108) tuvo 194 reprobados de 2020 estudiantes, lo que representa un 9.6% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ANALISIS DE MERCADOS TURISTICO' (código: TURI_4022) tuvo 19 reprobados de 92 estudiantes, lo que representa un 20.65% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ANTROPOLOGIA' (código: RELI_3002) tuvo 16 reprobados de 48 estudiantes, lo que representa un 33.33% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ANTROPOLOGIA BASICA' (código: RELI_2062) tuvo 396 reprobados de 2676 estudiantes, lo que representa un 14.8% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ANTROPOLOGIA CULTURAL Y TURIS' (código: TURI_1020) tuvo 21 reprobados de 100 estudiantes, lo que representa un 21.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'APLIC AUDIT FORENS CICLOS TRAN' (código: CONT_3031) tuvo 21 reprobados de 361 estudiantes, lo que representa un 5.82% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'APLICACIONES DE COSTOS' (código: CONT_3030) tuvo 35 reprobados de 716 estudiantes, lo que representa un 4.89% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'AREAS PROTEGIDAS' (código: TURI_2014) tuvo 6 reprobados de 72 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'AUDIT INT Y ADMIN RIESGOS ERM' (código: CONT_4030) tuvo 5 reprobados de 219 estudiantes, lo que representa un 2.28% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'AUDITORIA DE GESTION' (código: CONT_4028) tuvo 21 reprobados de 573 estudiantes, lo que representa un 3.66% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'AUDITORIA FINANCIERA' (código: FINZ_4056) tuvo 46 reprobados de 716 estudiantes, lo que representa un 6.42% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'AUDITORIA I' (código: CONT_4006) tuvo 2 reprobados de 7 estudiantes, lo que representa un 28.57% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'AUDITORIA II' (código: CONT_1015) tuvo 3 reprobados de 21 estudiantes, lo que representa un 14.29% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'AUDITORIA III' (código: CONT_5002) tuvo 13 reprobados de 105 estudiantes, lo que representa un 12.38% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'AUDITORIA INFORMATICA' (código: SIST_5006) tuvo 27 reprobados de 166 estudiantes, lo que representa un 16.27% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CALCULO' (código: MATE_1091) tuvo 1 reprobados de 8 estudiantes, lo que representa un 12.5% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CIUDAD Y TURISMO' (código: TURI_3014) tuvo 7 reprobados de 58 estudiantes, lo que representa un 12.07% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'COMERCIO EXTERIOR' (código: COME_1005) tuvo 21 reprobados de 115 estudiantes, lo que representa un 18.26% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'COMERCIO EXTERIOR' (código: COME_3002) tuvo 94 reprobados de 735 estudiantes, lo que representa un 12.79% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'COMPETITIVIDAD DESTINOS TURIST' (código: TURI_4015) tuvo 1 reprobados de 26 estudiantes, lo que representa un 3.85% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'COMPORTAMIENTO ORGANIZACIONAL' (código: ADMI_4082) tuvo 156 reprobados de 1091 estudiantes, lo que representa un 14.3% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'COMPUTACION' (código: COMP_1000) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'COMPUTACION APLICADA' (código: CONT_4010) tuvo 10 reprobados de 21 estudiantes, lo que representa un 47.62% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD AGRARIA' (código: CONT_4033) tuvo 59 reprobados de 825 estudiantes, lo que representa un 7.15% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD BANCARIA' (código: CONT_2015) tuvo 3 reprobados de 5 estudiantes, lo que representa un 60.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD CORPORATIVA' (código: CONT_2027) tuvo 12 reprobados de 548 estudiantes, lo que representa un 2.19% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD DE COSTOS' (código: CONT_3026) tuvo 72 reprobados de 666 estudiantes, lo que representa un 10.81% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD DE COSTOS OPERATI' (código: CONT_2032) tuvo 21 reprobados de 82 estudiantes, lo que representa un 25.61% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD DE INSTITUC FINAN' (código: CONT_3025) tuvo 28 reprobados de 566 estudiantes, lo que representa un 4.95% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD FINANCIERA' (código: CONT_1085) tuvo 100 reprobados de 805 estudiantes, lo que representa un 12.42% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD FINANCIERA AVANZA' (código: CONT_2025) tuvo 273 reprobados de 1019 estudiantes, lo que representa un 26.79% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5006) tuvo 17 reprobados de 131 estudiantes, lo que representa un 12.98% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5023) tuvo 13 reprobados de 436 estudiantes, lo que representa un 2.98% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_2028) tuvo 45 reprobados de 748 estudiantes, lo que representa un 6.02% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_3017) tuvo 3 reprobados de 6 estudiantes, lo que representa un 50.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTRASTIVE GRAMMAR' (código: EDUC_4116) tuvo 17 reprobados de 222 estudiantes, lo que representa un 7.66% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CONTRATACION PUBLICA' (código: DERE_3050) tuvo 148 reprobados de 807 estudiantes, lo que representa un 18.34% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'COSMOVISION ANDINA' (código: TURI_4014) tuvo 6 reprobados de 41 estudiantes, lo que representa un 14.63% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'COSTOS RELEV PARA TOMA DECISIO' (código: CONT_4029) tuvo 0 reprobados de 139 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CULTURE AND LITERATURE IN ENGL' (código: LITE_4003) tuvo 23 reprobados de 63 estudiantes, lo que representa un 36.51% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CUR DSING FR ACADM AND SPCIF P' (código: EDUC_4111) tuvo 5 reprobados de 71 estudiantes, lo que representa un 7.04% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CURRICLM FUNDTS PRNCPLS AND IS' (código: EDUC_4112) tuvo 8 reprobados de 155 estudiantes, lo que representa un 5.16% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CURRICULUM AND MATERIALS' (código: FDCE_4001) tuvo 6 reprobados de 8 estudiantes, lo que representa un 75.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'CURSO DE ACTUALIZACION' (código: UTPL_3000) tuvo 11 reprobados de 59 estudiantes, lo que representa un 18.64% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DERECHO LABORAL' (código: DERE_1181) tuvo 67 reprobados de 762 estudiantes, lo que representa un 8.79% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DERECHO TRIBUTARIO' (código: DERE_4054) tuvo 93 reprobados de 1003 estudiantes, lo que representa un 9.27% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DERECHO TRIBUTARIO' (código: DERE_1182) tuvo 112 reprobados de 829 estudiantes, lo que representa un 13.51% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DESARROLLO ECONOMICO' (código: ECON_4002) tuvo 25 reprobados de 112 estudiantes, lo que representa un 22.32% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DESARROLLO EMPRES NUEVOS NEGOC' (código: ADMI_3025) tuvo 32 reprobados de 343 estudiantes, lo que representa un 9.33% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DESARROLLO TRAB PRACTICUM 4' (código: TURI_5000) tuvo 0 reprobados de 57 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DIRECCION ESTRATEGICA' (código: ADMI_5071) tuvo 32 reprobados de 732 estudiantes, lo que representa un 4.37% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DIRECCION HOTELERA' (código: HOTE_5003) tuvo 2 reprobados de 11 estudiantes, lo que representa un 18.18% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DISCOURSE ANALYSIS' (código: EDUC_4117) tuvo 3 reprobados de 203 estudiantes, lo que representa un 1.48% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DISEÑO DE PRODUCTOS TURISTICOS' (código: TURI_3016) tuvo 9 reprobados de 83 estudiantes, lo que representa un 10.84% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DISEÑO DE SISTEMAS DE COSTOS' (código: CONT_3029) tuvo 42 reprobados de 350 estudiantes, lo que representa un 12.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: EDUC_4167) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: RELI_1001) tuvo 42 reprobados de 299 estudiantes, lo que representa un 14.05% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'E-COMMERCE' (código: ADMI_4083) tuvo 6 reprobados de 369 estudiantes, lo que representa un 1.63% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ECONOMIA POPULAR Y SOLIDARIA' (código: ADMI_1127) tuvo 21 reprobados de 83 estudiantes, lo que representa un 25.3% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'EDUCATIONAL RESEARCH I' (código: FDSE_4007) tuvo 7 reprobados de 13 estudiantes, lo que representa un 53.85% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'EL ARTE DE AMAR' (código: RELI_1110) tuvo 4 reprobados de 60 estudiantes, lo que representa un 6.67% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'EMPRENDIMIENTO' (código: ADMI_4038) tuvo 381 reprobados de 2238 estudiantes, lo que representa un 17.02% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ENGLISH LAN: LIST AND SPEAK IV' (código: EDUC_2118) tuvo 40 reprobados de 394 estudiantes, lo que representa un 10.15% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ENGLISH LAN: LISTE AND SPE III' (código: EDUC_3112) tuvo 74 reprobados de 436 estudiantes, lo que representa un 16.97% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ENGLISH LAN: READ AND WRIT III' (código: EDUC_3111) tuvo 31 reprobados de 422 estudiantes, lo que representa un 7.35% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ENGLISH LAN: READ AND WRIT IV' (código: EDUC_2119) tuvo 26 reprobados de 418 estudiantes, lo que representa un 6.22% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ENGLISH LANG: LIST AND SPEA II' (código: FDCE_1075) tuvo 78 reprobados de 496 estudiantes, lo que representa un 15.73% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ENGLISH LANG: LIST AND SPEAK I' (código: FDCE_1074) tuvo 347 reprobados de 871 estudiantes, lo que representa un 39.84% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ENGLISH LANG: READ AND WRIT II' (código: FDCE_1076) tuvo 67 reprobados de 496 estudiantes, lo que representa un 13.51% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ENGLISH LANG: READI AND WRIT I' (código: IDIO_1104) tuvo 268 reprobados de 835 estudiantes, lo que representa un 32.1% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ENGLISH PRON: PHONETI AND PHON' (código: EDUC_3179) tuvo 30 reprobados de 393 estudiantes, lo que representa un 7.63% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ENGLISH SYNTAX' (código: EDUC_4109) tuvo 21 reprobados de 290 estudiantes, lo que representa un 7.24% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' (código: CONT_1084) tuvo 469 reprobados de 1436 estudiantes, lo que representa un 32.66% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ESTADISTICA' (código: ESTA_1044) tuvo 15 reprobados de 82 estudiantes, lo que representa un 18.29% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ESTADISTICA APLICADA A EDUCA' (código: ESTA_4004) tuvo 17 reprobados de 50 estudiantes, lo que representa un 34.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ESTADISTICA BASICA' (código: ESTA_2031) tuvo 72 reprobados de 517 estudiantes, lo que representa un 13.93% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ESTADISTICA BASICA' (código: ESTA_3023) tuvo 162 reprobados de 1799 estudiantes, lo que representa un 9.01% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ESTADISTICA II' (código: ESTA_1012) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ETICA' (código: RELI_3000) tuvo 19 reprobados de 129 estudiantes, lo que representa un 14.73% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ETICA DE LA INTELIGENCIA ARTIF' (código: RELI_1109) tuvo 6 reprobados de 81 estudiantes, lo que representa un 7.41% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ETICA Y MORAL' (código: FILO_1114) tuvo 129 reprobados de 1975 estudiantes, lo que representa un 6.53% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'EXPRESION ORAL Y ESCRITA' (código: LITE_1016) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FAMILIA Y EDUCACION: RETOS Y D' (código: EDUC_1143) tuvo 9 reprobados de 119 estudiantes, lo que representa un 7.56% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FIJACION PREC Y ADMIN DE COSTO' (código: CONT_4026) tuvo 3 reprobados de 244 estudiantes, lo que representa un 1.23% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FILOSOFIA DE LA EDUCACION' (código: FILO_4002) tuvo 6 reprobados de 17 estudiantes, lo que representa un 35.29% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FILOSOFIA E HISTORIA DE LA EDU' (código: FILO_1117) tuvo 300 reprobados de 938 estudiantes, lo que representa un 31.98% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FINANZAS ESTRUCTURALES' (código: FINZ_3024) tuvo 97 reprobados de 1013 estudiantes, lo que representa un 9.58% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FINANZAS I' (código: FINZ_1026) tuvo 12 reprobados de 33 estudiantes, lo que representa un 36.36% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FINANZAS II' (código: FINZ_1065) tuvo 20 reprobados de 93 estudiantes, lo que representa un 21.51% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FINANZAS OPERATIVAS' (código: FINZ_3023) tuvo 116 reprobados de 1073 estudiantes, lo que representa un 10.81% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FINANZAS Y PRESUPUESTOS' (código: TURI_3011) tuvo 13 reprobados de 94 estudiantes, lo que representa un 13.83% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FINTECH BANCA 4.0' (código: FINZ_1073) tuvo 2 reprobados de 18 estudiantes, lo que representa un 11.11% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FORM EVALUAC DE PROYECTOS' (código: ADMI_4126) tuvo 29 reprobados de 397 estudiantes, lo que representa un 7.3% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FORMULACION Y EVALUACION DE PR' (código: ADMI_4121) tuvo 2 reprobados de 60 estudiantes, lo que representa un 3.33% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FRANCES I' (código: IDIO_3013) tuvo 28 reprobados de 110 estudiantes, lo que representa un 25.45% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FRANCES II' (código: IDIO_3014) tuvo 13 reprobados de 86 estudiantes, lo que representa un 15.12% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FRANCES III' (código: IDIO_4016) tuvo 11 reprobados de 98 estudiantes, lo que representa un 11.22% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FRANCES IV' (código: IDIO_5001) tuvo 2 reprobados de 17 estudiantes, lo que representa un 11.76% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FUNDAMENTOS DE ADMINIST FINAN' (código: ADMI_1115) tuvo 52 reprobados de 720 estudiantes, lo que representa un 7.22% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FUNDAMENTOS DE ADMINISTRACION' (código: ADMI_1113) tuvo 57 reprobados de 139 estudiantes, lo que representa un 41.01% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FUNDAMENTOS DE CONTABILIDAD' (código: CONT_1083) tuvo 863 reprobados de 2738 estudiantes, lo que representa un 31.52% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FUNDAMENTOS DE ECONOMIA' (código: ECON_1088) tuvo 318 reprobados de 1183 estudiantes, lo que representa un 26.88% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FUNDAMENTOS INFORMATICOS' (código: COMP_1034) tuvo 11 reprobados de 147 estudiantes, lo que representa un 7.48% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'FUNDAMENTOS MATEMATICOS' (código: MATE_1103) tuvo 538 reprobados de 1663 estudiantes, lo que representa un 32.35% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GEOGRAFIA TURISTICA' (código: HOTE_1047) tuvo 67 reprobados de 151 estudiantes, lo que representa un 44.37% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GERENCIA DE RECURSOS NATURALES' (código: RENR_3001) tuvo 3 reprobados de 6 estudiantes, lo que representa un 50.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GESTION DE CADENA DE VALOR Y C' (código: TURI_5011) tuvo 3 reprobados de 46 estudiantes, lo que representa un 6.52% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GESTION DE LA CALIDAD' (código: ADMI_5067) tuvo 70 reprobados de 1001 estudiantes, lo que representa un 6.99% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GESTION DE LA CALIDAD' (código: ADMI_4015) tuvo 28 reprobados de 76 estudiantes, lo que representa un 36.84% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GESTION DE NUEVOS NEGOCIOS' (código: ADMI_4079) tuvo 23 reprobados de 285 estudiantes, lo que representa un 8.07% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GESTION DEL CONOCIMIENTO' (código: ADMI_3030) tuvo 151 reprobados de 1199 estudiantes, lo que representa un 12.59% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GESTION DEL PATRIMONIO CULTU' (código: TURI_2011) tuvo 21 reprobados de 86 estudiantes, lo que representa un 24.42% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GESTION DEL TALENTO HUMANO' (código: ADMI_4094) tuvo 0 reprobados de 55 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GESTION E INNOVACION DE DESTIN' (código: TURI_4017) tuvo 4 reprobados de 43 estudiantes, lo que representa un 9.3% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GESTION INNOVACION EMPRESARIAL' (código: ADMI_1111) tuvo 15 reprobados de 180 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GESTION PUBLICA DEL TURISMO' (código: TURI_4018) tuvo 6 reprobados de 51 estudiantes, lo que representa un 11.76% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'GUIANZA' (código: TURI_2016) tuvo 11 reprobados de 71 estudiantes, lo que representa un 15.49% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'HABILIDADES GERENCIALES' (código: ADMI_5064) tuvo 648 reprobados de 1871 estudiantes, lo que representa un 34.63% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1055) tuvo 4 reprobados de 38 estudiantes, lo que representa un 10.53% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'HUMANISMO, UNIVERSIDAD Y CULTU' (código: RELI_1105) tuvo 1050 reprobados de 3838 estudiantes, lo que representa un 27.36% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'IMAGEN PERSONAL Y CORPORATIVA' (código: PERI_3015) tuvo 14 reprobados de 126 estudiantes, lo que representa un 11.11% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INCLUSION Y APRENDIZAJE SOSTEN' (código: EDUC_1102) tuvo 44 reprobados de 227 estudiantes, lo que representa un 19.38% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INCLUSIVE AND SUSTAINABLE EDUC' (código: EDUC_4115) tuvo 8 reprobados de 227 estudiantes, lo que representa un 3.52% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INNOVAR EN LOS FUTUROS DE LA E' (código: EDUC_1149) tuvo 2 reprobados de 31 estudiantes, lo que representa un 6.45% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INTELIG ESTRAT Y METOD INTERNA' (código: ADMI_4081) tuvo 40 reprobados de 608 estudiantes, lo que representa un 6.58% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INTELIGENCIA EMOCIONAL' (código: EDUC_1146) tuvo 31 reprobados de 238 estudiantes, lo que representa un 13.03% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INTRO A LA CAD DE VALOR EN CAF' (código: PAGR_1017) tuvo 4 reprobados de 21 estudiantes, lo que representa un 19.05% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INTRO AUDITORIA FORENSE EMPRES' (código: CONT_3028) tuvo 14 reprobados de 458 estudiantes, lo que representa un 3.06% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INTRODUC TO EDUCATIO RESEARCH' (código: EDUC_3180) tuvo 69 reprobados de 463 estudiantes, lo que representa un 14.9% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INTRODUCCION A LA ECONOMIA' (código: ECON_1090) tuvo 204 reprobados de 1179 estudiantes, lo que representa un 17.3% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INTRODUCTION TO LINGUISTICS' (código: EDUC_3189) tuvo 22 reprobados de 339 estudiantes, lo que representa un 6.49% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INVESTIGACION DE MERCADOS' (código: ADMI_3026) tuvo 85 reprobados de 1111 estudiantes, lo que representa un 7.65% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'INVESTIGACION OPERATIVA TOMA D' (código: DIPP_3001) tuvo 27 reprobados de 592 estudiantes, lo que representa un 4.56% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'JORN DE INVES LA CREDIBILIDAD' (código: EDUC_2022) tuvo 10 reprobados de 45 estudiantes, lo que representa un 22.22% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'JORNADA DE ASESORIA DE SISTEMA' (código: EDUC_1033) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'JORNADA DE INVEST Y FORMA ESP' (código: EDUC_4160) tuvo 1 reprobados de 21 estudiantes, lo que representa un 4.76% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'JORNADA DE INVESTIGACION TEMAT' (código: EDUC_2021) tuvo 10 reprobados de 23 estudiantes, lo que representa un 43.48% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'LANGUAGE TESTING' (código: EDUC_3177) tuvo 90 reprobados de 493 estudiantes, lo que representa un 18.26% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'LANGUAGE TESTING' (código: FDCE_4011) tuvo 12 reprobados de 41 estudiantes, lo que representa un 29.27% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'LECTURA Y REDACCION DE TEXTOS' (código: LITE_1106) tuvo 268 reprobados de 875 estudiantes, lo que representa un 30.63% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'LEGISLACION EMPRESARIAL' (código: ADMI_1110) tuvo 124 reprobados de 1029 estudiantes, lo que representa un 12.05% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'LEGISLACION MERCANTIL Y SOCIET' (código: DERE_2072) tuvo 310 reprobados de 1127 estudiantes, lo que representa un 27.51% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'LEGISLACION MONETARIA Y BANCAR' (código: DERE_1102) tuvo 4 reprobados de 4 estudiantes, lo que representa un 100.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'LEGISLACION TURISTICA Y AMBIEN' (código: TURI_2013) tuvo 20 reprobados de 101 estudiantes, lo que representa un 19.8% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1147) tuvo 31 reprobados de 211 estudiantes, lo que representa un 14.69% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1141) tuvo 2 reprobados de 12 estudiantes, lo que representa un 16.67% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'LOGISTICA EMPRESARIAL' (código: ADMI_4027) tuvo 3 reprobados de 16 estudiantes, lo que representa un 18.75% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'MANAGEMENT 3.0' (código: ADMI_1117) tuvo 25 reprobados de 149 estudiantes, lo que representa un 16.78% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'MARKETING' (código: MERC_4007) tuvo 146 reprobados de 1162 estudiantes, lo que representa un 12.56% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'MARKETING' (código: MERC_1005) tuvo 10 reprobados de 41 estudiantes, lo que representa un 24.39% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'MARKETING TURISTICO' (código: MERC_4004) tuvo 13 reprobados de 88 estudiantes, lo que representa un 14.77% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'MATEMATICA BASICA' (código: MATE_1106) tuvo 378 reprobados de 1190 estudiantes, lo que representa un 31.76% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'MATEMATICA FINANCIERA' (código: MATE_1109) tuvo 82 reprobados de 1696 estudiantes, lo que representa un 4.83% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'MATEMATICA FINANCIERA' (código: MATE_1095) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'MATRIMONIO Y FAMILIA' (código: RELI_1033) tuvo 13 reprobados de 257 estudiantes, lo que representa un 5.06% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'MERCADO DE VALORES' (código: COME_5000) tuvo 32 reprobados de 229 estudiantes, lo que representa un 13.97% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'METH TO ADOLESCENTS AND ADULTS' (código: EDUC_3188) tuvo 7 reprobados de 241 estudiantes, lo que representa un 2.9% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'METHO FOR ACADEMIC PURPOSES' (código: EDUC_3187) tuvo 3 reprobados de 86 estudiantes, lo que representa un 3.49% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'METHODO FOR TEAC ENGL TO CHILD' (código: EDUC_3191) tuvo 14 reprobados de 289 estudiantes, lo que representa un 4.84% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'METHODOLOGY AND DIDACTICS III:' (código: FDCE_4014) tuvo 7 reprobados de 35 estudiantes, lo que representa un 20.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'METHODOLOGY FOR TEACHING ENGLI' (código: EDUC_3182) tuvo 32 reprobados de 141 estudiantes, lo que representa un 22.7% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'METODOS DE VALOR DE EMPRESAS' (código: ADMI_5065) tuvo 54 reprobados de 557 estudiantes, lo que representa un 9.69% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'NEGOCIOS INTERNACIONALES' (código: COME_3003) tuvo 46 reprobados de 458 estudiantes, lo que representa un 10.04% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'NEURO MARKT Y TEORIAS DE INFOR' (código: TURI_4021) tuvo 2 reprobados de 16 estudiantes, lo que representa un 12.5% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'NEUROCIENCIA Y PSICOL DEL DESA' (código: PSIC_1104) tuvo 47 reprobados de 480 estudiantes, lo que representa un 9.79% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'NUEVAS ALTERNATIVAS DE TURISMO' (código: TURI_2018) tuvo 19 reprobados de 113 estudiantes, lo que representa un 16.81% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ORDENAMIENTO TURISTICO TERRITO' (código: TURI_5013) tuvo 0 reprobados de 30 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ORGANIZACION DE EVENTOS Y PROT' (código: TURI_2015) tuvo 17 reprobados de 79 estudiantes, lo que representa un 21.52% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'ORGANIZACION INDUSTRIAL' (código: PIND_5008) tuvo 17 reprobados de 117 estudiantes, lo que representa un 14.53% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: CONT_5010) tuvo 7 reprobados de 165 estudiantes, lo que representa un 4.24% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: ADMI_5046) tuvo 31 reprobados de 343 estudiantes, lo que representa un 9.04% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: TURI_5006) tuvo 0 reprobados de 49 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: ADMI_4046) tuvo 37 reprobados de 213 estudiantes, lo que representa un 17.37% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: TURI_4012) tuvo 0 reprobados de 25 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: CONT_4000) tuvo 17 reprobados de 106 estudiantes, lo que representa un 16.04% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANTIA PRE-PRO1' (código: FDCE_3015) tuvo 2 reprobados de 24 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANTIA PRE-PRO2' (código: FDCE_4023) tuvo 8 reprobados de 57 estudiantes, lo que representa un 14.04% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANTIAS PRE-PROF PRACTICUM 1' (código: CONT_3002) tuvo 4 reprobados de 20 estudiantes, lo que representa un 20.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANTIAS PRE-PROF PRACTICUM 1' (código: ADMI_3023) tuvo 6 reprobados de 14 estudiantes, lo que representa un 42.86% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: ADMI_4045) tuvo 6 reprobados de 49 estudiantes, lo que representa un 12.24% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: CONT_4008) tuvo 4 reprobados de 49 estudiantes, lo que representa un 8.16% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PATRIMONIO NATURAL Y BIODIVERS' (código: TURI_3013) tuvo 12 reprobados de 99 estudiantes, lo que representa un 12.12% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PEDAGOGIA' (código: EDUC_3113) tuvo 45 reprobados de 462 estudiantes, lo que representa un 9.74% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PLANIFICACION DE DESTINOS TURI' (código: TURI_4016) tuvo 7 reprobados de 67 estudiantes, lo que representa un 10.45% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'POLITICA PUBLICA Y MARCO LEGA' (código: FDCE_2030) tuvo 112 reprobados de 649 estudiantes, lo que representa un 17.26% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICA TRIBUTARIA' (código: CONT_2026) tuvo 100 reprobados de 755 estudiantes, lo que representa un 13.25% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 1' (código: CONT_2029) tuvo 109 reprobados de 681 estudiantes, lo que representa un 16.01% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 1' (código: EDUC_2120) tuvo 96 reprobados de 440 estudiantes, lo que representa un 21.82% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 1' (código: TURI_2010) tuvo 23 reprobados de 106 estudiantes, lo que representa un 21.7% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 1' (código: ADMI_2029) tuvo 357 reprobados de 1319 estudiantes, lo que representa un 27.07% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 2' (código: TURI_3017) tuvo 7 reprobados de 90 estudiantes, lo que representa un 7.78% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 2' (código: CONT_3037) tuvo 33 reprobados de 614 estudiantes, lo que representa un 5.37% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 2' (código: EDUC_3181) tuvo 41 reprobados de 371 estudiantes, lo que representa un 11.05% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 2' (código: ADMI_3027) tuvo 122 reprobados de 815 estudiantes, lo que representa un 14.97% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 3' (código: ADMI_4080) tuvo 155 reprobados de 982 estudiantes, lo que representa un 15.78% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 3' (código: EDUC_3186) tuvo 27 reprobados de 324 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 3 SERVICIO COMUNITA' (código: CONT_3038) tuvo 79 reprobados de 681 estudiantes, lo que representa un 11.6% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: TURI_3012) tuvo 8 reprobados de 81 estudiantes, lo que representa un 9.88% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 4.1' (código: EDUC_4107) tuvo 17 reprobados de 245 estudiantes, lo que representa un 6.94% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 4.1' (código: TURI_4020) tuvo 6 reprobados de 50 estudiantes, lo que representa un 12.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: ADMI_4087) tuvo 30 reprobados de 617 estudiantes, lo que representa un 4.86% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: CONT_4032) tuvo 36 reprobados de 521 estudiantes, lo que representa un 6.91% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 4.2' (código: EDUC_4114) tuvo 13 reprobados de 127 estudiantes, lo que representa un 10.24% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 4.2' (código: TURI_5010) tuvo 4 reprobados de 27 estudiantes, lo que representa un 14.81% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: CONT_4034) tuvo 84 reprobados de 334 estudiantes, lo que representa un 25.15% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: ADMI_5068) tuvo 39 reprobados de 354 estudiantes, lo que representa un 11.02% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM ACADE 3 ASESORIA TT' (código: FDCE_4028) tuvo 2 reprobados de 108 estudiantes, lo que representa un 1.85% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM ACADEMICO 1' (código: FDCE_3021) tuvo 2 reprobados de 10 estudiantes, lo que representa un 20.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRACTICUM ACADEMICO 2' (código: FDCE_4027) tuvo 23 reprobados de 111 estudiantes, lo que representa un 20.72% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRESUPUESTOS' (código: FINZ_1018) tuvo 2 reprobados de 3 estudiantes, lo que representa un 66.67% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRINCIPIOS DE AUDITORIA' (código: CONT_3027) tuvo 95 reprobados de 783 estudiantes, lo que representa un 12.13% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PRINCIPIOS DEL TURISMO' (código: HOTE_1045) tuvo 56 reprobados de 143 estudiantes, lo que representa un 39.16% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4105) tuvo 174 reprobados de 881 estudiantes, lo que representa un 19.75% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4118) tuvo 19 reprobados de 94 estudiantes, lo que representa un 20.21% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4106) tuvo 195 reprobados de 975 estudiantes, lo que representa un 20.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PROSPECTIVA EMPRESARIAL Y A' (código: ADMI_4092) tuvo 93 reprobados de 597 estudiantes, lo que representa un 15.58% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PROYECTOS' (código: ADMI_4090) tuvo 29 reprobados de 756 estudiantes, lo que representa un 3.84% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'PROYECTOS' (código: ADMI_4035) tuvo 13 reprobados de 58 estudiantes, lo que representa un 22.41% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'RADIO Y NUEVAS TECNOLOGIAS' (código: PERI_1120) tuvo 9 reprobados de 95 estudiantes, lo que representa un 9.47% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'RECURSOS TANGIB E INTANGIB' (código: TURI_3015) tuvo 3 reprobados de 36 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'RELACIONES PUB Y PROTOCOLO' (código: HOTE_1040) tuvo 23 reprobados de 234 estudiantes, lo que representa un 9.83% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'RESEARCH METHODS IN ELT' (código: EDUC_3184) tuvo 21 reprobados de 380 estudiantes, lo que representa un 5.53% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'RESPONSABILIDAD SOCIAL EMPRE' (código: ADMI_4088) tuvo 150 reprobados de 947 estudiantes, lo que representa un 15.84% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'SECOND LANGUAGE ACQUISITION' (código: EDUC_4113) tuvo 22 reprobados de 310 estudiantes, lo que representa un 7.1% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'SEMANTICS AND PRAGMATICS' (código: EDUC_4108) tuvo 6 reprobados de 306 estudiantes, lo que representa un 1.96% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'SEMINARIO DE FIN DE CARRERA' (código: CONT_5004) tuvo 22 reprobados de 237 estudiantes, lo que representa un 9.28% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'SEMINARIO DE FIN DE CARRERA' (código: TURI_5007) tuvo 5 reprobados de 39 estudiantes, lo que representa un 12.82% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'SEMINARIO DE FIN DE CARRERA' (código: FDCE_4031) tuvo 13 reprobados de 138 estudiantes, lo que representa un 9.42% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ADMI_5047) tuvo 35 reprobados de 343 estudiantes, lo que representa un 10.2% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'SISTEMAS DE COSTOS' (código: CONT_2035) tuvo 164 reprobados de 1106 estudiantes, lo que representa un 14.83% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'SISTEMAS TECNOLOGICOS APLICADO' (código: TURI_4013) tuvo 8 reprobados de 79 estudiantes, lo que representa un 10.13% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'SOCIOLOGIA DE LA EDUCACION' (código: EDUC_1109) tuvo 128 reprobados de 664 estudiantes, lo que representa un 19.28% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'SOSTENIBILIDAD EMPRESARIAL' (código: ADMI_3024) tuvo 169 reprobados de 1214 estudiantes, lo que representa un 13.92% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TEACHING CULTURE IN THE EFL CL' (código: EDUC_4110) tuvo 24 reprobados de 308 estudiantes, lo que representa un 7.79% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TEACHING TECHNIQUES' (código: FDCE_4038) tuvo 8 reprobados de 11 estudiantes, lo que representa un 72.73% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TECHNOLOGY IN THE EFL CLASSROO' (código: IDIO_2023) tuvo 88 reprobados de 540 estudiantes, lo que representa un 16.3% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TECNICAS DE INFERENCIA ESTADIS' (código: ESTA_2022) tuvo 57 reprobados de 1717 estudiantes, lo que representa un 3.32% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TEFL METHODOLOGY AND DIDACTICS' (código: EDUC_2089) tuvo 120 reprobados de 546 estudiantes, lo que representa un 21.98% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TEORIA MACROECONOMICA' (código: ECON_2031) tuvo 55 reprobados de 1645 estudiantes, lo que representa un 3.34% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TEORIA MICROECONOMICA' (código: ECON_2030) tuvo 113 reprobados de 1647 estudiantes, lo que representa un 6.86% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: ADMI_5060) tuvo 17 reprobados de 341 estudiantes, lo que representa un 4.99% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: CONT_5000) tuvo 11 reprobados de 315 estudiantes, lo que representa un 3.49% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TRABAJO DE TITULACION' (código: FDCE_4043) tuvo 37 reprobados de 172 estudiantes, lo que representa un 21.51% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TRANSPORTACION TURISTICA' (código: TURI_2017) tuvo 11 reprobados de 89 estudiantes, lo que representa un 12.36% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TURISMO RURAL Y DESARRO LOCAL' (código: TURI_4019) tuvo 0 reprobados de 17 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'TURISMO Y HOTELERIA' (código: HOTE_1030) tuvo 14 reprobados de 127 estudiantes, lo que representa un 11.02% de reprobados.
+En la modalidad 'DISTANCIA', el curso 'VALORACION DE EMPRESAS' (código: FINZ_5000) tuvo 79 reprobados de 253 estudiantes, lo que representa un 31.23% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ACADEMIC READING AND WRITIN II' (código: EDUC_3183) tuvo 6 reprobados de 47 estudiantes, lo que representa un 12.77% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ACADEMIC READING AND WRITING I' (código: EDUC_3178) tuvo 1 reprobados de 42 estudiantes, lo que representa un 2.38% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADAPTACIONES CURRICULARES Y DI' (código: EDUC_3185) tuvo 2 reprobados de 46 estudiantes, lo que representa un 4.35% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADMIN DE CAD DE SUM Y LOG EMPR' (código: ADMI_2030) tuvo 0 reprobados de 47 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADMINISTRACION' (código: ADMI_1109) tuvo 9 reprobados de 94 estudiantes, lo que representa un 9.57% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADMINISTRACION DE OPERAC Y PR' (código: PIND_2010) tuvo 9 reprobados de 51 estudiantes, lo que representa un 17.65% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADMINISTRACION DE TECN Y SISTE' (código: ADMI_4095) tuvo 2 reprobados de 32 estudiantes, lo que representa un 6.25% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADMINISTRACION DE TECNOLOGIAS' (código: SIST_5001) tuvo 1 reprobados de 1 estudiantes, lo que representa un 100.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADMINISTRACION DEL TALENTO HUM' (código: LABO_3002) tuvo 3 reprobados de 84 estudiantes, lo que representa un 3.57% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5005) tuvo 1 reprobados de 2 estudiantes, lo que representa un 50.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5066) tuvo 3 reprobados de 29 estudiantes, lo que representa un 10.34% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADMINISTRACION FINANCIERA' (código: FINZ_4057) tuvo 0 reprobados de 18 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADMINISTRACION FINANCIERA OPER' (código: ECON_4112) tuvo 11 reprobados de 73 estudiantes, lo que representa un 15.07% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ADMINISTRACION I' (código: ADMI_1009) tuvo 1 reprobados de 4 estudiantes, lo que representa un 25.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'AEROGRAFIA' (código: ARTE_1050) tuvo 0 reprobados de 4 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ALGEBRA LINEAL' (código: MATE_1108) tuvo 21 reprobados de 343 estudiantes, lo que representa un 6.12% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ALGORITMOS Y RESOLUCION DE PRO' (código: DSOF_1070) tuvo 1 reprobados de 1 estudiantes, lo que representa un 100.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ANA MATEMATICO MULTIVARIADO' (código: MATE_2029) tuvo 3 reprobados de 73 estudiantes, lo que representa un 4.11% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ANA Y VISUAL GRA VOL DE DATOS' (código: DRBD_4016) tuvo 0 reprobados de 26 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ANALISIS DE ALGORITMOS' (código: DSOF_2036) tuvo 6 reprobados de 131 estudiantes, lo que representa un 4.58% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ANALISIS EXPLORATORIO DE DATOS' (código: TIER_1075) tuvo 1 reprobados de 5 estudiantes, lo que representa un 20.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ANALISIS MATEMATICO UNIVARIADO' (código: MATE_1101) tuvo 15 reprobados de 230 estudiantes, lo que representa un 6.52% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ANALISIS TERRITORIAL' (código: ECON_4109) tuvo 0 reprobados de 40 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ANTROPOLOGIA' (código: RELI_3002) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ANTROPOLOGIA BASICA' (código: RELI_2062) tuvo 9 reprobados de 400 estudiantes, lo que representa un 2.25% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'APLIC AUDIT FORENS CICLOS TRAN' (código: CONT_3031) tuvo 0 reprobados de 18 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'APLICACIONES DE COSTOS' (código: CONT_3030) tuvo 0 reprobados de 19 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ARQ Y COMP PARALELA' (código: COMP_5006) tuvo 1 reprobados de 7 estudiantes, lo que representa un 14.29% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ARQ Y ORGANIZACION DE COMP' (código: COMP_2010) tuvo 3 reprobados de 124 estudiantes, lo que representa un 2.42% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ARQ Y SEGURIDAD DE REDES' (código: DRBD_5003) tuvo 10 reprobados de 23 estudiantes, lo que representa un 43.48% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ARQUITECTURA DE APLICACIONES' (código: DSOF_4004) tuvo 0 reprobados de 11 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ARQUITECTURA DE COMPUTADORAS' (código: DSOF_2039) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ARQUITECTURA DE SOFTWARE' (código: DSOF_4069) tuvo 1 reprobados de 55 estudiantes, lo que representa un 1.82% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ARTE ESCENICO Y EXPRESION ORAL' (código: PERI_1110) tuvo 1 reprobados de 3 estudiantes, lo que representa un 33.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'AUDIT INT Y ADMIN RIESGOS ERM' (código: CONT_4030) tuvo 0 reprobados de 14 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'AUDITORIA DE GESTION' (código: CONT_4028) tuvo 0 reprobados de 15 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'AUDITORIA FINANCIERA' (código: FINZ_4056) tuvo 0 reprobados de 19 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'AUDITORIA INFORMATICA' (código: SIST_5006) tuvo 1 reprobados de 2 estudiantes, lo que representa un 50.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'AUDITORIA INFORMATICA' (código: SIST_1012) tuvo 0 reprobados de 5 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'BASE DE DATOS AVANZADA' (código: DRBD_2005) tuvo 9 reprobados de 129 estudiantes, lo que representa un 6.98% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'BIOECONOMIA CIRCULAR' (código: RENR_1004) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CALCULO DIFERENCIAL' (código: MATE_1114) tuvo 1 reprobados de 1 estudiantes, lo que representa un 100.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CARACTERIZACION DE MATERIALES' (código: TIER_1078) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CICLO DEL MERCURIO EN LA NATUR' (código: TIER_1076) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'COMERCIO EXTERIOR' (código: COME_1005) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'COMERCIO EXTERIOR' (código: COME_3002) tuvo 0 reprobados de 21 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'COMP PARALELA Y DISTRIBUIDA' (código: COMP_4013) tuvo 0 reprobados de 55 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'COMPORTAMIENTO ORGANIZACIONAL' (código: ADMI_4082) tuvo 7 reprobados de 71 estudiantes, lo que representa un 9.86% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'COMPOSICION DE TEXTOS CIENTIFI' (código: LITE_1108) tuvo 5 reprobados de 65 estudiantes, lo que representa un 7.69% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'COMPUTACION Y SOCIEDAD' (código: COMP_1081) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'COMPUTACION Y SOCIEDAD' (código: COMP_1078) tuvo 9 reprobados de 189 estudiantes, lo que representa un 4.76% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'COMUNICACION DE DATOS' (código: DRBD_3019) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CONSTRUCCION DE INDICADORES' (código: ECON_4116) tuvo 4 reprobados de 51 estudiantes, lo que representa un 7.84% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CONTABILIDAD AGRARIA' (código: CONT_4033) tuvo 0 reprobados de 17 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CONTABILIDAD CORPORATIVA' (código: CONT_2027) tuvo 0 reprobados de 17 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CONTABILIDAD DE COSTOS' (código: CONT_3026) tuvo 6 reprobados de 25 estudiantes, lo que representa un 24.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CONTABILIDAD DE INSTITUC FINAN' (código: CONT_3025) tuvo 0 reprobados de 18 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CONTABILIDAD FINANCIERA' (código: CONT_1085) tuvo 1 reprobados de 30 estudiantes, lo que representa un 3.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CONTABILIDAD FINANCIERA AVANZA' (código: CONT_2025) tuvo 3 reprobados de 26 estudiantes, lo que representa un 11.54% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5023) tuvo 0 reprobados de 13 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_2028) tuvo 0 reprobados de 18 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CONTRASTIVE GRAMMAR' (código: EDUC_4116) tuvo 0 reprobados de 23 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CONTRATACION PUBLICA' (código: DERE_3050) tuvo 2 reprobados de 22 estudiantes, lo que representa un 9.09% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CUR DSING FR ACADM AND SPCIF P' (código: EDUC_4111) tuvo 0 reprobados de 8 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CURRICLM FUNDTS PRNCPLS AND IS' (código: EDUC_4112) tuvo 0 reprobados de 17 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'CURSO DE ACTUALIZACION' (código: UTPL_3000) tuvo 8 reprobados de 20 estudiantes, lo que representa un 40.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DERECHO LABORAL' (código: DERE_3045) tuvo 0 reprobados de 29 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DERECHO TRIBUTARIO' (código: DERE_4054) tuvo 0 reprobados de 69 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DERECHO TRIBUTARIO' (código: DERE_1182) tuvo 0 reprobados de 30 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DESARROLLO BASADO EN PLAT WEB' (código: DSOF_3048) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DESARROLLO BASADO EN PLATAF MO' (código: DSOF_4075) tuvo 0 reprobados de 3 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DESARROLLO ECONOMICO' (código: ECON_4002) tuvo 2 reprobados de 4 estudiantes, lo que representa un 50.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DESARROLLO EMPRES NUEVOS NEGOC' (código: ADMI_3025) tuvo 2 reprobados de 25 estudiantes, lo que representa un 8.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DESARROLLO EMPRESARIAL' (código: ADMI_1043) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DESARROLLO ESPIRITUAL III' (código: RELI_3005) tuvo 0 reprobados de 3 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DESARROLLO REGIONAL' (código: ECON_3047) tuvo 1 reprobados de 54 estudiantes, lo que representa un 1.85% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DIRECCION ESTRATEGICA' (código: ADMI_5071) tuvo 0 reprobados de 22 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DISCOURSE ANALYSIS' (código: EDUC_4117) tuvo 0 reprobados de 23 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DISEÑO DE CIMENTACIONES PRO Y' (código: TIER_1080) tuvo 0 reprobados de 4 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DISEÑO PARAM Y FABRIC DIGITAL' (código: ARQU_1021) tuvo 0 reprobados de 4 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: RELI_1001) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: RELI_5002) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'E-COMMERCE' (código: ADMI_4083) tuvo 1 reprobados de 19 estudiantes, lo que representa un 5.26% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMETRIA AVANZADA' (código: ECON_3043) tuvo 15 reprobados de 72 estudiantes, lo que representa un 20.83% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMETRIA BASICA' (código: ECON_3039) tuvo 5 reprobados de 73 estudiantes, lo que representa un 6.85% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMETRIA II' (código: ECMA_4003) tuvo 1 reprobados de 1 estudiantes, lo que representa un 100.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMETRIA III' (código: ECMA_4004) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMIA AMBIEN DES ECON SUST' (código: ECON_5008) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMIA AMBIENTAL Y DE REC NA' (código: ECON_4108) tuvo 9 reprobados de 78 estudiantes, lo que representa un 11.54% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMIA DE LA EMPRESA Y MERCA' (código: ECON_2035) tuvo 11 reprobados de 82 estudiantes, lo que representa un 13.41% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMIA INTERNACIONAL' (código: ECON_5013) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMIA INTERNACIONAL' (código: ECON_5077) tuvo 13 reprobados de 54 estudiantes, lo que representa un 24.07% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMIA POLITICA' (código: ECON_5014) tuvo 1 reprobados de 4 estudiantes, lo que representa un 25.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMIA POLITICA' (código: ECON_5076) tuvo 3 reprobados de 48 estudiantes, lo que representa un 6.25% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECONOMIA POPULAR Y SOLIDARIA' (código: ADMI_1127) tuvo 1 reprobados de 1 estudiantes, lo que representa un 100.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ECUACIONES DIFER Y MET NUMER' (código: MATE_3100) tuvo 15 reprobados de 131 estudiantes, lo que representa un 11.45% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'EL ARTE DE AMAR' (código: RELI_1110) tuvo 0 reprobados de 10 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'EMPREN CON BASE TECNOLOGICA I' (código: ADMI_5078) tuvo 4 reprobados de 54 estudiantes, lo que representa un 7.41% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'EMPREN CON BASE TECNOLOGICA II' (código: ADMI_5079) tuvo 0 reprobados de 24 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'EMPRENDIMIENTO' (código: ADMI_4038) tuvo 5 reprobados de 214 estudiantes, lo que representa un 2.34% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'EMPRENDIMIENTO Y FUNDAMENTOS P' (código: ADMI_7125) tuvo 0 reprobados de 8 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ENGLISH LAN: LIST AND SPEAK IV' (código: EDUC_2118) tuvo 1 reprobados de 63 estudiantes, lo que representa un 1.59% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ENGLISH LAN: LISTE AND SPE III' (código: EDUC_3112) tuvo 4 reprobados de 68 estudiantes, lo que representa un 5.88% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ENGLISH LAN: READ AND WRIT III' (código: EDUC_3111) tuvo 7 reprobados de 69 estudiantes, lo que representa un 10.14% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ENGLISH LAN: READ AND WRIT IV' (código: EDUC_2119) tuvo 1 reprobados de 65 estudiantes, lo que representa un 1.54% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ENGLISH LANG: LIST AND SPEA II' (código: FDCE_1075) tuvo 6 reprobados de 107 estudiantes, lo que representa un 5.61% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ENGLISH LANG: LIST AND SPEAK I' (código: FDCE_1074) tuvo 3 reprobados de 105 estudiantes, lo que representa un 2.86% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ENGLISH LANG: READ AND WRIT II' (código: FDCE_1076) tuvo 2 reprobados de 102 estudiantes, lo que representa un 1.96% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ENGLISH LANG: READI AND WRIT I' (código: IDIO_1104) tuvo 6 reprobados de 106 estudiantes, lo que representa un 5.66% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ENGLISH PRON: PHONETI AND PHON' (código: EDUC_3179) tuvo 1 reprobados de 41 estudiantes, lo que representa un 2.44% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ENGLISH SYNTAX' (código: EDUC_4109) tuvo 2 reprobados de 24 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' (código: CONT_1084) tuvo 3 reprobados de 31 estudiantes, lo que representa un 9.68% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ESTABILIDAD DE LADERAS Y TALUD' (código: TIER_1081) tuvo 0 reprobados de 5 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ESTADISTICA BASICA' (código: ESTA_3023) tuvo 10 reprobados de 184 estudiantes, lo que representa un 5.43% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ESTADISTICA BASICA' (código: ESTA_2031) tuvo 6 reprobados de 68 estudiantes, lo que representa un 8.82% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ESTADISTICA II' (código: ESTA_1012) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ESTADISTICA PARA LAS ING Y ARQ' (código: ESTA_2029) tuvo 1 reprobados de 1 estudiantes, lo que representa un 100.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ESTADISTICA Y PROBABILIDAD' (código: ESTA_3022) tuvo 6 reprobados de 94 estudiantes, lo que representa un 6.38% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ESTRUCTURAS DE DATOS' (código: DSOF_2029) tuvo 18 reprobados de 175 estudiantes, lo que representa un 10.29% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ESTRUCTURAS DISCRETAS' (código: DSOF_2030) tuvo 24 reprobados de 203 estudiantes, lo que representa un 11.82% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ETICA DE LA INTELIGENCIA ARTIF' (código: RELI_1109) tuvo 0 reprobados de 3 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ETICA Y MORAL' (código: FILO_1114) tuvo 6 reprobados de 290 estudiantes, lo que representa un 2.07% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'EVALUACION DE PROYECTOS' (código: ADMI_4089) tuvo 3 reprobados de 39 estudiantes, lo que representa un 7.69% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FAMILIA Y EDUCACION: RETOS Y D' (código: EDUC_1143) tuvo 0 reprobados de 4 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FILOSOFIA E HISTORIA DE LA EDU' (código: FILO_1117) tuvo 0 reprobados de 106 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FINANZAS ESTRUCTURALES' (código: FINZ_3024) tuvo 11 reprobados de 45 estudiantes, lo que representa un 24.44% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FINANZAS OPERATIVAS' (código: FINZ_3023) tuvo 5 reprobados de 53 estudiantes, lo que representa un 9.43% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FISICA BASICA' (código: FISI_1039) tuvo 62 reprobados de 186 estudiantes, lo que representa un 33.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FORM EVALUAC DE PROYECTOS' (código: ADMI_4126) tuvo 0 reprobados de 13 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FORMULACION DE PROYECTOS' (código: ECON_3045) tuvo 13 reprobados de 57 estudiantes, lo que representa un 22.81% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUND DE INTE ARTIFICIAL' (código: COMP_4012) tuvo 1 reprobados de 53 estudiantes, lo que representa un 1.89% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUND DEL LENGUAJE VISUAL' (código: ARTE_1089) tuvo 0 reprobados de 3 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS COMPUTACIONALES' (código: COMP_1075) tuvo 27 reprobados de 196 estudiantes, lo que representa un 13.78% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE ADMINIST FINAN' (código: ADMI_1115) tuvo 0 reprobados de 16 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE ADMINISTRACION' (código: ADMI_1113) tuvo 3 reprobados de 77 estudiantes, lo que representa un 3.9% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE ANALISIS DE DAT' (código: DRBD_3014) tuvo 0 reprobados de 61 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE BASE DE DATOS' (código: DRBD_2004) tuvo 3 reprobados de 123 estudiantes, lo que representa un 2.44% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE BASE DE DATOS' (código: DRBD_2006) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE CONTABILIDAD' (código: CONT_1083) tuvo 17 reprobados de 199 estudiantes, lo que representa un 8.54% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE ECONOMIA' (código: ECON_1088) tuvo 4 reprobados de 31 estudiantes, lo que representa un 12.9% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE HARDWARE' (código: DSOF_1071) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE INGENIERIA DE S' (código: SIST_3012) tuvo 1 reprobados de 3 estudiantes, lo que representa un 33.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE INGENIERIA DE S' (código: SIST_3011) tuvo 0 reprobados de 77 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE PROGRAMACION' (código: DSOF_1073) tuvo 2 reprobados de 2 estudiantes, lo que representa un 100.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS DE REDES' (código: DRBD_4012) tuvo 6 reprobados de 83 estudiantes, lo que representa un 7.23% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS INFORMATICOS' (código: COMP_1034) tuvo 0 reprobados de 6 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS MATEMATICOS' (código: MATE_1103) tuvo 36 reprobados de 353 estudiantes, lo que representa un 10.2% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'FUNDAMENTOS Y APLICACION DE SE' (código: DSOF_4077) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GEOESTADISTICA BASICA' (código: TIER_1062) tuvo 0 reprobados de 4 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GEOLOGIA DEL SUBSUELO' (código: TIER_1074) tuvo 1 reprobados de 1 estudiantes, lo que representa un 100.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GERENCIA DE OPERACIONES MINERA' (código: MINE_1005) tuvo 1 reprobados de 3 estudiantes, lo que representa un 33.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GERENCIA DE RECURSOS NATURALES' (código: RENR_3001) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GEST DE LA CALIDAD DE SOFTWARE' (código: DSOF_3035) tuvo 2 reprobados de 79 estudiantes, lo que representa un 2.53% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GEST DE TECN DE LA INFO' (código: SIST_4000) tuvo 1 reprobados de 1 estudiantes, lo que representa un 100.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GESTION DE LA CALIDAD' (código: ADMI_5067) tuvo 1 reprobados de 36 estudiantes, lo que representa un 2.78% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GESTION DE LA CALIDAD DEL SOFT' (código: DSOF_3045) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GESTION DE NUEVOS NEGOCIOS' (código: ADMI_4079) tuvo 7 reprobados de 15 estudiantes, lo que representa un 46.67% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GESTION DE NUEVOS RIESGOS LABO' (código: SEPR_1002) tuvo 0 reprobados de 3 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GESTION DE PROYECTOS' (código: ADMI_5077) tuvo 2 reprobados de 36 estudiantes, lo que representa un 5.56% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GESTION DEL CONOCIMIENTO' (código: ADMI_3030) tuvo 8 reprobados de 53 estudiantes, lo que representa un 15.09% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GESTION ESTRATEGICA DE LA INNO' (código: ADMI_7129) tuvo 0 reprobados de 6 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GESTION INNOVACION EMPRESARIAL' (código: ADMI_1111) tuvo 0 reprobados de 6 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GESTION PRODUCTIVA 4.2' (código: ADMI_5025) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GESTION PRODUCTIVA GP 4.1' (código: ECON_5021) tuvo 1 reprobados de 4 estudiantes, lo que representa un 25.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'GESTION PRODUCTIVA GP 4.2' (código: ECON_5023) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'HABILIDADES GERENCIALES' (código: ADMI_5064) tuvo 5 reprobados de 94 estudiantes, lo que representa un 5.32% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1089) tuvo 6 reprobados de 72 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1055) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'HISTORIA ECONOMICA DEL ECUADOR' (código: ECON_1087) tuvo 6 reprobados de 76 estudiantes, lo que representa un 7.89% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'HUMANISMO, UNIVERSIDAD Y CULTU' (código: RELI_1105) tuvo 21 reprobados de 470 estudiantes, lo que representa un 4.47% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'IMAGEN PERSONAL Y CORPORATIVA' (código: PERI_3015) tuvo 2 reprobados de 3 estudiantes, lo que representa un 66.67% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INCLUSION Y APRENDIZAJE SOSTEN' (código: EDUC_1102) tuvo 3 reprobados de 27 estudiantes, lo que representa un 11.11% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INCLUSIVE AND SUSTAINABLE EDUC' (código: EDUC_4115) tuvo 2 reprobados de 25 estudiantes, lo que representa un 8.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INGENIERIA DE REQUISITOS' (código: DSOF_3039) tuvo 1 reprobados de 83 estudiantes, lo que representa un 1.2% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INGENIERIA WEB' (código: DSOF_3037) tuvo 12 reprobados de 91 estudiantes, lo que representa un 13.19% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INNOVAR EN LOS FUTUROS DE LA E' (código: EDUC_1149) tuvo 0 reprobados de 3 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTE ARTIFICIAL AVANZADO' (código: DSOF_5003) tuvo 2 reprobados de 13 estudiantes, lo que representa un 15.38% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTELIG ESTRAT Y METOD INTERNA' (código: ADMI_4081) tuvo 1 reprobados de 19 estudiantes, lo que representa un 5.26% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTELIGENCIA ARTIFICIAL' (código: DSOF_4009) tuvo 2 reprobados de 10 estudiantes, lo que representa un 20.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTELIGENCIA DE NEGOCIOS' (código: DRBD_1009) tuvo 1 reprobados de 9 estudiantes, lo que representa un 11.11% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTELIGENCIA EMOCIONAL' (código: EDUC_1146) tuvo 1 reprobados de 12 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTEROPERY EXPLO DATOS ECO HET' (código: DRBD_4015) tuvo 0 reprobados de 27 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTRO A LA CAD DE VALOR EN CAF' (código: PAGR_1017) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTRO AUDITORIA FORENSE EMPRES' (código: CONT_3028) tuvo 0 reprobados de 20 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTRODUC TO EDUCATIO RESEARCH' (código: EDUC_3180) tuvo 2 reprobados de 47 estudiantes, lo que representa un 4.26% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTRODUCCION A LA AUDITORIA' (código: CONT_1007) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTRODUCCION A LA ECONOMIA' (código: ECON_1090) tuvo 9 reprobados de 161 estudiantes, lo que representa un 5.59% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTRODUCCION A LA INTELIGENCIA' (código: COMP_3013) tuvo 0 reprobados de 83 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTRODUCCION A LA PROGRAMACION' (código: DSOF_1067) tuvo 33 reprobados de 201 estudiantes, lo que representa un 16.42% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTRODUCCIÓN AL DISEÑO INTERIO' (código: DISE_1032) tuvo 0 reprobados de 11 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INTRODUCTION TO LINGUISTICS' (código: EDUC_3189) tuvo 0 reprobados de 42 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INVESTIGACION DE MERCADOS' (código: ADMI_3026) tuvo 1 reprobados de 67 estudiantes, lo que representa un 1.49% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'INVESTIGACION OPERATIVA TOMA D' (código: DIPP_3001) tuvo 7 reprobados de 35 estudiantes, lo que representa un 20.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'JORN DE INVES LA CREDIBILIDAD' (código: EDUC_2022) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'JORNADA DE INVEST Y FORMA ESP' (código: EDUC_4160) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'LANGUAGE TESTING' (código: EDUC_3177) tuvo 0 reprobados de 47 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'LECTURA Y REDACCION DE TEXTOS' (código: LITE_1106) tuvo 7 reprobados de 107 estudiantes, lo que representa un 6.54% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'LEGISLACION EMPRESARIAL' (código: ADMI_1110) tuvo 2 reprobados de 72 estudiantes, lo que representa un 2.78% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'LEGISLACION MERCANTIL Y SOCIET' (código: DERE_2072) tuvo 2 reprobados de 29 estudiantes, lo que representa un 6.9% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1147) tuvo 5 reprobados de 19 estudiantes, lo que representa un 26.32% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'LOGICA DIGITAL' (código: ELEN_2008) tuvo 5 reprobados de 131 estudiantes, lo que representa un 3.82% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MACROECONOMIA ABIERTA' (código: ECON_3041) tuvo 3 reprobados de 65 estudiantes, lo que representa un 4.62% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MACROECONOMIA CERRADA' (código: ECON_2034) tuvo 3 reprobados de 64 estudiantes, lo que representa un 4.69% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MANAGEMENT 3.0' (código: ADMI_1117) tuvo 1 reprobados de 8 estudiantes, lo que representa un 12.5% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MARKETING' (código: MERC_4007) tuvo 0 reprobados de 72 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MATEMATICA BASICA' (código: MATE_1106) tuvo 4 reprobados de 31 estudiantes, lo que representa un 12.9% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MATEMATICA FINANCIERA' (código: MATE_1109) tuvo 11 reprobados de 166 estudiantes, lo que representa un 6.63% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MATRIMONIO Y FAMILIA' (código: RELI_1033) tuvo 1 reprobados de 13 estudiantes, lo que representa un 7.69% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MERCADO DE VALORES' (código: COME_5000) tuvo 1 reprobados de 5 estudiantes, lo que representa un 20.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'METH TO ADOLESCENTS AND ADULTS' (código: EDUC_3188) tuvo 0 reprobados de 23 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'METHO FOR ACADEMIC PURPOSES' (código: EDUC_3187) tuvo 0 reprobados de 14 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'METHODO FOR TEAC ENGL TO CHILD' (código: EDUC_3191) tuvo 0 reprobados de 24 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'METHODOLOGY FOR TEACHING ENGLI' (código: EDUC_3182) tuvo 0 reprobados de 15 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'METODOS DE VALOR DE EMPRESAS' (código: ADMI_5065) tuvo 1 reprobados de 33 estudiantes, lo que representa un 3.03% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MICROECONOMIA APLICADA' (código: ECON_3042) tuvo 9 reprobados de 77 estudiantes, lo que representa un 11.69% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MODELAMIENTO GEOLOGICO CON LEA' (código: TIER_1071) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MODELOS ECONOMETRICOS' (código: ECON_3040) tuvo 5 reprobados de 71 estudiantes, lo que representa un 7.04% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'MODELOS OPTIMIZA PARA USO DE R' (código: ECON_4110) tuvo 1 reprobados de 12 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'NEGOCIOS INTERNACIONALES' (código: COME_3003) tuvo 0 reprobados de 15 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'NEUROCIENCIA Y PSICOL DEL DESA' (código: PSIC_1104) tuvo 3 reprobados de 75 estudiantes, lo que representa un 4.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'OFIMAT PARA EL MODEL Y ANALISI' (código: TIER_1069) tuvo 0 reprobados de 3 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: ADMI_5046) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: CONT_4000) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PEDAGOGIA' (código: EDUC_3113) tuvo 3 reprobados de 74 estudiantes, lo que representa un 4.05% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PINTURA' (código: ARTE_4020) tuvo 0 reprobados de 3 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PLAN ESTRATEGIC TRANSF DIGITAL' (código: DSOF_1074) tuvo 1 reprobados de 3 estudiantes, lo que representa un 33.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PLANIFICACION SUBTERRANEA' (código: MINE_1007) tuvo 0 reprobados de 4 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PLANIFICACION Y GEST DESA SOST' (código: ECON_4114) tuvo 0 reprobados de 9 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PLANIFICACION Y ORDENAM TERRIT' (código: ECON_4113) tuvo 0 reprobados de 38 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PLATAFORMAS MOVILES' (código: DSOF_4070) tuvo 3 reprobados de 29 estudiantes, lo que representa un 10.34% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PLATAFORMAS PARA JUEGOS' (código: DSOF_4071) tuvo 1 reprobados de 29 estudiantes, lo que representa un 3.45% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PLATAFORMAS WEB' (código: DSOF_3038) tuvo 2 reprobados de 24 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'POLITICA AMBIENTAL' (código: ECON_3046) tuvo 11 reprobados de 30 estudiantes, lo que representa un 36.67% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'POLITICA ECONOMICA' (código: ECON_3044) tuvo 4 reprobados de 49 estudiantes, lo que representa un 8.16% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'POLITICA ECONOMICA II' (código: ECON_4009) tuvo 2 reprobados de 4 estudiantes, lo que representa un 50.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'POLITICA PUBLICA Y MARCO LEGA' (código: FDCE_2030) tuvo 3 reprobados de 104 estudiantes, lo que representa un 2.88% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICA TRIBUTARIA' (código: CONT_2026) tuvo 1 reprobados de 21 estudiantes, lo que representa un 4.76% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICAS EN CITTES GP 3.2' (código: DSOF_4007) tuvo 0 reprobados de 7 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 1' (código: CONT_2029) tuvo 1 reprobados de 21 estudiantes, lo que representa un 4.76% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 1' (código: ADMI_2029) tuvo 3 reprobados de 69 estudiantes, lo que representa un 4.35% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 1' (código: EDUC_2120) tuvo 4 reprobados de 63 estudiantes, lo que representa un 6.35% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 1' (código: ECON_2037) tuvo 0 reprobados de 68 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 1.1' (código: COMP_2011) tuvo 12 reprobados de 134 estudiantes, lo que representa un 8.96% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 1.2' (código: COMP_2012) tuvo 5 reprobados de 123 estudiantes, lo que representa un 4.07% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 2' (código: ADMI_3027) tuvo 1 reprobados de 42 estudiantes, lo que representa un 2.38% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 2' (código: ECON_3053) tuvo 0 reprobados de 62 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 2' (código: EDUC_3181) tuvo 1 reprobados de 41 estudiantes, lo que representa un 2.44% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 2' (código: CONT_3037) tuvo 0 reprobados de 18 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 2.1' (código: COMP_3019) tuvo 6 reprobados de 89 estudiantes, lo que representa un 6.74% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 2.2' (código: COMP_3014) tuvo 6 reprobados de 83 estudiantes, lo que representa un 7.23% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 3' (código: EDUC_3186) tuvo 1 reprobados de 40 estudiantes, lo que representa un 2.5% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 3' (código: ADMI_4080) tuvo 1 reprobados de 48 estudiantes, lo que representa un 2.08% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 3 SERVICIO COMUN' (código: ECON_3054) tuvo 1 reprobados de 63 estudiantes, lo que representa un 1.59% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 3 SERVICIO COMUNITA' (código: CONT_3038) tuvo 0 reprobados de 20 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: COMP_4010) tuvo 0 reprobados de 61 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 4.1' (código: COMP_4015) tuvo 2 reprobados de 55 estudiantes, lo que representa un 3.64% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 4.1' (código: EDUC_4107) tuvo 1 reprobados de 20 estudiantes, lo que representa un 5.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: CONT_4032) tuvo 1 reprobados de 20 estudiantes, lo que representa un 5.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: ADMI_4087) tuvo 6 reprobados de 37 estudiantes, lo que representa un 16.22% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 4.1:TRABAJO DE INT E' (código: ECON_4115) tuvo 7 reprobados de 56 estudiantes, lo que representa un 12.5% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 4.2' (código: COMP_5022) tuvo 3 reprobados de 27 estudiantes, lo que representa un 11.11% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 4.2' (código: EDUC_4114) tuvo 4 reprobados de 20 estudiantes, lo que representa un 20.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: CONT_4034) tuvo 1 reprobados de 16 estudiantes, lo que representa un 6.25% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: ADMI_5068) tuvo 0 reprobados de 28 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRACTICUM 4.2:TRABAJO DE INTEG' (código: ECON_5074) tuvo 6 reprobados de 47 estudiantes, lo que representa un 12.77% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRESUPUESTOS' (código: FINZ_1018) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRINCIPIOS DE AUDITORIA' (código: CONT_3027) tuvo 0 reprobados de 19 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRINCIPIOS DE MACROECONOMIA' (código: ECON_2033) tuvo 15 reprobados de 83 estudiantes, lo que representa un 18.07% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PRINCIPIOS DE MICROECONOMIA' (código: ECON_2032) tuvo 15 reprobados de 79 estudiantes, lo que representa un 18.99% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROC DE INGENIERIA DE SOFTWARE' (código: DSOF_5001) tuvo 2 reprobados de 20 estudiantes, lo que representa un 10.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROG FUNCIONAL Y REACTIVA' (código: DSOF_2035) tuvo 18 reprobados de 142 estudiantes, lo que representa un 12.68% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROG ORIENTADA A OBJETOS' (código: DSOF_2034) tuvo 29 reprobados de 169 estudiantes, lo que representa un 17.16% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROGRAMACION AVANZADA' (código: COMP_4011) tuvo 14 reprobados de 128 estudiantes, lo que representa un 10.94% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4106) tuvo 4 reprobados de 48 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4105) tuvo 0 reprobados de 21 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_3108) tuvo 2 reprobados de 67 estudiantes, lo que representa un 2.99% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROSPECTIVA EMPRESARIAL Y A' (código: ADMI_4092) tuvo 5 reprobados de 37 estudiantes, lo que representa un 13.51% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROTOTIPADO' (código: DSOF_3036) tuvo 4 reprobados de 130 estudiantes, lo que representa un 3.08% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROYEC DE FIN DE CARRER GP4.1' (código: COMP_5004) tuvo 4 reprobados de 26 estudiantes, lo que representa un 15.38% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROYEC DE FIN DE CARRER GP4.2' (código: COMP_5009) tuvo 5 reprobados de 34 estudiantes, lo que representa un 14.71% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROYECTO FIN CARRERA II GP 4.2' (código: CONT_5012) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROYECTOS' (código: ADMI_4090) tuvo 7 reprobados de 26 estudiantes, lo que representa un 26.92% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PROYECTOS II' (código: ECON_5034) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'PYTHON INTERMEDIO APLICADO A L' (código: COMP_1077) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'RADIO Y NUEVAS TECNOLOGIAS' (código: PERI_1120) tuvo 1 reprobados de 3 estudiantes, lo que representa un 33.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'REDES Y SISTEMAS DISTRIBUIDOS' (código: DRBD_4014) tuvo 5 reprobados de 60 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'RELACIONES PUB Y PROTOCOLO' (código: HOTE_1040) tuvo 0 reprobados de 9 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'REPRESENT AVAN CONOCI Y RAZON' (código: COMP_4014) tuvo 1 reprobados de 53 estudiantes, lo que representa un 1.89% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'RESEARCH METHODS IN ELT' (código: EDUC_3184) tuvo 2 reprobados de 44 estudiantes, lo que representa un 4.55% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'RESPONSABILIDAD SOCIAL EMPRE' (código: ADMI_4088) tuvo 1 reprobados de 26 estudiantes, lo que representa un 3.85% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'ROBOTICA INDUSTRIAL' (código: ELEC_1018) tuvo 1 reprobados de 5 estudiantes, lo que representa un 20.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SECOND LANGUAGE ACQUISITION' (código: EDUC_4113) tuvo 1 reprobados de 32 estudiantes, lo que representa un 3.13% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SEGURIDAD DE LA INFORMACION' (código: DSOF_5015) tuvo 3 reprobados de 5 estudiantes, lo que representa un 60.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SEGURIDAD DE LA INFORMACION' (código: DSOF_5025) tuvo 0 reprobados de 26 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SEMANTICS AND PRAGMATICS' (código: EDUC_4108) tuvo 0 reprobados de 24 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ECON_5035) tuvo 1 reprobados de 3 estudiantes, lo que representa un 33.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SEMINARIO DE FIN DE CARRERA' (código: CONT_5004) tuvo 1 reprobados de 5 estudiantes, lo que representa un 20.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SIST BASADOS EN CONOCIMIENTO' (código: DSOF_5013) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SIST BASADOS EN CONOCIMIENTOS' (código: COMP_5018) tuvo 1 reprobados de 13 estudiantes, lo que representa un 7.69% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SISTEMAS DE COSTOS' (código: CONT_2035) tuvo 1 reprobados de 82 estudiantes, lo que representa un 1.22% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SISTEMAS INTELIGENTES' (código: COMP_5020) tuvo 0 reprobados de 23 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SISTEMAS OPERATIVOS' (código: COMP_3011) tuvo 11 reprobados de 97 estudiantes, lo que representa un 11.34% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SOCIOLOGIA DE LA EDUCACION' (código: EDUC_1109) tuvo 3 reprobados de 105 estudiantes, lo que representa un 2.86% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'SOSTENIBILIDAD EMPRESARIAL' (código: ADMI_3024) tuvo 12 reprobados de 54 estudiantes, lo que representa un 22.22% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TEACHING CULTURE IN THE EFL CL' (código: EDUC_4110) tuvo 0 reprobados de 32 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TECHNOLOGY IN THE EFL CLASSROO' (código: IDIO_2023) tuvo 1 reprobados de 67 estudiantes, lo que representa un 1.49% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TECNICAS DE INFERENCIA ESTADIS' (código: ESTA_2022) tuvo 10 reprobados de 166 estudiantes, lo que representa un 6.02% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TECNOLOGIA APLICADA' (código: ADMI_7132) tuvo 0 reprobados de 6 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TECNOLOGIAS EMERGENTES' (código: COMP_5023) tuvo 3 reprobados de 36 estudiantes, lo que representa un 8.33% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TECNOLOGIAS WEB' (código: DSOF_2043) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TEFL METHODOLOGY AND DIDACTICS' (código: EDUC_2089) tuvo 2 reprobados de 67 estudiantes, lo que representa un 2.99% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TEORIA DE AUTOMATAS Y COMPILAD' (código: COMP_3012) tuvo 10 reprobados de 90 estudiantes, lo que representa un 11.11% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TEORIA MACROECONOMICA' (código: ECON_2031) tuvo 1 reprobados de 80 estudiantes, lo que representa un 1.25% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TEORIA MICROECONOMICA' (código: ECON_2030) tuvo 8 reprobados de 89 estudiantes, lo que representa un 8.99% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TEORIAS DE ACUMULACION Y CREC' (código: ECON_5039) tuvo 0 reprobados de 4 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TEORIAS DEL DESARROLLO' (código: ECON_5075) tuvo 3 reprobados de 72 estudiantes, lo que representa un 4.17% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: ADMI_5060) tuvo 2 reprobados de 9 estudiantes, lo que representa un 22.22% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: CONT_5000) tuvo 1 reprobados de 6 estudiantes, lo que representa un 16.67% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TRABAJO DE TIT (PRACTICUM IV)' (código: ECON_5040) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TRABAJO DE TITULACION' (código: FDCE_4044) tuvo 0 reprobados de 2 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TRABAJO DE TITULACION' (código: FDCE_4043) tuvo 1 reprobados de 4 estudiantes, lo que representa un 25.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TRATAMIENTO Y EDICION DE IMAGE' (código: TIER_1070) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'TURISMO Y HOTELERIA' (código: HOTE_1030) tuvo 1 reprobados de 9 estudiantes, lo que representa un 11.11% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'URBANIZACION Y CAMBIO CLIMATIC' (código: ARQU_1092) tuvo 1 reprobados de 6 estudiantes, lo que representa un 16.67% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'VALIDACION DE PRODUCTO' (código: ADMI_1030) tuvo 1 reprobados de 6 estudiantes, lo que representa un 16.67% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'VALORACION DE EMPRESAS' (código: FINZ_5000) tuvo 0 reprobados de 3 estudiantes, lo que representa un 0.0% de reprobados.
+En la modalidad 'PRESENCIAL', el curso 'VOLADURA DE ROCAS' (código: MINE_4001) tuvo 0 reprobados de 1 estudiantes, lo que representa un 0.0% de reprobados.

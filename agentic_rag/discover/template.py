@@ -28,14 +28,14 @@ class TemplateGenerator:
             
             template_str = (
                 "En el periodo académico {{ periodo_academico }}, el estudiante con ID {{ identificador_estudiante }} "
-                "con el nombre {{ nombres }} {{ apellidos }} y edad de {{ edad }} e identificandose como del género {{ genero }}) "
+                "con el nombre {{ nombres }} {{ apellidos }} y edad de {{ edad }} e identificandose como del género {{ genero }} "
                 "tiene la direccion de correo {{ correo }},"
                 "está inscrito en el programa {{ programa_nombre }} de nivel {{ programa_nivel_nombre }} en la modalidad "
                 "{{ programa_modalidad_nombre }}. Está cursando la asignatura {{ curso_nombre }} "
                 "código: {{ curso_codigo }}, paralelo: {{ paralelo }}. Su sistema de evaluación es '{{ sistema_evaluacion }}' "
-                "y obtuvo las siguientes notas: Bimestre 1: {{ bim1_nota }}, Bimestre 2: {{ bim2_nota }}. "
+                "y obtuvo las siguientes notas: Bimestre 1: {{ bim1_nota }}, Bimestre 2: {{ bim2_nota }}  "
                 "Estado de calificación: {{ estado_calificacion }}. Nota final: {{ final_nota }}, "
-                "Nota total final: {{ totalfin_nota }}.\n\n"
+                "Nota total final: {{ totalfin_nota }}\n\n"
             )
         else:
             raise ValueError("Invalid format_type. Use 'general' or 'detailed'.")

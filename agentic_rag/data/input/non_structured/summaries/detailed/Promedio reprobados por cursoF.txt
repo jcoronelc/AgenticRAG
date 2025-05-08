@@ -1,0 +1,345 @@
+El curso 'ACADEMIC READING AND WRITIN II' (código: EDUC_3183) la nota promedio de los reprobados fue de 4.335238095238095.
+El curso 'ACADEMIC READING AND WRITING I' (código: EDUC_3178) la nota promedio de los reprobados fue de 4.699803921568628.
+El curso 'ADAPTACIONES CURRICULARES Y DI' (código: EDUC_3185) la nota promedio de los reprobados fue de 3.3806896551724135.
+El curso 'ADMIN DE CAD DE SUM Y LOG EMPR' (código: ADMI_2030) la nota promedio de los reprobados fue de 3.499625.
+El curso 'ADMINISTRACION' (código: ADMI_1109) la nota promedio de los reprobados fue de 2.502661290322581.
+El curso 'ADMINISTRACION DE OPERAC Y PR' (código: PIND_2010) la nota promedio de los reprobados fue de 3.9590099009900994.
+El curso 'ADMINISTRACION DE TECN Y SISTE' (código: ADMI_4095) la nota promedio de los reprobados fue de 4.4675.
+El curso 'ADMINISTRACION DE TECNOLOGIAS' (código: SIST_5001) la nota promedio de los reprobados fue de 3.2735483870967745.
+El curso 'ADMINISTRACION DEL TALENTO HUM' (código: LABO_3002) la nota promedio de los reprobados fue de 3.4239007092198586.
+El curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5005) la nota promedio de los reprobados fue de 3.3798113207547167.
+El curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5066) la nota promedio de los reprobados fue de 4.1575.
+El curso 'ADMINISTRACION FINANCIERA' (código: FINZ_4057) la nota promedio de los reprobados fue de 4.306363636363637.
+El curso 'ADMINISTRACION FINANCIERA OPER' (código: ECON_4112) la nota promedio de los reprobados fue de 3.9672727272727273.
+El curso 'ADMINISTRACION I' (código: ADMI_1009) la nota promedio de los reprobados fue de 0.0.
+El curso 'ALGEBRA LINEAL' (código: MATE_1108) la nota promedio de los reprobados fue de 3.8066046511627913.
+El curso 'ALGORITMOS Y RESOLUCION DE PRO' (código: DSOF_1070) la nota promedio de los reprobados fue de 0.6.
+El curso 'ANA MATEMATICO MULTIVARIADO' (código: MATE_2029) la nota promedio de los reprobados fue de 2.88.
+El curso 'ANALISIS DE ALGORITMOS' (código: DSOF_2036) la nota promedio de los reprobados fue de 3.985.
+El curso 'ANALISIS DE MERCADOS TURISTICO' (código: TURI_4022) la nota promedio de los reprobados fue de 4.783157894736841.
+El curso 'ANALISIS EXPLORATORIO DE DATOS' (código: TIER_1075) la nota promedio de los reprobados fue de 0.0.
+El curso 'ANALISIS MATEMATICO UNIVARIADO' (código: MATE_1101) la nota promedio de los reprobados fue de 4.430666666666666.
+El curso 'ANTROPOLOGIA' (código: RELI_3002) la nota promedio de los reprobados fue de 5.095.
+El curso 'ANTROPOLOGIA BASICA' (código: RELI_2062) la nota promedio de los reprobados fue de 3.8003456790123455.
+El curso 'ANTROPOLOGIA CULTURAL Y TURIS' (código: TURI_1020) la nota promedio de los reprobados fue de 2.627619047619048.
+El curso 'APLIC AUDIT FORENS CICLOS TRAN' (código: CONT_3031) la nota promedio de los reprobados fue de 4.591904761904762.
+El curso 'APLICACIONES DE COSTOS' (código: CONT_3030) la nota promedio de los reprobados fue de 4.2454285714285716.
+El curso 'AREAS PROTEGIDAS' (código: TURI_2014) la nota promedio de los reprobados fue de 3.2983333333333333.
+El curso 'ARQ Y COMP PARALELA' (código: COMP_5006) la nota promedio de los reprobados fue de 0.0.
+El curso 'ARQ Y ORGANIZACION DE COMP' (código: COMP_2010) la nota promedio de los reprobados fue de 2.916666666666667.
+El curso 'ARQ Y SEGURIDAD DE REDES' (código: DRBD_5003) la nota promedio de los reprobados fue de 4.5.
+El curso 'ARQUITECTURA DE SOFTWARE' (código: DSOF_4069) la nota promedio de los reprobados fue de 6.38.
+El curso 'ARTE ESCENICO Y EXPRESION ORAL' (código: PERI_1110) la nota promedio de los reprobados fue de 4.48.
+El curso 'AUDIT INT Y ADMIN RIESGOS ERM' (código: CONT_4030) la nota promedio de los reprobados fue de 4.774.
+El curso 'AUDITORIA DE GESTION' (código: CONT_4028) la nota promedio de los reprobados fue de 5.240476190476191.
+El curso 'AUDITORIA FINANCIERA' (código: FINZ_4056) la nota promedio de los reprobados fue de 4.420869565217391.
+El curso 'AUDITORIA I' (código: CONT_4006) la nota promedio de los reprobados fue de 0.59.
+El curso 'AUDITORIA II' (código: CONT_1015) la nota promedio de los reprobados fue de 4.163333333333333.
+El curso 'AUDITORIA III' (código: CONT_5002) la nota promedio de los reprobados fue de 3.877692307692308.
+El curso 'AUDITORIA INFORMATICA' (código: SIST_5006) la nota promedio de los reprobados fue de 4.442857142857143.
+El curso 'BASE DE DATOS AVANZADA' (código: DRBD_2005) la nota promedio de los reprobados fue de 2.9411111111111112.
+El curso 'CALCULO' (código: MATE_1091) la nota promedio de los reprobados fue de 3.26.
+El curso 'CALCULO DIFERENCIAL' (código: MATE_1114) la nota promedio de los reprobados fue de 0.0.
+El curso 'CIUDAD Y TURISMO' (código: TURI_3014) la nota promedio de los reprobados fue de 3.8928571428571432.
+El curso 'COMERCIO EXTERIOR' (código: COME_1005) la nota promedio de los reprobados fue de 3.69.
+El curso 'COMERCIO EXTERIOR' (código: COME_3002) la nota promedio de los reprobados fue de 3.7861702127659567.
+El curso 'COMPETITIVIDAD DESTINOS TURIST' (código: TURI_4015) la nota promedio de los reprobados fue de 3.77.
+El curso 'COMPORTAMIENTO ORGANIZACIONAL' (código: ADMI_4082) la nota promedio de los reprobados fue de 4.233435582822086.
+El curso 'COMPOSICION DE TEXTOS CIENTIFI' (código: LITE_1108) la nota promedio de los reprobados fue de 2.834.
+El curso 'COMPUTACION APLICADA' (código: CONT_4010) la nota promedio de los reprobados fue de 3.739.
+El curso 'COMPUTACION Y SOCIEDAD' (código: COMP_1078) la nota promedio de los reprobados fue de 3.0644444444444443.
+El curso 'CONSTRUCCION DE INDICADORES' (código: ECON_4116) la nota promedio de los reprobados fue de 3.1525.
+El curso 'CONTABILIDAD AGRARIA' (código: CONT_4033) la nota promedio de los reprobados fue de 3.089152542372881.
+El curso 'CONTABILIDAD BANCARIA' (código: CONT_2015) la nota promedio de los reprobados fue de 3.216666666666667.
+El curso 'CONTABILIDAD CORPORATIVA' (código: CONT_2027) la nota promedio de los reprobados fue de 3.68.
+El curso 'CONTABILIDAD DE COSTOS' (código: CONT_3026) la nota promedio de los reprobados fue de 4.170128205128205.
+El curso 'CONTABILIDAD DE COSTOS OPERATI' (código: CONT_2032) la nota promedio de los reprobados fue de 3.415238095238095.
+El curso 'CONTABILIDAD DE INSTITUC FINAN' (código: CONT_3025) la nota promedio de los reprobados fue de 2.514642857142857.
+El curso 'CONTABILIDAD FINANCIERA' (código: CONT_1085) la nota promedio de los reprobados fue de 4.2942574257425745.
+El curso 'CONTABILIDAD FINANCIERA AVANZA' (código: CONT_2025) la nota promedio de los reprobados fue de 3.2554710144927537.
+El curso 'CONTABILIDAD GERENCIAL' (código: CONT_5023) la nota promedio de los reprobados fue de 2.987692307692308.
+El curso 'CONTABILIDAD GERENCIAL' (código: CONT_5006) la nota promedio de los reprobados fue de 5.119411764705881.
+El curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_3017) la nota promedio de los reprobados fue de 1.1666666666666665.
+El curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_2028) la nota promedio de los reprobados fue de 3.6871111111111112.
+El curso 'CONTRASTIVE GRAMMAR' (código: EDUC_4116) la nota promedio de los reprobados fue de 4.098235294117647.
+El curso 'CONTRATACION PUBLICA' (código: DERE_3050) la nota promedio de los reprobados fue de 3.481533333333333.
+El curso 'COSMOVISION ANDINA' (código: TURI_4014) la nota promedio de los reprobados fue de 4.295.
+El curso 'CULTURE AND LITERATURE IN ENGL' (código: LITE_4003) la nota promedio de los reprobados fue de 4.753913043478261.
+El curso 'CUR DSING FR ACADM AND SPCIF P' (código: EDUC_4111) la nota promedio de los reprobados fue de 5.478.
+El curso 'CURRICLM FUNDTS PRNCPLS AND IS' (código: EDUC_4112) la nota promedio de los reprobados fue de 5.54875.
+El curso 'CURRICULUM AND MATERIALS' (código: FDCE_4001) la nota promedio de los reprobados fue de 2.755.
+El curso 'CURSO DE ACTUALIZACION' (código: UTPL_3000) la nota promedio de los reprobados fue de 2.0547368421052634.
+El curso 'DERECHO LABORAL' (código: DERE_1181) la nota promedio de los reprobados fue de 3.5623880597014925.
+El curso 'DERECHO TRIBUTARIO' (código: DERE_1182) la nota promedio de los reprobados fue de 3.1624107142857145.
+El curso 'DERECHO TRIBUTARIO' (código: DERE_4054) la nota promedio de los reprobados fue de 3.736344086021506.
+El curso 'DESARROLLO ECONOMICO' (código: ECON_4002) la nota promedio de los reprobados fue de 4.232222222222222.
+El curso 'DESARROLLO EMPRES NUEVOS NEGOC' (código: ADMI_3025) la nota promedio de los reprobados fue de 3.925882352941177.
+El curso 'DESARROLLO REGIONAL' (código: ECON_3047) la nota promedio de los reprobados fue de 5.22.
+El curso 'DIRECCION ESTRATEGICA' (código: ADMI_5071) la nota promedio de los reprobados fue de 3.9484375.
+El curso 'DIRECCION HOTELERA' (código: HOTE_5003) la nota promedio de los reprobados fue de 3.455.
+El curso 'DISCOURSE ANALYSIS' (código: EDUC_4117) la nota promedio de los reprobados fue de 5.626666666666666.
+El curso 'DISEÑO DE PRODUCTOS TURISTICOS' (código: TURI_3016) la nota promedio de los reprobados fue de 4.544444444444445.
+El curso 'DISEÑO DE SISTEMAS DE COSTOS' (código: CONT_3029) la nota promedio de los reprobados fue de 3.215952380952381.
+El curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: RELI_1001) la nota promedio de los reprobados fue de 4.252857142857144.
+El curso 'E-COMMERCE' (código: ADMI_4083) la nota promedio de los reprobados fue de 2.0385714285714287.
+El curso 'ECONOMETRIA AVANZADA' (código: ECON_3043) la nota promedio de los reprobados fue de 3.871333333333333.
+El curso 'ECONOMETRIA BASICA' (código: ECON_3039) la nota promedio de los reprobados fue de 4.606.
+El curso 'ECONOMETRIA II' (código: ECMA_4003) la nota promedio de los reprobados fue de 3.43.
+El curso 'ECONOMIA AMBIENTAL Y DE REC NA' (código: ECON_4108) la nota promedio de los reprobados fue de 5.584444444444445.
+El curso 'ECONOMIA DE LA EMPRESA Y MERCA' (código: ECON_2035) la nota promedio de los reprobados fue de 5.242727272727273.
+El curso 'ECONOMIA INTERNACIONAL' (código: ECON_5077) la nota promedio de los reprobados fue de 4.565384615384616.
+El curso 'ECONOMIA POLITICA' (código: ECON_5014) la nota promedio de los reprobados fue de 6.16.
+El curso 'ECONOMIA POLITICA' (código: ECON_5076) la nota promedio de los reprobados fue de 3.806666666666666.
+El curso 'ECONOMIA POPULAR Y SOLIDARIA' (código: ADMI_1127) la nota promedio de los reprobados fue de 3.789545454545455.
+El curso 'ECUACIONES DIFER Y MET NUMER' (código: MATE_3100) la nota promedio de los reprobados fue de 3.262.
+El curso 'EDUCATIONAL RESEARCH I' (código: FDSE_4007) la nota promedio de los reprobados fue de 4.645714285714286.
+El curso 'EL ARTE DE AMAR' (código: RELI_1110) la nota promedio de los reprobados fue de 4.38.
+El curso 'EMPREN CON BASE TECNOLOGICA I' (código: ADMI_5078) la nota promedio de los reprobados fue de 1.6675.
+El curso 'EMPRENDIMIENTO' (código: ADMI_4038) la nota promedio de los reprobados fue de 3.1306476683937823.
+El curso 'ENGLISH LAN: LIST AND SPEAK IV' (código: EDUC_2118) la nota promedio de los reprobados fue de 4.112682926829268.
+El curso 'ENGLISH LAN: LISTE AND SPE III' (código: EDUC_3112) la nota promedio de los reprobados fue de 3.3712820512820514.
+El curso 'ENGLISH LAN: READ AND WRIT III' (código: EDUC_3111) la nota promedio de los reprobados fue de 3.3671052631578946.
+El curso 'ENGLISH LAN: READ AND WRIT IV' (código: EDUC_2119) la nota promedio de los reprobados fue de 3.899259259259259.
+El curso 'ENGLISH LANG: LIST AND SPEA II' (código: FDCE_1075) la nota promedio de los reprobados fue de 3.1465476190476194.
+El curso 'ENGLISH LANG: LIST AND SPEAK I' (código: FDCE_1074) la nota promedio de los reprobados fue de 2.275542857142857.
+El curso 'ENGLISH LANG: READ AND WRIT II' (código: FDCE_1076) la nota promedio de los reprobados fue de 3.86072463768116.
+El curso 'ENGLISH LANG: READI AND WRIT I' (código: IDIO_1104) la nota promedio de los reprobados fue de 2.79514598540146.
+El curso 'ENGLISH PRON: PHONETI AND PHON' (código: EDUC_3179) la nota promedio de los reprobados fue de 4.056129032258065.
+El curso 'ENGLISH SYNTAX' (código: EDUC_4109) la nota promedio de los reprobados fue de 4.923478260869564.
+El curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' (código: CONT_1084) la nota promedio de los reprobados fue de 2.5977754237288138.
+El curso 'ESTADISTICA' (código: ESTA_1044) la nota promedio de los reprobados fue de 4.163333333333333.
+El curso 'ESTADISTICA APLICADA A EDUCA' (código: ESTA_4004) la nota promedio de los reprobados fue de 3.9135294117647055.
+El curso 'ESTADISTICA BASICA' (código: ESTA_2031) la nota promedio de los reprobados fue de 3.404230769230769.
+El curso 'ESTADISTICA BASICA' (código: ESTA_3023) la nota promedio de los reprobados fue de 3.5474418604651166.
+El curso 'ESTADISTICA PARA LAS ING Y ARQ' (código: ESTA_2029) la nota promedio de los reprobados fue de 5.4.
+El curso 'ESTADISTICA Y PROBABILIDAD' (código: ESTA_3022) la nota promedio de los reprobados fue de 3.7483333333333326.
+El curso 'ESTRUCTURAS DE DATOS' (código: DSOF_2029) la nota promedio de los reprobados fue de 3.4944444444444445.
+El curso 'ESTRUCTURAS DISCRETAS' (código: DSOF_2030) la nota promedio de los reprobados fue de 3.441666666666667.
+El curso 'ETICA' (código: RELI_3000) la nota promedio de los reprobados fue de 4.296842105263158.
+El curso 'ETICA DE LA INTELIGENCIA ARTIF' (código: RELI_1109) la nota promedio de los reprobados fue de 4.495.
+El curso 'ETICA Y MORAL' (código: FILO_1114) la nota promedio de los reprobados fue de 3.457555555555556.
+El curso 'EVALUACION DE PROYECTOS' (código: ADMI_4089) la nota promedio de los reprobados fue de 5.74.
+El curso 'FAMILIA Y EDUCACION: RETOS Y D' (código: EDUC_1143) la nota promedio de los reprobados fue de 3.318888888888889.
+El curso 'FIJACION PREC Y ADMIN DE COSTO' (código: CONT_4026) la nota promedio de los reprobados fue de 4.6.
+El curso 'FILOSOFIA DE LA EDUCACION' (código: FILO_4002) la nota promedio de los reprobados fue de 3.435.
+El curso 'FILOSOFIA E HISTORIA DE LA EDU' (código: FILO_1117) la nota promedio de los reprobados fue de 2.3773666666666666.
+El curso 'FINANZAS ESTRUCTURALES' (código: FINZ_3024) la nota promedio de los reprobados fue de 4.412407407407408.
+El curso 'FINANZAS I' (código: FINZ_1026) la nota promedio de los reprobados fue de 3.104166666666667.
+El curso 'FINANZAS II' (código: FINZ_1065) la nota promedio de los reprobados fue de 3.731.
+El curso 'FINANZAS OPERATIVAS' (código: FINZ_3023) la nota promedio de los reprobados fue de 3.6371074380165287.
+El curso 'FINANZAS Y PRESUPUESTOS' (código: TURI_3011) la nota promedio de los reprobados fue de 2.807692307692308.
+El curso 'FINTECH BANCA 4.0' (código: FINZ_1073) la nota promedio de los reprobados fue de 4.99.
+El curso 'FISICA BASICA' (código: FISI_1039) la nota promedio de los reprobados fue de 4.3385483870967745.
+El curso 'FORM EVALUAC DE PROYECTOS' (código: ADMI_4126) la nota promedio de los reprobados fue de 4.884137931034482.
+El curso 'FORMULACION DE PROYECTOS' (código: ECON_3045) la nota promedio de los reprobados fue de 4.886923076923077.
+El curso 'FORMULACION Y EVALUACION DE PR' (código: ADMI_4121) la nota promedio de los reprobados fue de 0.14.
+El curso 'FRANCES I' (código: IDIO_3013) la nota promedio de los reprobados fue de 3.5939285714285716.
+El curso 'FRANCES II' (código: IDIO_3014) la nota promedio de los reprobados fue de 4.517692307692308.
+El curso 'FRANCES III' (código: IDIO_4016) la nota promedio de los reprobados fue de 5.430909090909091.
+El curso 'FRANCES IV' (código: IDIO_5001) la nota promedio de los reprobados fue de 5.145.
+El curso 'FUND DE INTE ARTIFICIAL' (código: COMP_4012) la nota promedio de los reprobados fue de 0.75.
+El curso 'FUNDAMENTOS COMPUTACIONALES' (código: COMP_1075) la nota promedio de los reprobados fue de 3.775185185185185.
+El curso 'FUNDAMENTOS DE ADMINIST FINAN' (código: ADMI_1115) la nota promedio de los reprobados fue de 4.135192307692308.
+El curso 'FUNDAMENTOS DE ADMINISTRACION' (código: ADMI_1113) la nota promedio de los reprobados fue de 1.778333333333333.
+El curso 'FUNDAMENTOS DE BASE DE DATOS' (código: DRBD_2004) la nota promedio de los reprobados fue de 5.586666666666666.
+El curso 'FUNDAMENTOS DE CONTABILIDAD' (código: CONT_1083) la nota promedio de los reprobados fue de 2.5650227272727277.
+El curso 'FUNDAMENTOS DE ECONOMIA' (código: ECON_1088) la nota promedio de los reprobados fue de 2.3608385093167703.
+El curso 'FUNDAMENTOS DE INGENIERIA DE S' (código: SIST_3012) la nota promedio de los reprobados fue de 6.57.
+El curso 'FUNDAMENTOS DE PROGRAMACION' (código: DSOF_1073) la nota promedio de los reprobados fue de 3.065.
+El curso 'FUNDAMENTOS DE REDES' (código: DRBD_4012) la nota promedio de los reprobados fue de 3.5533333333333332.
+El curso 'FUNDAMENTOS INFORMATICOS' (código: COMP_1034) la nota promedio de los reprobados fue de 4.085454545454546.
+El curso 'FUNDAMENTOS MATEMATICOS' (código: MATE_1103) la nota promedio de los reprobados fue de 2.342334494773519.
+El curso 'GEOGRAFIA TURISTICA' (código: HOTE_1047) la nota promedio de los reprobados fue de 1.8828358208955225.
+El curso 'GEOLOGIA DEL SUBSUELO' (código: TIER_1074) la nota promedio de los reprobados fue de 2.55.
+El curso 'GERENCIA DE OPERACIONES MINERA' (código: MINE_1005) la nota promedio de los reprobados fue de 0.45.
+El curso 'GERENCIA DE RECURSOS NATURALES' (código: RENR_3001) la nota promedio de los reprobados fue de 5.46.
+El curso 'GEST DE LA CALIDAD DE SOFTWARE' (código: DSOF_3035) la nota promedio de los reprobados fue de 4.74.
+El curso 'GEST DE TECN DE LA INFO' (código: SIST_4000) la nota promedio de los reprobados fue de 0.0.
+El curso 'GESTION DE CADENA DE VALOR Y C' (código: TURI_5011) la nota promedio de los reprobados fue de 3.486666666666667.
+El curso 'GESTION DE LA CALIDAD' (código: ADMI_4015) la nota promedio de los reprobados fue de 3.8314285714285714.
+El curso 'GESTION DE LA CALIDAD' (código: ADMI_5067) la nota promedio de los reprobados fue de 4.38.
+El curso 'GESTION DE NUEVOS NEGOCIOS' (código: ADMI_4079) la nota promedio de los reprobados fue de 4.916666666666666.
+El curso 'GESTION DE PROYECTOS' (código: ADMI_5077) la nota promedio de los reprobados fue de 4.975.
+El curso 'GESTION DEL CONOCIMIENTO' (código: ADMI_3030) la nota promedio de los reprobados fue de 3.458427672955975.
+El curso 'GESTION DEL PATRIMONIO CULTU' (código: TURI_2011) la nota promedio de los reprobados fue de 4.742380952380952.
+El curso 'GESTION E INNOVACION DE DESTIN' (código: TURI_4017) la nota promedio de los reprobados fue de 4.1525.
+El curso 'GESTION INNOVACION EMPRESARIAL' (código: ADMI_1111) la nota promedio de los reprobados fue de 3.3393333333333333.
+El curso 'GESTION PRODUCTIVA GP 4.1' (código: ECON_5021) la nota promedio de los reprobados fue de 0.0.
+El curso 'GESTION PUBLICA DEL TURISMO' (código: TURI_4018) la nota promedio de los reprobados fue de 4.201666666666666.
+El curso 'GUIANZA' (código: TURI_2016) la nota promedio de los reprobados fue de 3.0663636363636364.
+El curso 'HABILIDADES GERENCIALES' (código: ADMI_5064) la nota promedio de los reprobados fue de 2.7978866768759567.
+El curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1089) la nota promedio de los reprobados fue de 3.1966666666666668.
+El curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1055) la nota promedio de los reprobados fue de 2.9025.
+El curso 'HISTORIA ECONOMICA DEL ECUADOR' (código: ECON_1087) la nota promedio de los reprobados fue de 4.035.
+El curso 'HUMANISMO, UNIVERSIDAD Y CULTU' (código: RELI_1105) la nota promedio de los reprobados fue de 2.5556489262371613.
+El curso 'IMAGEN PERSONAL Y CORPORATIVA' (código: PERI_3015) la nota promedio de los reprobados fue de 5.065.
+El curso 'INCLUSION Y APRENDIZAJE SOSTEN' (código: EDUC_1102) la nota promedio de los reprobados fue de 2.9044680851063833.
+El curso 'INCLUSIVE AND SUSTAINABLE EDUC' (código: EDUC_4115) la nota promedio de los reprobados fue de 4.859.
+El curso 'INGENIERIA DE REQUISITOS' (código: DSOF_3039) la nota promedio de los reprobados fue de 6.45.
+El curso 'INGENIERIA WEB' (código: DSOF_3037) la nota promedio de los reprobados fue de 5.6875.
+El curso 'INNOVAR EN LOS FUTUROS DE LA E' (código: EDUC_1149) la nota promedio de los reprobados fue de 0.75.
+El curso 'INTE ARTIFICIAL AVANZADO' (código: DSOF_5003) la nota promedio de los reprobados fue de 5.585.
+El curso 'INTELIG ESTRAT Y METOD INTERNA' (código: ADMI_4081) la nota promedio de los reprobados fue de 4.575365853658536.
+El curso 'INTELIGENCIA ARTIFICIAL' (código: DSOF_4009) la nota promedio de los reprobados fue de 0.0.
+El curso 'INTELIGENCIA DE NEGOCIOS' (código: DRBD_1009) la nota promedio de los reprobados fue de 0.0.
+El curso 'INTELIGENCIA EMOCIONAL' (código: EDUC_1146) la nota promedio de los reprobados fue de 3.0828125.
+El curso 'INTRO A LA CAD DE VALOR EN CAF' (código: PAGR_1017) la nota promedio de los reprobados fue de 4.3625.
+El curso 'INTRO AUDITORIA FORENSE EMPRES' (código: CONT_3028) la nota promedio de los reprobados fue de 4.485714285714286.
+El curso 'INTRODUC TO EDUCATIO RESEARCH' (código: EDUC_3180) la nota promedio de los reprobados fue de 4.374929577464789.
+El curso 'INTRODUCCION A LA ECONOMIA' (código: ECON_1090) la nota promedio de los reprobados fue de 2.868356807511737.
+El curso 'INTRODUCCION A LA PROGRAMACION' (código: DSOF_1067) la nota promedio de los reprobados fue de 4.166363636363637.
+El curso 'INTRODUCTION TO LINGUISTICS' (código: EDUC_3189) la nota promedio de los reprobados fue de 3.520909090909091.
+El curso 'INVESTIGACION DE MERCADOS' (código: ADMI_3026) la nota promedio de los reprobados fue de 4.1884883720930235.
+El curso 'INVESTIGACION OPERATIVA TOMA D' (código: DIPP_3001) la nota promedio de los reprobados fue de 3.0723529411764705.
+El curso 'JORN DE INVES LA CREDIBILIDAD' (código: EDUC_2022) la nota promedio de los reprobados fue de 4.293.
+El curso 'JORNADA DE INVEST Y FORMA ESP' (código: EDUC_4160) la nota promedio de los reprobados fue de 6.45.
+El curso 'JORNADA DE INVESTIGACION TEMAT' (código: EDUC_2021) la nota promedio de los reprobados fue de 4.745.
+El curso 'LANGUAGE TESTING' (código: EDUC_3177) la nota promedio de los reprobados fue de 3.7501111111111114.
+El curso 'LANGUAGE TESTING' (código: FDCE_4011) la nota promedio de los reprobados fue de 3.818333333333333.
+El curso 'LECTURA Y REDACCION DE TEXTOS' (código: LITE_1106) la nota promedio de los reprobados fue de 2.4843636363636366.
+El curso 'LEGISLACION EMPRESARIAL' (código: ADMI_1110) la nota promedio de los reprobados fue de 3.693174603174603.
+El curso 'LEGISLACION MERCANTIL Y SOCIET' (código: DERE_2072) la nota promedio de los reprobados fue de 2.638076923076923.
+El curso 'LEGISLACION MONETARIA Y BANCAR' (código: DERE_1102) la nota promedio de los reprobados fue de 4.24.
+El curso 'LEGISLACION TURISTICA Y AMBIEN' (código: TURI_2013) la nota promedio de los reprobados fue de 3.383.
+El curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1141) la nota promedio de los reprobados fue de 0.0.
+El curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1147) la nota promedio de los reprobados fue de 2.4188888888888886.
+El curso 'LOGICA DIGITAL' (código: ELEN_2008) la nota promedio de los reprobados fue de 3.974.
+El curso 'LOGISTICA EMPRESARIAL' (código: ADMI_4027) la nota promedio de los reprobados fue de 4.643333333333333.
+El curso 'MACROECONOMIA ABIERTA' (código: ECON_3041) la nota promedio de los reprobados fue de 5.953333333333333.
+El curso 'MACROECONOMIA CERRADA' (código: ECON_2034) la nota promedio de los reprobados fue de 3.293333333333333.
+El curso 'MANAGEMENT 3.0' (código: ADMI_1117) la nota promedio de los reprobados fue de 4.086538461538462.
+El curso 'MARKETING' (código: MERC_4007) la nota promedio de los reprobados fue de 3.6352054794520554.
+El curso 'MARKETING' (código: MERC_1005) la nota promedio de los reprobados fue de 4.108.
+El curso 'MARKETING TURISTICO' (código: MERC_4004) la nota promedio de los reprobados fue de 2.6961538461538463.
+El curso 'MATEMATICA BASICA' (código: MATE_1106) la nota promedio de los reprobados fue de 2.532931937172775.
+El curso 'MATEMATICA FINANCIERA' (código: MATE_1109) la nota promedio de los reprobados fue de 3.487741935483871.
+El curso 'MATRIMONIO Y FAMILIA' (código: RELI_1033) la nota promedio de los reprobados fue de 3.8028571428571434.
+El curso 'MERCADO DE VALORES' (código: COME_5000) la nota promedio de los reprobados fue de 3.3830303030303033.
+El curso 'METH TO ADOLESCENTS AND ADULTS' (código: EDUC_3188) la nota promedio de los reprobados fue de 4.211428571428571.
+El curso 'METHO FOR ACADEMIC PURPOSES' (código: EDUC_3187) la nota promedio de los reprobados fue de 4.833333333333333.
+El curso 'METHODO FOR TEAC ENGL TO CHILD' (código: EDUC_3191) la nota promedio de los reprobados fue de 4.284285714285714.
+El curso 'METHODOLOGY AND DIDACTICS III:' (código: FDCE_4014) la nota promedio de los reprobados fue de 2.4442857142857144.
+El curso 'METHODOLOGY FOR TEACHING ENGLI' (código: EDUC_3182) la nota promedio de los reprobados fue de 4.9528125.
+El curso 'METODOS DE VALOR DE EMPRESAS' (código: ADMI_5065) la nota promedio de los reprobados fue de 3.477090909090909.
+El curso 'MICROECONOMIA APLICADA' (código: ECON_3042) la nota promedio de los reprobados fue de 5.001111111111111.
+El curso 'MODELOS ECONOMETRICOS' (código: ECON_3040) la nota promedio de los reprobados fue de 4.604.
+El curso 'MODELOS OPTIMIZA PARA USO DE R' (código: ECON_4110) la nota promedio de los reprobados fue de 2.74.
+El curso 'NEGOCIOS INTERNACIONALES' (código: COME_3003) la nota promedio de los reprobados fue de 3.6471739130434786.
+El curso 'NEURO MARKT Y TEORIAS DE INFOR' (código: TURI_4021) la nota promedio de los reprobados fue de 4.605.
+El curso 'NEUROCIENCIA Y PSICOL DEL DESA' (código: PSIC_1104) la nota promedio de los reprobados fue de 3.0996.
+El curso 'NUEVAS ALTERNATIVAS DE TURISMO' (código: TURI_2018) la nota promedio de los reprobados fue de 3.7131578947368418.
+El curso 'ORGANIZACION DE EVENTOS Y PROT' (código: TURI_2015) la nota promedio de los reprobados fue de 3.0617647058823527.
+El curso 'ORGANIZACION INDUSTRIAL' (código: PIND_5008) la nota promedio de los reprobados fue de 2.6217647058823528.
+El curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: ADMI_5046) la nota promedio de los reprobados fue de 3.802258064516129.
+El curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: CONT_5010) la nota promedio de los reprobados fue de 4.238571428571428.
+El curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: CONT_4000) la nota promedio de los reprobados fue de 2.6123529411764705.
+El curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: ADMI_4046) la nota promedio de los reprobados fue de 3.198108108108108.
+El curso 'PASANTIA PRE-PRO1' (código: FDCE_3015) la nota promedio de los reprobados fue de 3.665.
+El curso 'PASANTIA PRE-PRO2' (código: FDCE_4023) la nota promedio de los reprobados fue de 3.01625.
+El curso 'PASANTIAS PRE-PROF PRACTICUM 1' (código: ADMI_3023) la nota promedio de los reprobados fue de 5.225.
+El curso 'PASANTIAS PRE-PROF PRACTICUM 1' (código: CONT_3002) la nota promedio de los reprobados fue de 1.0575.
+El curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: CONT_4008) la nota promedio de los reprobados fue de 0.2025.
+El curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: ADMI_4045) la nota promedio de los reprobados fue de 1.0833333333333333.
+El curso 'PATRIMONIO NATURAL Y BIODIVERS' (código: TURI_3013) la nota promedio de los reprobados fue de 2.444166666666667.
+El curso 'PEDAGOGIA' (código: EDUC_3113) la nota promedio de los reprobados fue de 3.584791666666667.
+El curso 'PLAN ESTRATEGIC TRANSF DIGITAL' (código: DSOF_1074) la nota promedio de los reprobados fue de 6.35.
+El curso 'PLANIFICACION DE DESTINOS TURI' (código: TURI_4016) la nota promedio de los reprobados fue de 3.3342857142857145.
+El curso 'PLATAFORMAS MOVILES' (código: DSOF_4070) la nota promedio de los reprobados fue de 5.666666666666666.
+El curso 'PLATAFORMAS PARA JUEGOS' (código: DSOF_4071) la nota promedio de los reprobados fue de 4.35.
+El curso 'PLATAFORMAS WEB' (código: DSOF_3038) la nota promedio de los reprobados fue de 3.49.
+El curso 'POLITICA AMBIENTAL' (código: ECON_3046) la nota promedio de los reprobados fue de 5.093636363636364.
+El curso 'POLITICA ECONOMICA' (código: ECON_3044) la nota promedio de los reprobados fue de 5.5825.
+El curso 'POLITICA ECONOMICA II' (código: ECON_4009) la nota promedio de los reprobados fue de 0.935.
+El curso 'POLITICA PUBLICA Y MARCO LEGA' (código: FDCE_2030) la nota promedio de los reprobados fue de 3.4228695652173915.
+El curso 'PRACTICA TRIBUTARIA' (código: CONT_2026) la nota promedio de los reprobados fue de 3.671386138613861.
+El curso 'PRACTICUM 1' (código: CONT_2029) la nota promedio de los reprobados fue de 0.9687272727272728.
+El curso 'PRACTICUM 1' (código: ADMI_2029) la nota promedio de los reprobados fue de 2.059388888888889.
+El curso 'PRACTICUM 1' (código: EDUC_2120) la nota promedio de los reprobados fue de 2.398.
+El curso 'PRACTICUM 1' (código: TURI_2010) la nota promedio de los reprobados fue de 2.8260869565217392.
+El curso 'PRACTICUM 1.1' (código: COMP_2011) la nota promedio de los reprobados fue de 1.8816666666666668.
+El curso 'PRACTICUM 1.2' (código: COMP_2012) la nota promedio de los reprobados fue de 1.096.
+El curso 'PRACTICUM 2' (código: ADMI_3027) la nota promedio de los reprobados fue de 0.4967479674796747.
+El curso 'PRACTICUM 2' (código: CONT_3037) la nota promedio de los reprobados fue de 1.0548484848484847.
+El curso 'PRACTICUM 2' (código: TURI_3017) la nota promedio de los reprobados fue de 0.7828571428571428.
+El curso 'PRACTICUM 2' (código: EDUC_3181) la nota promedio de los reprobados fue de 1.4847619047619047.
+El curso 'PRACTICUM 2.1' (código: COMP_3019) la nota promedio de los reprobados fue de 0.3333333333333333.
+El curso 'PRACTICUM 2.2' (código: COMP_3014) la nota promedio de los reprobados fue de 0.7733333333333333.
+El curso 'PRACTICUM 3' (código: ADMI_4080) la nota promedio de los reprobados fue de 2.602115384615385.
+El curso 'PRACTICUM 3' (código: EDUC_3186) la nota promedio de los reprobados fue de 3.1528571428571426.
+El curso 'PRACTICUM 3 SERVICIO COMUN' (código: ECON_3054) la nota promedio de los reprobados fue de 6.0.
+El curso 'PRACTICUM 3 SERVICIO COMUNITA' (código: CONT_3038) la nota promedio de los reprobados fue de 1.5253164556962024.
+El curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: TURI_3012) la nota promedio de los reprobados fue de 2.76375.
+El curso 'PRACTICUM 4.1' (código: EDUC_4107) la nota promedio de los reprobados fue de 4.695.
+El curso 'PRACTICUM 4.1' (código: TURI_4020) la nota promedio de los reprobados fue de 1.1.
+El curso 'PRACTICUM 4.1' (código: COMP_4015) la nota promedio de los reprobados fue de 2.0.
+El curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: CONT_4032) la nota promedio de los reprobados fue de 3.323783783783784.
+El curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: ADMI_4087) la nota promedio de los reprobados fue de 3.7522222222222226.
+El curso 'PRACTICUM 4.1:TRABAJO DE INT E' (código: ECON_4115) la nota promedio de los reprobados fue de 2.0314285714285716.
+El curso 'PRACTICUM 4.2' (código: COMP_5022) la nota promedio de los reprobados fue de 2.333333333333333.
+El curso 'PRACTICUM 4.2' (código: EDUC_4114) la nota promedio de los reprobados fue de 2.5947058823529408.
+El curso 'PRACTICUM 4.2' (código: TURI_5010) la nota promedio de los reprobados fue de 1.525.
+El curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: CONT_4034) la nota promedio de los reprobados fue de 2.541294117647059.
+El curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: ADMI_5068) la nota promedio de los reprobados fue de 2.7643589743589745.
+El curso 'PRACTICUM 4.2:TRABAJO DE INTEG' (código: ECON_5074) la nota promedio de los reprobados fue de 0.93.
+El curso 'PRACTICUM ACADE 3 ASESORIA TT' (código: FDCE_4028) la nota promedio de los reprobados fue de 3.795.
+El curso 'PRACTICUM ACADEMICO 1' (código: FDCE_3021) la nota promedio de los reprobados fue de 0.825.
+El curso 'PRACTICUM ACADEMICO 2' (código: FDCE_4027) la nota promedio de los reprobados fue de 3.0256521739130435.
+El curso 'PRESUPUESTOS' (código: FINZ_1018) la nota promedio de los reprobados fue de 2.69.
+El curso 'PRINCIPIOS DE AUDITORIA' (código: CONT_3027) la nota promedio de los reprobados fue de 3.703578947368421.
+El curso 'PRINCIPIOS DE MACROECONOMIA' (código: ECON_2033) la nota promedio de los reprobados fue de 5.017333333333333.
+El curso 'PRINCIPIOS DE MICROECONOMIA' (código: ECON_2032) la nota promedio de los reprobados fue de 4.394666666666667.
+El curso 'PRINCIPIOS DEL TURISMO' (código: HOTE_1045) la nota promedio de los reprobados fue de 1.6153571428571427.
+El curso 'PROC DE INGENIERIA DE SOFTWARE' (código: DSOF_5001) la nota promedio de los reprobados fue de 0.0.
+El curso 'PROG FUNCIONAL Y REACTIVA' (código: DSOF_2035) la nota promedio de los reprobados fue de 4.025.
+El curso 'PROG ORIENTADA A OBJETOS' (código: DSOF_2034) la nota promedio de los reprobados fue de 3.201034482758621.
+El curso 'PROGRAMACION AVANZADA' (código: COMP_4011) la nota promedio de los reprobados fue de 4.191428571428571.
+El curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4118) la nota promedio de los reprobados fue de 2.3668421052631574.
+El curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_3108) la nota promedio de los reprobados fue de 4.875.
+El curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4106) la nota promedio de los reprobados fue de 3.07356783919598.
+El curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4105) la nota promedio de los reprobados fue de 2.7417816091954026.
+El curso 'PROSPECTIVA EMPRESARIAL Y A' (código: ADMI_4092) la nota promedio de los reprobados fue de 4.129285714285714.
+El curso 'PROTOTIPADO' (código: DSOF_3036) la nota promedio de los reprobados fue de 1.295.
+El curso 'PROYEC DE FIN DE CARRER GP4.1' (código: COMP_5004) la nota promedio de los reprobados fue de 1.0.
+El curso 'PROYEC DE FIN DE CARRER GP4.2' (código: COMP_5009) la nota promedio de los reprobados fue de 5.26.
+El curso 'PROYECTOS' (código: ADMI_4035) la nota promedio de los reprobados fue de 3.842307692307692.
+El curso 'PROYECTOS' (código: ADMI_4090) la nota promedio de los reprobados fue de 4.431666666666667.
+El curso 'RADIO Y NUEVAS TECNOLOGIAS' (código: PERI_1120) la nota promedio de los reprobados fue de 4.136.
+El curso 'RECURSOS TANGIB E INTANGIB' (código: TURI_3015) la nota promedio de los reprobados fue de 5.1066666666666665.
+El curso 'REDES Y SISTEMAS DISTRIBUIDOS' (código: DRBD_4014) la nota promedio de los reprobados fue de 4.27.
+El curso 'RELACIONES PUB Y PROTOCOLO' (código: HOTE_1040) la nota promedio de los reprobados fue de 3.3756521739130436.
+El curso 'REPRESENT AVAN CONOCI Y RAZON' (código: COMP_4014) la nota promedio de los reprobados fue de 0.0.
+El curso 'RESEARCH METHODS IN ELT' (código: EDUC_3184) la nota promedio de los reprobados fue de 4.712173913043478.
+El curso 'RESPONSABILIDAD SOCIAL EMPRE' (código: ADMI_4088) la nota promedio de los reprobados fue de 2.9552980132450326.
+El curso 'ROBOTICA INDUSTRIAL' (código: ELEC_1018) la nota promedio de los reprobados fue de 6.2.
+El curso 'SECOND LANGUAGE ACQUISITION' (código: EDUC_4113) la nota promedio de los reprobados fue de 2.9534782608695647.
+El curso 'SEGURIDAD DE LA INFORMACION' (código: DSOF_5015) la nota promedio de los reprobados fue de 5.583333333333333.
+El curso 'SEMANTICS AND PRAGMATICS' (código: EDUC_4108) la nota promedio de los reprobados fue de 5.055.
+El curso 'SEMINARIO DE FIN DE CARRERA' (código: TURI_5007) la nota promedio de los reprobados fue de 4.44.
+El curso 'SEMINARIO DE FIN DE CARRERA' (código: ADMI_5047) la nota promedio de los reprobados fue de 2.8462857142857145.
+El curso 'SEMINARIO DE FIN DE CARRERA' (código: CONT_5004) la nota promedio de los reprobados fue de 4.845217391304348.
+El curso 'SEMINARIO DE FIN DE CARRERA' (código: FDCE_4031) la nota promedio de los reprobados fue de 4.833846153846154.
+El curso 'SEMINARIO DE FIN DE CARRERA' (código: ECON_5035) la nota promedio de los reprobados fue de 2.83.
+El curso 'SIST BASADOS EN CONOCIMIENTOS' (código: COMP_5018) la nota promedio de los reprobados fue de 3.24.
+El curso 'SISTEMAS DE COSTOS' (código: CONT_2035) la nota promedio de los reprobados fue de 3.865636363636364.
+El curso 'SISTEMAS OPERATIVOS' (código: COMP_3011) la nota promedio de los reprobados fue de 3.9018181818181814.
+El curso 'SISTEMAS TECNOLOGICOS APLICADO' (código: TURI_4013) la nota promedio de los reprobados fue de 4.29625.
+El curso 'SOCIOLOGIA DE LA EDUCACION' (código: EDUC_1109) la nota promedio de los reprobados fue de 3.313740458015267.
+El curso 'SOSTENIBILIDAD EMPRESARIAL' (código: ADMI_3024) la nota promedio de los reprobados fue de 3.9848066298342544.
+El curso 'TEACHING CULTURE IN THE EFL CL' (código: EDUC_4110) la nota promedio de los reprobados fue de 3.435833333333333.
+El curso 'TEACHING TECHNIQUES' (código: FDCE_4038) la nota promedio de los reprobados fue de 4.1125.
+El curso 'TECHNOLOGY IN THE EFL CLASSROO' (código: IDIO_2023) la nota promedio de los reprobados fue de 3.754831460674157.
+El curso 'TECNICAS DE INFERENCIA ESTADIS' (código: ESTA_2022) la nota promedio de los reprobados fue de 3.3544776119402986.
+El curso 'TECNOLOGIAS EMERGENTES' (código: COMP_5023) la nota promedio de los reprobados fue de 1.8633333333333333.
+El curso 'TEFL METHODOLOGY AND DIDACTICS' (código: EDUC_2089) la nota promedio de los reprobados fue de 4.081229508196721.
+El curso 'TEORIA DE AUTOMATAS Y COMPILAD' (código: COMP_3012) la nota promedio de los reprobados fue de 3.789.
+El curso 'TEORIA MACROECONOMICA' (código: ECON_2031) la nota promedio de los reprobados fue de 4.080892857142857.
+El curso 'TEORIA MICROECONOMICA' (código: ECON_2030) la nota promedio de los reprobados fue de 4.248512396694215.
+El curso 'TEORIAS DEL DESARROLLO' (código: ECON_5075) la nota promedio de los reprobados fue de 0.1666666666666666.
+El curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: ADMI_5060) la nota promedio de los reprobados fue de 3.682105263157895.
+El curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: CONT_5000) la nota promedio de los reprobados fue de 3.985833333333333.
+El curso 'TRABAJO DE TITULACION' (código: FDCE_4043) la nota promedio de los reprobados fue de 4.065263157894737.
+El curso 'TRANSPORTACION TURISTICA' (código: TURI_2017) la nota promedio de los reprobados fue de 3.591818181818182.
+El curso 'TURISMO Y HOTELERIA' (código: HOTE_1030) la nota promedio de los reprobados fue de 5.344666666666666.
+El curso 'URBANIZACION Y CAMBIO CLIMATIC' (código: ARQU_1092) la nota promedio de los reprobados fue de 0.22.
+El curso 'VALIDACION DE PRODUCTO' (código: ADMI_1030) la nota promedio de los reprobados fue de 5.43.
+El curso 'VALORACION DE EMPRESAS' (código: FINZ_5000) la nota promedio de los reprobados fue de 3.0470886075949366.

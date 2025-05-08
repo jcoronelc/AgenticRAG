@@ -1,0 +1,345 @@
+curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, promedio_reprobados: 4.3352380952380952
+curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, promedio_reprobados: 4.6998039215686275
+curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, promedio_reprobados: 3.3806896551724138
+curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, promedio_reprobados: 3.4996250000000000
+curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, promedio_reprobados: 2.5026612903225806
+curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, promedio_reprobados: 3.9590099009900990
+curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, promedio_reprobados: 4.4675000000000000
+curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, promedio_reprobados: 3.2735483870967742
+curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, promedio_reprobados: 3.4239007092198582
+curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, promedio_reprobados: 3.3798113207547170
+curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, promedio_reprobados: 4.1575000000000000
+curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, promedio_reprobados: 4.3063636363636364
+curso_codigo: ECON_4112, curso_nombre: ADMINISTRACION FINANCIERA OPER, promedio_reprobados: 3.9672727272727273
+curso_codigo: ADMI_1009, curso_nombre: ADMINISTRACION I, promedio_reprobados: 0.00000000000000000000
+curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, promedio_reprobados: 3.8066046511627907
+curso_codigo: DSOF_1070, curso_nombre: ALGORITMOS Y RESOLUCION DE PRO, promedio_reprobados: 0.60000000000000000000
+curso_codigo: MATE_2029, curso_nombre: ANA MATEMATICO MULTIVARIADO, promedio_reprobados: 2.8800000000000000
+curso_codigo: DSOF_2036, curso_nombre: ANALISIS DE ALGORITMOS, promedio_reprobados: 3.9850000000000000
+curso_codigo: TURI_4022, curso_nombre: ANALISIS DE MERCADOS TURISTICO, promedio_reprobados: 4.7831578947368421
+curso_codigo: TIER_1075, curso_nombre: ANALISIS EXPLORATORIO DE DATOS, promedio_reprobados: 0.00000000000000000000
+curso_codigo: MATE_1101, curso_nombre: ANALISIS MATEMATICO UNIVARIADO, promedio_reprobados: 4.4306666666666667
+curso_codigo: RELI_3002, curso_nombre: ANTROPOLOGIA, promedio_reprobados: 5.0950000000000000
+curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, promedio_reprobados: 3.8003456790123457
+curso_codigo: TURI_1020, curso_nombre: ANTROPOLOGIA CULTURAL Y TURIS, promedio_reprobados: 2.6276190476190476
+curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, promedio_reprobados: 4.5919047619047619
+curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, promedio_reprobados: 4.2454285714285714
+curso_codigo: TURI_2014, curso_nombre: AREAS PROTEGIDAS, promedio_reprobados: 3.2983333333333333
+curso_codigo: COMP_5006, curso_nombre: ARQ Y COMP PARALELA, promedio_reprobados: 0.00000000000000000000
+curso_codigo: COMP_2010, curso_nombre: ARQ Y ORGANIZACION DE COMP, promedio_reprobados: 2.9166666666666667
+curso_codigo: DRBD_5003, curso_nombre: ARQ Y SEGURIDAD DE REDES, promedio_reprobados: 4.5000000000000000
+curso_codigo: DSOF_4069, curso_nombre: ARQUITECTURA DE SOFTWARE, promedio_reprobados: 6.3800000000000000
+curso_codigo: PERI_1110, curso_nombre: ARTE ESCENICO Y EXPRESION ORAL, promedio_reprobados: 4.4800000000000000
+curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, promedio_reprobados: 4.7740000000000000
+curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, promedio_reprobados: 5.2404761904761905
+curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, promedio_reprobados: 4.4208695652173913
+curso_codigo: CONT_4006, curso_nombre: AUDITORIA I, promedio_reprobados: 0.59000000000000000000
+curso_codigo: CONT_1015, curso_nombre: AUDITORIA II, promedio_reprobados: 4.1633333333333333
+curso_codigo: CONT_5002, curso_nombre: AUDITORIA III, promedio_reprobados: 3.8776923076923077
+curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, promedio_reprobados: 4.4428571428571429
+curso_codigo: DRBD_2005, curso_nombre: BASE DE DATOS AVANZADA, promedio_reprobados: 2.9411111111111111
+curso_codigo: MATE_1091, curso_nombre: CALCULO, promedio_reprobados: 3.2600000000000000
+curso_codigo: MATE_1114, curso_nombre: CALCULO DIFERENCIAL, promedio_reprobados: 0.00000000000000000000
+curso_codigo: TURI_3014, curso_nombre: CIUDAD Y TURISMO, promedio_reprobados: 3.8928571428571429
+curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, promedio_reprobados: 3.6900000000000000
+curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, promedio_reprobados: 3.7861702127659574
+curso_codigo: TURI_4015, curso_nombre: COMPETITIVIDAD DESTINOS TURIST, promedio_reprobados: 3.7700000000000000
+curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, promedio_reprobados: 4.2334355828220859
+curso_codigo: LITE_1108, curso_nombre: COMPOSICION DE TEXTOS CIENTIFI, promedio_reprobados: 2.8340000000000000
+curso_codigo: CONT_4010, curso_nombre: COMPUTACION APLICADA, promedio_reprobados: 3.7390000000000000
+curso_codigo: COMP_1078, curso_nombre: COMPUTACION Y SOCIEDAD, promedio_reprobados: 3.0644444444444444
+curso_codigo: ECON_4116, curso_nombre: CONSTRUCCION DE INDICADORES, promedio_reprobados: 3.1525000000000000
+curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, promedio_reprobados: 3.0891525423728814
+curso_codigo: CONT_2015, curso_nombre: CONTABILIDAD BANCARIA, promedio_reprobados: 3.2166666666666667
+curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, promedio_reprobados: 3.6800000000000000
+curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, promedio_reprobados: 4.1701282051282051
+curso_codigo: CONT_2032, curso_nombre: CONTABILIDAD DE COSTOS OPERATI, promedio_reprobados: 3.4152380952380952
+curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, promedio_reprobados: 2.5146428571428571
+curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, promedio_reprobados: 4.2942574257425743
+curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, promedio_reprobados: 3.2554710144927536
+curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, promedio_reprobados: 2.9876923076923077
+curso_codigo: CONT_5006, curso_nombre: CONTABILIDAD GERENCIAL, promedio_reprobados: 5.1194117647058824
+curso_codigo: CONT_3017, curso_nombre: CONTABILIDAD GUBERNAMENTAL, promedio_reprobados: 1.16666666666666666667
+curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, promedio_reprobados: 3.6871111111111111
+curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, promedio_reprobados: 4.0982352941176471
+curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, promedio_reprobados: 3.4815333333333333
+curso_codigo: TURI_4014, curso_nombre: COSMOVISION ANDINA, promedio_reprobados: 4.2950000000000000
+curso_codigo: LITE_4003, curso_nombre: CULTURE AND LITERATURE IN ENGL, promedio_reprobados: 4.7539130434782609
+curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, promedio_reprobados: 5.4780000000000000
+curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, promedio_reprobados: 5.5487500000000000
+curso_codigo: FDCE_4001, curso_nombre: CURRICULUM AND MATERIALS, promedio_reprobados: 2.7550000000000000
+curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, promedio_reprobados: 2.0547368421052632
+curso_codigo: DERE_1181, curso_nombre: DERECHO LABORAL, promedio_reprobados: 3.5623880597014925
+curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, promedio_reprobados: 3.1624107142857143
+curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, promedio_reprobados: 3.7363440860215054
+curso_codigo: ECON_4002, curso_nombre: DESARROLLO ECONOMICO, promedio_reprobados: 4.2322222222222222
+curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, promedio_reprobados: 3.9258823529411765
+curso_codigo: ECON_3047, curso_nombre: DESARROLLO REGIONAL, promedio_reprobados: 5.2200000000000000
+curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, promedio_reprobados: 3.9484375000000000
+curso_codigo: HOTE_5003, curso_nombre: DIRECCION HOTELERA, promedio_reprobados: 3.4550000000000000
+curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, promedio_reprobados: 5.6266666666666667
+curso_codigo: TURI_3016, curso_nombre: DISEÑO DE PRODUCTOS TURISTICOS, promedio_reprobados: 4.5444444444444444
+curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, promedio_reprobados: 3.2159523809523810
+curso_codigo: RELI_1001, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, promedio_reprobados: 4.2528571428571429
+curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, promedio_reprobados: 2.0385714285714286
+curso_codigo: ECON_3043, curso_nombre: ECONOMETRIA AVANZADA, promedio_reprobados: 3.8713333333333333
+curso_codigo: ECON_3039, curso_nombre: ECONOMETRIA BASICA, promedio_reprobados: 4.6060000000000000
+curso_codigo: ECMA_4003, curso_nombre: ECONOMETRIA II, promedio_reprobados: 3.4300000000000000
+curso_codigo: ECON_4108, curso_nombre: ECONOMIA AMBIENTAL Y DE REC NA, promedio_reprobados: 5.5844444444444444
+curso_codigo: ECON_2035, curso_nombre: ECONOMIA DE LA EMPRESA Y MERCA, promedio_reprobados: 5.2427272727272727
+curso_codigo: ECON_5077, curso_nombre: ECONOMIA INTERNACIONAL, promedio_reprobados: 4.5653846153846154
+curso_codigo: ECON_5014, curso_nombre: ECONOMIA POLITICA, promedio_reprobados: 6.1600000000000000
+curso_codigo: ECON_5076, curso_nombre: ECONOMIA POLITICA, promedio_reprobados: 3.8066666666666667
+curso_codigo: ADMI_1127, curso_nombre: ECONOMIA POPULAR Y SOLIDARIA, promedio_reprobados: 3.7895454545454545
+curso_codigo: MATE_3100, curso_nombre: ECUACIONES DIFER Y MET NUMER, promedio_reprobados: 3.2620000000000000
+curso_codigo: FDSE_4007, curso_nombre: EDUCATIONAL RESEARCH I, promedio_reprobados: 4.6457142857142857
+curso_codigo: RELI_1110, curso_nombre: EL ARTE DE AMAR, promedio_reprobados: 4.3800000000000000
+curso_codigo: ADMI_5078, curso_nombre: EMPREN CON BASE TECNOLOGICA I, promedio_reprobados: 1.6675000000000000
+curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, promedio_reprobados: 3.1306476683937824
+curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, promedio_reprobados: 4.1126829268292683
+curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, promedio_reprobados: 3.3712820512820513
+curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, promedio_reprobados: 3.3671052631578947
+curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, promedio_reprobados: 3.8992592592592593
+curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, promedio_reprobados: 3.1465476190476190
+curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, promedio_reprobados: 2.2755428571428571
+curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, promedio_reprobados: 3.8607246376811594
+curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, promedio_reprobados: 2.7951459854014599
+curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, promedio_reprobados: 4.0561290322580645
+curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, promedio_reprobados: 4.9234782608695652
+curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, promedio_reprobados: 2.5977754237288136
+curso_codigo: ESTA_1044, curso_nombre: ESTADISTICA, promedio_reprobados: 4.1633333333333333
+curso_codigo: ESTA_4004, curso_nombre: ESTADISTICA APLICADA A EDUCA, promedio_reprobados: 3.9135294117647059
+curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, promedio_reprobados: 3.4042307692307692
+curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, promedio_reprobados: 3.5474418604651163
+curso_codigo: ESTA_2029, curso_nombre: ESTADISTICA PARA LAS ING Y ARQ, promedio_reprobados: 5.4000000000000000
+curso_codigo: ESTA_3022, curso_nombre: ESTADISTICA Y PROBABILIDAD, promedio_reprobados: 3.7483333333333333
+curso_codigo: DSOF_2029, curso_nombre: ESTRUCTURAS DE DATOS, promedio_reprobados: 3.4944444444444444
+curso_codigo: DSOF_2030, curso_nombre: ESTRUCTURAS DISCRETAS, promedio_reprobados: 3.4416666666666667
+curso_codigo: RELI_3000, curso_nombre: ETICA, promedio_reprobados: 4.2968421052631579
+curso_codigo: RELI_1109, curso_nombre: ETICA DE LA INTELIGENCIA ARTIF, promedio_reprobados: 4.4950000000000000
+curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, promedio_reprobados: 3.4575555555555556
+curso_codigo: ADMI_4089, curso_nombre: EVALUACION DE PROYECTOS, promedio_reprobados: 5.7400000000000000
+curso_codigo: EDUC_1143, curso_nombre: FAMILIA Y EDUCACION: RETOS Y D, promedio_reprobados: 3.3188888888888889
+curso_codigo: CONT_4026, curso_nombre: FIJACION PREC Y ADMIN DE COSTO, promedio_reprobados: 4.6000000000000000
+curso_codigo: FILO_4002, curso_nombre: FILOSOFIA DE LA EDUCACION, promedio_reprobados: 3.4350000000000000
+curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, promedio_reprobados: 2.3773666666666667
+curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, promedio_reprobados: 4.4124074074074074
+curso_codigo: FINZ_1026, curso_nombre: FINANZAS I, promedio_reprobados: 3.1041666666666667
+curso_codigo: FINZ_1065, curso_nombre: FINANZAS II, promedio_reprobados: 3.7310000000000000
+curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, promedio_reprobados: 3.6371074380165289
+curso_codigo: TURI_3011, curso_nombre: FINANZAS Y PRESUPUESTOS, promedio_reprobados: 2.8076923076923077
+curso_codigo: FINZ_1073, curso_nombre: FINTECH BANCA 4.0, promedio_reprobados: 4.9900000000000000
+curso_codigo: FISI_1039, curso_nombre: FISICA BASICA, promedio_reprobados: 4.3385483870967742
+curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, promedio_reprobados: 4.8841379310344828
+curso_codigo: ECON_3045, curso_nombre: FORMULACION DE PROYECTOS, promedio_reprobados: 4.8869230769230769
+curso_codigo: ADMI_4121, curso_nombre: FORMULACION Y EVALUACION DE PR, promedio_reprobados: 0.14000000000000000000
+curso_codigo: IDIO_3013, curso_nombre: FRANCES I, promedio_reprobados: 3.5939285714285714
+curso_codigo: IDIO_3014, curso_nombre: FRANCES II, promedio_reprobados: 4.5176923076923077
+curso_codigo: IDIO_4016, curso_nombre: FRANCES III, promedio_reprobados: 5.4309090909090909
+curso_codigo: IDIO_5001, curso_nombre: FRANCES IV, promedio_reprobados: 5.1450000000000000
+curso_codigo: COMP_4012, curso_nombre: FUND DE INTE ARTIFICIAL, promedio_reprobados: 0.75000000000000000000
+curso_codigo: COMP_1075, curso_nombre: FUNDAMENTOS COMPUTACIONALES, promedio_reprobados: 3.7751851851851852
+curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, promedio_reprobados: 4.1351923076923077
+curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, promedio_reprobados: 1.7783333333333333
+curso_codigo: DRBD_2004, curso_nombre: FUNDAMENTOS DE BASE DE DATOS, promedio_reprobados: 5.5866666666666667
+curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, promedio_reprobados: 2.5650227272727273
+curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, promedio_reprobados: 2.3608385093167702
+curso_codigo: SIST_3012, curso_nombre: FUNDAMENTOS DE INGENIERIA DE S, promedio_reprobados: 6.5700000000000000
+curso_codigo: DSOF_1073, curso_nombre: FUNDAMENTOS DE PROGRAMACION, promedio_reprobados: 3.0650000000000000
+curso_codigo: DRBD_4012, curso_nombre: FUNDAMENTOS DE REDES, promedio_reprobados: 3.5533333333333333
+curso_codigo: COMP_1034, curso_nombre: FUNDAMENTOS INFORMATICOS, promedio_reprobados: 4.0854545454545455
+curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, promedio_reprobados: 2.3423344947735192
+curso_codigo: HOTE_1047, curso_nombre: GEOGRAFIA TURISTICA, promedio_reprobados: 1.8828358208955224
+curso_codigo: TIER_1074, curso_nombre: GEOLOGIA DEL SUBSUELO, promedio_reprobados: 2.5500000000000000
+curso_codigo: MINE_1005, curso_nombre: GERENCIA DE OPERACIONES MINERA, promedio_reprobados: 0.45000000000000000000
+curso_codigo: RENR_3001, curso_nombre: GERENCIA DE RECURSOS NATURALES, promedio_reprobados: 5.4600000000000000
+curso_codigo: DSOF_3035, curso_nombre: GEST DE LA CALIDAD DE SOFTWARE, promedio_reprobados: 4.7400000000000000
+curso_codigo: SIST_4000, curso_nombre: GEST DE TECN DE LA INFO, promedio_reprobados: 0.00000000000000000000
+curso_codigo: TURI_5011, curso_nombre: GESTION DE CADENA DE VALOR Y C, promedio_reprobados: 3.4866666666666667
+curso_codigo: ADMI_4015, curso_nombre: GESTION DE LA CALIDAD, promedio_reprobados: 3.8314285714285714
+curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, promedio_reprobados: 4.3800000000000000
+curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, promedio_reprobados: 4.9166666666666667
+curso_codigo: ADMI_5077, curso_nombre: GESTION DE PROYECTOS, promedio_reprobados: 4.9750000000000000
+curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, promedio_reprobados: 3.4584276729559748
+curso_codigo: TURI_2011, curso_nombre: GESTION DEL PATRIMONIO CULTU, promedio_reprobados: 4.7423809523809524
+curso_codigo: TURI_4017, curso_nombre: GESTION E INNOVACION DE DESTIN, promedio_reprobados: 4.1525000000000000
+curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, promedio_reprobados: 3.3393333333333333
+curso_codigo: ECON_5021, curso_nombre: GESTION PRODUCTIVA GP 4.1, promedio_reprobados: 0.00000000000000000000
+curso_codigo: TURI_4018, curso_nombre: GESTION PUBLICA DEL TURISMO, promedio_reprobados: 4.2016666666666667
+curso_codigo: TURI_2016, curso_nombre: GUIANZA, promedio_reprobados: 3.0663636363636364
+curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, promedio_reprobados: 2.7978866768759571
+curso_codigo: ECON_1089, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, promedio_reprobados: 3.1966666666666667
+curso_codigo: ECON_1055, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, promedio_reprobados: 2.9025000000000000
+curso_codigo: ECON_1087, curso_nombre: HISTORIA ECONOMICA DEL ECUADOR, promedio_reprobados: 4.0350000000000000
+curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, promedio_reprobados: 2.5556489262371615
+curso_codigo: PERI_3015, curso_nombre: IMAGEN PERSONAL Y CORPORATIVA, promedio_reprobados: 5.0650000000000000
+curso_codigo: EDUC_1102, curso_nombre: INCLUSION Y APRENDIZAJE SOSTEN, promedio_reprobados: 2.9044680851063830
+curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, promedio_reprobados: 4.8590000000000000
+curso_codigo: DSOF_3039, curso_nombre: INGENIERIA DE REQUISITOS, promedio_reprobados: 6.4500000000000000
+curso_codigo: DSOF_3037, curso_nombre: INGENIERIA WEB, promedio_reprobados: 5.6875000000000000
+curso_codigo: EDUC_1149, curso_nombre: INNOVAR EN LOS FUTUROS DE LA E, promedio_reprobados: 0.75000000000000000000
+curso_codigo: DSOF_5003, curso_nombre: INTE ARTIFICIAL AVANZADO, promedio_reprobados: 5.5850000000000000
+curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, promedio_reprobados: 4.5753658536585366
+curso_codigo: DSOF_4009, curso_nombre: INTELIGENCIA ARTIFICIAL, promedio_reprobados: 0.00000000000000000000
+curso_codigo: DRBD_1009, curso_nombre: INTELIGENCIA DE NEGOCIOS, promedio_reprobados: 0.00000000000000000000
+curso_codigo: EDUC_1146, curso_nombre: INTELIGENCIA EMOCIONAL, promedio_reprobados: 3.0828125000000000
+curso_codigo: PAGR_1017, curso_nombre: INTRO A LA CAD DE VALOR EN CAF, promedio_reprobados: 4.3625000000000000
+curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, promedio_reprobados: 4.4857142857142857
+curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, promedio_reprobados: 4.3749295774647887
+curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, promedio_reprobados: 2.8683568075117371
+curso_codigo: DSOF_1067, curso_nombre: INTRODUCCION A LA PROGRAMACION, promedio_reprobados: 4.1663636363636364
+curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, promedio_reprobados: 3.5209090909090909
+curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, promedio_reprobados: 4.1884883720930233
+curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, promedio_reprobados: 3.0723529411764706
+curso_codigo: EDUC_2022, curso_nombre: JORN DE INVES LA CREDIBILIDAD, promedio_reprobados: 4.2930000000000000
+curso_codigo: EDUC_4160, curso_nombre: JORNADA DE INVEST Y FORMA ESP, promedio_reprobados: 6.4500000000000000
+curso_codigo: EDUC_2021, curso_nombre: JORNADA DE INVESTIGACION TEMAT, promedio_reprobados: 4.7450000000000000
+curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, promedio_reprobados: 3.7501111111111111
+curso_codigo: FDCE_4011, curso_nombre: LANGUAGE TESTING, promedio_reprobados: 3.8183333333333333
+curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, promedio_reprobados: 2.4843636363636364
+curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, promedio_reprobados: 3.6931746031746032
+curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, promedio_reprobados: 2.6380769230769231
+curso_codigo: DERE_1102, curso_nombre: LEGISLACION MONETARIA Y BANCAR, promedio_reprobados: 4.2400000000000000
+curso_codigo: TURI_2013, curso_nombre: LEGISLACION TURISTICA Y AMBIEN, promedio_reprobados: 3.3830000000000000
+curso_codigo: EDUC_1141, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, promedio_reprobados: 0.00000000000000000000
+curso_codigo: EDUC_1147, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, promedio_reprobados: 2.4188888888888889
+curso_codigo: ELEN_2008, curso_nombre: LOGICA DIGITAL, promedio_reprobados: 3.9740000000000000
+curso_codigo: ADMI_4027, curso_nombre: LOGISTICA EMPRESARIAL, promedio_reprobados: 4.6433333333333333
+curso_codigo: ECON_3041, curso_nombre: MACROECONOMIA ABIERTA, promedio_reprobados: 5.9533333333333333
+curso_codigo: ECON_2034, curso_nombre: MACROECONOMIA CERRADA, promedio_reprobados: 3.2933333333333333
+curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, promedio_reprobados: 4.0865384615384615
+curso_codigo: MERC_4007, curso_nombre: MARKETING, promedio_reprobados: 3.6352054794520548
+curso_codigo: MERC_1005, curso_nombre: MARKETING, promedio_reprobados: 4.1080000000000000
+curso_codigo: MERC_4004, curso_nombre: MARKETING TURISTICO, promedio_reprobados: 2.6961538461538462
+curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, promedio_reprobados: 2.5329319371727749
+curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, promedio_reprobados: 3.4877419354838710
+curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, promedio_reprobados: 3.8028571428571429
+curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, promedio_reprobados: 3.3830303030303030
+curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, promedio_reprobados: 4.2114285714285714
+curso_codigo: EDUC_3187, curso_nombre: METHO FOR ACADEMIC PURPOSES, promedio_reprobados: 4.8333333333333333
+curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, promedio_reprobados: 4.2842857142857143
+curso_codigo: FDCE_4014, curso_nombre: METHODOLOGY AND DIDACTICS III:, promedio_reprobados: 2.4442857142857143
+curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, promedio_reprobados: 4.9528125000000000
+curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, promedio_reprobados: 3.4770909090909091
+curso_codigo: ECON_3042, curso_nombre: MICROECONOMIA APLICADA, promedio_reprobados: 5.0011111111111111
+curso_codigo: ECON_3040, curso_nombre: MODELOS ECONOMETRICOS, promedio_reprobados: 4.6040000000000000
+curso_codigo: ECON_4110, curso_nombre: MODELOS OPTIMIZA PARA USO DE R, promedio_reprobados: 2.7400000000000000
+curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, promedio_reprobados: 3.6471739130434783
+curso_codigo: TURI_4021, curso_nombre: NEURO MARKT Y TEORIAS DE INFOR, promedio_reprobados: 4.6050000000000000
+curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, promedio_reprobados: 3.0996000000000000
+curso_codigo: TURI_2018, curso_nombre: NUEVAS ALTERNATIVAS DE TURISMO, promedio_reprobados: 3.7131578947368421
+curso_codigo: TURI_2015, curso_nombre: ORGANIZACION DE EVENTOS Y PROT, promedio_reprobados: 3.0617647058823529
+curso_codigo: PIND_5008, curso_nombre: ORGANIZACION INDUSTRIAL, promedio_reprobados: 2.6217647058823529
+curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, promedio_reprobados: 3.8022580645161290
+curso_codigo: CONT_5010, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, promedio_reprobados: 4.2385714285714286
+curso_codigo: CONT_4000, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, promedio_reprobados: 2.6123529411764706
+curso_codigo: ADMI_4046, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, promedio_reprobados: 3.1981081081081081
+curso_codigo: FDCE_3015, curso_nombre: PASANTIA PRE-PRO1, promedio_reprobados: 3.6650000000000000
+curso_codigo: FDCE_4023, curso_nombre: PASANTIA PRE-PRO2, promedio_reprobados: 3.0162500000000000
+curso_codigo: ADMI_3023, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, promedio_reprobados: 5.2250000000000000
+curso_codigo: CONT_3002, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, promedio_reprobados: 1.05750000000000000000
+curso_codigo: CONT_4008, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, promedio_reprobados: 0.20250000000000000000
+curso_codigo: ADMI_4045, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, promedio_reprobados: 1.08333333333333333333
+curso_codigo: TURI_3013, curso_nombre: PATRIMONIO NATURAL Y BIODIVERS, promedio_reprobados: 2.4441666666666667
+curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, promedio_reprobados: 3.5847916666666667
+curso_codigo: DSOF_1074, curso_nombre: PLAN ESTRATEGIC TRANSF DIGITAL, promedio_reprobados: 6.3500000000000000
+curso_codigo: TURI_4016, curso_nombre: PLANIFICACION DE DESTINOS TURI, promedio_reprobados: 3.3342857142857143
+curso_codigo: DSOF_4070, curso_nombre: PLATAFORMAS MOVILES, promedio_reprobados: 5.6666666666666667
+curso_codigo: DSOF_4071, curso_nombre: PLATAFORMAS PARA JUEGOS, promedio_reprobados: 4.3500000000000000
+curso_codigo: DSOF_3038, curso_nombre: PLATAFORMAS WEB, promedio_reprobados: 3.4900000000000000
+curso_codigo: ECON_3046, curso_nombre: POLITICA AMBIENTAL, promedio_reprobados: 5.0936363636363636
+curso_codigo: ECON_3044, curso_nombre: POLITICA ECONOMICA, promedio_reprobados: 5.5825000000000000
+curso_codigo: ECON_4009, curso_nombre: POLITICA ECONOMICA II, promedio_reprobados: 0.93500000000000000000
+curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, promedio_reprobados: 3.4228695652173913
+curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, promedio_reprobados: 3.6713861386138614
+curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, promedio_reprobados: 0.96872727272727272727
+curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, promedio_reprobados: 2.0593888888888889
+curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, promedio_reprobados: 2.3980000000000000
+curso_codigo: TURI_2010, curso_nombre: PRACTICUM 1, promedio_reprobados: 2.8260869565217391
+curso_codigo: COMP_2011, curso_nombre: PRACTICUM 1.1, promedio_reprobados: 1.8816666666666667
+curso_codigo: COMP_2012, curso_nombre: PRACTICUM 1.2, promedio_reprobados: 1.09600000000000000000
+curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, promedio_reprobados: 0.49674796747967479675
+curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, promedio_reprobados: 1.0548484848484848
+curso_codigo: TURI_3017, curso_nombre: PRACTICUM 2, promedio_reprobados: 0.78285714285714285714
+curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, promedio_reprobados: 1.4847619047619048
+curso_codigo: COMP_3019, curso_nombre: PRACTICUM 2.1, promedio_reprobados: 0.33333333333333333333
+curso_codigo: COMP_3014, curso_nombre: PRACTICUM 2.2, promedio_reprobados: 0.77333333333333333333
+curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, promedio_reprobados: 2.6021153846153846
+curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, promedio_reprobados: 3.1528571428571429
+curso_codigo: ECON_3054, curso_nombre: PRACTICUM 3 SERVICIO COMUN, promedio_reprobados: 6.0000000000000000
+curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, promedio_reprobados: 1.5253164556962025
+curso_codigo: TURI_3012, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, promedio_reprobados: 2.7637500000000000
+curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, promedio_reprobados: 4.6950000000000000
+curso_codigo: TURI_4020, curso_nombre: PRACTICUM 4.1, promedio_reprobados: 1.10000000000000000000
+curso_codigo: COMP_4015, curso_nombre: PRACTICUM 4.1, promedio_reprobados: 2.0000000000000000
+curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, promedio_reprobados: 3.3237837837837838
+curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, promedio_reprobados: 3.7522222222222222
+curso_codigo: ECON_4115, curso_nombre: PRACTICUM 4.1:TRABAJO DE INT E, promedio_reprobados: 2.0314285714285714
+curso_codigo: COMP_5022, curso_nombre: PRACTICUM 4.2, promedio_reprobados: 2.3333333333333333
+curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, promedio_reprobados: 2.5947058823529412
+curso_codigo: TURI_5010, curso_nombre: PRACTICUM 4.2, promedio_reprobados: 1.5250000000000000
+curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, promedio_reprobados: 2.5412941176470588
+curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, promedio_reprobados: 2.7643589743589744
+curso_codigo: ECON_5074, curso_nombre: PRACTICUM 4.2:TRABAJO DE INTEG, promedio_reprobados: 0.93000000000000000000
+curso_codigo: FDCE_4028, curso_nombre: PRACTICUM ACADE 3 ASESORIA TT, promedio_reprobados: 3.7950000000000000
+curso_codigo: FDCE_3021, curso_nombre: PRACTICUM ACADEMICO 1, promedio_reprobados: 0.82500000000000000000
+curso_codigo: FDCE_4027, curso_nombre: PRACTICUM ACADEMICO 2, promedio_reprobados: 3.0256521739130435
+curso_codigo: FINZ_1018, curso_nombre: PRESUPUESTOS, promedio_reprobados: 2.6900000000000000
+curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, promedio_reprobados: 3.7035789473684211
+curso_codigo: ECON_2033, curso_nombre: PRINCIPIOS DE MACROECONOMIA, promedio_reprobados: 5.0173333333333333
+curso_codigo: ECON_2032, curso_nombre: PRINCIPIOS DE MICROECONOMIA, promedio_reprobados: 4.3946666666666667
+curso_codigo: HOTE_1045, curso_nombre: PRINCIPIOS DEL TURISMO, promedio_reprobados: 1.6153571428571429
+curso_codigo: DSOF_5001, curso_nombre: PROC DE INGENIERIA DE SOFTWARE, promedio_reprobados: 0.00000000000000000000
+curso_codigo: DSOF_2035, curso_nombre: PROG FUNCIONAL Y REACTIVA, promedio_reprobados: 4.0250000000000000
+curso_codigo: DSOF_2034, curso_nombre: PROG ORIENTADA A OBJETOS, promedio_reprobados: 3.2010344827586207
+curso_codigo: COMP_4011, curso_nombre: PROGRAMACION AVANZADA, promedio_reprobados: 4.1914285714285714
+curso_codigo: EDUC_4118, curso_nombre: PROPUESTA DE INVESTIGACION, promedio_reprobados: 2.3668421052631579
+curso_codigo: EDUC_3108, curso_nombre: PROPUESTA DE INVESTIGACION, promedio_reprobados: 4.8750000000000000
+curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, promedio_reprobados: 3.0735678391959799
+curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, promedio_reprobados: 2.7417816091954023
+curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, promedio_reprobados: 4.1292857142857143
+curso_codigo: DSOF_3036, curso_nombre: PROTOTIPADO, promedio_reprobados: 1.2950000000000000
+curso_codigo: COMP_5004, curso_nombre: PROYEC DE FIN DE CARRER GP4.1, promedio_reprobados: 1.00000000000000000000
+curso_codigo: COMP_5009, curso_nombre: PROYEC DE FIN DE CARRER GP4.2, promedio_reprobados: 5.2600000000000000
+curso_codigo: ADMI_4035, curso_nombre: PROYECTOS, promedio_reprobados: 3.8423076923076923
+curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, promedio_reprobados: 4.4316666666666667
+curso_codigo: PERI_1120, curso_nombre: RADIO Y NUEVAS TECNOLOGIAS, promedio_reprobados: 4.1360000000000000
+curso_codigo: TURI_3015, curso_nombre: RECURSOS TANGIB E INTANGIB, promedio_reprobados: 5.1066666666666667
+curso_codigo: DRBD_4014, curso_nombre: REDES Y SISTEMAS DISTRIBUIDOS, promedio_reprobados: 4.2700000000000000
+curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, promedio_reprobados: 3.3756521739130435
+curso_codigo: COMP_4014, curso_nombre: REPRESENT AVAN CONOCI Y RAZON, promedio_reprobados: 0.00000000000000000000
+curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, promedio_reprobados: 4.7121739130434783
+curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, promedio_reprobados: 2.9552980132450331
+curso_codigo: ELEC_1018, curso_nombre: ROBOTICA INDUSTRIAL, promedio_reprobados: 6.2000000000000000
+curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, promedio_reprobados: 2.9534782608695652
+curso_codigo: DSOF_5015, curso_nombre: SEGURIDAD DE LA INFORMACION, promedio_reprobados: 5.5833333333333333
+curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, promedio_reprobados: 5.0550000000000000
+curso_codigo: TURI_5007, curso_nombre: SEMINARIO DE FIN DE CARRERA, promedio_reprobados: 4.4400000000000000
+curso_codigo: ADMI_5047, curso_nombre: SEMINARIO DE FIN DE CARRERA, promedio_reprobados: 2.8462857142857143
+curso_codigo: CONT_5004, curso_nombre: SEMINARIO DE FIN DE CARRERA, promedio_reprobados: 4.8452173913043478
+curso_codigo: FDCE_4031, curso_nombre: SEMINARIO DE FIN DE CARRERA, promedio_reprobados: 4.8338461538461538
+curso_codigo: ECON_5035, curso_nombre: SEMINARIO DE FIN DE CARRERA, promedio_reprobados: 2.8300000000000000
+curso_codigo: COMP_5018, curso_nombre: SIST BASADOS EN CONOCIMIENTOS, promedio_reprobados: 3.2400000000000000
+curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, promedio_reprobados: 3.8656363636363636
+curso_codigo: COMP_3011, curso_nombre: SISTEMAS OPERATIVOS, promedio_reprobados: 3.9018181818181818
+curso_codigo: TURI_4013, curso_nombre: SISTEMAS TECNOLOGICOS APLICADO, promedio_reprobados: 4.2962500000000000
+curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, promedio_reprobados: 3.3137404580152672
+curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, promedio_reprobados: 3.9848066298342541
+curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, promedio_reprobados: 3.4358333333333333
+curso_codigo: FDCE_4038, curso_nombre: TEACHING TECHNIQUES, promedio_reprobados: 4.1125000000000000
+curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, promedio_reprobados: 3.7548314606741573
+curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, promedio_reprobados: 3.3544776119402985
+curso_codigo: COMP_5023, curso_nombre: TECNOLOGIAS EMERGENTES, promedio_reprobados: 1.8633333333333333
+curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, promedio_reprobados: 4.0812295081967213
+curso_codigo: COMP_3012, curso_nombre: TEORIA DE AUTOMATAS Y COMPILAD, promedio_reprobados: 3.7890000000000000
+curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, promedio_reprobados: 4.0808928571428571
+curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, promedio_reprobados: 4.2485123966942149
+curso_codigo: ECON_5075, curso_nombre: TEORIAS DEL DESARROLLO, promedio_reprobados: 0.16666666666666666667
+curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), promedio_reprobados: 3.6821052631578947
+curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), promedio_reprobados: 3.9858333333333333
+curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, promedio_reprobados: 4.0652631578947368
+curso_codigo: TURI_2017, curso_nombre: TRANSPORTACION TURISTICA, promedio_reprobados: 3.5918181818181818
+curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, promedio_reprobados: 5.3446666666666667
+curso_codigo: ARQU_1092, curso_nombre: URBANIZACION Y CAMBIO CLIMATIC, promedio_reprobados: 0.22000000000000000000
+curso_codigo: ADMI_1030, curso_nombre: VALIDACION DE PRODUCTO, promedio_reprobados: 5.4300000000000000
+curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, promedio_reprobados: 3.0470886075949367

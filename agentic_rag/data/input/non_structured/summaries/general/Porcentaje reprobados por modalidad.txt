@@ -1,0 +1,2 @@
+programa_modalidad_nombre: DISTANCIA, total_reprobados: 16696, total_estudiantes: 112172, porcentaje_reprobados: 14.88
+programa_modalidad_nombre: PRESENCIAL, total_reprobados: 1090, total_estudiantes: 15149, porcentaje_reprobados: 7.20

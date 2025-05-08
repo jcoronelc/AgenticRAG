@@ -1,0 +1,2 @@
+Existen un total de '5951' de personas del género 'hombre' registrados.
+Existen un total de '5781' de personas del género 'mujer' registrados.

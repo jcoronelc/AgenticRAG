@@ -1,0 +1,1253 @@
+periodo_academico: 202264, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, numero_estudiantes: 78
+periodo_academico: 202264, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, numero_estudiantes: 129
+periodo_academico: 202264, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, numero_estudiantes: 79
+periodo_academico: 202264, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, numero_estudiantes: 194
+periodo_academico: 202264, curso_codigo: ADMI_1026, curso_nombre: ADMINISTRACION, numero_estudiantes: 3
+periodo_academico: 202264, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, numero_estudiantes: 564
+periodo_academico: 202264, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, numero_estudiantes: 298
+periodo_academico: 202264, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, numero_estudiantes: 165
+periodo_academico: 202264, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, numero_estudiantes: 113
+periodo_academico: 202264, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, numero_estudiantes: 304
+periodo_academico: 202264, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_estudiantes: 160
+periodo_academico: 202264, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_estudiantes: 144
+periodo_academico: 202264, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, numero_estudiantes: 136
+periodo_academico: 202264, curso_codigo: ECON_4112, curso_nombre: ADMINISTRACION FINANCIERA OPER, numero_estudiantes: 32
+periodo_academico: 202264, curso_codigo: ADMI_1009, curso_nombre: ADMINISTRACION I, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: ARTE_1050, curso_nombre: AEROGRAFIA, numero_estudiantes: 3
+periodo_academico: 202264, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, numero_estudiantes: 572
+periodo_academico: 202264, curso_codigo: MATE_2029, curso_nombre: ANA MATEMATICO MULTIVARIADO, numero_estudiantes: 34
+periodo_academico: 202264, curso_codigo: TURI_4022, curso_nombre: ANALISIS DE MERCADOS TURISTICO, numero_estudiantes: 19
+periodo_academico: 202264, curso_codigo: ECON_4109, curso_nombre: ANALISIS TERRITORIAL, numero_estudiantes: 6
+periodo_academico: 202264, curso_codigo: RELI_3002, curso_nombre: ANTROPOLOGIA, numero_estudiantes: 45
+periodo_academico: 202264, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, numero_estudiantes: 862
+periodo_academico: 202264, curso_codigo: TURI_1020, curso_nombre: ANTROPOLOGIA CULTURAL Y TURIS, numero_estudiantes: 33
+periodo_academico: 202264, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, numero_estudiantes: 45
+periodo_academico: 202264, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, numero_estudiantes: 205
+periodo_academico: 202264, curso_codigo: TURI_2014, curso_nombre: AREAS PROTEGIDAS, numero_estudiantes: 14
+periodo_academico: 202264, curso_codigo: COMP_5006, curso_nombre: ARQ Y COMP PARALELA, numero_estudiantes: 7
+periodo_academico: 202264, curso_codigo: DRBD_5003, curso_nombre: ARQ Y SEGURIDAD DE REDES, numero_estudiantes: 15
+periodo_academico: 202264, curso_codigo: DSOF_4004, curso_nombre: ARQUITECTURA DE APLICACIONES, numero_estudiantes: 11
+periodo_academico: 202264, curso_codigo: DSOF_4069, curso_nombre: ARQUITECTURA DE SOFTWARE, numero_estudiantes: 20
+periodo_academico: 202264, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, numero_estudiantes: 9
+periodo_academico: 202264, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, numero_estudiantes: 78
+periodo_academico: 202264, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, numero_estudiantes: 147
+periodo_academico: 202264, curso_codigo: CONT_4006, curso_nombre: AUDITORIA I, numero_estudiantes: 7
+periodo_academico: 202264, curso_codigo: CONT_1015, curso_nombre: AUDITORIA II, numero_estudiantes: 21
+periodo_academico: 202264, curso_codigo: CONT_5002, curso_nombre: AUDITORIA III, numero_estudiantes: 69
+periodo_academico: 202264, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, numero_estudiantes: 84
+periodo_academico: 202264, curso_codigo: MATE_1091, curso_nombre: CALCULO, numero_estudiantes: 8
+periodo_academico: 202264, curso_codigo: TURI_3014, curso_nombre: CIUDAD Y TURISMO, numero_estudiantes: 7
+periodo_academico: 202264, curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, numero_estudiantes: 61
+periodo_academico: 202264, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, numero_estudiantes: 144
+periodo_academico: 202264, curso_codigo: TURI_4015, curso_nombre: COMPETITIVIDAD DESTINOS TURIST, numero_estudiantes: 7
+periodo_academico: 202264, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, numero_estudiantes: 371
+periodo_academico: 202264, curso_codigo: COMP_1000, curso_nombre: COMPUTACION, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: CONT_4010, curso_nombre: COMPUTACION APLICADA, numero_estudiantes: 9
+periodo_academico: 202264, curso_codigo: COMP_1078, curso_nombre: COMPUTACION Y SOCIEDAD, numero_estudiantes: 86
+periodo_academico: 202264, curso_codigo: COMP_1081, curso_nombre: COMPUTACION Y SOCIEDAD, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, numero_estudiantes: 237
+periodo_academico: 202264, curso_codigo: CONT_2015, curso_nombre: CONTABILIDAD BANCARIA, numero_estudiantes: 7
+periodo_academico: 202264, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, numero_estudiantes: 112
+periodo_academico: 202264, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, numero_estudiantes: 207
+periodo_academico: 202264, curso_codigo: CONT_2032, curso_nombre: CONTABILIDAD DE COSTOS OPERATI, numero_estudiantes: 21
+periodo_academico: 202264, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, numero_estudiantes: 100
+periodo_academico: 202264, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, numero_estudiantes: 241
+periodo_academico: 202264, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, numero_estudiantes: 340
+periodo_academico: 202264, curso_codigo: CONT_5006, curso_nombre: CONTABILIDAD GERENCIAL, numero_estudiantes: 84
+periodo_academico: 202264, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, numero_estudiantes: 28
+periodo_academico: 202264, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, numero_estudiantes: 228
+periodo_academico: 202264, curso_codigo: CONT_3017, curso_nombre: CONTABILIDAD GUBERNAMENTAL, numero_estudiantes: 7
+periodo_academico: 202264, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, numero_estudiantes: 28
+periodo_academico: 202264, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, numero_estudiantes: 244
+periodo_academico: 202264, curso_codigo: TURI_4014, curso_nombre: COSMOVISION ANDINA, numero_estudiantes: 12
+periodo_academico: 202264, curso_codigo: CONT_4029, curso_nombre: COSTOS RELEV PARA TOMA DECISIO, numero_estudiantes: 5
+periodo_academico: 202264, curso_codigo: LITE_4003, curso_nombre: CULTURE AND LITERATURE IN ENGL, numero_estudiantes: 35
+periodo_academico: 202264, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, numero_estudiantes: 4
+periodo_academico: 202264, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, numero_estudiantes: 17
+periodo_academico: 202264, curso_codigo: FDCE_4001, curso_nombre: CURRICULUM AND MATERIALS, numero_estudiantes: 8
+periodo_academico: 202264, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, numero_estudiantes: 12
+periodo_academico: 202264, curso_codigo: DERE_1181, curso_nombre: DERECHO LABORAL, numero_estudiantes: 220
+periodo_academico: 202264, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, numero_estudiantes: 247
+periodo_academico: 202264, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, numero_estudiantes: 338
+periodo_academico: 202264, curso_codigo: ECON_4002, curso_nombre: DESARROLLO ECONOMICO, numero_estudiantes: 62
+periodo_academico: 202264, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, numero_estudiantes: 63
+periodo_academico: 202264, curso_codigo: ADMI_1043, curso_nombre: DESARROLLO EMPRESARIAL, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: RELI_3005, curso_nombre: DESARROLLO ESPIRITUAL III, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: TURI_5000, curso_nombre: DESARROLLO TRAB PRACTICUM 4, numero_estudiantes: 8
+periodo_academico: 202264, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, numero_estudiantes: 157
+periodo_academico: 202264, curso_codigo: HOTE_5003, curso_nombre: DIRECCION HOTELERA, numero_estudiantes: 10
+periodo_academico: 202264, curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, numero_estudiantes: 23
+periodo_academico: 202264, curso_codigo: TURI_3016, curso_nombre: DISEÑO DE PRODUCTOS TURISTICOS, numero_estudiantes: 16
+periodo_academico: 202264, curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, numero_estudiantes: 77
+periodo_academico: 202264, curso_codigo: RELI_1001, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, numero_estudiantes: 159
+periodo_academico: 202264, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, numero_estudiantes: 43
+periodo_academico: 202264, curso_codigo: ECON_3043, curso_nombre: ECONOMETRIA AVANZADA, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: ECON_3039, curso_nombre: ECONOMETRIA BASICA, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: ECMA_4003, curso_nombre: ECONOMETRIA II, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: ECMA_4004, curso_nombre: ECONOMETRIA III, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: ECON_4108, curso_nombre: ECONOMIA AMBIENTAL Y DE REC NA, numero_estudiantes: 36
+periodo_academico: 202264, curso_codigo: ECON_2035, curso_nombre: ECONOMIA DE LA EMPRESA Y MERCA, numero_estudiantes: 8
+periodo_academico: 202264, curso_codigo: ECON_5013, curso_nombre: ECONOMIA INTERNACIONAL, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: ECON_5077, curso_nombre: ECONOMIA INTERNACIONAL, numero_estudiantes: 18
+periodo_academico: 202264, curso_codigo: ECON_5014, curso_nombre: ECONOMIA POLITICA, numero_estudiantes: 3
+periodo_academico: 202264, curso_codigo: ADMI_1127, curso_nombre: ECONOMIA POPULAR Y SOLIDARIA, numero_estudiantes: 71
+periodo_academico: 202264, curso_codigo: MATE_3100, curso_nombre: ECUACIONES DIFER Y MET NUMER, numero_estudiantes: 55
+periodo_academico: 202264, curso_codigo: FDSE_4007, curso_nombre: EDUCATIONAL RESEARCH I, numero_estudiantes: 13
+periodo_academico: 202264, curso_codigo: ADMI_5079, curso_nombre: EMPREN CON BASE TECNOLOGICA II, numero_estudiantes: 5
+periodo_academico: 202264, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, numero_estudiantes: 683
+periodo_academico: 202264, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, numero_estudiantes: 103
+periodo_academico: 202264, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, numero_estudiantes: 134
+periodo_academico: 202264, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, numero_estudiantes: 133
+periodo_academico: 202264, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, numero_estudiantes: 112
+periodo_academico: 202264, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, numero_estudiantes: 136
+periodo_academico: 202264, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, numero_estudiantes: 299
+periodo_academico: 202264, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, numero_estudiantes: 134
+periodo_academico: 202264, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, numero_estudiantes: 284
+periodo_academico: 202264, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, numero_estudiantes: 117
+periodo_academico: 202264, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, numero_estudiantes: 51
+periodo_academico: 202264, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, numero_estudiantes: 480
+periodo_academico: 202264, curso_codigo: ESTA_1044, curso_nombre: ESTADISTICA, numero_estudiantes: 21
+periodo_academico: 202264, curso_codigo: ESTA_4004, curso_nombre: ESTADISTICA APLICADA A EDUCA, numero_estudiantes: 31
+periodo_academico: 202264, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, numero_estudiantes: 152
+periodo_academico: 202264, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, numero_estudiantes: 505
+periodo_academico: 202264, curso_codigo: ESTA_1012, curso_nombre: ESTADISTICA II, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: ESTA_3022, curso_nombre: ESTADISTICA Y PROBABILIDAD, numero_estudiantes: 38
+periodo_academico: 202264, curso_codigo: DSOF_2030, curso_nombre: ESTRUCTURAS DISCRETAS, numero_estudiantes: 95
+periodo_academico: 202264, curso_codigo: RELI_3000, curso_nombre: ETICA, numero_estudiantes: 85
+periodo_academico: 202264, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, numero_estudiantes: 642
+periodo_academico: 202264, curso_codigo: UTPL_500, curso_nombre: EXAMEN COMPLEXIVO CON CURSO, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: UTPL_600, curso_nombre: EXAMEN COMPLEXIVO SIN CURSO, numero_estudiantes: 7
+periodo_academico: 202264, curso_codigo: LITE_1016, curso_nombre: EXPRESION ORAL Y ESCRITA, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: EDUC_1143, curso_nombre: FAMILIA Y EDUCACION: RETOS Y D, numero_estudiantes: 125
+periodo_academico: 202264, curso_codigo: CONT_4026, curso_nombre: FIJACION PREC Y ADMIN DE COSTO, numero_estudiantes: 34
+periodo_academico: 202264, curso_codigo: FILO_4002, curso_nombre: FILOSOFIA DE LA EDUCACION, numero_estudiantes: 18
+periodo_academico: 202264, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, numero_estudiantes: 333
+periodo_academico: 202264, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, numero_estudiantes: 214
+periodo_academico: 202264, curso_codigo: FINZ_1026, curso_nombre: FINANZAS I, numero_estudiantes: 23
+periodo_academico: 202264, curso_codigo: FINZ_1065, curso_nombre: FINANZAS II, numero_estudiantes: 57
+periodo_academico: 202264, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, numero_estudiantes: 303
+periodo_academico: 202264, curso_codigo: TURI_3011, curso_nombre: FINANZAS Y PRESUPUESTOS, numero_estudiantes: 19
+periodo_academico: 202264, curso_codigo: FINZ_1073, curso_nombre: FINTECH BANCA 4.0, numero_estudiantes: 18
+periodo_academico: 202264, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, numero_estudiantes: 32
+periodo_academico: 202264, curso_codigo: ECON_3045, curso_nombre: FORMULACION DE PROYECTOS, numero_estudiantes: 15
+periodo_academico: 202264, curso_codigo: ADMI_4121, curso_nombre: FORMULACION Y EVALUACION DE PR, numero_estudiantes: 11
+periodo_academico: 202264, curso_codigo: IDIO_3013, curso_nombre: FRANCES I, numero_estudiantes: 38
+periodo_academico: 202264, curso_codigo: IDIO_3014, curso_nombre: FRANCES II, numero_estudiantes: 34
+periodo_academico: 202264, curso_codigo: IDIO_4016, curso_nombre: FRANCES III, numero_estudiantes: 38
+periodo_academico: 202264, curso_codigo: IDIO_5001, curso_nombre: FRANCES IV, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: COMP_4012, curso_nombre: FUND DE INTE ARTIFICIAL, numero_estudiantes: 19
+periodo_academico: 202264, curso_codigo: ARTE_1089, curso_nombre: FUND DEL LENGUAJE VISUAL, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: COMP_1075, curso_nombre: FUNDAMENTOS COMPUTACIONALES, numero_estudiantes: 89
+periodo_academico: 202264, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, numero_estudiantes: 199
+periodo_academico: 202264, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, numero_estudiantes: 83
+periodo_academico: 202264, curso_codigo: DRBD_2004, curso_nombre: FUNDAMENTOS DE BASE DE DATOS, numero_estudiantes: 49
+periodo_academico: 202264, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, numero_estudiantes: 1017
+periodo_academico: 202264, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, numero_estudiantes: 391
+periodo_academico: 202264, curso_codigo: SIST_3011, curso_nombre: FUNDAMENTOS DE INGENIERIA DE S, numero_estudiantes: 36
+periodo_academico: 202264, curso_codigo: SIST_3012, curso_nombre: FUNDAMENTOS DE INGENIERIA DE S, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: COMP_1034, curso_nombre: FUNDAMENTOS INFORMATICOS, numero_estudiantes: 68
+periodo_academico: 202264, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, numero_estudiantes: 725
+periodo_academico: 202264, curso_codigo: HOTE_1047, curso_nombre: GEOGRAFIA TURISTICA, numero_estudiantes: 43
+periodo_academico: 202264, curso_codigo: RENR_3001, curso_nombre: GERENCIA DE RECURSOS NATURALES, numero_estudiantes: 8
+periodo_academico: 202264, curso_codigo: TURI_5011, curso_nombre: GESTION DE CADENA DE VALOR Y C, numero_estudiantes: 8
+periodo_academico: 202264, curso_codigo: ADMI_4015, curso_nombre: GESTION DE LA CALIDAD, numero_estudiantes: 52
+periodo_academico: 202264, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, numero_estudiantes: 192
+periodo_academico: 202264, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, numero_estudiantes: 66
+periodo_academico: 202264, curso_codigo: SEPR_1002, curso_nombre: GESTION DE NUEVOS RIESGOS LABO, numero_estudiantes: 8
+periodo_academico: 202264, curso_codigo: ADMI_5077, curso_nombre: GESTION DE PROYECTOS, numero_estudiantes: 13
+periodo_academico: 202264, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, numero_estudiantes: 375
+periodo_academico: 202264, curso_codigo: TURI_2011, curso_nombre: GESTION DEL PATRIMONIO CULTU, numero_estudiantes: 38
+periodo_academico: 202264, curso_codigo: ADMI_4094, curso_nombre: GESTION DEL TALENTO HUMANO, numero_estudiantes: 12
+periodo_academico: 202264, curso_codigo: TURI_4017, curso_nombre: GESTION E INNOVACION DE DESTIN, numero_estudiantes: 12
+periodo_academico: 202264, curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, numero_estudiantes: 12
+periodo_academico: 202264, curso_codigo: ADMI_5025, curso_nombre: GESTION PRODUCTIVA 4.2, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: ECON_5021, curso_nombre: GESTION PRODUCTIVA GP 4.1, numero_estudiantes: 4
+periodo_academico: 202264, curso_codigo: ECON_5023, curso_nombre: GESTION PRODUCTIVA GP 4.2, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: TURI_4018, curso_nombre: GESTION PUBLICA DEL TURISMO, numero_estudiantes: 10
+periodo_academico: 202264, curso_codigo: TURI_2016, curso_nombre: GUIANZA, numero_estudiantes: 21
+periodo_academico: 202264, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, numero_estudiantes: 678
+periodo_academico: 202264, curso_codigo: ECON_1055, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, numero_estudiantes: 11
+periodo_academico: 202264, curso_codigo: ECON_1087, curso_nombre: HISTORIA ECONOMICA DEL ECUADOR, numero_estudiantes: 38
+periodo_academico: 202264, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, numero_estudiantes: 1477
+periodo_academico: 202264, curso_codigo: PERI_3015, curso_nombre: IMAGEN PERSONAL Y CORPORATIVA, numero_estudiantes: 100
+periodo_academico: 202264, curso_codigo: EDUC_1102, curso_nombre: INCLUSION Y APRENDIZAJE SOSTEN, numero_estudiantes: 133
+periodo_academico: 202264, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, numero_estudiantes: 31
+periodo_academico: 202264, curso_codigo: DSOF_3037, curso_nombre: INGENIERIA WEB, numero_estudiantes: 40
+periodo_academico: 202264, curso_codigo: IDIO_3010, curso_nombre: INGLES VI, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, numero_estudiantes: 142
+periodo_academico: 202264, curso_codigo: DSOF_4009, curso_nombre: INTELIGENCIA ARTIFICIAL, numero_estudiantes: 10
+periodo_academico: 202264, curso_codigo: EDUC_1146, curso_nombre: INTELIGENCIA EMOCIONAL, numero_estudiantes: 137
+periodo_academico: 202264, curso_codigo: DRBD_4015, curso_nombre: INTEROPERY EXPLO DATOS ECO HET, numero_estudiantes: 4
+periodo_academico: 202264, curso_codigo: PAGR_1017, curso_nombre: INTRO A LA CAD DE VALOR EN CAF, numero_estudiantes: 24
+periodo_academico: 202264, curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, numero_estudiantes: 89
+periodo_academico: 202264, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, numero_estudiantes: 142
+periodo_academico: 202264, curso_codigo: CONT_1007, curso_nombre: INTRODUCCION A LA AUDITORIA, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, numero_estudiantes: 363
+periodo_academico: 202264, curso_codigo: COMP_3013, curso_nombre: INTRODUCCION A LA INTELIGENCIA, numero_estudiantes: 35
+periodo_academico: 202264, curso_codigo: DSOF_1067, curso_nombre: INTRODUCCION A LA PROGRAMACION, numero_estudiantes: 91
+periodo_academico: 202264, curso_codigo: DISE_1032, curso_nombre: INTRODUCCIÓN AL DISEÑO INTERIO, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, numero_estudiantes: 71
+periodo_academico: 202264, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, numero_estudiantes: 364
+periodo_academico: 202264, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, numero_estudiantes: 49
+periodo_academico: 202264, curso_codigo: EDUC_2022, curso_nombre: JORN DE INVES LA CREDIBILIDAD, numero_estudiantes: 22
+periodo_academico: 202264, curso_codigo: EDUC_1033, curso_nombre: JORNADA DE ASESORIA DE SISTEMA, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: EDUC_2021, curso_nombre: JORNADA DE INVESTIGACION TEMAT, numero_estudiantes: 25
+periodo_academico: 202264, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, numero_estudiantes: 150
+periodo_academico: 202264, curso_codigo: FDCE_4011, curso_nombre: LANGUAGE TESTING, numero_estudiantes: 26
+periodo_academico: 202264, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, numero_estudiantes: 299
+periodo_academico: 202264, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, numero_estudiantes: 356
+periodo_academico: 202264, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, numero_estudiantes: 369
+periodo_academico: 202264, curso_codigo: DERE_1102, curso_nombre: LEGISLACION MONETARIA Y BANCAR, numero_estudiantes: 5
+periodo_academico: 202264, curso_codigo: TURI_2013, curso_nombre: LEGISLACION TURISTICA Y AMBIEN, numero_estudiantes: 28
+periodo_academico: 202264, curso_codigo: EDUC_1141, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, numero_estudiantes: 16
+periodo_academico: 202264, curso_codigo: EDUC_1147, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, numero_estudiantes: 117
+periodo_academico: 202264, curso_codigo: ELEN_2008, curso_nombre: LOGICA DIGITAL, numero_estudiantes: 56
+periodo_academico: 202264, curso_codigo: ADMI_4027, curso_nombre: LOGISTICA EMPRESARIAL, numero_estudiantes: 15
+periodo_academico: 202264, curso_codigo: ECON_3041, curso_nombre: MACROECONOMIA ABIERTA, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: ECON_2034, curso_nombre: MACROECONOMIA CERRADA, numero_estudiantes: 29
+periodo_academico: 202264, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, numero_estudiantes: 56
+periodo_academico: 202264, curso_codigo: MERC_1005, curso_nombre: MARKETING, numero_estudiantes: 26
+periodo_academico: 202264, curso_codigo: MERC_4007, curso_nombre: MARKETING, numero_estudiantes: 407
+periodo_academico: 202264, curso_codigo: MERC_4004, curso_nombre: MARKETING TURISTICO, numero_estudiantes: 21
+periodo_academico: 202264, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, numero_estudiantes: 401
+periodo_academico: 202264, curso_codigo: MATE_1095, curso_nombre: MATEMATICA FINANCIERA, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, numero_estudiantes: 540
+periodo_academico: 202264, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, numero_estudiantes: 100
+periodo_academico: 202264, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, numero_estudiantes: 110
+periodo_academico: 202264, curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, numero_estudiantes: 45
+periodo_academico: 202264, curso_codigo: EDUC_3187, curso_nombre: METHO FOR ACADEMIC PURPOSES, numero_estudiantes: 13
+periodo_academico: 202264, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, numero_estudiantes: 45
+periodo_academico: 202264, curso_codigo: FDCE_4014, curso_nombre: METHODOLOGY AND DIDACTICS III:, numero_estudiantes: 22
+periodo_academico: 202264, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, numero_estudiantes: 64
+periodo_academico: 202264, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, numero_estudiantes: 40
+periodo_academico: 202264, curso_codigo: ECON_3042, curso_nombre: MICROECONOMIA APLICADA, numero_estudiantes: 29
+periodo_academico: 202264, curso_codigo: TIER_1071, curso_nombre: MODELAMIENTO GEOLOGICO CON LEA, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: ECON_3040, curso_nombre: MODELOS ECONOMETRICOS, numero_estudiantes: 33
+periodo_academico: 202264, curso_codigo: ECON_4110, curso_nombre: MODELOS OPTIMIZA PARA USO DE R, numero_estudiantes: 6
+periodo_academico: 202264, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, numero_estudiantes: 55
+periodo_academico: 202264, curso_codigo: TURI_4021, curso_nombre: NEURO MARKT Y TEORIAS DE INFOR, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, numero_estudiantes: 159
+periodo_academico: 202264, curso_codigo: TURI_2018, curso_nombre: NUEVAS ALTERNATIVAS DE TURISMO, numero_estudiantes: 32
+periodo_academico: 202264, curso_codigo: TIER_1069, curso_nombre: OFIMAT PARA EL MODEL Y ANALISI, numero_estudiantes: 5
+periodo_academico: 202264, curso_codigo: TURI_5013, curso_nombre: ORDENAMIENTO TURISTICO TERRITO, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: TURI_2015, curso_nombre: ORGANIZACION DE EVENTOS Y PROT, numero_estudiantes: 29
+periodo_academico: 202264, curso_codigo: PIND_5008, curso_nombre: ORGANIZACION INDUSTRIAL, numero_estudiantes: 65
+periodo_academico: 202264, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_estudiantes: 109
+periodo_academico: 202264, curso_codigo: CONT_5010, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_estudiantes: 100
+periodo_academico: 202264, curso_codigo: TURI_5006, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_estudiantes: 18
+periodo_academico: 202264, curso_codigo: ADMI_4046, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_estudiantes: 109
+periodo_academico: 202264, curso_codigo: CONT_4000, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_estudiantes: 68
+periodo_academico: 202264, curso_codigo: TURI_4012, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_estudiantes: 16
+periodo_academico: 202264, curso_codigo: FDCE_3015, curso_nombre: PASANTIA PRE-PRO1, numero_estudiantes: 17
+periodo_academico: 202264, curso_codigo: FDCE_4023, curso_nombre: PASANTIA PRE-PRO2, numero_estudiantes: 32
+periodo_academico: 202264, curso_codigo: ADMI_3023, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, numero_estudiantes: 15
+periodo_academico: 202264, curso_codigo: CONT_3002, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, numero_estudiantes: 16
+periodo_academico: 202264, curso_codigo: ADMI_4045, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, numero_estudiantes: 64
+periodo_academico: 202264, curso_codigo: CONT_4008, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, numero_estudiantes: 34
+periodo_academico: 202264, curso_codigo: TURI_3013, curso_nombre: PATRIMONIO NATURAL Y BIODIVERS, numero_estudiantes: 42
+periodo_academico: 202264, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, numero_estudiantes: 156
+periodo_academico: 202264, curso_codigo: UTPL_4000, curso_nombre: PERIODO ADICIONAL 1, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: UTPL_5000, curso_nombre: PERIODO ADICIONAL 2, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: ARTE_4020, curso_nombre: PINTURA, numero_estudiantes: 3
+periodo_academico: 202264, curso_codigo: DSOF_1074, curso_nombre: PLAN ESTRATEGIC TRANSF DIGITAL, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: TURI_4016, curso_nombre: PLANIFICACION DE DESTINOS TURI, numero_estudiantes: 16
+periodo_academico: 202264, curso_codigo: MINE_1007, curso_nombre: PLANIFICACION SUBTERRANEA, numero_estudiantes: 4
+periodo_academico: 202264, curso_codigo: DSOF_4070, curso_nombre: PLATAFORMAS MOVILES, numero_estudiantes: 19
+periodo_academico: 202264, curso_codigo: ECON_3044, curso_nombre: POLITICA ECONOMICA, numero_estudiantes: 11
+periodo_academico: 202264, curso_codigo: ECON_4009, curso_nombre: POLITICA ECONOMICA II, numero_estudiantes: 3
+periodo_academico: 202264, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, numero_estudiantes: 184
+periodo_academico: 202264, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, numero_estudiantes: 242
+periodo_academico: 202264, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, numero_estudiantes: 420
+periodo_academico: 202264, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, numero_estudiantes: 227
+periodo_academico: 202264, curso_codigo: ECON_2037, curso_nombre: PRACTICUM 1, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, numero_estudiantes: 123
+periodo_academico: 202264, curso_codigo: TURI_2010, curso_nombre: PRACTICUM 1, numero_estudiantes: 46
+periodo_academico: 202264, curso_codigo: COMP_2011, curso_nombre: PRACTICUM 1.1, numero_estudiantes: 58
+periodo_academico: 202264, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, numero_estudiantes: 288
+periodo_academico: 202264, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, numero_estudiantes: 162
+periodo_academico: 202264, curso_codigo: ECON_3053, curso_nombre: PRACTICUM 2, numero_estudiantes: 35
+periodo_academico: 202264, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, numero_estudiantes: 107
+periodo_academico: 202264, curso_codigo: TURI_3017, curso_nombre: PRACTICUM 2, numero_estudiantes: 24
+periodo_academico: 202264, curso_codigo: COMP_3019, curso_nombre: PRACTICUM 2.1, numero_estudiantes: 36
+periodo_academico: 202264, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, numero_estudiantes: 173
+periodo_academico: 202264, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, numero_estudiantes: 53
+periodo_academico: 202264, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, numero_estudiantes: 104
+periodo_academico: 202264, curso_codigo: COMP_4010, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, numero_estudiantes: 26
+periodo_academico: 202264, curso_codigo: TURI_3012, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, numero_estudiantes: 14
+periodo_academico: 202264, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, numero_estudiantes: 16
+periodo_academico: 202264, curso_codigo: TURI_4020, curso_nombre: PRACTICUM 4.1, numero_estudiantes: 3
+periodo_academico: 202264, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_estudiantes: 51
+periodo_academico: 202264, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_estudiantes: 76
+periodo_academico: 202264, curso_codigo: ECON_4115, curso_nombre: PRACTICUM 4.1:TRABAJO DE INT E, numero_estudiantes: 12
+periodo_academico: 202264, curso_codigo: COMP_5022, curso_nombre: PRACTICUM 4.2, numero_estudiantes: 5
+periodo_academico: 202264, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, numero_estudiantes: 3
+periodo_academico: 202264, curso_codigo: TURI_5010, curso_nombre: PRACTICUM 4.2, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_estudiantes: 4
+periodo_academico: 202264, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_estudiantes: 6
+periodo_academico: 202264, curso_codigo: FDCE_4028, curso_nombre: PRACTICUM ACADE 3 ASESORIA TT, numero_estudiantes: 43
+periodo_academico: 202264, curso_codigo: FDCE_3021, curso_nombre: PRACTICUM ACADEMICO 1, numero_estudiantes: 11
+periodo_academico: 202264, curso_codigo: FDCE_4027, curso_nombre: PRACTICUM ACADEMICO 2, numero_estudiantes: 52
+periodo_academico: 202264, curso_codigo: FINZ_1018, curso_nombre: PRESUPUESTOS, numero_estudiantes: 4
+periodo_academico: 202264, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, numero_estudiantes: 230
+periodo_academico: 202264, curso_codigo: ECON_2032, curso_nombre: PRINCIPIOS DE MICROECONOMIA, numero_estudiantes: 39
+periodo_academico: 202264, curso_codigo: HOTE_1045, curso_nombre: PRINCIPIOS DEL TURISMO, numero_estudiantes: 41
+periodo_academico: 202264, curso_codigo: DSOF_2035, curso_nombre: PROG FUNCIONAL Y REACTIVA, numero_estudiantes: 56
+periodo_academico: 202264, curso_codigo: EDUC_3108, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 167
+periodo_academico: 202264, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 161
+periodo_academico: 202264, curso_codigo: EDUC_4118, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 14
+periodo_academico: 202264, curso_codigo: UTPL_1000, curso_nombre: PRORROGA 1, numero_estudiantes: 34
+periodo_academico: 202264, curso_codigo: UTPL_2000, curso_nombre: PRORROGA 2, numero_estudiantes: 13
+periodo_academico: 202264, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, numero_estudiantes: 37
+periodo_academico: 202264, curso_codigo: COMP_5004, curso_nombre: PROYEC DE FIN DE CARRER GP4.1, numero_estudiantes: 17
+periodo_academico: 202264, curso_codigo: CONT_5012, curso_nombre: PROYECTO FIN CARRERA II GP 4.2, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: ADMI_4035, curso_nombre: PROYECTOS, numero_estudiantes: 50
+periodo_academico: 202264, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, numero_estudiantes: 103
+periodo_academico: 202264, curso_codigo: ECON_5034, curso_nombre: PROYECTOS II, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: COMP_1077, curso_nombre: PYTHON INTERMEDIO APLICADO A L, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: TURI_3015, curso_nombre: RECURSOS TANGIB E INTANGIB, numero_estudiantes: 9
+periodo_academico: 202264, curso_codigo: DRBD_4014, curso_nombre: REDES Y SISTEMAS DISTRIBUIDOS, numero_estudiantes: 24
+periodo_academico: 202264, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, numero_estudiantes: 86
+periodo_academico: 202264, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, numero_estudiantes: 78
+periodo_academico: 202264, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, numero_estudiantes: 302
+periodo_academico: 202264, curso_codigo: ELEC_1018, curso_nombre: ROBOTICA INDUSTRIAL, numero_estudiantes: 6
+periodo_academico: 202264, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, numero_estudiantes: 66
+periodo_academico: 202264, curso_codigo: DSOF_5015, curso_nombre: SEGURIDAD DE LA INFORMACION, numero_estudiantes: 5
+periodo_academico: 202264, curso_codigo: DSOF_5025, curso_nombre: SEGURIDAD DE LA INFORMACION, numero_estudiantes: 6
+periodo_academico: 202264, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, numero_estudiantes: 49
+periodo_academico: 202264, curso_codigo: ADMI_5047, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 123
+periodo_academico: 202264, curso_codigo: CONT_5004, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 101
+periodo_academico: 202264, curso_codigo: ECON_5035, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 2
+periodo_academico: 202264, curso_codigo: FDCE_4031, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 46
+periodo_academico: 202264, curso_codigo: TURI_5007, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 21
+periodo_academico: 202264, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, numero_estudiantes: 294
+periodo_academico: 202264, curso_codigo: COMP_5020, curso_nombre: SISTEMAS INTELIGENTES, numero_estudiantes: 5
+periodo_academico: 202264, curso_codigo: COMP_3011, curso_nombre: SISTEMAS OPERATIVOS, numero_estudiantes: 43
+periodo_academico: 202264, curso_codigo: TURI_4013, curso_nombre: SISTEMAS TECNOLOGICOS APLICADO, numero_estudiantes: 19
+periodo_academico: 202264, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, numero_estudiantes: 198
+periodo_academico: 202264, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, numero_estudiantes: 375
+periodo_academico: 202264, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, numero_estudiantes: 65
+periodo_academico: 202264, curso_codigo: FDCE_4038, curso_nombre: TEACHING TECHNIQUES, numero_estudiantes: 12
+periodo_academico: 202264, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, numero_estudiantes: 145
+periodo_academico: 202264, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, numero_estudiantes: 565
+periodo_academico: 202264, curso_codigo: COMP_5023, curso_nombre: TECNOLOGIAS EMERGENTES, numero_estudiantes: 11
+periodo_academico: 202264, curso_codigo: DSOF_2043, curso_nombre: TECNOLOGIAS WEB, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, numero_estudiantes: 143
+periodo_academico: 202264, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, numero_estudiantes: 542
+periodo_academico: 202264, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, numero_estudiantes: 528
+periodo_academico: 202264, curso_codigo: ECON_5039, curso_nombre: TEORIAS DE ACUMULACION Y CREC, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_estudiantes: 41
+periodo_academico: 202264, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_estudiantes: 70
+periodo_academico: 202264, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, numero_estudiantes: 44
+periodo_academico: 202264, curso_codigo: FDCE_4044, curso_nombre: TRABAJO DE TITULACION, numero_estudiantes: 3
+periodo_academico: 202264, curso_codigo: UTPL_700, curso_nombre: TRABAJO DE TITULACION CON CURS, numero_estudiantes: 3
+periodo_academico: 202264, curso_codigo: UTPL_800, curso_nombre: TRABAJO DE TITULACION SIN CURS, numero_estudiantes: 53
+periodo_academico: 202264, curso_codigo: TURI_2017, curso_nombre: TRANSPORTACION TURISTICA, numero_estudiantes: 44
+periodo_academico: 202264, curso_codigo: TIER_1070, curso_nombre: TRATAMIENTO Y EDICION DE IMAGE, numero_estudiantes: 1
+periodo_academico: 202264, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, numero_estudiantes: 56
+periodo_academico: 202264, curso_codigo: ARQU_1092, curso_nombre: URBANIZACION Y CAMBIO CLIMATIC, numero_estudiantes: 6
+periodo_academico: 202264, curso_codigo: ADMI_1030, curso_nombre: VALIDACION DE PRODUCTO, numero_estudiantes: 5
+periodo_academico: 202264, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, numero_estudiantes: 119
+periodo_academico: 202362, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, numero_estudiantes: 120
+periodo_academico: 202362, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, numero_estudiantes: 119
+periodo_academico: 202362, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, numero_estudiantes: 103
+periodo_academico: 202362, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, numero_estudiantes: 304
+periodo_academico: 202362, curso_codigo: ADMI_1026, curso_nombre: ADMINISTRACION, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, numero_estudiantes: 428
+periodo_academico: 202362, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, numero_estudiantes: 288
+periodo_academico: 202362, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, numero_estudiantes: 219
+periodo_academico: 202362, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, numero_estudiantes: 57
+periodo_academico: 202362, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, numero_estudiantes: 354
+periodo_academico: 202362, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_estudiantes: 75
+periodo_academico: 202362, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_estudiantes: 207
+periodo_academico: 202362, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, numero_estudiantes: 173
+periodo_academico: 202362, curso_codigo: ECON_4112, curso_nombre: ADMINISTRACION FINANCIERA OPER, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: ADMI_1009, curso_nombre: ADMINISTRACION I, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, numero_estudiantes: 735
+periodo_academico: 202362, curso_codigo: DRBD_4016, curso_nombre: ANA Y VISUAL GRA VOL DE DATOS, numero_estudiantes: 3
+periodo_academico: 202362, curso_codigo: DSOF_2036, curso_nombre: ANALISIS DE ALGORITMOS, numero_estudiantes: 52
+periodo_academico: 202362, curso_codigo: TURI_4022, curso_nombre: ANALISIS DE MERCADOS TURISTICO, numero_estudiantes: 16
+periodo_academico: 202362, curso_codigo: TIER_1075, curso_nombre: ANALISIS EXPLORATORIO DE DATOS, numero_estudiantes: 5
+periodo_academico: 202362, curso_codigo: MATE_1101, curso_nombre: ANALISIS MATEMATICO UNIVARIADO, numero_estudiantes: 117
+periodo_academico: 202362, curso_codigo: RELI_3002, curso_nombre: ANTROPOLOGIA, numero_estudiantes: 7
+periodo_academico: 202362, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, numero_estudiantes: 816
+periodo_academico: 202362, curso_codigo: TURI_1020, curso_nombre: ANTROPOLOGIA CULTURAL Y TURIS, numero_estudiantes: 27
+periodo_academico: 202362, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, numero_estudiantes: 76
+periodo_academico: 202362, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, numero_estudiantes: 203
+periodo_academico: 202362, curso_codigo: TURI_2014, curso_nombre: AREAS PROTEGIDAS, numero_estudiantes: 30
+periodo_academico: 202362, curso_codigo: COMP_2010, curso_nombre: ARQ Y ORGANIZACION DE COMP, numero_estudiantes: 52
+periodo_academico: 202362, curso_codigo: DSOF_2039, curso_nombre: ARQUITECTURA DE COMPUTADORAS, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: PERI_1110, curso_nombre: ARTE ESCENICO Y EXPRESION ORAL, numero_estudiantes: 3
+periodo_academico: 202362, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, numero_estudiantes: 39
+periodo_academico: 202362, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, numero_estudiantes: 130
+periodo_academico: 202362, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, numero_estudiantes: 207
+periodo_academico: 202362, curso_codigo: CONT_5002, curso_nombre: AUDITORIA III, numero_estudiantes: 40
+periodo_academico: 202362, curso_codigo: SIST_1012, curso_nombre: AUDITORIA INFORMATICA, numero_estudiantes: 4
+periodo_academico: 202362, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, numero_estudiantes: 55
+periodo_academico: 202362, curso_codigo: DRBD_2005, curso_nombre: BASE DE DATOS AVANZADA, numero_estudiantes: 53
+periodo_academico: 202362, curso_codigo: RENR_1004, curso_nombre: BIOECONOMIA CIRCULAR, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: TURI_3014, curso_nombre: CIUDAD Y TURISMO, numero_estudiantes: 19
+periodo_academico: 202362, curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, numero_estudiantes: 34
+periodo_academico: 202362, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, numero_estudiantes: 211
+periodo_academico: 202362, curso_codigo: COMP_4013, curso_nombre: COMP PARALELA Y DISTRIBUIDA, numero_estudiantes: 21
+periodo_academico: 202362, curso_codigo: TURI_4015, curso_nombre: COMPETITIVIDAD DESTINOS TURIST, numero_estudiantes: 5
+periodo_academico: 202362, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, numero_estudiantes: 282
+periodo_academico: 202362, curso_codigo: LITE_1108, curso_nombre: COMPOSICION DE TEXTOS CIENTIFI, numero_estudiantes: 29
+periodo_academico: 202362, curso_codigo: CONT_4010, curso_nombre: COMPUTACION APLICADA, numero_estudiantes: 12
+periodo_academico: 202362, curso_codigo: ECON_4116, curso_nombre: CONSTRUCCION DE INDICADORES, numero_estudiantes: 9
+periodo_academico: 202362, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, numero_estudiantes: 235
+periodo_academico: 202362, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, numero_estudiantes: 114
+periodo_academico: 202362, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, numero_estudiantes: 189
+periodo_academico: 202362, curso_codigo: CONT_2032, curso_nombre: CONTABILIDAD DE COSTOS OPERATI, numero_estudiantes: 20
+periodo_academico: 202362, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, numero_estudiantes: 137
+periodo_academico: 202362, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, numero_estudiantes: 222
+periodo_academico: 202362, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, numero_estudiantes: 289
+periodo_academico: 202362, curso_codigo: CONT_5006, curso_nombre: CONTABILIDAD GERENCIAL, numero_estudiantes: 57
+periodo_academico: 202362, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, numero_estudiantes: 90
+periodo_academico: 202362, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, numero_estudiantes: 207
+periodo_academico: 202362, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, numero_estudiantes: 47
+periodo_academico: 202362, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, numero_estudiantes: 240
+periodo_academico: 202362, curso_codigo: TURI_4014, curso_nombre: COSMOVISION ANDINA, numero_estudiantes: 5
+periodo_academico: 202362, curso_codigo: CONT_4029, curso_nombre: COSTOS RELEV PARA TOMA DECISIO, numero_estudiantes: 25
+periodo_academico: 202362, curso_codigo: LITE_4003, curso_nombre: CULTURE AND LITERATURE IN ENGL, numero_estudiantes: 23
+periodo_academico: 202362, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, numero_estudiantes: 16
+periodo_academico: 202362, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, numero_estudiantes: 46
+periodo_academico: 202362, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, numero_estudiantes: 24
+periodo_academico: 202362, curso_codigo: DERE_1181, curso_nombre: DERECHO LABORAL, numero_estudiantes: 202
+periodo_academico: 202362, curso_codigo: DERE_3045, curso_nombre: DERECHO LABORAL, numero_estudiantes: 18
+periodo_academico: 202362, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, numero_estudiantes: 235
+periodo_academico: 202362, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, numero_estudiantes: 234
+periodo_academico: 202362, curso_codigo: DSOF_4075, curso_nombre: DESARROLLO BASADO EN PLATAF MO, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: ECON_4002, curso_nombre: DESARROLLO ECONOMICO, numero_estudiantes: 45
+periodo_academico: 202362, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, numero_estudiantes: 116
+periodo_academico: 202362, curso_codigo: RELI_3005, curso_nombre: DESARROLLO ESPIRITUAL III, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: ECON_3047, curso_nombre: DESARROLLO REGIONAL, numero_estudiantes: 34
+periodo_academico: 202362, curso_codigo: TURI_5000, curso_nombre: DESARROLLO TRAB PRACTICUM 4, numero_estudiantes: 18
+periodo_academico: 202362, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, numero_estudiantes: 206
+periodo_academico: 202362, curso_codigo: HOTE_5003, curso_nombre: DIRECCION HOTELERA, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, numero_estudiantes: 40
+periodo_academico: 202362, curso_codigo: TURI_3016, curso_nombre: DISEÑO DE PRODUCTOS TURISTICOS, numero_estudiantes: 35
+periodo_academico: 202362, curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, numero_estudiantes: 79
+periodo_academico: 202362, curso_codigo: ARQU_1021, curso_nombre: DISEÑO PARAM Y FABRIC DIGITAL, numero_estudiantes: 4
+periodo_academico: 202362, curso_codigo: RELI_1001, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, numero_estudiantes: 108
+periodo_academico: 202362, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, numero_estudiantes: 77
+periodo_academico: 202362, curso_codigo: ECON_3043, curso_nombre: ECONOMETRIA AVANZADA, numero_estudiantes: 36
+periodo_academico: 202362, curso_codigo: ECON_3039, curso_nombre: ECONOMETRIA BASICA, numero_estudiantes: 30
+periodo_academico: 202362, curso_codigo: ECON_5008, curso_nombre: ECONOMIA AMBIEN DES ECON SUST, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: ECON_4108, curso_nombre: ECONOMIA AMBIENTAL Y DE REC NA, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: ECON_2035, curso_nombre: ECONOMIA DE LA EMPRESA Y MERCA, numero_estudiantes: 44
+periodo_academico: 202362, curso_codigo: ECON_5013, curso_nombre: ECONOMIA INTERNACIONAL, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: ECON_5077, curso_nombre: ECONOMIA INTERNACIONAL, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: ECON_5014, curso_nombre: ECONOMIA POLITICA, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: ECON_5076, curso_nombre: ECONOMIA POLITICA, numero_estudiantes: 11
+periodo_academico: 202362, curso_codigo: ADMI_1127, curso_nombre: ECONOMIA POPULAR Y SOLIDARIA, numero_estudiantes: 21
+periodo_academico: 202362, curso_codigo: ADMI_5078, curso_nombre: EMPREN CON BASE TECNOLOGICA I, numero_estudiantes: 22
+periodo_academico: 202362, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, numero_estudiantes: 603
+periodo_academico: 202362, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, numero_estudiantes: 122
+periodo_academico: 202362, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, numero_estudiantes: 118
+periodo_academico: 202362, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, numero_estudiantes: 116
+periodo_academico: 202362, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, numero_estudiantes: 127
+periodo_academico: 202362, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, numero_estudiantes: 195
+periodo_academico: 202362, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, numero_estudiantes: 228
+periodo_academico: 202362, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, numero_estudiantes: 184
+periodo_academico: 202362, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, numero_estudiantes: 225
+periodo_academico: 202362, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, numero_estudiantes: 106
+periodo_academico: 202362, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, numero_estudiantes: 75
+periodo_academico: 202362, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, numero_estudiantes: 416
+periodo_academico: 202362, curso_codigo: ESTA_1044, curso_nombre: ESTADISTICA, numero_estudiantes: 21
+periodo_academico: 202362, curso_codigo: ESTA_4004, curso_nombre: ESTADISTICA APLICADA A EDUCA, numero_estudiantes: 15
+periodo_academico: 202362, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, numero_estudiantes: 150
+periodo_academico: 202362, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, numero_estudiantes: 608
+periodo_academico: 202362, curso_codigo: DSOF_2029, curso_nombre: ESTRUCTURAS DE DATOS, numero_estudiantes: 77
+periodo_academico: 202362, curso_codigo: RELI_3000, curso_nombre: ETICA, numero_estudiantes: 41
+periodo_academico: 202362, curso_codigo: RELI_1109, curso_nombre: ETICA DE LA INTELIGENCIA ARTIF, numero_estudiantes: 65
+periodo_academico: 202362, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, numero_estudiantes: 585
+periodo_academico: 202362, curso_codigo: ADMI_4089, curso_nombre: EVALUACION DE PROYECTOS, numero_estudiantes: 10
+periodo_academico: 202362, curso_codigo: UTPL_500, curso_nombre: EXAMEN COMPLEXIVO CON CURSO, numero_estudiantes: 14
+periodo_academico: 202362, curso_codigo: UTPL_600, curso_nombre: EXAMEN COMPLEXIVO SIN CURSO, numero_estudiantes: 34
+periodo_academico: 202362, curso_codigo: EDUC_1143, curso_nombre: FAMILIA Y EDUCACION: RETOS Y D, numero_estudiantes: 7
+periodo_academico: 202362, curso_codigo: CONT_4026, curso_nombre: FIJACION PREC Y ADMIN DE COSTO, numero_estudiantes: 62
+periodo_academico: 202362, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, numero_estudiantes: 240
+periodo_academico: 202362, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, numero_estudiantes: 273
+periodo_academico: 202362, curso_codigo: FINZ_1026, curso_nombre: FINANZAS I, numero_estudiantes: 12
+periodo_academico: 202362, curso_codigo: FINZ_1065, curso_nombre: FINANZAS II, numero_estudiantes: 39
+periodo_academico: 202362, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, numero_estudiantes: 334
+periodo_academico: 202362, curso_codigo: TURI_3011, curso_nombre: FINANZAS Y PRESUPUESTOS, numero_estudiantes: 38
+periodo_academico: 202362, curso_codigo: FISI_1039, curso_nombre: FISICA BASICA, numero_estudiantes: 86
+periodo_academico: 202362, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, numero_estudiantes: 91
+periodo_academico: 202362, curso_codigo: ECON_3045, curso_nombre: FORMULACION DE PROYECTOS, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: ADMI_4121, curso_nombre: FORMULACION Y EVALUACION DE PR, numero_estudiantes: 17
+periodo_academico: 202362, curso_codigo: IDIO_3013, curso_nombre: FRANCES I, numero_estudiantes: 30
+periodo_academico: 202362, curso_codigo: IDIO_3014, curso_nombre: FRANCES II, numero_estudiantes: 27
+periodo_academico: 202362, curso_codigo: IDIO_4016, curso_nombre: FRANCES III, numero_estudiantes: 25
+periodo_academico: 202362, curso_codigo: IDIO_5001, curso_nombre: FRANCES IV, numero_estudiantes: 17
+periodo_academico: 202362, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, numero_estudiantes: 218
+periodo_academico: 202362, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, numero_estudiantes: 36
+periodo_academico: 202362, curso_codigo: DRBD_3014, curso_nombre: FUNDAMENTOS DE ANALISIS DE DAT, numero_estudiantes: 23
+periodo_academico: 202362, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, numero_estudiantes: 786
+periodo_academico: 202362, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, numero_estudiantes: 326
+periodo_academico: 202362, curso_codigo: DSOF_1071, curso_nombre: FUNDAMENTOS DE HARDWARE, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: DRBD_4012, curso_nombre: FUNDAMENTOS DE REDES, numero_estudiantes: 33
+periodo_academico: 202362, curso_codigo: COMP_1034, curso_nombre: FUNDAMENTOS INFORMATICOS, numero_estudiantes: 51
+periodo_academico: 202362, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, numero_estudiantes: 465
+periodo_academico: 202362, curso_codigo: HOTE_1047, curso_nombre: GEOGRAFIA TURISTICA, numero_estudiantes: 42
+periodo_academico: 202362, curso_codigo: TIER_1074, curso_nombre: GEOLOGIA DEL SUBSUELO, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: MINE_1005, curso_nombre: GERENCIA DE OPERACIONES MINERA, numero_estudiantes: 3
+periodo_academico: 202362, curso_codigo: DSOF_3035, curso_nombre: GEST DE LA CALIDAD DE SOFTWARE, numero_estudiantes: 33
+periodo_academico: 202362, curso_codigo: SIST_4000, curso_nombre: GEST DE TECN DE LA INFO, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: TURI_5011, curso_nombre: GESTION DE CADENA DE VALOR Y C, numero_estudiantes: 13
+periodo_academico: 202362, curso_codigo: ADMI_4015, curso_nombre: GESTION DE LA CALIDAD, numero_estudiantes: 22
+periodo_academico: 202362, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, numero_estudiantes: 297
+periodo_academico: 202362, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, numero_estudiantes: 70
+periodo_academico: 202362, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, numero_estudiantes: 377
+periodo_academico: 202362, curso_codigo: TURI_2011, curso_nombre: GESTION DEL PATRIMONIO CULTU, numero_estudiantes: 22
+periodo_academico: 202362, curso_codigo: ADMI_4094, curso_nombre: GESTION DEL TALENTO HUMANO, numero_estudiantes: 15
+periodo_academico: 202362, curso_codigo: TURI_4017, curso_nombre: GESTION E INNOVACION DE DESTIN, numero_estudiantes: 8
+periodo_academico: 202362, curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, numero_estudiantes: 24
+periodo_academico: 202362, curso_codigo: TURI_4018, curso_nombre: GESTION PUBLICA DEL TURISMO, numero_estudiantes: 14
+periodo_academico: 202362, curso_codigo: TURI_2016, curso_nombre: GUIANZA, numero_estudiantes: 19
+periodo_academico: 202362, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, numero_estudiantes: 544
+periodo_academico: 202362, curso_codigo: ECON_1055, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, numero_estudiantes: 22
+periodo_academico: 202362, curso_codigo: ECON_1089, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, numero_estudiantes: 41
+periodo_academico: 202362, curso_codigo: ECON_1087, curso_nombre: HISTORIA ECONOMICA DEL ECUADOR, numero_estudiantes: 4
+periodo_academico: 202362, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, numero_estudiantes: 1062
+periodo_academico: 202362, curso_codigo: PERI_3015, curso_nombre: IMAGEN PERSONAL Y CORPORATIVA, numero_estudiantes: 14
+periodo_academico: 202362, curso_codigo: EDUC_1102, curso_nombre: INCLUSION Y APRENDIZAJE SOSTEN, numero_estudiantes: 81
+periodo_academico: 202362, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, numero_estudiantes: 50
+periodo_academico: 202362, curso_codigo: DSOF_3039, curso_nombre: INGENIERIA DE REQUISITOS, numero_estudiantes: 38
+periodo_academico: 202362, curso_codigo: DSOF_5003, curso_nombre: INTE ARTIFICIAL AVANZADO, numero_estudiantes: 13
+periodo_academico: 202362, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, numero_estudiantes: 113
+periodo_academico: 202362, curso_codigo: DRBD_1009, curso_nombre: INTELIGENCIA DE NEGOCIOS, numero_estudiantes: 9
+periodo_academico: 202362, curso_codigo: EDUC_1146, curso_nombre: INTELIGENCIA EMOCIONAL, numero_estudiantes: 78
+periodo_academico: 202362, curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, numero_estudiantes: 142
+periodo_academico: 202362, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, numero_estudiantes: 127
+periodo_academico: 202362, curso_codigo: CONT_1007, curso_nombre: INTRODUCCION A LA AUDITORIA, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, numero_estudiantes: 379
+periodo_academico: 202362, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, numero_estudiantes: 114
+periodo_academico: 202362, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, numero_estudiantes: 327
+periodo_academico: 202362, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, numero_estudiantes: 139
+periodo_academico: 202362, curso_codigo: EDUC_2022, curso_nombre: JORN DE INVES LA CREDIBILIDAD, numero_estudiantes: 5
+periodo_academico: 202362, curso_codigo: EDUC_4160, curso_nombre: JORNADA DE INVEST Y FORMA ESP, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, numero_estudiantes: 150
+periodo_academico: 202362, curso_codigo: FDCE_4011, curso_nombre: LANGUAGE TESTING, numero_estudiantes: 13
+periodo_academico: 202362, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, numero_estudiantes: 223
+periodo_academico: 202362, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, numero_estudiantes: 250
+periodo_academico: 202362, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, numero_estudiantes: 317
+periodo_academico: 202362, curso_codigo: TURI_2013, curso_nombre: LEGISLACION TURISTICA Y AMBIEN, numero_estudiantes: 32
+periodo_academico: 202362, curso_codigo: EDUC_1147, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, numero_estudiantes: 61
+periodo_academico: 202362, curso_codigo: ADMI_4027, curso_nombre: LOGISTICA EMPRESARIAL, numero_estudiantes: 4
+periodo_academico: 202362, curso_codigo: ECON_3041, curso_nombre: MACROECONOMIA ABIERTA, numero_estudiantes: 34
+periodo_academico: 202362, curso_codigo: ECON_2034, curso_nombre: MACROECONOMIA CERRADA, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, numero_estudiantes: 61
+periodo_academico: 202362, curso_codigo: MERC_1005, curso_nombre: MARKETING, numero_estudiantes: 12
+periodo_academico: 202362, curso_codigo: MERC_4007, curso_nombre: MARKETING, numero_estudiantes: 327
+periodo_academico: 202362, curso_codigo: MERC_4004, curso_nombre: MARKETING TURISTICO, numero_estudiantes: 34
+periodo_academico: 202362, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, numero_estudiantes: 341
+periodo_academico: 202362, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, numero_estudiantes: 495
+periodo_academico: 202362, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, numero_estudiantes: 93
+periodo_academico: 202362, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, numero_estudiantes: 85
+periodo_academico: 202362, curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, numero_estudiantes: 37
+periodo_academico: 202362, curso_codigo: EDUC_3187, curso_nombre: METHO FOR ACADEMIC PURPOSES, numero_estudiantes: 39
+periodo_academico: 202362, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, numero_estudiantes: 94
+periodo_academico: 202362, curso_codigo: FDCE_4014, curso_nombre: METHODOLOGY AND DIDACTICS III:, numero_estudiantes: 10
+periodo_academico: 202362, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, numero_estudiantes: 28
+periodo_academico: 202362, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, numero_estudiantes: 142
+periodo_academico: 202362, curso_codigo: ECON_3042, curso_nombre: MICROECONOMIA APLICADA, numero_estudiantes: 5
+periodo_academico: 202362, curso_codigo: ECON_3040, curso_nombre: MODELOS ECONOMETRICOS, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: ECON_4110, curso_nombre: MODELOS OPTIMIZA PARA USO DE R, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, numero_estudiantes: 95
+periodo_academico: 202362, curso_codigo: TURI_4021, curso_nombre: NEURO MARKT Y TEORIAS DE INFOR, numero_estudiantes: 6
+periodo_academico: 202362, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, numero_estudiantes: 123
+periodo_academico: 202362, curso_codigo: TURI_2018, curso_nombre: NUEVAS ALTERNATIVAS DE TURISMO, numero_estudiantes: 26
+periodo_academico: 202362, curso_codigo: TURI_5013, curso_nombre: ORDENAMIENTO TURISTICO TERRITO, numero_estudiantes: 7
+periodo_academico: 202362, curso_codigo: TURI_2015, curso_nombre: ORGANIZACION DE EVENTOS Y PROT, numero_estudiantes: 15
+periodo_academico: 202362, curso_codigo: PIND_5008, curso_nombre: ORGANIZACION INDUSTRIAL, numero_estudiantes: 36
+periodo_academico: 202362, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_estudiantes: 102
+periodo_academico: 202362, curso_codigo: CONT_5010, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_estudiantes: 70
+periodo_academico: 202362, curso_codigo: TURI_5006, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_estudiantes: 14
+periodo_academico: 202362, curso_codigo: ADMI_4046, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_estudiantes: 70
+periodo_academico: 202362, curso_codigo: CONT_4000, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_estudiantes: 44
+periodo_academico: 202362, curso_codigo: TURI_4012, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_estudiantes: 11
+periodo_academico: 202362, curso_codigo: FDCE_3015, curso_nombre: PASANTIA PRE-PRO1, numero_estudiantes: 10
+periodo_academico: 202362, curso_codigo: FDCE_4023, curso_nombre: PASANTIA PRE-PRO2, numero_estudiantes: 18
+periodo_academico: 202362, curso_codigo: CONT_3002, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, numero_estudiantes: 6
+periodo_academico: 202362, curso_codigo: ADMI_4045, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, numero_estudiantes: 31
+periodo_academico: 202362, curso_codigo: CONT_4008, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, numero_estudiantes: 27
+periodo_academico: 202362, curso_codigo: TURI_3013, curso_nombre: PATRIMONIO NATURAL Y BIODIVERS, numero_estudiantes: 30
+periodo_academico: 202362, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, numero_estudiantes: 131
+periodo_academico: 202362, curso_codigo: UTPL_4000, curso_nombre: PERIODO ADICIONAL 1, numero_estudiantes: 6
+periodo_academico: 202362, curso_codigo: UTPL_5000, curso_nombre: PERIODO ADICIONAL 2, numero_estudiantes: 8
+periodo_academico: 202362, curso_codigo: DSOF_1074, curso_nombre: PLAN ESTRATEGIC TRANSF DIGITAL, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: TURI_4016, curso_nombre: PLANIFICACION DE DESTINOS TURI, numero_estudiantes: 17
+periodo_academico: 202362, curso_codigo: ECON_4114, curso_nombre: PLANIFICACION Y GEST DESA SOST, numero_estudiantes: 4
+periodo_academico: 202362, curso_codigo: ECON_4113, curso_nombre: PLANIFICACION Y ORDENAM TERRIT, numero_estudiantes: 7
+periodo_academico: 202362, curso_codigo: DSOF_4071, curso_nombre: PLATAFORMAS PARA JUEGOS, numero_estudiantes: 16
+periodo_academico: 202362, curso_codigo: DSOF_3038, curso_nombre: PLATAFORMAS WEB, numero_estudiantes: 9
+periodo_academico: 202362, curso_codigo: ECON_3046, curso_nombre: POLITICA AMBIENTAL, numero_estudiantes: 7
+periodo_academico: 202362, curso_codigo: ECON_3044, curso_nombre: POLITICA ECONOMICA, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: ECON_4009, curso_nombre: POLITICA ECONOMICA II, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, numero_estudiantes: 242
+periodo_academico: 202362, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, numero_estudiantes: 204
+periodo_academico: 202362, curso_codigo: DSOF_4007, curso_nombre: PRACTICAS EN CITTES GP 3.2, numero_estudiantes: 7
+periodo_academico: 202362, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, numero_estudiantes: 401
+periodo_academico: 202362, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, numero_estudiantes: 220
+periodo_academico: 202362, curso_codigo: ECON_2037, curso_nombre: PRACTICUM 1, numero_estudiantes: 27
+periodo_academico: 202362, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, numero_estudiantes: 139
+periodo_academico: 202362, curso_codigo: TURI_2010, curso_nombre: PRACTICUM 1, numero_estudiantes: 25
+periodo_academico: 202362, curso_codigo: COMP_2012, curso_nombre: PRACTICUM 1.2, numero_estudiantes: 51
+periodo_academico: 202362, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, numero_estudiantes: 304
+periodo_academico: 202362, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, numero_estudiantes: 163
+periodo_academico: 202362, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, numero_estudiantes: 104
+periodo_academico: 202362, curso_codigo: TURI_3017, curso_nombre: PRACTICUM 2, numero_estudiantes: 35
+periodo_academico: 202362, curso_codigo: COMP_3014, curso_nombre: PRACTICUM 2.2, numero_estudiantes: 34
+periodo_academico: 202362, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, numero_estudiantes: 280
+periodo_academico: 202362, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, numero_estudiantes: 90
+periodo_academico: 202362, curso_codigo: ECON_3054, curso_nombre: PRACTICUM 3 SERVICIO COMUN, numero_estudiantes: 37
+periodo_academico: 202362, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, numero_estudiantes: 181
+periodo_academico: 202362, curso_codigo: TURI_3012, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, numero_estudiantes: 11
+periodo_academico: 202362, curso_codigo: COMP_4015, curso_nombre: PRACTICUM 4.1, numero_estudiantes: 22
+periodo_academico: 202362, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, numero_estudiantes: 55
+periodo_academico: 202362, curso_codigo: TURI_4020, curso_nombre: PRACTICUM 4.1, numero_estudiantes: 16
+periodo_academico: 202362, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_estudiantes: 134
+periodo_academico: 202362, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_estudiantes: 115
+periodo_academico: 202362, curso_codigo: ECON_4115, curso_nombre: PRACTICUM 4.1:TRABAJO DE INT E, numero_estudiantes: 3
+periodo_academico: 202362, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, numero_estudiantes: 15
+periodo_academico: 202362, curso_codigo: TURI_5010, curso_nombre: PRACTICUM 4.2, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_estudiantes: 29
+periodo_academico: 202362, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_estudiantes: 59
+periodo_academico: 202362, curso_codigo: ECON_5074, curso_nombre: PRACTICUM 4.2:TRABAJO DE INTEG, numero_estudiantes: 11
+periodo_academico: 202362, curso_codigo: FDCE_4028, curso_nombre: PRACTICUM ACADE 3 ASESORIA TT, numero_estudiantes: 31
+periodo_academico: 202362, curso_codigo: FDCE_4027, curso_nombre: PRACTICUM ACADEMICO 2, numero_estudiantes: 42
+periodo_academico: 202362, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, numero_estudiantes: 215
+periodo_academico: 202362, curso_codigo: ECON_2033, curso_nombre: PRINCIPIOS DE MACROECONOMIA, numero_estudiantes: 38
+periodo_academico: 202362, curso_codigo: HOTE_1045, curso_nombre: PRINCIPIOS DEL TURISMO, numero_estudiantes: 38
+periodo_academico: 202362, curso_codigo: DSOF_5001, curso_nombre: PROC DE INGENIERIA DE SOFTWARE, numero_estudiantes: 13
+periodo_academico: 202362, curso_codigo: DSOF_2034, curso_nombre: PROG ORIENTADA A OBJETOS, numero_estudiantes: 72
+periodo_academico: 202362, curso_codigo: COMP_4011, curso_nombre: PROGRAMACION AVANZADA, numero_estudiantes: 51
+periodo_academico: 202362, curso_codigo: EDUC_3108, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 33
+periodo_academico: 202362, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 234
+periodo_academico: 202362, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 283
+periodo_academico: 202362, curso_codigo: EDUC_4118, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 11
+periodo_academico: 202362, curso_codigo: UTPL_1000, curso_nombre: PRORROGA 1, numero_estudiantes: 94
+periodo_academico: 202362, curso_codigo: UTPL_2000, curso_nombre: PRORROGA 2, numero_estudiantes: 27
+periodo_academico: 202362, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, numero_estudiantes: 141
+periodo_academico: 202362, curso_codigo: DSOF_3036, curso_nombre: PROTOTIPADO, numero_estudiantes: 50
+periodo_academico: 202362, curso_codigo: COMP_5009, curso_nombre: PROYEC DE FIN DE CARRER GP4.2, numero_estudiantes: 16
+periodo_academico: 202362, curso_codigo: ADMI_4035, curso_nombre: PROYECTOS, numero_estudiantes: 12
+periodo_academico: 202362, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, numero_estudiantes: 183
+periodo_academico: 202362, curso_codigo: PERI_1120, curso_nombre: RADIO Y NUEVAS TECNOLOGIAS, numero_estudiantes: 74
+periodo_academico: 202362, curso_codigo: TURI_3015, curso_nombre: RECURSOS TANGIB E INTANGIB, numero_estudiantes: 6
+periodo_academico: 202362, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, numero_estudiantes: 83
+periodo_academico: 202362, curso_codigo: COMP_4014, curso_nombre: REPRESENT AVAN CONOCI Y RAZON, numero_estudiantes: 18
+periodo_academico: 202362, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, numero_estudiantes: 114
+periodo_academico: 202362, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, numero_estudiantes: 272
+periodo_academico: 202362, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, numero_estudiantes: 73
+periodo_academico: 202362, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, numero_estudiantes: 84
+periodo_academico: 202362, curso_codigo: ADMI_5047, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 94
+periodo_academico: 202362, curso_codigo: CONT_5004, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 86
+periodo_academico: 202362, curso_codigo: ECON_5035, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: FDCE_4031, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 39
+periodo_academico: 202362, curso_codigo: TURI_5007, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 21
+periodo_academico: 202362, curso_codigo: DSOF_5013, curso_nombre: SIST BASADOS EN CONOCIMIENTO, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: COMP_5018, curso_nombre: SIST BASADOS EN CONOCIMIENTOS, numero_estudiantes: 14
+periodo_academico: 202362, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, numero_estudiantes: 360
+periodo_academico: 202362, curso_codigo: TURI_4013, curso_nombre: SISTEMAS TECNOLOGICOS APLICADO, numero_estudiantes: 12
+periodo_academico: 202362, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, numero_estudiantes: 238
+periodo_academico: 202362, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, numero_estudiantes: 379
+periodo_academico: 202362, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, numero_estudiantes: 74
+periodo_academico: 202362, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, numero_estudiantes: 159
+periodo_academico: 202362, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, numero_estudiantes: 447
+periodo_academico: 202362, curso_codigo: DSOF_2043, curso_nombre: TECNOLOGIAS WEB, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, numero_estudiantes: 173
+periodo_academico: 202362, curso_codigo: COMP_3012, curso_nombre: TEORIA DE AUTOMATAS Y COMPILAD, numero_estudiantes: 41
+periodo_academico: 202362, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, numero_estudiantes: 478
+periodo_academico: 202362, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, numero_estudiantes: 412
+periodo_academico: 202362, curso_codigo: ECON_5039, curso_nombre: TEORIAS DE ACUMULACION Y CREC, numero_estudiantes: 2
+periodo_academico: 202362, curso_codigo: ECON_5075, curso_nombre: TEORIAS DEL DESARROLLO, numero_estudiantes: 36
+periodo_academico: 202362, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_estudiantes: 136
+periodo_academico: 202362, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_estudiantes: 123
+periodo_academico: 202362, curso_codigo: ECON_5040, curso_nombre: TRABAJO DE TIT (PRACTICUM IV), numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, numero_estudiantes: 69
+periodo_academico: 202362, curso_codigo: UTPL_700, curso_nombre: TRABAJO DE TITULACION CON CURS, numero_estudiantes: 4
+periodo_academico: 202362, curso_codigo: UTPL_800, curso_nombre: TRABAJO DE TITULACION SIN CURS, numero_estudiantes: 111
+periodo_academico: 202362, curso_codigo: TURI_2017, curso_nombre: TRANSPORTACION TURISTICA, numero_estudiantes: 24
+periodo_academico: 202362, curso_codigo: TURI_4019, curso_nombre: TURISMO RURAL Y DESARRO LOCAL, numero_estudiantes: 7
+periodo_academico: 202362, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, numero_estudiantes: 43
+periodo_academico: 202362, curso_codigo: ADMI_1030, curso_nombre: VALIDACION DE PRODUCTO, numero_estudiantes: 1
+periodo_academico: 202362, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, numero_estudiantes: 87
+periodo_academico: 202364, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, numero_estudiantes: 129
+periodo_academico: 202364, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, numero_estudiantes: 129
+periodo_academico: 202364, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, numero_estudiantes: 110
+periodo_academico: 202364, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, numero_estudiantes: 304
+periodo_academico: 202364, curso_codigo: ADMI_1026, curso_nombre: ADMINISTRACION, numero_estudiantes: 2
+periodo_academico: 202364, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, numero_estudiantes: 469
+periodo_academico: 202364, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, numero_estudiantes: 295
+periodo_academico: 202364, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, numero_estudiantes: 277
+periodo_academico: 202364, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, numero_estudiantes: 28
+periodo_academico: 202364, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, numero_estudiantes: 298
+periodo_academico: 202364, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_estudiantes: 42
+periodo_academico: 202364, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_estudiantes: 279
+periodo_academico: 202364, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, numero_estudiantes: 214
+periodo_academico: 202364, curso_codigo: ECON_4112, curso_nombre: ADMINISTRACION FINANCIERA OPER, numero_estudiantes: 41
+periodo_academico: 202364, curso_codigo: ARTE_1050, curso_nombre: AEROGRAFIA, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, numero_estudiantes: 541
+periodo_academico: 202364, curso_codigo: MATE_2029, curso_nombre: ANA MATEMATICO MULTIVARIADO, numero_estudiantes: 40
+periodo_academico: 202364, curso_codigo: TURI_4022, curso_nombre: ANALISIS DE MERCADOS TURISTICO, numero_estudiantes: 33
+periodo_academico: 202364, curso_codigo: ECON_4109, curso_nombre: ANALISIS TERRITORIAL, numero_estudiantes: 33
+periodo_academico: 202364, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, numero_estudiantes: 846
+periodo_academico: 202364, curso_codigo: TURI_1020, curso_nombre: ANTROPOLOGIA CULTURAL Y TURIS, numero_estudiantes: 29
+periodo_academico: 202364, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, numero_estudiantes: 139
+periodo_academico: 202364, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, numero_estudiantes: 192
+periodo_academico: 202364, curso_codigo: TURI_2014, curso_nombre: AREAS PROTEGIDAS, numero_estudiantes: 15
+periodo_academico: 202364, curso_codigo: COMP_5006, curso_nombre: ARQ Y COMP PARALELA, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: DRBD_5003, curso_nombre: ARQ Y SEGURIDAD DE REDES, numero_estudiantes: 8
+periodo_academico: 202364, curso_codigo: DSOF_4004, curso_nombre: ARQUITECTURA DE APLICACIONES, numero_estudiantes: 4
+periodo_academico: 202364, curso_codigo: DSOF_4069, curso_nombre: ARQUITECTURA DE SOFTWARE, numero_estudiantes: 36
+periodo_academico: 202364, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, numero_estudiantes: 70
+periodo_academico: 202364, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, numero_estudiantes: 183
+periodo_academico: 202364, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, numero_estudiantes: 215
+periodo_academico: 202364, curso_codigo: SIST_1012, curso_nombre: AUDITORIA INFORMATICA, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, numero_estudiantes: 35
+periodo_academico: 202364, curso_codigo: TIER_1078, curso_nombre: CARACTERIZACION DE MATERIALES, numero_estudiantes: 5
+periodo_academico: 202364, curso_codigo: TIER_1076, curso_nombre: CICLO DEL MERCURIO EN LA NATUR, numero_estudiantes: 2
+periodo_academico: 202364, curso_codigo: TURI_3014, curso_nombre: CIUDAD Y TURISMO, numero_estudiantes: 23
+periodo_academico: 202364, curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, numero_estudiantes: 19
+periodo_academico: 202364, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, numero_estudiantes: 233
+periodo_academico: 202364, curso_codigo: TURI_4015, curso_nombre: COMPETITIVIDAD DESTINOS TURIST, numero_estudiantes: 4
+periodo_academico: 202364, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, numero_estudiantes: 314
+periodo_academico: 202364, curso_codigo: COMP_1078, curso_nombre: COMPUTACION Y SOCIEDAD, numero_estudiantes: 110
+periodo_academico: 202364, curso_codigo: DRBD_3019, curso_nombre: COMUNICACION DE DATOS, numero_estudiantes: 2
+periodo_academico: 202364, curso_codigo: ECON_4116, curso_nombre: CONSTRUCCION DE INDICADORES, numero_estudiantes: 5
+periodo_academico: 202364, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, numero_estudiantes: 233
+periodo_academico: 202364, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, numero_estudiantes: 182
+periodo_academico: 202364, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, numero_estudiantes: 179
+periodo_academico: 202364, curso_codigo: CONT_2032, curso_nombre: CONTABILIDAD DE COSTOS OPERATI, numero_estudiantes: 24
+periodo_academico: 202364, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, numero_estudiantes: 187
+periodo_academico: 202364, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, numero_estudiantes: 241
+periodo_academico: 202364, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, numero_estudiantes: 270
+periodo_academico: 202364, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, numero_estudiantes: 148
+periodo_academico: 202364, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, numero_estudiantes: 195
+periodo_academico: 202364, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, numero_estudiantes: 76
+periodo_academico: 202364, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, numero_estudiantes: 226
+periodo_academico: 202364, curso_codigo: TURI_4014, curso_nombre: COSMOVISION ANDINA, numero_estudiantes: 11
+periodo_academico: 202364, curso_codigo: CONT_4029, curso_nombre: COSTOS RELEV PARA TOMA DECISIO, numero_estudiantes: 55
+periodo_academico: 202364, curso_codigo: LITE_4003, curso_nombre: CULTURE AND LITERATURE IN ENGL, numero_estudiantes: 7
+periodo_academico: 202364, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, numero_estudiantes: 37
+periodo_academico: 202364, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, numero_estudiantes: 42
+periodo_academico: 202364, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, numero_estudiantes: 27
+periodo_academico: 202364, curso_codigo: DERE_1181, curso_nombre: DERECHO LABORAL, numero_estudiantes: 216
+periodo_academico: 202364, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, numero_estudiantes: 231
+periodo_academico: 202364, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, numero_estudiantes: 296
+periodo_academico: 202364, curso_codigo: DSOF_3048, curso_nombre: DESARROLLO BASADO EN PLAT WEB, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: DSOF_4075, curso_nombre: DESARROLLO BASADO EN PLATAF MO, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: ECON_4002, curso_nombre: DESARROLLO ECONOMICO, numero_estudiantes: 15
+periodo_academico: 202364, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, numero_estudiantes: 103
+periodo_academico: 202364, curso_codigo: ADMI_1043, curso_nombre: DESARROLLO EMPRESARIAL, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: ECON_3047, curso_nombre: DESARROLLO REGIONAL, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: TURI_5000, curso_nombre: DESARROLLO TRAB PRACTICUM 4, numero_estudiantes: 19
+periodo_academico: 202364, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, numero_estudiantes: 205
+periodo_academico: 202364, curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, numero_estudiantes: 72
+periodo_academico: 202364, curso_codigo: TURI_3016, curso_nombre: DISEÑO DE PRODUCTOS TURISTICOS, numero_estudiantes: 19
+periodo_academico: 202364, curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, numero_estudiantes: 113
+periodo_academico: 202364, curso_codigo: RELI_1001, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, numero_estudiantes: 48
+periodo_academico: 202364, curso_codigo: RELI_5002, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, numero_estudiantes: 2
+periodo_academico: 202364, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, numero_estudiantes: 103
+periodo_academico: 202364, curso_codigo: ECON_3043, curso_nombre: ECONOMETRIA AVANZADA, numero_estudiantes: 8
+periodo_academico: 202364, curso_codigo: ECON_3039, curso_nombre: ECONOMETRIA BASICA, numero_estudiantes: 3
+periodo_academico: 202364, curso_codigo: ECON_4108, curso_nombre: ECONOMIA AMBIENTAL Y DE REC NA, numero_estudiantes: 42
+periodo_academico: 202364, curso_codigo: ECON_2035, curso_nombre: ECONOMIA DE LA EMPRESA Y MERCA, numero_estudiantes: 3
+periodo_academico: 202364, curso_codigo: ECON_5077, curso_nombre: ECONOMIA INTERNACIONAL, numero_estudiantes: 33
+periodo_academico: 202364, curso_codigo: ECON_5076, curso_nombre: ECONOMIA POLITICA, numero_estudiantes: 3
+periodo_academico: 202364, curso_codigo: MATE_3100, curso_nombre: ECUACIONES DIFER Y MET NUMER, numero_estudiantes: 78
+periodo_academico: 202364, curso_codigo: RELI_1110, curso_nombre: EL ARTE DE AMAR, numero_estudiantes: 38
+periodo_academico: 202364, curso_codigo: ADMI_5079, curso_nombre: EMPREN CON BASE TECNOLOGICA II, numero_estudiantes: 19
+periodo_academico: 202364, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, numero_estudiantes: 754
+periodo_academico: 202364, curso_codigo: ADMI_7125, curso_nombre: EMPRENDIMIENTO Y FUNDAMENTOS P, numero_estudiantes: 8
+periodo_academico: 202364, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, numero_estudiantes: 99
+periodo_academico: 202364, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, numero_estudiantes: 170
+periodo_academico: 202364, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, numero_estudiantes: 163
+periodo_academico: 202364, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, numero_estudiantes: 105
+periodo_academico: 202364, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, numero_estudiantes: 123
+periodo_academico: 202364, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, numero_estudiantes: 343
+periodo_academico: 202364, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, numero_estudiantes: 127
+periodo_academico: 202364, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, numero_estudiantes: 333
+periodo_academico: 202364, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, numero_estudiantes: 119
+periodo_academico: 202364, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, numero_estudiantes: 99
+periodo_academico: 202364, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, numero_estudiantes: 434
+periodo_academico: 202364, curso_codigo: ESTA_1044, curso_nombre: ESTADISTICA, numero_estudiantes: 24
+periodo_academico: 202364, curso_codigo: ESTA_4004, curso_nombre: ESTADISTICA APLICADA A EDUCA, numero_estudiantes: 4
+periodo_academico: 202364, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, numero_estudiantes: 124
+periodo_academico: 202364, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, numero_estudiantes: 495
+periodo_academico: 202364, curso_codigo: ESTA_3022, curso_nombre: ESTADISTICA Y PROBABILIDAD, numero_estudiantes: 58
+periodo_academico: 202364, curso_codigo: DSOF_2030, curso_nombre: ESTRUCTURAS DISCRETAS, numero_estudiantes: 115
+periodo_academico: 202364, curso_codigo: RELI_3000, curso_nombre: ETICA, numero_estudiantes: 10
+periodo_academico: 202364, curso_codigo: RELI_1109, curso_nombre: ETICA DE LA INTELIGENCIA ARTIF, numero_estudiantes: 21
+periodo_academico: 202364, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, numero_estudiantes: 545
+periodo_academico: 202364, curso_codigo: ADMI_4089, curso_nombre: EVALUACION DE PROYECTOS, numero_estudiantes: 4
+periodo_academico: 202364, curso_codigo: UTPL_500, curso_nombre: EXAMEN COMPLEXIVO CON CURSO, numero_estudiantes: 11
+periodo_academico: 202364, curso_codigo: UTPL_600, curso_nombre: EXAMEN COMPLEXIVO SIN CURSO, numero_estudiantes: 18
+periodo_academico: 202364, curso_codigo: CONT_4026, curso_nombre: FIJACION PREC Y ADMIN DE COSTO, numero_estudiantes: 65
+periodo_academico: 202364, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, numero_estudiantes: 358
+periodo_academico: 202364, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, numero_estudiantes: 314
+periodo_academico: 202364, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, numero_estudiantes: 310
+periodo_academico: 202364, curso_codigo: TURI_3011, curso_nombre: FINANZAS Y PRESUPUESTOS, numero_estudiantes: 25
+periodo_academico: 202364, curso_codigo: FISI_1039, curso_nombre: FISICA BASICA, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, numero_estudiantes: 134
+periodo_academico: 202364, curso_codigo: ECON_3045, curso_nombre: FORMULACION DE PROYECTOS, numero_estudiantes: 37
+periodo_academico: 202364, curso_codigo: ADMI_4121, curso_nombre: FORMULACION Y EVALUACION DE PR, numero_estudiantes: 11
+periodo_academico: 202364, curso_codigo: IDIO_3013, curso_nombre: FRANCES I, numero_estudiantes: 24
+periodo_academico: 202364, curso_codigo: IDIO_3014, curso_nombre: FRANCES II, numero_estudiantes: 18
+periodo_academico: 202364, curso_codigo: IDIO_4016, curso_nombre: FRANCES III, numero_estudiantes: 24
+periodo_academico: 202364, curso_codigo: COMP_4012, curso_nombre: FUND DE INTE ARTIFICIAL, numero_estudiantes: 35
+periodo_academico: 202364, curso_codigo: ARTE_1089, curso_nombre: FUND DEL LENGUAJE VISUAL, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: COMP_1075, curso_nombre: FUNDAMENTOS COMPUTACIONALES, numero_estudiantes: 114
+periodo_academico: 202364, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, numero_estudiantes: 188
+periodo_academico: 202364, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, numero_estudiantes: 80
+periodo_academico: 202364, curso_codigo: DRBD_2004, curso_nombre: FUNDAMENTOS DE BASE DE DATOS, numero_estudiantes: 74
+periodo_academico: 202364, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, numero_estudiantes: 845
+periodo_academico: 202364, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, numero_estudiantes: 355
+periodo_academico: 202364, curso_codigo: SIST_3011, curso_nombre: FUNDAMENTOS DE INGENIERIA DE S, numero_estudiantes: 42
+periodo_academico: 202364, curso_codigo: COMP_1034, curso_nombre: FUNDAMENTOS INFORMATICOS, numero_estudiantes: 44
+periodo_academico: 202364, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, numero_estudiantes: 658
+periodo_academico: 202364, curso_codigo: DSOF_4077, curso_nombre: FUNDAMENTOS Y APLICACION DE SE, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: HOTE_1047, curso_nombre: GEOGRAFIA TURISTICA, numero_estudiantes: 47
+periodo_academico: 202364, curso_codigo: TURI_5011, curso_nombre: GESTION DE CADENA DE VALOR Y C, numero_estudiantes: 12
+periodo_academico: 202364, curso_codigo: ADMI_4015, curso_nombre: GESTION DE LA CALIDAD, numero_estudiantes: 5
+periodo_academico: 202364, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, numero_estudiantes: 299
+periodo_academico: 202364, curso_codigo: DSOF_3045, curso_nombre: GESTION DE LA CALIDAD DEL SOFT, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, numero_estudiantes: 95
+periodo_academico: 202364, curso_codigo: ADMI_5077, curso_nombre: GESTION DE PROYECTOS, numero_estudiantes: 24
+periodo_academico: 202364, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, numero_estudiantes: 316
+periodo_academico: 202364, curso_codigo: TURI_2011, curso_nombre: GESTION DEL PATRIMONIO CULTU, numero_estudiantes: 18
+periodo_academico: 202364, curso_codigo: ADMI_4094, curso_nombre: GESTION DEL TALENTO HUMANO, numero_estudiantes: 11
+periodo_academico: 202364, curso_codigo: TURI_4017, curso_nombre: GESTION E INNOVACION DE DESTIN, numero_estudiantes: 13
+periodo_academico: 202364, curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, numero_estudiantes: 64
+periodo_academico: 202364, curso_codigo: TURI_4018, curso_nombre: GESTION PUBLICA DEL TURISMO, numero_estudiantes: 17
+periodo_academico: 202364, curso_codigo: TURI_2016, curso_nombre: GUIANZA, numero_estudiantes: 17
+periodo_academico: 202364, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, numero_estudiantes: 541
+periodo_academico: 202364, curso_codigo: ECON_1055, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, numero_estudiantes: 8
+periodo_academico: 202364, curso_codigo: ECON_1087, curso_nombre: HISTORIA ECONOMICA DEL ECUADOR, numero_estudiantes: 36
+periodo_academico: 202364, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, numero_estudiantes: 1312
+periodo_academico: 202364, curso_codigo: PERI_3015, curso_nombre: IMAGEN PERSONAL Y CORPORATIVA, numero_estudiantes: 21
+periodo_academico: 202364, curso_codigo: EDUC_1102, curso_nombre: INCLUSION Y APRENDIZAJE SOSTEN, numero_estudiantes: 56
+periodo_academico: 202364, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, numero_estudiantes: 78
+periodo_academico: 202364, curso_codigo: DSOF_3037, curso_nombre: INGENIERIA WEB, numero_estudiantes: 52
+periodo_academico: 202364, curso_codigo: EDUC_1149, curso_nombre: INNOVAR EN LOS FUTUROS DE LA E, numero_estudiantes: 38
+periodo_academico: 202364, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, numero_estudiantes: 209
+periodo_academico: 202364, curso_codigo: DSOF_4009, curso_nombre: INTELIGENCIA ARTIFICIAL, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: EDUC_1146, curso_nombre: INTELIGENCIA EMOCIONAL, numero_estudiantes: 59
+periodo_academico: 202364, curso_codigo: DRBD_4015, curso_nombre: INTEROPERY EXPLO DATOS ECO HET, numero_estudiantes: 24
+periodo_academico: 202364, curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, numero_estudiantes: 130
+periodo_academico: 202364, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, numero_estudiantes: 140
+periodo_academico: 202364, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, numero_estudiantes: 375
+periodo_academico: 202364, curso_codigo: COMP_3013, curso_nombre: INTRODUCCION A LA INTELIGENCIA, numero_estudiantes: 50
+periodo_academico: 202364, curso_codigo: DSOF_1067, curso_nombre: INTRODUCCION A LA PROGRAMACION, numero_estudiantes: 117
+periodo_academico: 202364, curso_codigo: DISE_1032, curso_nombre: INTRODUCCIÓN AL DISEÑO INTERIO, numero_estudiantes: 3
+periodo_academico: 202364, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, numero_estudiantes: 97
+periodo_academico: 202364, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, numero_estudiantes: 264
+periodo_academico: 202364, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, numero_estudiantes: 192
+periodo_academico: 202364, curso_codigo: EDUC_2022, curso_nombre: JORN DE INVES LA CREDIBILIDAD, numero_estudiantes: 16
+periodo_academico: 202364, curso_codigo: EDUC_4160, curso_nombre: JORNADA DE INVEST Y FORMA ESP, numero_estudiantes: 12
+periodo_academico: 202364, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, numero_estudiantes: 154
+periodo_academico: 202364, curso_codigo: FDCE_4011, curso_nombre: LANGUAGE TESTING, numero_estudiantes: 5
+periodo_academico: 202364, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, numero_estudiantes: 333
+periodo_academico: 202364, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, numero_estudiantes: 311
+periodo_academico: 202364, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, numero_estudiantes: 329
+periodo_academico: 202364, curso_codigo: TURI_2013, curso_nombre: LEGISLACION TURISTICA Y AMBIEN, numero_estudiantes: 25
+periodo_academico: 202364, curso_codigo: EDUC_1147, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, numero_estudiantes: 70
+periodo_academico: 202364, curso_codigo: ELEN_2008, curso_nombre: LOGICA DIGITAL, numero_estudiantes: 75
+periodo_academico: 202364, curso_codigo: ECON_3041, curso_nombre: MACROECONOMIA ABIERTA, numero_estudiantes: 2
+periodo_academico: 202364, curso_codigo: ECON_2034, curso_nombre: MACROECONOMIA CERRADA, numero_estudiantes: 31
+periodo_academico: 202364, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, numero_estudiantes: 34
+periodo_academico: 202364, curso_codigo: MERC_1005, curso_nombre: MARKETING, numero_estudiantes: 4
+periodo_academico: 202364, curso_codigo: MERC_4007, curso_nombre: MARKETING, numero_estudiantes: 280
+periodo_academico: 202364, curso_codigo: MERC_4004, curso_nombre: MARKETING TURISTICO, numero_estudiantes: 23
+periodo_academico: 202364, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, numero_estudiantes: 350
+periodo_academico: 202364, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, numero_estudiantes: 428
+periodo_academico: 202364, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, numero_estudiantes: 49
+periodo_academico: 202364, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, numero_estudiantes: 33
+periodo_academico: 202364, curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, numero_estudiantes: 80
+periodo_academico: 202364, curso_codigo: EDUC_3187, curso_nombre: METHO FOR ACADEMIC PURPOSES, numero_estudiantes: 26
+periodo_academico: 202364, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, numero_estudiantes: 104
+periodo_academico: 202364, curso_codigo: FDCE_4014, curso_nombre: METHODOLOGY AND DIDACTICS III:, numero_estudiantes: 3
+periodo_academico: 202364, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, numero_estudiantes: 27
+periodo_academico: 202364, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, numero_estudiantes: 191
+periodo_academico: 202364, curso_codigo: ECON_3042, curso_nombre: MICROECONOMIA APLICADA, numero_estudiantes: 39
+periodo_academico: 202364, curso_codigo: ECON_3040, curso_nombre: MODELOS ECONOMETRICOS, numero_estudiantes: 33
+periodo_academico: 202364, curso_codigo: ECON_4110, curso_nombre: MODELOS OPTIMIZA PARA USO DE R, numero_estudiantes: 5
+periodo_academico: 202364, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, numero_estudiantes: 155
+periodo_academico: 202364, curso_codigo: TURI_4021, curso_nombre: NEURO MARKT Y TEORIAS DE INFOR, numero_estudiantes: 6
+periodo_academico: 202364, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, numero_estudiantes: 190
+periodo_academico: 202364, curso_codigo: TURI_2018, curso_nombre: NUEVAS ALTERNATIVAS DE TURISMO, numero_estudiantes: 35
+periodo_academico: 202364, curso_codigo: TURI_5013, curso_nombre: ORDENAMIENTO TURISTICO TERRITO, numero_estudiantes: 14
+periodo_academico: 202364, curso_codigo: TURI_2015, curso_nombre: ORGANIZACION DE EVENTOS Y PROT, numero_estudiantes: 20
+periodo_academico: 202364, curso_codigo: PIND_5008, curso_nombre: ORGANIZACION INDUSTRIAL, numero_estudiantes: 12
+periodo_academico: 202364, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_estudiantes: 71
+periodo_academico: 202364, curso_codigo: TURI_5006, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_estudiantes: 11
+periodo_academico: 202364, curso_codigo: ADMI_4046, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, numero_estudiantes: 47
+periodo_academico: 202364, curso_codigo: FDCE_3015, curso_nombre: PASANTIA PRE-PRO1, numero_estudiantes: 2
+periodo_academico: 202364, curso_codigo: FDCE_4023, curso_nombre: PASANTIA PRE-PRO2, numero_estudiantes: 8
+periodo_academico: 202364, curso_codigo: TURI_3013, curso_nombre: PATRIMONIO NATURAL Y BIODIVERS, numero_estudiantes: 18
+periodo_academico: 202364, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, numero_estudiantes: 163
+periodo_academico: 202364, curso_codigo: UTPL_4000, curso_nombre: PERIODO ADICIONAL 1, numero_estudiantes: 4
+periodo_academico: 202364, curso_codigo: UTPL_5000, curso_nombre: PERIODO ADICIONAL 2, numero_estudiantes: 6
+periodo_academico: 202364, curso_codigo: TURI_4016, curso_nombre: PLANIFICACION DE DESTINOS TURI, numero_estudiantes: 11
+periodo_academico: 202364, curso_codigo: ECON_4114, curso_nombre: PLANIFICACION Y GEST DESA SOST, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: DSOF_4070, curso_nombre: PLATAFORMAS MOVILES, numero_estudiantes: 10
+periodo_academico: 202364, curso_codigo: ECON_3046, curso_nombre: POLITICA AMBIENTAL, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: ECON_3044, curso_nombre: POLITICA ECONOMICA, numero_estudiantes: 34
+periodo_academico: 202364, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, numero_estudiantes: 167
+periodo_academico: 202364, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, numero_estudiantes: 193
+periodo_academico: 202364, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, numero_estudiantes: 310
+periodo_academico: 202364, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, numero_estudiantes: 167
+periodo_academico: 202364, curso_codigo: ECON_2037, curso_nombre: PRACTICUM 1, numero_estudiantes: 3
+periodo_academico: 202364, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, numero_estudiantes: 101
+periodo_academico: 202364, curso_codigo: TURI_2010, curso_nombre: PRACTICUM 1, numero_estudiantes: 24
+periodo_academico: 202364, curso_codigo: COMP_2011, curso_nombre: PRACTICUM 1.1, numero_estudiantes: 77
+periodo_academico: 202364, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, numero_estudiantes: 306
+periodo_academico: 202364, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, numero_estudiantes: 201
+periodo_academico: 202364, curso_codigo: ECON_3053, curso_nombre: PRACTICUM 2, numero_estudiantes: 29
+periodo_academico: 202364, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, numero_estudiantes: 132
+periodo_academico: 202364, curso_codigo: TURI_3017, curso_nombre: PRACTICUM 2, numero_estudiantes: 22
+periodo_academico: 202364, curso_codigo: COMP_3019, curso_nombre: PRACTICUM 2.1, numero_estudiantes: 53
+periodo_academico: 202364, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, numero_estudiantes: 304
+periodo_academico: 202364, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, numero_estudiantes: 101
+periodo_academico: 202364, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, numero_estudiantes: 217
+periodo_academico: 202364, curso_codigo: COMP_4010, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, numero_estudiantes: 35
+periodo_academico: 202364, curso_codigo: TURI_3012, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, numero_estudiantes: 41
+periodo_academico: 202364, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, numero_estudiantes: 89
+periodo_academico: 202364, curso_codigo: TURI_4020, curso_nombre: PRACTICUM 4.1, numero_estudiantes: 10
+periodo_academico: 202364, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_estudiantes: 226
+periodo_academico: 202364, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_estudiantes: 173
+periodo_academico: 202364, curso_codigo: ECON_4115, curso_nombre: PRACTICUM 4.1:TRABAJO DE INT E, numero_estudiantes: 37
+periodo_academico: 202364, curso_codigo: COMP_5022, curso_nombre: PRACTICUM 4.2, numero_estudiantes: 22
+periodo_academico: 202364, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, numero_estudiantes: 48
+periodo_academico: 202364, curso_codigo: TURI_5010, curso_nombre: PRACTICUM 4.2, numero_estudiantes: 17
+periodo_academico: 202364, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_estudiantes: 141
+periodo_academico: 202364, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_estudiantes: 120
+periodo_academico: 202364, curso_codigo: ECON_5074, curso_nombre: PRACTICUM 4.2:TRABAJO DE INTEG, numero_estudiantes: 5
+periodo_academico: 202364, curso_codigo: FDCE_4028, curso_nombre: PRACTICUM ACADE 3 ASESORIA TT, numero_estudiantes: 25
+periodo_academico: 202364, curso_codigo: FDCE_3021, curso_nombre: PRACTICUM ACADEMICO 1, numero_estudiantes: 3
+periodo_academico: 202364, curso_codigo: FDCE_4027, curso_nombre: PRACTICUM ACADEMICO 2, numero_estudiantes: 29
+periodo_academico: 202364, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, numero_estudiantes: 224
+periodo_academico: 202364, curso_codigo: ECON_2033, curso_nombre: PRINCIPIOS DE MACROECONOMIA, numero_estudiantes: 4
+periodo_academico: 202364, curso_codigo: ECON_2032, curso_nombre: PRINCIPIOS DE MICROECONOMIA, numero_estudiantes: 39
+periodo_academico: 202364, curso_codigo: HOTE_1045, curso_nombre: PRINCIPIOS DEL TURISMO, numero_estudiantes: 45
+periodo_academico: 202364, curso_codigo: DSOF_2035, curso_nombre: PROG FUNCIONAL Y REACTIVA, numero_estudiantes: 86
+periodo_academico: 202364, curso_codigo: EDUC_3108, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 4
+periodo_academico: 202364, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 245
+periodo_academico: 202364, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 316
+periodo_academico: 202364, curso_codigo: EDUC_4118, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 49
+periodo_academico: 202364, curso_codigo: UTPL_1000, curso_nombre: PRORROGA 1, numero_estudiantes: 63
+periodo_academico: 202364, curso_codigo: UTPL_2000, curso_nombre: PRORROGA 2, numero_estudiantes: 23
+periodo_academico: 202364, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, numero_estudiantes: 206
+periodo_academico: 202364, curso_codigo: COMP_5004, curso_nombre: PROYEC DE FIN DE CARRER GP4.1, numero_estudiantes: 10
+periodo_academico: 202364, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, numero_estudiantes: 239
+periodo_academico: 202364, curso_codigo: PERI_1120, curso_nombre: RADIO Y NUEVAS TECNOLOGIAS, numero_estudiantes: 27
+periodo_academico: 202364, curso_codigo: TURI_3015, curso_nombre: RECURSOS TANGIB E INTANGIB, numero_estudiantes: 17
+periodo_academico: 202364, curso_codigo: DRBD_4014, curso_nombre: REDES Y SISTEMAS DISTRIBUIDOS, numero_estudiantes: 36
+periodo_academico: 202364, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, numero_estudiantes: 54
+periodo_academico: 202364, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, numero_estudiantes: 111
+periodo_academico: 202364, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, numero_estudiantes: 258
+periodo_academico: 202364, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, numero_estudiantes: 115
+periodo_academico: 202364, curso_codigo: DSOF_5025, curso_nombre: SEGURIDAD DE LA INFORMACION, numero_estudiantes: 20
+periodo_academico: 202364, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, numero_estudiantes: 95
+periodo_academico: 202364, curso_codigo: ADMI_5047, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 76
+periodo_academico: 202364, curso_codigo: CONT_5004, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 60
+periodo_academico: 202364, curso_codigo: FDCE_4031, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 39
+periodo_academico: 202364, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, numero_estudiantes: 298
+periodo_academico: 202364, curso_codigo: COMP_5020, curso_nombre: SISTEMAS INTELIGENTES, numero_estudiantes: 18
+periodo_academico: 202364, curso_codigo: COMP_3011, curso_nombre: SISTEMAS OPERATIVOS, numero_estudiantes: 55
+periodo_academico: 202364, curso_codigo: TURI_4013, curso_nombre: SISTEMAS TECNOLOGICOS APLICADO, numero_estudiantes: 29
+periodo_academico: 202364, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, numero_estudiantes: 169
+periodo_academico: 202364, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, numero_estudiantes: 330
+periodo_academico: 202364, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, numero_estudiantes: 114
+periodo_academico: 202364, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, numero_estudiantes: 146
+periodo_academico: 202364, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, numero_estudiantes: 529
+periodo_academico: 202364, curso_codigo: COMP_5023, curso_nombre: TECNOLOGIAS EMERGENTES, numero_estudiantes: 27
+periodo_academico: 202364, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, numero_estudiantes: 139
+periodo_academico: 202364, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, numero_estudiantes: 389
+periodo_academico: 202364, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, numero_estudiantes: 470
+periodo_academico: 202364, curso_codigo: ECON_5039, curso_nombre: TEORIAS DE ACUMULACION Y CREC, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: ECON_5075, curso_nombre: TEORIAS DEL DESARROLLO, numero_estudiantes: 2
+periodo_academico: 202364, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_estudiantes: 97
+periodo_academico: 202364, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_estudiantes: 82
+periodo_academico: 202364, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, numero_estudiantes: 45
+periodo_academico: 202364, curso_codigo: UTPL_700, curso_nombre: TRABAJO DE TITULACION CON CURS, numero_estudiantes: 1
+periodo_academico: 202364, curso_codigo: UTPL_800, curso_nombre: TRABAJO DE TITULACION SIN CURS, numero_estudiantes: 94
+periodo_academico: 202364, curso_codigo: TURI_2017, curso_nombre: TRANSPORTACION TURISTICA, numero_estudiantes: 17
+periodo_academico: 202364, curso_codigo: TURI_4019, curso_nombre: TURISMO RURAL Y DESARRO LOCAL, numero_estudiantes: 3
+periodo_academico: 202364, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, numero_estudiantes: 21
+periodo_academico: 202364, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, numero_estudiantes: 48
+periodo_academico: 202462, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, numero_estudiantes: 140
+periodo_academico: 202462, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, numero_estudiantes: 113
+periodo_academico: 202462, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, numero_estudiantes: 131
+periodo_academico: 202462, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, numero_estudiantes: 268
+periodo_academico: 202462, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, numero_estudiantes: 373
+periodo_academico: 202462, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, numero_estudiantes: 239
+periodo_academico: 202462, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, numero_estudiantes: 299
+periodo_academico: 202462, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, numero_estudiantes: 21
+periodo_academico: 202462, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, numero_estudiantes: 343
+periodo_academico: 202462, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_estudiantes: 13
+periodo_academico: 202462, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, numero_estudiantes: 311
+periodo_academico: 202462, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, numero_estudiantes: 191
+periodo_academico: 202462, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, numero_estudiantes: 722
+periodo_academico: 202462, curso_codigo: DSOF_1070, curso_nombre: ALGORITMOS Y RESOLUCION DE PRO, numero_estudiantes: 1
+periodo_academico: 202462, curso_codigo: DRBD_4016, curso_nombre: ANA Y VISUAL GRA VOL DE DATOS, numero_estudiantes: 23
+periodo_academico: 202462, curso_codigo: DSOF_2036, curso_nombre: ANALISIS DE ALGORITMOS, numero_estudiantes: 79
+periodo_academico: 202462, curso_codigo: TURI_4022, curso_nombre: ANALISIS DE MERCADOS TURISTICO, numero_estudiantes: 28
+periodo_academico: 202462, curso_codigo: MATE_1101, curso_nombre: ANALISIS MATEMATICO UNIVARIADO, numero_estudiantes: 120
+periodo_academico: 202462, curso_codigo: ECON_4109, curso_nombre: ANALISIS TERRITORIAL, numero_estudiantes: 1
+periodo_academico: 202462, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, numero_estudiantes: 827
+periodo_academico: 202462, curso_codigo: TURI_1020, curso_nombre: ANTROPOLOGIA CULTURAL Y TURIS, numero_estudiantes: 27
+periodo_academico: 202462, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, numero_estudiantes: 127
+periodo_academico: 202462, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, numero_estudiantes: 172
+periodo_academico: 202462, curso_codigo: TURI_2014, curso_nombre: AREAS PROTEGIDAS, numero_estudiantes: 18
+periodo_academico: 202462, curso_codigo: COMP_2010, curso_nombre: ARQ Y ORGANIZACION DE COMP, numero_estudiantes: 74
+periodo_academico: 202462, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, numero_estudiantes: 119
+periodo_academico: 202462, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, numero_estudiantes: 212
+periodo_academico: 202462, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, numero_estudiantes: 191
+periodo_academico: 202462, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, numero_estudiantes: 11
+periodo_academico: 202462, curso_codigo: DRBD_2005, curso_nombre: BASE DE DATOS AVANZADA, numero_estudiantes: 79
+periodo_academico: 202462, curso_codigo: MATE_1114, curso_nombre: CALCULO DIFERENCIAL, numero_estudiantes: 1
+periodo_academico: 202462, curso_codigo: TURI_3014, curso_nombre: CIUDAD Y TURISMO, numero_estudiantes: 15
+periodo_academico: 202462, curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, numero_estudiantes: 6
+periodo_academico: 202462, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, numero_estudiantes: 202
+periodo_academico: 202462, curso_codigo: COMP_4013, curso_nombre: COMP PARALELA Y DISTRIBUIDA, numero_estudiantes: 34
+periodo_academico: 202462, curso_codigo: TURI_4015, curso_nombre: COMPETITIVIDAD DESTINOS TURIST, numero_estudiantes: 13
+periodo_academico: 202462, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, numero_estudiantes: 295
+periodo_academico: 202462, curso_codigo: LITE_1108, curso_nombre: COMPOSICION DE TEXTOS CIENTIFI, numero_estudiantes: 40
+periodo_academico: 202462, curso_codigo: ECON_4116, curso_nombre: CONSTRUCCION DE INDICADORES, numero_estudiantes: 37
+periodo_academico: 202462, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, numero_estudiantes: 190
+periodo_academico: 202462, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, numero_estudiantes: 169
+periodo_academico: 202462, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, numero_estudiantes: 164
+periodo_academico: 202462, curso_codigo: CONT_2032, curso_nombre: CONTABILIDAD DE COSTOS OPERATI, numero_estudiantes: 23
+periodo_academico: 202462, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, numero_estudiantes: 182
+periodo_academico: 202462, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, numero_estudiantes: 227
+periodo_academico: 202462, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, numero_estudiantes: 269
+periodo_academico: 202462, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, numero_estudiantes: 198
+periodo_academico: 202462, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, numero_estudiantes: 174
+periodo_academico: 202462, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, numero_estudiantes: 99
+periodo_academico: 202462, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, numero_estudiantes: 203
+periodo_academico: 202462, curso_codigo: TURI_4014, curso_nombre: COSMOVISION ANDINA, numero_estudiantes: 17
+periodo_academico: 202462, curso_codigo: CONT_4029, curso_nombre: COSTOS RELEV PARA TOMA DECISIO, numero_estudiantes: 57
+periodo_academico: 202462, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, numero_estudiantes: 23
+periodo_academico: 202462, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, numero_estudiantes: 72
+periodo_academico: 202462, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, numero_estudiantes: 26
+periodo_academico: 202462, curso_codigo: DERE_1181, curso_nombre: DERECHO LABORAL, numero_estudiantes: 222
+periodo_academico: 202462, curso_codigo: DERE_3045, curso_nombre: DERECHO LABORAL, numero_estudiantes: 14
+periodo_academico: 202462, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, numero_estudiantes: 253
+periodo_academico: 202462, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, numero_estudiantes: 280
+periodo_academico: 202462, curso_codigo: DSOF_4075, curso_nombre: DESARROLLO BASADO EN PLATAF MO, numero_estudiantes: 1
+periodo_academico: 202462, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, numero_estudiantes: 96
+periodo_academico: 202462, curso_codigo: ECON_3047, curso_nombre: DESARROLLO REGIONAL, numero_estudiantes: 19
+periodo_academico: 202462, curso_codigo: TURI_5000, curso_nombre: DESARROLLO TRAB PRACTICUM 4, numero_estudiantes: 13
+periodo_academico: 202462, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, numero_estudiantes: 213
+periodo_academico: 202462, curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, numero_estudiantes: 95
+periodo_academico: 202462, curso_codigo: TIER_1080, curso_nombre: DISEÑO DE CIMENTACIONES PRO Y, numero_estudiantes: 6
+periodo_academico: 202462, curso_codigo: TURI_3016, curso_nombre: DISEÑO DE PRODUCTOS TURISTICOS, numero_estudiantes: 16
+periodo_academico: 202462, curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, numero_estudiantes: 101
+periodo_academico: 202462, curso_codigo: EDUC_4167, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, numero_estudiantes: 2
+periodo_academico: 202462, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, numero_estudiantes: 181
+periodo_academico: 202462, curso_codigo: ECON_3043, curso_nombre: ECONOMETRIA AVANZADA, numero_estudiantes: 29
+periodo_academico: 202462, curso_codigo: ECON_3039, curso_nombre: ECONOMETRIA BASICA, numero_estudiantes: 38
+periodo_academico: 202462, curso_codigo: ECON_4108, curso_nombre: ECONOMIA AMBIENTAL Y DE REC NA, numero_estudiantes: 1
+periodo_academico: 202462, curso_codigo: ECON_2035, curso_nombre: ECONOMIA DE LA EMPRESA Y MERCA, numero_estudiantes: 28
+periodo_academico: 202462, curso_codigo: ECON_5077, curso_nombre: ECONOMIA INTERNACIONAL, numero_estudiantes: 6
+periodo_academico: 202462, curso_codigo: ECON_5076, curso_nombre: ECONOMIA POLITICA, numero_estudiantes: 34
+periodo_academico: 202462, curso_codigo: RELI_1110, curso_nombre: EL ARTE DE AMAR, numero_estudiantes: 40
+periodo_academico: 202462, curso_codigo: ADMI_5078, curso_nombre: EMPREN CON BASE TECNOLOGICA I, numero_estudiantes: 39
+periodo_academico: 202462, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, numero_estudiantes: 580
+periodo_academico: 202462, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, numero_estudiantes: 153
+periodo_academico: 202462, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, numero_estudiantes: 112
+periodo_academico: 202462, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, numero_estudiantes: 106
+periodo_academico: 202462, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, numero_estudiantes: 158
+periodo_academico: 202462, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, numero_estudiantes: 210
+periodo_academico: 202462, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, numero_estudiantes: 241
+periodo_academico: 202462, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, numero_estudiantes: 205
+periodo_academico: 202462, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, numero_estudiantes: 226
+periodo_academico: 202462, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, numero_estudiantes: 103
+periodo_academico: 202462, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, numero_estudiantes: 97
+periodo_academico: 202462, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, numero_estudiantes: 324
+periodo_academico: 202462, curso_codigo: TIER_1081, curso_nombre: ESTABILIDAD DE LADERAS Y TALUD, numero_estudiantes: 5
+periodo_academico: 202462, curso_codigo: ESTA_1044, curso_nombre: ESTADISTICA, numero_estudiantes: 24
+periodo_academico: 202462, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, numero_estudiantes: 188
+periodo_academico: 202462, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, numero_estudiantes: 571
+periodo_academico: 202462, curso_codigo: ESTA_2029, curso_nombre: ESTADISTICA PARA LAS ING Y ARQ, numero_estudiantes: 1
+periodo_academico: 202462, curso_codigo: DSOF_2029, curso_nombre: ESTRUCTURAS DE DATOS, numero_estudiantes: 101
+periodo_academico: 202462, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, numero_estudiantes: 621
+periodo_academico: 202462, curso_codigo: ADMI_4089, curso_nombre: EVALUACION DE PROYECTOS, numero_estudiantes: 25
+periodo_academico: 202462, curso_codigo: UTPL_500, curso_nombre: EXAMEN COMPLEXIVO CON CURSO, numero_estudiantes: 11
+periodo_academico: 202462, curso_codigo: UTPL_600, curso_nombre: EXAMEN COMPLEXIVO SIN CURSO, numero_estudiantes: 11
+periodo_academico: 202462, curso_codigo: CONT_4026, curso_nombre: FIJACION PREC Y ADMIN DE COSTO, numero_estudiantes: 96
+periodo_academico: 202462, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, numero_estudiantes: 255
+periodo_academico: 202462, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, numero_estudiantes: 290
+periodo_academico: 202462, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, numero_estudiantes: 242
+periodo_academico: 202462, curso_codigo: TURI_3011, curso_nombre: FINANZAS Y PRESUPUESTOS, numero_estudiantes: 19
+periodo_academico: 202462, curso_codigo: FISI_1039, curso_nombre: FISICA BASICA, numero_estudiantes: 109
+periodo_academico: 202462, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, numero_estudiantes: 169
+periodo_academico: 202462, curso_codigo: ECON_3045, curso_nombre: FORMULACION DE PROYECTOS, numero_estudiantes: 7
+periodo_academico: 202462, curso_codigo: ADMI_4121, curso_nombre: FORMULACION Y EVALUACION DE PR, numero_estudiantes: 23
+periodo_academico: 202462, curso_codigo: IDIO_3013, curso_nombre: FRANCES I, numero_estudiantes: 31
+periodo_academico: 202462, curso_codigo: IDIO_3014, curso_nombre: FRANCES II, numero_estudiantes: 15
+periodo_academico: 202462, curso_codigo: IDIO_4016, curso_nombre: FRANCES III, numero_estudiantes: 16
+periodo_academico: 202462, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, numero_estudiantes: 168
+periodo_academico: 202462, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, numero_estudiantes: 42
+periodo_academico: 202462, curso_codigo: DRBD_3014, curso_nombre: FUNDAMENTOS DE ANALISIS DE DAT, numero_estudiantes: 39
+periodo_academico: 202462, curso_codigo: DRBD_2006, curso_nombre: FUNDAMENTOS DE BASE DE DATOS, numero_estudiantes: 1
+periodo_academico: 202462, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, numero_estudiantes: 637
+periodo_academico: 202462, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, numero_estudiantes: 267
+periodo_academico: 202462, curso_codigo: SIST_3012, curso_nombre: FUNDAMENTOS DE INGENIERIA DE S, numero_estudiantes: 1
+periodo_academico: 202462, curso_codigo: DSOF_1073, curso_nombre: FUNDAMENTOS DE PROGRAMACION, numero_estudiantes: 2
+periodo_academico: 202462, curso_codigo: DRBD_4012, curso_nombre: FUNDAMENTOS DE REDES, numero_estudiantes: 51
+periodo_academico: 202462, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, numero_estudiantes: 396
+periodo_academico: 202462, curso_codigo: TIER_1062, curso_nombre: GEOESTADISTICA BASICA, numero_estudiantes: 5
+periodo_academico: 202462, curso_codigo: HOTE_1047, curso_nombre: GEOGRAFIA TURISTICA, numero_estudiantes: 39
+periodo_academico: 202462, curso_codigo: DSOF_3035, curso_nombre: GEST DE LA CALIDAD DE SOFTWARE, numero_estudiantes: 46
+periodo_academico: 202462, curso_codigo: TURI_5011, curso_nombre: GESTION DE CADENA DE VALOR Y C, numero_estudiantes: 15
+periodo_academico: 202462, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, numero_estudiantes: 282
+periodo_academico: 202462, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, numero_estudiantes: 100
+periodo_academico: 202462, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, numero_estudiantes: 254
+periodo_academico: 202462, curso_codigo: TURI_2011, curso_nombre: GESTION DEL PATRIMONIO CULTU, numero_estudiantes: 15
+periodo_academico: 202462, curso_codigo: ADMI_4094, curso_nombre: GESTION DEL TALENTO HUMANO, numero_estudiantes: 21
+periodo_academico: 202462, curso_codigo: TURI_4017, curso_nombre: GESTION E INNOVACION DE DESTIN, numero_estudiantes: 13
+periodo_academico: 202462, curso_codigo: ADMI_7129, curso_nombre: GESTION ESTRATEGICA DE LA INNO, numero_estudiantes: 6
+periodo_academico: 202462, curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, numero_estudiantes: 90
+periodo_academico: 202462, curso_codigo: TURI_4018, curso_nombre: GESTION PUBLICA DEL TURISMO, numero_estudiantes: 15
+periodo_academico: 202462, curso_codigo: TURI_2016, curso_nombre: GUIANZA, numero_estudiantes: 18
+periodo_academico: 202462, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, numero_estudiantes: 431
+periodo_academico: 202462, curso_codigo: ECON_1089, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, numero_estudiantes: 33
+periodo_academico: 202462, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, numero_estudiantes: 895
+periodo_academico: 202462, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, numero_estudiantes: 99
+periodo_academico: 202462, curso_codigo: DSOF_3039, curso_nombre: INGENIERIA DE REQUISITOS, numero_estudiantes: 46
+periodo_academico: 202462, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, numero_estudiantes: 195
+periodo_academico: 202462, curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, numero_estudiantes: 127
+periodo_academico: 202462, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, numero_estudiantes: 127
+periodo_academico: 202462, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, numero_estudiantes: 355
+periodo_academico: 202462, curso_codigo: DISE_1032, curso_nombre: INTRODUCCIÓN AL DISEÑO INTERIO, numero_estudiantes: 8
+periodo_academico: 202462, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, numero_estudiantes: 112
+periodo_academico: 202462, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, numero_estudiantes: 287
+periodo_academico: 202462, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, numero_estudiantes: 267
+periodo_academico: 202462, curso_codigo: EDUC_2022, curso_nombre: JORN DE INVES LA CREDIBILIDAD, numero_estudiantes: 10
+periodo_academico: 202462, curso_codigo: EDUC_4160, curso_nombre: JORNADA DE INVEST Y FORMA ESP, numero_estudiantes: 10
+periodo_academico: 202462, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, numero_estudiantes: 118
+periodo_academico: 202462, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, numero_estudiantes: 236
+periodo_academico: 202462, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, numero_estudiantes: 272
+periodo_academico: 202462, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, numero_estudiantes: 251
+periodo_academico: 202462, curso_codigo: TURI_2013, curso_nombre: LEGISLACION TURISTICA Y AMBIEN, numero_estudiantes: 25
+periodo_academico: 202462, curso_codigo: ECON_3041, curso_nombre: MACROECONOMIA ABIERTA, numero_estudiantes: 28
+periodo_academico: 202462, curso_codigo: ECON_2034, curso_nombre: MACROECONOMIA CERRADA, numero_estudiantes: 4
+periodo_academico: 202462, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, numero_estudiantes: 13
+periodo_academico: 202462, curso_codigo: MERC_4007, curso_nombre: MARKETING, numero_estudiantes: 306
+periodo_academico: 202462, curso_codigo: MERC_4004, curso_nombre: MARKETING TURISTICO, numero_estudiantes: 15
+periodo_academico: 202462, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, numero_estudiantes: 269
+periodo_academico: 202462, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, numero_estudiantes: 504
+periodo_academico: 202462, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, numero_estudiantes: 51
+periodo_academico: 202462, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, numero_estudiantes: 22
+periodo_academico: 202462, curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, numero_estudiantes: 108
+periodo_academico: 202462, curso_codigo: EDUC_3187, curso_nombre: METHO FOR ACADEMIC PURPOSES, numero_estudiantes: 24
+periodo_academico: 202462, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, numero_estudiantes: 77
+periodo_academico: 202462, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, numero_estudiantes: 39
+periodo_academico: 202462, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, numero_estudiantes: 242
+periodo_academico: 202462, curso_codigo: ECON_3042, curso_nombre: MICROECONOMIA APLICADA, numero_estudiantes: 6
+periodo_academico: 202462, curso_codigo: ECON_3040, curso_nombre: MODELOS ECONOMETRICOS, numero_estudiantes: 5
+periodo_academico: 202462, curso_codigo: ECON_4110, curso_nombre: MODELOS OPTIMIZA PARA USO DE R, numero_estudiantes: 1
+periodo_academico: 202462, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, numero_estudiantes: 183
+periodo_academico: 202462, curso_codigo: TURI_4021, curso_nombre: NEURO MARKT Y TEORIAS DE INFOR, numero_estudiantes: 3
+periodo_academico: 202462, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, numero_estudiantes: 123
+periodo_academico: 202462, curso_codigo: TURI_2018, curso_nombre: NUEVAS ALTERNATIVAS DE TURISMO, numero_estudiantes: 34
+periodo_academico: 202462, curso_codigo: TURI_5013, curso_nombre: ORDENAMIENTO TURISTICO TERRITO, numero_estudiantes: 7
+periodo_academico: 202462, curso_codigo: TURI_2015, curso_nombre: ORGANIZACION DE EVENTOS Y PROT, numero_estudiantes: 19
+periodo_academico: 202462, curso_codigo: PIND_5008, curso_nombre: ORGANIZACION INDUSTRIAL, numero_estudiantes: 7
+periodo_academico: 202462, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_estudiantes: 79
+periodo_academico: 202462, curso_codigo: TURI_5006, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, numero_estudiantes: 7
+periodo_academico: 202462, curso_codigo: TURI_3013, curso_nombre: PATRIMONIO NATURAL Y BIODIVERS, numero_estudiantes: 23
+periodo_academico: 202462, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, numero_estudiantes: 119
+periodo_academico: 202462, curso_codigo: UTPL_4000, curso_nombre: PERIODO ADICIONAL 1, numero_estudiantes: 2
+periodo_academico: 202462, curso_codigo: UTPL_5000, curso_nombre: PERIODO ADICIONAL 2, numero_estudiantes: 2
+periodo_academico: 202462, curso_codigo: TURI_4016, curso_nombre: PLANIFICACION DE DESTINOS TURI, numero_estudiantes: 27
+periodo_academico: 202462, curso_codigo: ECON_4114, curso_nombre: PLANIFICACION Y GEST DESA SOST, numero_estudiantes: 4
+periodo_academico: 202462, curso_codigo: ECON_4113, curso_nombre: PLANIFICACION Y ORDENAM TERRIT, numero_estudiantes: 31
+periodo_academico: 202462, curso_codigo: DSOF_4071, curso_nombre: PLATAFORMAS PARA JUEGOS, numero_estudiantes: 13
+periodo_academico: 202462, curso_codigo: DSOF_3038, curso_nombre: PLATAFORMAS WEB, numero_estudiantes: 15
+periodo_academico: 202462, curso_codigo: ECON_3046, curso_nombre: POLITICA AMBIENTAL, numero_estudiantes: 22
+periodo_academico: 202462, curso_codigo: ECON_3044, curso_nombre: POLITICA ECONOMICA, numero_estudiantes: 4
+periodo_academico: 202462, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, numero_estudiantes: 243
+periodo_academico: 202462, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, numero_estudiantes: 193
+periodo_academico: 202462, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, numero_estudiantes: 362
+periodo_academico: 202462, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, numero_estudiantes: 195
+periodo_academico: 202462, curso_codigo: ECON_2037, curso_nombre: PRACTICUM 1, numero_estudiantes: 37
+periodo_academico: 202462, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, numero_estudiantes: 168
+periodo_academico: 202462, curso_codigo: TURI_2010, curso_nombre: PRACTICUM 1, numero_estudiantes: 22
+periodo_academico: 202462, curso_codigo: COMP_2012, curso_nombre: PRACTICUM 1.2, numero_estudiantes: 74
+periodo_academico: 202462, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, numero_estudiantes: 249
+periodo_academico: 202462, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, numero_estudiantes: 144
+periodo_academico: 202462, curso_codigo: ECON_3053, curso_nombre: PRACTICUM 2, numero_estudiantes: 4
+periodo_academico: 202462, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, numero_estudiantes: 97
+periodo_academico: 202462, curso_codigo: TURI_3017, curso_nombre: PRACTICUM 2, numero_estudiantes: 18
+periodo_academico: 202462, curso_codigo: COMP_3014, curso_nombre: PRACTICUM 2.2, numero_estudiantes: 50
+periodo_academico: 202462, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, numero_estudiantes: 315
+periodo_academico: 202462, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, numero_estudiantes: 138
+periodo_academico: 202462, curso_codigo: ECON_3054, curso_nombre: PRACTICUM 3 SERVICIO COMUN, numero_estudiantes: 26
+periodo_academico: 202462, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, numero_estudiantes: 214
+periodo_academico: 202462, curso_codigo: TURI_3012, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, numero_estudiantes: 22
+periodo_academico: 202462, curso_codigo: COMP_4015, curso_nombre: PRACTICUM 4.1, numero_estudiantes: 34
+periodo_academico: 202462, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, numero_estudiantes: 111
+periodo_academico: 202462, curso_codigo: TURI_4020, curso_nombre: PRACTICUM 4.1, numero_estudiantes: 22
+periodo_academico: 202462, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_estudiantes: 261
+periodo_academico: 202462, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, numero_estudiantes: 194
+periodo_academico: 202462, curso_codigo: ECON_4115, curso_nombre: PRACTICUM 4.1:TRABAJO DE INT E, numero_estudiantes: 6
+periodo_academico: 202462, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, numero_estudiantes: 86
+periodo_academico: 202462, curso_codigo: TURI_5010, curso_nombre: PRACTICUM 4.2, numero_estudiantes: 7
+periodo_academico: 202462, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_estudiantes: 217
+periodo_academico: 202462, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, numero_estudiantes: 172
+periodo_academico: 202462, curso_codigo: ECON_5074, curso_nombre: PRACTICUM 4.2:TRABAJO DE INTEG, numero_estudiantes: 31
+periodo_academico: 202462, curso_codigo: FDCE_4028, curso_nombre: PRACTICUM ACADE 3 ASESORIA TT, numero_estudiantes: 12
+periodo_academico: 202462, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, numero_estudiantes: 181
+periodo_academico: 202462, curso_codigo: ECON_2033, curso_nombre: PRINCIPIOS DE MACROECONOMIA, numero_estudiantes: 41
+periodo_academico: 202462, curso_codigo: ECON_2032, curso_nombre: PRINCIPIOS DE MICROECONOMIA, numero_estudiantes: 2
+periodo_academico: 202462, curso_codigo: HOTE_1045, curso_nombre: PRINCIPIOS DEL TURISMO, numero_estudiantes: 38
+periodo_academico: 202462, curso_codigo: DSOF_5001, curso_nombre: PROC DE INGENIERIA DE SOFTWARE, numero_estudiantes: 7
+periodo_academico: 202462, curso_codigo: DSOF_2034, curso_nombre: PROG ORIENTADA A OBJETOS, numero_estudiantes: 100
+periodo_academico: 202462, curso_codigo: COMP_4011, curso_nombre: PROGRAMACION AVANZADA, numero_estudiantes: 79
+periodo_academico: 202462, curso_codigo: EDUC_3108, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 29
+periodo_academico: 202462, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 297
+periodo_academico: 202462, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 301
+periodo_academico: 202462, curso_codigo: EDUC_4118, curso_nombre: PROPUESTA DE INVESTIGACION, numero_estudiantes: 26
+periodo_academico: 202462, curso_codigo: UTPL_1000, curso_nombre: PRORROGA 1, numero_estudiantes: 61
+periodo_academico: 202462, curso_codigo: UTPL_2000, curso_nombre: PRORROGA 2, numero_estudiantes: 15
+periodo_academico: 202462, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, numero_estudiantes: 268
+periodo_academico: 202462, curso_codigo: DSOF_3036, curso_nombre: PROTOTIPADO, numero_estudiantes: 80
+periodo_academico: 202462, curso_codigo: COMP_5009, curso_nombre: PROYEC DE FIN DE CARRER GP4.2, numero_estudiantes: 19
+periodo_academico: 202462, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, numero_estudiantes: 286
+periodo_academico: 202462, curso_codigo: TURI_3015, curso_nombre: RECURSOS TANGIB E INTANGIB, numero_estudiantes: 9
+periodo_academico: 202462, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, numero_estudiantes: 43
+periodo_academico: 202462, curso_codigo: COMP_4014, curso_nombre: REPRESENT AVAN CONOCI Y RAZON, numero_estudiantes: 35
+periodo_academico: 202462, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, numero_estudiantes: 134
+periodo_academico: 202462, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, numero_estudiantes: 241
+periodo_academico: 202462, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, numero_estudiantes: 101
+periodo_academico: 202462, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, numero_estudiantes: 109
+periodo_academico: 202462, curso_codigo: ADMI_5047, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 70
+periodo_academico: 202462, curso_codigo: FDCE_4031, curso_nombre: SEMINARIO DE FIN DE CARRERA, numero_estudiantes: 18
+periodo_academico: 202462, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, numero_estudiantes: 350
+periodo_academico: 202462, curso_codigo: TURI_4013, curso_nombre: SISTEMAS TECNOLOGICOS APLICADO, numero_estudiantes: 21
+periodo_academico: 202462, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, numero_estudiantes: 252
+periodo_academico: 202462, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, numero_estudiantes: 255
+periodo_academico: 202462, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, numero_estudiantes: 97
+periodo_academico: 202462, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, numero_estudiantes: 195
+periodo_academico: 202462, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, numero_estudiantes: 442
+periodo_academico: 202462, curso_codigo: ADMI_7132, curso_nombre: TECNOLOGIA APLICADA, numero_estudiantes: 6
+periodo_academico: 202462, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, numero_estudiantes: 188
+periodo_academico: 202462, curso_codigo: COMP_3012, curso_nombre: TEORIA DE AUTOMATAS Y COMPILAD, numero_estudiantes: 51
+periodo_academico: 202462, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, numero_estudiantes: 409
+periodo_academico: 202462, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, numero_estudiantes: 443
+periodo_academico: 202462, curso_codigo: ECON_5075, curso_nombre: TEORIAS DEL DESARROLLO, numero_estudiantes: 35
+periodo_academico: 202462, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_estudiantes: 93
+periodo_academico: 202462, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), numero_estudiantes: 62
+periodo_academico: 202462, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, numero_estudiantes: 31
+periodo_academico: 202462, curso_codigo: UTPL_800, curso_nombre: TRABAJO DE TITULACION SIN CURS, numero_estudiantes: 86
+periodo_academico: 202462, curso_codigo: TURI_2017, curso_nombre: TRANSPORTACION TURISTICA, numero_estudiantes: 13
+periodo_academico: 202462, curso_codigo: TURI_4019, curso_nombre: TURISMO RURAL Y DESARRO LOCAL, numero_estudiantes: 7
+periodo_academico: 202462, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, numero_estudiantes: 26
+periodo_academico: 202462, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, numero_estudiantes: 20
+periodo_academico: 202462, curso_codigo: MINE_4001, curso_nombre: VOLADURA DE ROCAS, numero_estudiantes: 2

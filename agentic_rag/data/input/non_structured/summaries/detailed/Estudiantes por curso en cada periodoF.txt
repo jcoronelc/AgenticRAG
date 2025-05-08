@@ -1,0 +1,1253 @@
+En el periodo académico '202264', el curso 'ACADEMIC READING AND WRITIN II' (código: EDUC_3183) tiene 78 estudiantes.
+En el periodo académico '202264', el curso 'ACADEMIC READING AND WRITING I' (código: EDUC_3178) tiene 129 estudiantes.
+En el periodo académico '202264', el curso 'ADAPTACIONES CURRICULARES Y DI' (código: EDUC_3185) tiene 79 estudiantes.
+En el periodo académico '202264', el curso 'ADMIN DE CAD DE SUM Y LOG EMPR' (código: ADMI_2030) tiene 194 estudiantes.
+En el periodo académico '202264', el curso 'ADMINISTRACION' (código: ADMI_1026) tiene 3 estudiantes.
+En el periodo académico '202264', el curso 'ADMINISTRACION' (código: ADMI_1109) tiene 564 estudiantes.
+En el periodo académico '202264', el curso 'ADMINISTRACION DE OPERAC Y PR' (código: PIND_2010) tiene 298 estudiantes.
+En el periodo académico '202264', el curso 'ADMINISTRACION DE TECN Y SISTE' (código: ADMI_4095) tiene 165 estudiantes.
+En el periodo académico '202264', el curso 'ADMINISTRACION DE TECNOLOGIAS' (código: SIST_5001) tiene 113 estudiantes.
+En el periodo académico '202264', el curso 'ADMINISTRACION DEL TALENTO HUM' (código: LABO_3002) tiene 304 estudiantes.
+En el periodo académico '202264', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5005) tiene 160 estudiantes.
+En el periodo académico '202264', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5066) tiene 144 estudiantes.
+En el periodo académico '202264', el curso 'ADMINISTRACION FINANCIERA' (código: FINZ_4057) tiene 136 estudiantes.
+En el periodo académico '202264', el curso 'ADMINISTRACION FINANCIERA OPER' (código: ECON_4112) tiene 32 estudiantes.
+En el periodo académico '202264', el curso 'ADMINISTRACION I' (código: ADMI_1009) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'AEROGRAFIA' (código: ARTE_1050) tiene 3 estudiantes.
+En el periodo académico '202264', el curso 'ALGEBRA LINEAL' (código: MATE_1108) tiene 572 estudiantes.
+En el periodo académico '202264', el curso 'ANA MATEMATICO MULTIVARIADO' (código: MATE_2029) tiene 34 estudiantes.
+En el periodo académico '202264', el curso 'ANALISIS DE MERCADOS TURISTICO' (código: TURI_4022) tiene 19 estudiantes.
+En el periodo académico '202264', el curso 'ANALISIS TERRITORIAL' (código: ECON_4109) tiene 6 estudiantes.
+En el periodo académico '202264', el curso 'ANTROPOLOGIA' (código: RELI_3002) tiene 45 estudiantes.
+En el periodo académico '202264', el curso 'ANTROPOLOGIA BASICA' (código: RELI_2062) tiene 862 estudiantes.
+En el periodo académico '202264', el curso 'ANTROPOLOGIA CULTURAL Y TURIS' (código: TURI_1020) tiene 33 estudiantes.
+En el periodo académico '202264', el curso 'APLIC AUDIT FORENS CICLOS TRAN' (código: CONT_3031) tiene 45 estudiantes.
+En el periodo académico '202264', el curso 'APLICACIONES DE COSTOS' (código: CONT_3030) tiene 205 estudiantes.
+En el periodo académico '202264', el curso 'AREAS PROTEGIDAS' (código: TURI_2014) tiene 14 estudiantes.
+En el periodo académico '202264', el curso 'ARQ Y COMP PARALELA' (código: COMP_5006) tiene 7 estudiantes.
+En el periodo académico '202264', el curso 'ARQ Y SEGURIDAD DE REDES' (código: DRBD_5003) tiene 15 estudiantes.
+En el periodo académico '202264', el curso 'ARQUITECTURA DE APLICACIONES' (código: DSOF_4004) tiene 11 estudiantes.
+En el periodo académico '202264', el curso 'ARQUITECTURA DE SOFTWARE' (código: DSOF_4069) tiene 20 estudiantes.
+En el periodo académico '202264', el curso 'AUDIT INT Y ADMIN RIESGOS ERM' (código: CONT_4030) tiene 9 estudiantes.
+En el periodo académico '202264', el curso 'AUDITORIA DE GESTION' (código: CONT_4028) tiene 78 estudiantes.
+En el periodo académico '202264', el curso 'AUDITORIA FINANCIERA' (código: FINZ_4056) tiene 147 estudiantes.
+En el periodo académico '202264', el curso 'AUDITORIA I' (código: CONT_4006) tiene 7 estudiantes.
+En el periodo académico '202264', el curso 'AUDITORIA II' (código: CONT_1015) tiene 21 estudiantes.
+En el periodo académico '202264', el curso 'AUDITORIA III' (código: CONT_5002) tiene 69 estudiantes.
+En el periodo académico '202264', el curso 'AUDITORIA INFORMATICA' (código: SIST_5006) tiene 84 estudiantes.
+En el periodo académico '202264', el curso 'CALCULO' (código: MATE_1091) tiene 8 estudiantes.
+En el periodo académico '202264', el curso 'CIUDAD Y TURISMO' (código: TURI_3014) tiene 7 estudiantes.
+En el periodo académico '202264', el curso 'COMERCIO EXTERIOR' (código: COME_1005) tiene 61 estudiantes.
+En el periodo académico '202264', el curso 'COMERCIO EXTERIOR' (código: COME_3002) tiene 144 estudiantes.
+En el periodo académico '202264', el curso 'COMPETITIVIDAD DESTINOS TURIST' (código: TURI_4015) tiene 7 estudiantes.
+En el periodo académico '202264', el curso 'COMPORTAMIENTO ORGANIZACIONAL' (código: ADMI_4082) tiene 371 estudiantes.
+En el periodo académico '202264', el curso 'COMPUTACION' (código: COMP_1000) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'COMPUTACION APLICADA' (código: CONT_4010) tiene 9 estudiantes.
+En el periodo académico '202264', el curso 'COMPUTACION Y SOCIEDAD' (código: COMP_1078) tiene 86 estudiantes.
+En el periodo académico '202264', el curso 'COMPUTACION Y SOCIEDAD' (código: COMP_1081) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD AGRARIA' (código: CONT_4033) tiene 237 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD BANCARIA' (código: CONT_2015) tiene 7 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD CORPORATIVA' (código: CONT_2027) tiene 112 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD DE COSTOS' (código: CONT_3026) tiene 207 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD DE COSTOS OPERATI' (código: CONT_2032) tiene 21 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD DE INSTITUC FINAN' (código: CONT_3025) tiene 100 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD FINANCIERA' (código: CONT_1085) tiene 241 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD FINANCIERA AVANZA' (código: CONT_2025) tiene 340 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5006) tiene 84 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5023) tiene 28 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_2028) tiene 228 estudiantes.
+En el periodo académico '202264', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_3017) tiene 7 estudiantes.
+En el periodo académico '202264', el curso 'CONTRASTIVE GRAMMAR' (código: EDUC_4116) tiene 28 estudiantes.
+En el periodo académico '202264', el curso 'CONTRATACION PUBLICA' (código: DERE_3050) tiene 244 estudiantes.
+En el periodo académico '202264', el curso 'COSMOVISION ANDINA' (código: TURI_4014) tiene 12 estudiantes.
+En el periodo académico '202264', el curso 'COSTOS RELEV PARA TOMA DECISIO' (código: CONT_4029) tiene 5 estudiantes.
+En el periodo académico '202264', el curso 'CULTURE AND LITERATURE IN ENGL' (código: LITE_4003) tiene 35 estudiantes.
+En el periodo académico '202264', el curso 'CUR DSING FR ACADM AND SPCIF P' (código: EDUC_4111) tiene 4 estudiantes.
+En el periodo académico '202264', el curso 'CURRICLM FUNDTS PRNCPLS AND IS' (código: EDUC_4112) tiene 17 estudiantes.
+En el periodo académico '202264', el curso 'CURRICULUM AND MATERIALS' (código: FDCE_4001) tiene 8 estudiantes.
+En el periodo académico '202264', el curso 'CURSO DE ACTUALIZACION' (código: UTPL_3000) tiene 12 estudiantes.
+En el periodo académico '202264', el curso 'DERECHO LABORAL' (código: DERE_1181) tiene 220 estudiantes.
+En el periodo académico '202264', el curso 'DERECHO TRIBUTARIO' (código: DERE_1182) tiene 247 estudiantes.
+En el periodo académico '202264', el curso 'DERECHO TRIBUTARIO' (código: DERE_4054) tiene 338 estudiantes.
+En el periodo académico '202264', el curso 'DESARROLLO ECONOMICO' (código: ECON_4002) tiene 62 estudiantes.
+En el periodo académico '202264', el curso 'DESARROLLO EMPRES NUEVOS NEGOC' (código: ADMI_3025) tiene 63 estudiantes.
+En el periodo académico '202264', el curso 'DESARROLLO EMPRESARIAL' (código: ADMI_1043) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'DESARROLLO ESPIRITUAL III' (código: RELI_3005) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'DESARROLLO TRAB PRACTICUM 4' (código: TURI_5000) tiene 8 estudiantes.
+En el periodo académico '202264', el curso 'DIRECCION ESTRATEGICA' (código: ADMI_5071) tiene 157 estudiantes.
+En el periodo académico '202264', el curso 'DIRECCION HOTELERA' (código: HOTE_5003) tiene 10 estudiantes.
+En el periodo académico '202264', el curso 'DISCOURSE ANALYSIS' (código: EDUC_4117) tiene 23 estudiantes.
+En el periodo académico '202264', el curso 'DISEÑO DE PRODUCTOS TURISTICOS' (código: TURI_3016) tiene 16 estudiantes.
+En el periodo académico '202264', el curso 'DISEÑO DE SISTEMAS DE COSTOS' (código: CONT_3029) tiene 77 estudiantes.
+En el periodo académico '202264', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: RELI_1001) tiene 159 estudiantes.
+En el periodo académico '202264', el curso 'E-COMMERCE' (código: ADMI_4083) tiene 43 estudiantes.
+En el periodo académico '202264', el curso 'ECONOMETRIA AVANZADA' (código: ECON_3043) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'ECONOMETRIA BASICA' (código: ECON_3039) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'ECONOMETRIA II' (código: ECMA_4003) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'ECONOMETRIA III' (código: ECMA_4004) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'ECONOMIA AMBIENTAL Y DE REC NA' (código: ECON_4108) tiene 36 estudiantes.
+En el periodo académico '202264', el curso 'ECONOMIA DE LA EMPRESA Y MERCA' (código: ECON_2035) tiene 8 estudiantes.
+En el periodo académico '202264', el curso 'ECONOMIA INTERNACIONAL' (código: ECON_5013) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'ECONOMIA INTERNACIONAL' (código: ECON_5077) tiene 18 estudiantes.
+En el periodo académico '202264', el curso 'ECONOMIA POLITICA' (código: ECON_5014) tiene 3 estudiantes.
+En el periodo académico '202264', el curso 'ECONOMIA POPULAR Y SOLIDARIA' (código: ADMI_1127) tiene 71 estudiantes.
+En el periodo académico '202264', el curso 'ECUACIONES DIFER Y MET NUMER' (código: MATE_3100) tiene 55 estudiantes.
+En el periodo académico '202264', el curso 'EDUCATIONAL RESEARCH I' (código: FDSE_4007) tiene 13 estudiantes.
+En el periodo académico '202264', el curso 'EMPREN CON BASE TECNOLOGICA II' (código: ADMI_5079) tiene 5 estudiantes.
+En el periodo académico '202264', el curso 'EMPRENDIMIENTO' (código: ADMI_4038) tiene 683 estudiantes.
+En el periodo académico '202264', el curso 'ENGLISH LAN: LIST AND SPEAK IV' (código: EDUC_2118) tiene 103 estudiantes.
+En el periodo académico '202264', el curso 'ENGLISH LAN: LISTE AND SPE III' (código: EDUC_3112) tiene 134 estudiantes.
+En el periodo académico '202264', el curso 'ENGLISH LAN: READ AND WRIT III' (código: EDUC_3111) tiene 133 estudiantes.
+En el periodo académico '202264', el curso 'ENGLISH LAN: READ AND WRIT IV' (código: EDUC_2119) tiene 112 estudiantes.
+En el periodo académico '202264', el curso 'ENGLISH LANG: LIST AND SPEA II' (código: FDCE_1075) tiene 136 estudiantes.
+En el periodo académico '202264', el curso 'ENGLISH LANG: LIST AND SPEAK I' (código: FDCE_1074) tiene 299 estudiantes.
+En el periodo académico '202264', el curso 'ENGLISH LANG: READ AND WRIT II' (código: FDCE_1076) tiene 134 estudiantes.
+En el periodo académico '202264', el curso 'ENGLISH LANG: READI AND WRIT I' (código: IDIO_1104) tiene 284 estudiantes.
+En el periodo académico '202264', el curso 'ENGLISH PRON: PHONETI AND PHON' (código: EDUC_3179) tiene 117 estudiantes.
+En el periodo académico '202264', el curso 'ENGLISH SYNTAX' (código: EDUC_4109) tiene 51 estudiantes.
+En el periodo académico '202264', el curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' (código: CONT_1084) tiene 480 estudiantes.
+En el periodo académico '202264', el curso 'ESTADISTICA' (código: ESTA_1044) tiene 21 estudiantes.
+En el periodo académico '202264', el curso 'ESTADISTICA APLICADA A EDUCA' (código: ESTA_4004) tiene 31 estudiantes.
+En el periodo académico '202264', el curso 'ESTADISTICA BASICA' (código: ESTA_2031) tiene 152 estudiantes.
+En el periodo académico '202264', el curso 'ESTADISTICA BASICA' (código: ESTA_3023) tiene 505 estudiantes.
+En el periodo académico '202264', el curso 'ESTADISTICA II' (código: ESTA_1012) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'ESTADISTICA Y PROBABILIDAD' (código: ESTA_3022) tiene 38 estudiantes.
+En el periodo académico '202264', el curso 'ESTRUCTURAS DISCRETAS' (código: DSOF_2030) tiene 95 estudiantes.
+En el periodo académico '202264', el curso 'ETICA' (código: RELI_3000) tiene 85 estudiantes.
+En el periodo académico '202264', el curso 'ETICA Y MORAL' (código: FILO_1114) tiene 642 estudiantes.
+En el periodo académico '202264', el curso 'EXAMEN COMPLEXIVO CON CURSO' (código: UTPL_500) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'EXAMEN COMPLEXIVO SIN CURSO' (código: UTPL_600) tiene 7 estudiantes.
+En el periodo académico '202264', el curso 'EXPRESION ORAL Y ESCRITA' (código: LITE_1016) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'FAMILIA Y EDUCACION: RETOS Y D' (código: EDUC_1143) tiene 125 estudiantes.
+En el periodo académico '202264', el curso 'FIJACION PREC Y ADMIN DE COSTO' (código: CONT_4026) tiene 34 estudiantes.
+En el periodo académico '202264', el curso 'FILOSOFIA DE LA EDUCACION' (código: FILO_4002) tiene 18 estudiantes.
+En el periodo académico '202264', el curso 'FILOSOFIA E HISTORIA DE LA EDU' (código: FILO_1117) tiene 333 estudiantes.
+En el periodo académico '202264', el curso 'FINANZAS ESTRUCTURALES' (código: FINZ_3024) tiene 214 estudiantes.
+En el periodo académico '202264', el curso 'FINANZAS I' (código: FINZ_1026) tiene 23 estudiantes.
+En el periodo académico '202264', el curso 'FINANZAS II' (código: FINZ_1065) tiene 57 estudiantes.
+En el periodo académico '202264', el curso 'FINANZAS OPERATIVAS' (código: FINZ_3023) tiene 303 estudiantes.
+En el periodo académico '202264', el curso 'FINANZAS Y PRESUPUESTOS' (código: TURI_3011) tiene 19 estudiantes.
+En el periodo académico '202264', el curso 'FINTECH BANCA 4.0' (código: FINZ_1073) tiene 18 estudiantes.
+En el periodo académico '202264', el curso 'FORM EVALUAC DE PROYECTOS' (código: ADMI_4126) tiene 32 estudiantes.
+En el periodo académico '202264', el curso 'FORMULACION DE PROYECTOS' (código: ECON_3045) tiene 15 estudiantes.
+En el periodo académico '202264', el curso 'FORMULACION Y EVALUACION DE PR' (código: ADMI_4121) tiene 11 estudiantes.
+En el periodo académico '202264', el curso 'FRANCES I' (código: IDIO_3013) tiene 38 estudiantes.
+En el periodo académico '202264', el curso 'FRANCES II' (código: IDIO_3014) tiene 34 estudiantes.
+En el periodo académico '202264', el curso 'FRANCES III' (código: IDIO_4016) tiene 38 estudiantes.
+En el periodo académico '202264', el curso 'FRANCES IV' (código: IDIO_5001) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'FUND DE INTE ARTIFICIAL' (código: COMP_4012) tiene 19 estudiantes.
+En el periodo académico '202264', el curso 'FUND DEL LENGUAJE VISUAL' (código: ARTE_1089) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'FUNDAMENTOS COMPUTACIONALES' (código: COMP_1075) tiene 89 estudiantes.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE ADMINIST FINAN' (código: ADMI_1115) tiene 199 estudiantes.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE ADMINISTRACION' (código: ADMI_1113) tiene 83 estudiantes.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE BASE DE DATOS' (código: DRBD_2004) tiene 49 estudiantes.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE CONTABILIDAD' (código: CONT_1083) tiene 1017 estudiantes.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE ECONOMIA' (código: ECON_1088) tiene 391 estudiantes.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE INGENIERIA DE S' (código: SIST_3011) tiene 36 estudiantes.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE INGENIERIA DE S' (código: SIST_3012) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'FUNDAMENTOS INFORMATICOS' (código: COMP_1034) tiene 68 estudiantes.
+En el periodo académico '202264', el curso 'FUNDAMENTOS MATEMATICOS' (código: MATE_1103) tiene 725 estudiantes.
+En el periodo académico '202264', el curso 'GEOGRAFIA TURISTICA' (código: HOTE_1047) tiene 43 estudiantes.
+En el periodo académico '202264', el curso 'GERENCIA DE RECURSOS NATURALES' (código: RENR_3001) tiene 8 estudiantes.
+En el periodo académico '202264', el curso 'GESTION DE CADENA DE VALOR Y C' (código: TURI_5011) tiene 8 estudiantes.
+En el periodo académico '202264', el curso 'GESTION DE LA CALIDAD' (código: ADMI_4015) tiene 52 estudiantes.
+En el periodo académico '202264', el curso 'GESTION DE LA CALIDAD' (código: ADMI_5067) tiene 192 estudiantes.
+En el periodo académico '202264', el curso 'GESTION DE NUEVOS NEGOCIOS' (código: ADMI_4079) tiene 66 estudiantes.
+En el periodo académico '202264', el curso 'GESTION DE NUEVOS RIESGOS LABO' (código: SEPR_1002) tiene 8 estudiantes.
+En el periodo académico '202264', el curso 'GESTION DE PROYECTOS' (código: ADMI_5077) tiene 13 estudiantes.
+En el periodo académico '202264', el curso 'GESTION DEL CONOCIMIENTO' (código: ADMI_3030) tiene 375 estudiantes.
+En el periodo académico '202264', el curso 'GESTION DEL PATRIMONIO CULTU' (código: TURI_2011) tiene 38 estudiantes.
+En el periodo académico '202264', el curso 'GESTION DEL TALENTO HUMANO' (código: ADMI_4094) tiene 12 estudiantes.
+En el periodo académico '202264', el curso 'GESTION E INNOVACION DE DESTIN' (código: TURI_4017) tiene 12 estudiantes.
+En el periodo académico '202264', el curso 'GESTION INNOVACION EMPRESARIAL' (código: ADMI_1111) tiene 12 estudiantes.
+En el periodo académico '202264', el curso 'GESTION PRODUCTIVA 4.2' (código: ADMI_5025) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'GESTION PRODUCTIVA GP 4.1' (código: ECON_5021) tiene 4 estudiantes.
+En el periodo académico '202264', el curso 'GESTION PRODUCTIVA GP 4.2' (código: ECON_5023) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'GESTION PUBLICA DEL TURISMO' (código: TURI_4018) tiene 10 estudiantes.
+En el periodo académico '202264', el curso 'GUIANZA' (código: TURI_2016) tiene 21 estudiantes.
+En el periodo académico '202264', el curso 'HABILIDADES GERENCIALES' (código: ADMI_5064) tiene 678 estudiantes.
+En el periodo académico '202264', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1055) tiene 11 estudiantes.
+En el periodo académico '202264', el curso 'HISTORIA ECONOMICA DEL ECUADOR' (código: ECON_1087) tiene 38 estudiantes.
+En el periodo académico '202264', el curso 'HUMANISMO, UNIVERSIDAD Y CULTU' (código: RELI_1105) tiene 1477 estudiantes.
+En el periodo académico '202264', el curso 'IMAGEN PERSONAL Y CORPORATIVA' (código: PERI_3015) tiene 100 estudiantes.
+En el periodo académico '202264', el curso 'INCLUSION Y APRENDIZAJE SOSTEN' (código: EDUC_1102) tiene 133 estudiantes.
+En el periodo académico '202264', el curso 'INCLUSIVE AND SUSTAINABLE EDUC' (código: EDUC_4115) tiene 31 estudiantes.
+En el periodo académico '202264', el curso 'INGENIERIA WEB' (código: DSOF_3037) tiene 40 estudiantes.
+En el periodo académico '202264', el curso 'INGLES VI' (código: IDIO_3010) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'INTELIG ESTRAT Y METOD INTERNA' (código: ADMI_4081) tiene 142 estudiantes.
+En el periodo académico '202264', el curso 'INTELIGENCIA ARTIFICIAL' (código: DSOF_4009) tiene 10 estudiantes.
+En el periodo académico '202264', el curso 'INTELIGENCIA EMOCIONAL' (código: EDUC_1146) tiene 137 estudiantes.
+En el periodo académico '202264', el curso 'INTEROPERY EXPLO DATOS ECO HET' (código: DRBD_4015) tiene 4 estudiantes.
+En el periodo académico '202264', el curso 'INTRO A LA CAD DE VALOR EN CAF' (código: PAGR_1017) tiene 24 estudiantes.
+En el periodo académico '202264', el curso 'INTRO AUDITORIA FORENSE EMPRES' (código: CONT_3028) tiene 89 estudiantes.
+En el periodo académico '202264', el curso 'INTRODUC TO EDUCATIO RESEARCH' (código: EDUC_3180) tiene 142 estudiantes.
+En el periodo académico '202264', el curso 'INTRODUCCION A LA AUDITORIA' (código: CONT_1007) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'INTRODUCCION A LA ECONOMIA' (código: ECON_1090) tiene 363 estudiantes.
+En el periodo académico '202264', el curso 'INTRODUCCION A LA INTELIGENCIA' (código: COMP_3013) tiene 35 estudiantes.
+En el periodo académico '202264', el curso 'INTRODUCCION A LA PROGRAMACION' (código: DSOF_1067) tiene 91 estudiantes.
+En el periodo académico '202264', el curso 'INTRODUCCIÓN AL DISEÑO INTERIO' (código: DISE_1032) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'INTRODUCTION TO LINGUISTICS' (código: EDUC_3189) tiene 71 estudiantes.
+En el periodo académico '202264', el curso 'INVESTIGACION DE MERCADOS' (código: ADMI_3026) tiene 364 estudiantes.
+En el periodo académico '202264', el curso 'INVESTIGACION OPERATIVA TOMA D' (código: DIPP_3001) tiene 49 estudiantes.
+En el periodo académico '202264', el curso 'JORN DE INVES LA CREDIBILIDAD' (código: EDUC_2022) tiene 22 estudiantes.
+En el periodo académico '202264', el curso 'JORNADA DE ASESORIA DE SISTEMA' (código: EDUC_1033) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'JORNADA DE INVESTIGACION TEMAT' (código: EDUC_2021) tiene 25 estudiantes.
+En el periodo académico '202264', el curso 'LANGUAGE TESTING' (código: EDUC_3177) tiene 150 estudiantes.
+En el periodo académico '202264', el curso 'LANGUAGE TESTING' (código: FDCE_4011) tiene 26 estudiantes.
+En el periodo académico '202264', el curso 'LECTURA Y REDACCION DE TEXTOS' (código: LITE_1106) tiene 299 estudiantes.
+En el periodo académico '202264', el curso 'LEGISLACION EMPRESARIAL' (código: ADMI_1110) tiene 356 estudiantes.
+En el periodo académico '202264', el curso 'LEGISLACION MERCANTIL Y SOCIET' (código: DERE_2072) tiene 369 estudiantes.
+En el periodo académico '202264', el curso 'LEGISLACION MONETARIA Y BANCAR' (código: DERE_1102) tiene 5 estudiantes.
+En el periodo académico '202264', el curso 'LEGISLACION TURISTICA Y AMBIEN' (código: TURI_2013) tiene 28 estudiantes.
+En el periodo académico '202264', el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1141) tiene 16 estudiantes.
+En el periodo académico '202264', el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1147) tiene 117 estudiantes.
+En el periodo académico '202264', el curso 'LOGICA DIGITAL' (código: ELEN_2008) tiene 56 estudiantes.
+En el periodo académico '202264', el curso 'LOGISTICA EMPRESARIAL' (código: ADMI_4027) tiene 15 estudiantes.
+En el periodo académico '202264', el curso 'MACROECONOMIA ABIERTA' (código: ECON_3041) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'MACROECONOMIA CERRADA' (código: ECON_2034) tiene 29 estudiantes.
+En el periodo académico '202264', el curso 'MANAGEMENT 3.0' (código: ADMI_1117) tiene 56 estudiantes.
+En el periodo académico '202264', el curso 'MARKETING' (código: MERC_1005) tiene 26 estudiantes.
+En el periodo académico '202264', el curso 'MARKETING' (código: MERC_4007) tiene 407 estudiantes.
+En el periodo académico '202264', el curso 'MARKETING TURISTICO' (código: MERC_4004) tiene 21 estudiantes.
+En el periodo académico '202264', el curso 'MATEMATICA BASICA' (código: MATE_1106) tiene 401 estudiantes.
+En el periodo académico '202264', el curso 'MATEMATICA FINANCIERA' (código: MATE_1095) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'MATEMATICA FINANCIERA' (código: MATE_1109) tiene 540 estudiantes.
+En el periodo académico '202264', el curso 'MATRIMONIO Y FAMILIA' (código: RELI_1033) tiene 100 estudiantes.
+En el periodo académico '202264', el curso 'MERCADO DE VALORES' (código: COME_5000) tiene 110 estudiantes.
+En el periodo académico '202264', el curso 'METH TO ADOLESCENTS AND ADULTS' (código: EDUC_3188) tiene 45 estudiantes.
+En el periodo académico '202264', el curso 'METHO FOR ACADEMIC PURPOSES' (código: EDUC_3187) tiene 13 estudiantes.
+En el periodo académico '202264', el curso 'METHODO FOR TEAC ENGL TO CHILD' (código: EDUC_3191) tiene 45 estudiantes.
+En el periodo académico '202264', el curso 'METHODOLOGY AND DIDACTICS III:' (código: FDCE_4014) tiene 22 estudiantes.
+En el periodo académico '202264', el curso 'METHODOLOGY FOR TEACHING ENGLI' (código: EDUC_3182) tiene 64 estudiantes.
+En el periodo académico '202264', el curso 'METODOS DE VALOR DE EMPRESAS' (código: ADMI_5065) tiene 40 estudiantes.
+En el periodo académico '202264', el curso 'MICROECONOMIA APLICADA' (código: ECON_3042) tiene 29 estudiantes.
+En el periodo académico '202264', el curso 'MODELAMIENTO GEOLOGICO CON LEA' (código: TIER_1071) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'MODELOS ECONOMETRICOS' (código: ECON_3040) tiene 33 estudiantes.
+En el periodo académico '202264', el curso 'MODELOS OPTIMIZA PARA USO DE R' (código: ECON_4110) tiene 6 estudiantes.
+En el periodo académico '202264', el curso 'NEGOCIOS INTERNACIONALES' (código: COME_3003) tiene 55 estudiantes.
+En el periodo académico '202264', el curso 'NEURO MARKT Y TEORIAS DE INFOR' (código: TURI_4021) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'NEUROCIENCIA Y PSICOL DEL DESA' (código: PSIC_1104) tiene 159 estudiantes.
+En el periodo académico '202264', el curso 'NUEVAS ALTERNATIVAS DE TURISMO' (código: TURI_2018) tiene 32 estudiantes.
+En el periodo académico '202264', el curso 'OFIMAT PARA EL MODEL Y ANALISI' (código: TIER_1069) tiene 5 estudiantes.
+En el periodo académico '202264', el curso 'ORDENAMIENTO TURISTICO TERRITO' (código: TURI_5013) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'ORGANIZACION DE EVENTOS Y PROT' (código: TURI_2015) tiene 29 estudiantes.
+En el periodo académico '202264', el curso 'ORGANIZACION INDUSTRIAL' (código: PIND_5008) tiene 65 estudiantes.
+En el periodo académico '202264', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: ADMI_5046) tiene 109 estudiantes.
+En el periodo académico '202264', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: CONT_5010) tiene 100 estudiantes.
+En el periodo académico '202264', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: TURI_5006) tiene 18 estudiantes.
+En el periodo académico '202264', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: ADMI_4046) tiene 109 estudiantes.
+En el periodo académico '202264', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: CONT_4000) tiene 68 estudiantes.
+En el periodo académico '202264', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: TURI_4012) tiene 16 estudiantes.
+En el periodo académico '202264', el curso 'PASANTIA PRE-PRO1' (código: FDCE_3015) tiene 17 estudiantes.
+En el periodo académico '202264', el curso 'PASANTIA PRE-PRO2' (código: FDCE_4023) tiene 32 estudiantes.
+En el periodo académico '202264', el curso 'PASANTIAS PRE-PROF PRACTICUM 1' (código: ADMI_3023) tiene 15 estudiantes.
+En el periodo académico '202264', el curso 'PASANTIAS PRE-PROF PRACTICUM 1' (código: CONT_3002) tiene 16 estudiantes.
+En el periodo académico '202264', el curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: ADMI_4045) tiene 64 estudiantes.
+En el periodo académico '202264', el curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: CONT_4008) tiene 34 estudiantes.
+En el periodo académico '202264', el curso 'PATRIMONIO NATURAL Y BIODIVERS' (código: TURI_3013) tiene 42 estudiantes.
+En el periodo académico '202264', el curso 'PEDAGOGIA' (código: EDUC_3113) tiene 156 estudiantes.
+En el periodo académico '202264', el curso 'PERIODO ADICIONAL 1' (código: UTPL_4000) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'PERIODO ADICIONAL 2' (código: UTPL_5000) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'PINTURA' (código: ARTE_4020) tiene 3 estudiantes.
+En el periodo académico '202264', el curso 'PLAN ESTRATEGIC TRANSF DIGITAL' (código: DSOF_1074) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'PLANIFICACION DE DESTINOS TURI' (código: TURI_4016) tiene 16 estudiantes.
+En el periodo académico '202264', el curso 'PLANIFICACION SUBTERRANEA' (código: MINE_1007) tiene 4 estudiantes.
+En el periodo académico '202264', el curso 'PLATAFORMAS MOVILES' (código: DSOF_4070) tiene 19 estudiantes.
+En el periodo académico '202264', el curso 'POLITICA ECONOMICA' (código: ECON_3044) tiene 11 estudiantes.
+En el periodo académico '202264', el curso 'POLITICA ECONOMICA II' (código: ECON_4009) tiene 3 estudiantes.
+En el periodo académico '202264', el curso 'POLITICA PUBLICA Y MARCO LEGA' (código: FDCE_2030) tiene 184 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICA TRIBUTARIA' (código: CONT_2026) tiene 242 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 1' (código: ADMI_2029) tiene 420 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 1' (código: CONT_2029) tiene 227 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 1' (código: ECON_2037) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 1' (código: EDUC_2120) tiene 123 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 1' (código: TURI_2010) tiene 46 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 1.1' (código: COMP_2011) tiene 58 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 2' (código: ADMI_3027) tiene 288 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 2' (código: CONT_3037) tiene 162 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 2' (código: ECON_3053) tiene 35 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 2' (código: EDUC_3181) tiene 107 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 2' (código: TURI_3017) tiene 24 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 2.1' (código: COMP_3019) tiene 36 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 3' (código: ADMI_4080) tiene 173 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 3' (código: EDUC_3186) tiene 53 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 3 SERVICIO COMUNITA' (código: CONT_3038) tiene 104 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: COMP_4010) tiene 26 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: TURI_3012) tiene 14 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 4.1' (código: EDUC_4107) tiene 16 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 4.1' (código: TURI_4020) tiene 3 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: ADMI_4087) tiene 51 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: CONT_4032) tiene 76 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 4.1:TRABAJO DE INT E' (código: ECON_4115) tiene 12 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 4.2' (código: COMP_5022) tiene 5 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 4.2' (código: EDUC_4114) tiene 3 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 4.2' (código: TURI_5010) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: ADMI_5068) tiene 4 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: CONT_4034) tiene 6 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM ACADE 3 ASESORIA TT' (código: FDCE_4028) tiene 43 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM ACADEMICO 1' (código: FDCE_3021) tiene 11 estudiantes.
+En el periodo académico '202264', el curso 'PRACTICUM ACADEMICO 2' (código: FDCE_4027) tiene 52 estudiantes.
+En el periodo académico '202264', el curso 'PRESUPUESTOS' (código: FINZ_1018) tiene 4 estudiantes.
+En el periodo académico '202264', el curso 'PRINCIPIOS DE AUDITORIA' (código: CONT_3027) tiene 230 estudiantes.
+En el periodo académico '202264', el curso 'PRINCIPIOS DE MICROECONOMIA' (código: ECON_2032) tiene 39 estudiantes.
+En el periodo académico '202264', el curso 'PRINCIPIOS DEL TURISMO' (código: HOTE_1045) tiene 41 estudiantes.
+En el periodo académico '202264', el curso 'PROG FUNCIONAL Y REACTIVA' (código: DSOF_2035) tiene 56 estudiantes.
+En el periodo académico '202264', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_3108) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4105) tiene 167 estudiantes.
+En el periodo académico '202264', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4106) tiene 161 estudiantes.
+En el periodo académico '202264', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4118) tiene 14 estudiantes.
+En el periodo académico '202264', el curso 'PRORROGA 1' (código: UTPL_1000) tiene 34 estudiantes.
+En el periodo académico '202264', el curso 'PRORROGA 2' (código: UTPL_2000) tiene 13 estudiantes.
+En el periodo académico '202264', el curso 'PROSPECTIVA EMPRESARIAL Y A' (código: ADMI_4092) tiene 37 estudiantes.
+En el periodo académico '202264', el curso 'PROYEC DE FIN DE CARRER GP4.1' (código: COMP_5004) tiene 17 estudiantes.
+En el periodo académico '202264', el curso 'PROYECTO FIN CARRERA II GP 4.2' (código: CONT_5012) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'PROYECTOS' (código: ADMI_4035) tiene 50 estudiantes.
+En el periodo académico '202264', el curso 'PROYECTOS' (código: ADMI_4090) tiene 103 estudiantes.
+En el periodo académico '202264', el curso 'PROYECTOS II' (código: ECON_5034) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'PYTHON INTERMEDIO APLICADO A L' (código: COMP_1077) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'RECURSOS TANGIB E INTANGIB' (código: TURI_3015) tiene 9 estudiantes.
+En el periodo académico '202264', el curso 'REDES Y SISTEMAS DISTRIBUIDOS' (código: DRBD_4014) tiene 24 estudiantes.
+En el periodo académico '202264', el curso 'RELACIONES PUB Y PROTOCOLO' (código: HOTE_1040) tiene 86 estudiantes.
+En el periodo académico '202264', el curso 'RESEARCH METHODS IN ELT' (código: EDUC_3184) tiene 78 estudiantes.
+En el periodo académico '202264', el curso 'RESPONSABILIDAD SOCIAL EMPRE' (código: ADMI_4088) tiene 302 estudiantes.
+En el periodo académico '202264', el curso 'ROBOTICA INDUSTRIAL' (código: ELEC_1018) tiene 6 estudiantes.
+En el periodo académico '202264', el curso 'SECOND LANGUAGE ACQUISITION' (código: EDUC_4113) tiene 66 estudiantes.
+En el periodo académico '202264', el curso 'SEGURIDAD DE LA INFORMACION' (código: DSOF_5015) tiene 5 estudiantes.
+En el periodo académico '202264', el curso 'SEGURIDAD DE LA INFORMACION' (código: DSOF_5025) tiene 6 estudiantes.
+En el periodo académico '202264', el curso 'SEMANTICS AND PRAGMATICS' (código: EDUC_4108) tiene 49 estudiantes.
+En el periodo académico '202264', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ADMI_5047) tiene 123 estudiantes.
+En el periodo académico '202264', el curso 'SEMINARIO DE FIN DE CARRERA' (código: CONT_5004) tiene 101 estudiantes.
+En el periodo académico '202264', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ECON_5035) tiene 2 estudiantes.
+En el periodo académico '202264', el curso 'SEMINARIO DE FIN DE CARRERA' (código: FDCE_4031) tiene 46 estudiantes.
+En el periodo académico '202264', el curso 'SEMINARIO DE FIN DE CARRERA' (código: TURI_5007) tiene 21 estudiantes.
+En el periodo académico '202264', el curso 'SISTEMAS DE COSTOS' (código: CONT_2035) tiene 294 estudiantes.
+En el periodo académico '202264', el curso 'SISTEMAS INTELIGENTES' (código: COMP_5020) tiene 5 estudiantes.
+En el periodo académico '202264', el curso 'SISTEMAS OPERATIVOS' (código: COMP_3011) tiene 43 estudiantes.
+En el periodo académico '202264', el curso 'SISTEMAS TECNOLOGICOS APLICADO' (código: TURI_4013) tiene 19 estudiantes.
+En el periodo académico '202264', el curso 'SOCIOLOGIA DE LA EDUCACION' (código: EDUC_1109) tiene 198 estudiantes.
+En el periodo académico '202264', el curso 'SOSTENIBILIDAD EMPRESARIAL' (código: ADMI_3024) tiene 375 estudiantes.
+En el periodo académico '202264', el curso 'TEACHING CULTURE IN THE EFL CL' (código: EDUC_4110) tiene 65 estudiantes.
+En el periodo académico '202264', el curso 'TEACHING TECHNIQUES' (código: FDCE_4038) tiene 12 estudiantes.
+En el periodo académico '202264', el curso 'TECHNOLOGY IN THE EFL CLASSROO' (código: IDIO_2023) tiene 145 estudiantes.
+En el periodo académico '202264', el curso 'TECNICAS DE INFERENCIA ESTADIS' (código: ESTA_2022) tiene 565 estudiantes.
+En el periodo académico '202264', el curso 'TECNOLOGIAS EMERGENTES' (código: COMP_5023) tiene 11 estudiantes.
+En el periodo académico '202264', el curso 'TECNOLOGIAS WEB' (código: DSOF_2043) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'TEFL METHODOLOGY AND DIDACTICS' (código: EDUC_2089) tiene 143 estudiantes.
+En el periodo académico '202264', el curso 'TEORIA MACROECONOMICA' (código: ECON_2031) tiene 542 estudiantes.
+En el periodo académico '202264', el curso 'TEORIA MICROECONOMICA' (código: ECON_2030) tiene 528 estudiantes.
+En el periodo académico '202264', el curso 'TEORIAS DE ACUMULACION Y CREC' (código: ECON_5039) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: ADMI_5060) tiene 41 estudiantes.
+En el periodo académico '202264', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: CONT_5000) tiene 70 estudiantes.
+En el periodo académico '202264', el curso 'TRABAJO DE TITULACION' (código: FDCE_4043) tiene 44 estudiantes.
+En el periodo académico '202264', el curso 'TRABAJO DE TITULACION' (código: FDCE_4044) tiene 3 estudiantes.
+En el periodo académico '202264', el curso 'TRABAJO DE TITULACION CON CURS' (código: UTPL_700) tiene 3 estudiantes.
+En el periodo académico '202264', el curso 'TRABAJO DE TITULACION SIN CURS' (código: UTPL_800) tiene 53 estudiantes.
+En el periodo académico '202264', el curso 'TRANSPORTACION TURISTICA' (código: TURI_2017) tiene 44 estudiantes.
+En el periodo académico '202264', el curso 'TRATAMIENTO Y EDICION DE IMAGE' (código: TIER_1070) tiene 1 estudiantes.
+En el periodo académico '202264', el curso 'TURISMO Y HOTELERIA' (código: HOTE_1030) tiene 56 estudiantes.
+En el periodo académico '202264', el curso 'URBANIZACION Y CAMBIO CLIMATIC' (código: ARQU_1092) tiene 6 estudiantes.
+En el periodo académico '202264', el curso 'VALIDACION DE PRODUCTO' (código: ADMI_1030) tiene 5 estudiantes.
+En el periodo académico '202264', el curso 'VALORACION DE EMPRESAS' (código: FINZ_5000) tiene 119 estudiantes.
+En el periodo académico '202362', el curso 'ACADEMIC READING AND WRITIN II' (código: EDUC_3183) tiene 120 estudiantes.
+En el periodo académico '202362', el curso 'ACADEMIC READING AND WRITING I' (código: EDUC_3178) tiene 119 estudiantes.
+En el periodo académico '202362', el curso 'ADAPTACIONES CURRICULARES Y DI' (código: EDUC_3185) tiene 103 estudiantes.
+En el periodo académico '202362', el curso 'ADMIN DE CAD DE SUM Y LOG EMPR' (código: ADMI_2030) tiene 304 estudiantes.
+En el periodo académico '202362', el curso 'ADMINISTRACION' (código: ADMI_1026) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'ADMINISTRACION' (código: ADMI_1109) tiene 428 estudiantes.
+En el periodo académico '202362', el curso 'ADMINISTRACION DE OPERAC Y PR' (código: PIND_2010) tiene 288 estudiantes.
+En el periodo académico '202362', el curso 'ADMINISTRACION DE TECN Y SISTE' (código: ADMI_4095) tiene 219 estudiantes.
+En el periodo académico '202362', el curso 'ADMINISTRACION DE TECNOLOGIAS' (código: SIST_5001) tiene 57 estudiantes.
+En el periodo académico '202362', el curso 'ADMINISTRACION DEL TALENTO HUM' (código: LABO_3002) tiene 354 estudiantes.
+En el periodo académico '202362', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5005) tiene 75 estudiantes.
+En el periodo académico '202362', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5066) tiene 207 estudiantes.
+En el periodo académico '202362', el curso 'ADMINISTRACION FINANCIERA' (código: FINZ_4057) tiene 173 estudiantes.
+En el periodo académico '202362', el curso 'ADMINISTRACION FINANCIERA OPER' (código: ECON_4112) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'ADMINISTRACION I' (código: ADMI_1009) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'ALGEBRA LINEAL' (código: MATE_1108) tiene 735 estudiantes.
+En el periodo académico '202362', el curso 'ANA Y VISUAL GRA VOL DE DATOS' (código: DRBD_4016) tiene 3 estudiantes.
+En el periodo académico '202362', el curso 'ANALISIS DE ALGORITMOS' (código: DSOF_2036) tiene 52 estudiantes.
+En el periodo académico '202362', el curso 'ANALISIS DE MERCADOS TURISTICO' (código: TURI_4022) tiene 16 estudiantes.
+En el periodo académico '202362', el curso 'ANALISIS EXPLORATORIO DE DATOS' (código: TIER_1075) tiene 5 estudiantes.
+En el periodo académico '202362', el curso 'ANALISIS MATEMATICO UNIVARIADO' (código: MATE_1101) tiene 117 estudiantes.
+En el periodo académico '202362', el curso 'ANTROPOLOGIA' (código: RELI_3002) tiene 7 estudiantes.
+En el periodo académico '202362', el curso 'ANTROPOLOGIA BASICA' (código: RELI_2062) tiene 816 estudiantes.
+En el periodo académico '202362', el curso 'ANTROPOLOGIA CULTURAL Y TURIS' (código: TURI_1020) tiene 27 estudiantes.
+En el periodo académico '202362', el curso 'APLIC AUDIT FORENS CICLOS TRAN' (código: CONT_3031) tiene 76 estudiantes.
+En el periodo académico '202362', el curso 'APLICACIONES DE COSTOS' (código: CONT_3030) tiene 203 estudiantes.
+En el periodo académico '202362', el curso 'AREAS PROTEGIDAS' (código: TURI_2014) tiene 30 estudiantes.
+En el periodo académico '202362', el curso 'ARQ Y ORGANIZACION DE COMP' (código: COMP_2010) tiene 52 estudiantes.
+En el periodo académico '202362', el curso 'ARQUITECTURA DE COMPUTADORAS' (código: DSOF_2039) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'ARTE ESCENICO Y EXPRESION ORAL' (código: PERI_1110) tiene 3 estudiantes.
+En el periodo académico '202362', el curso 'AUDIT INT Y ADMIN RIESGOS ERM' (código: CONT_4030) tiene 39 estudiantes.
+En el periodo académico '202362', el curso 'AUDITORIA DE GESTION' (código: CONT_4028) tiene 130 estudiantes.
+En el periodo académico '202362', el curso 'AUDITORIA FINANCIERA' (código: FINZ_4056) tiene 207 estudiantes.
+En el periodo académico '202362', el curso 'AUDITORIA III' (código: CONT_5002) tiene 40 estudiantes.
+En el periodo académico '202362', el curso 'AUDITORIA INFORMATICA' (código: SIST_1012) tiene 4 estudiantes.
+En el periodo académico '202362', el curso 'AUDITORIA INFORMATICA' (código: SIST_5006) tiene 55 estudiantes.
+En el periodo académico '202362', el curso 'BASE DE DATOS AVANZADA' (código: DRBD_2005) tiene 53 estudiantes.
+En el periodo académico '202362', el curso 'BIOECONOMIA CIRCULAR' (código: RENR_1004) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'CIUDAD Y TURISMO' (código: TURI_3014) tiene 19 estudiantes.
+En el periodo académico '202362', el curso 'COMERCIO EXTERIOR' (código: COME_1005) tiene 34 estudiantes.
+En el periodo académico '202362', el curso 'COMERCIO EXTERIOR' (código: COME_3002) tiene 211 estudiantes.
+En el periodo académico '202362', el curso 'COMP PARALELA Y DISTRIBUIDA' (código: COMP_4013) tiene 21 estudiantes.
+En el periodo académico '202362', el curso 'COMPETITIVIDAD DESTINOS TURIST' (código: TURI_4015) tiene 5 estudiantes.
+En el periodo académico '202362', el curso 'COMPORTAMIENTO ORGANIZACIONAL' (código: ADMI_4082) tiene 282 estudiantes.
+En el periodo académico '202362', el curso 'COMPOSICION DE TEXTOS CIENTIFI' (código: LITE_1108) tiene 29 estudiantes.
+En el periodo académico '202362', el curso 'COMPUTACION APLICADA' (código: CONT_4010) tiene 12 estudiantes.
+En el periodo académico '202362', el curso 'CONSTRUCCION DE INDICADORES' (código: ECON_4116) tiene 9 estudiantes.
+En el periodo académico '202362', el curso 'CONTABILIDAD AGRARIA' (código: CONT_4033) tiene 235 estudiantes.
+En el periodo académico '202362', el curso 'CONTABILIDAD CORPORATIVA' (código: CONT_2027) tiene 114 estudiantes.
+En el periodo académico '202362', el curso 'CONTABILIDAD DE COSTOS' (código: CONT_3026) tiene 189 estudiantes.
+En el periodo académico '202362', el curso 'CONTABILIDAD DE COSTOS OPERATI' (código: CONT_2032) tiene 20 estudiantes.
+En el periodo académico '202362', el curso 'CONTABILIDAD DE INSTITUC FINAN' (código: CONT_3025) tiene 137 estudiantes.
+En el periodo académico '202362', el curso 'CONTABILIDAD FINANCIERA' (código: CONT_1085) tiene 222 estudiantes.
+En el periodo académico '202362', el curso 'CONTABILIDAD FINANCIERA AVANZA' (código: CONT_2025) tiene 289 estudiantes.
+En el periodo académico '202362', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5006) tiene 57 estudiantes.
+En el periodo académico '202362', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5023) tiene 90 estudiantes.
+En el periodo académico '202362', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_2028) tiene 207 estudiantes.
+En el periodo académico '202362', el curso 'CONTRASTIVE GRAMMAR' (código: EDUC_4116) tiene 47 estudiantes.
+En el periodo académico '202362', el curso 'CONTRATACION PUBLICA' (código: DERE_3050) tiene 240 estudiantes.
+En el periodo académico '202362', el curso 'COSMOVISION ANDINA' (código: TURI_4014) tiene 5 estudiantes.
+En el periodo académico '202362', el curso 'COSTOS RELEV PARA TOMA DECISIO' (código: CONT_4029) tiene 25 estudiantes.
+En el periodo académico '202362', el curso 'CULTURE AND LITERATURE IN ENGL' (código: LITE_4003) tiene 23 estudiantes.
+En el periodo académico '202362', el curso 'CUR DSING FR ACADM AND SPCIF P' (código: EDUC_4111) tiene 16 estudiantes.
+En el periodo académico '202362', el curso 'CURRICLM FUNDTS PRNCPLS AND IS' (código: EDUC_4112) tiene 46 estudiantes.
+En el periodo académico '202362', el curso 'CURSO DE ACTUALIZACION' (código: UTPL_3000) tiene 24 estudiantes.
+En el periodo académico '202362', el curso 'DERECHO LABORAL' (código: DERE_1181) tiene 202 estudiantes.
+En el periodo académico '202362', el curso 'DERECHO LABORAL' (código: DERE_3045) tiene 18 estudiantes.
+En el periodo académico '202362', el curso 'DERECHO TRIBUTARIO' (código: DERE_1182) tiene 235 estudiantes.
+En el periodo académico '202362', el curso 'DERECHO TRIBUTARIO' (código: DERE_4054) tiene 234 estudiantes.
+En el periodo académico '202362', el curso 'DESARROLLO BASADO EN PLATAF MO' (código: DSOF_4075) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'DESARROLLO ECONOMICO' (código: ECON_4002) tiene 45 estudiantes.
+En el periodo académico '202362', el curso 'DESARROLLO EMPRES NUEVOS NEGOC' (código: ADMI_3025) tiene 116 estudiantes.
+En el periodo académico '202362', el curso 'DESARROLLO ESPIRITUAL III' (código: RELI_3005) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'DESARROLLO REGIONAL' (código: ECON_3047) tiene 34 estudiantes.
+En el periodo académico '202362', el curso 'DESARROLLO TRAB PRACTICUM 4' (código: TURI_5000) tiene 18 estudiantes.
+En el periodo académico '202362', el curso 'DIRECCION ESTRATEGICA' (código: ADMI_5071) tiene 206 estudiantes.
+En el periodo académico '202362', el curso 'DIRECCION HOTELERA' (código: HOTE_5003) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'DISCOURSE ANALYSIS' (código: EDUC_4117) tiene 40 estudiantes.
+En el periodo académico '202362', el curso 'DISEÑO DE PRODUCTOS TURISTICOS' (código: TURI_3016) tiene 35 estudiantes.
+En el periodo académico '202362', el curso 'DISEÑO DE SISTEMAS DE COSTOS' (código: CONT_3029) tiene 79 estudiantes.
+En el periodo académico '202362', el curso 'DISEÑO PARAM Y FABRIC DIGITAL' (código: ARQU_1021) tiene 4 estudiantes.
+En el periodo académico '202362', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: RELI_1001) tiene 108 estudiantes.
+En el periodo académico '202362', el curso 'E-COMMERCE' (código: ADMI_4083) tiene 77 estudiantes.
+En el periodo académico '202362', el curso 'ECONOMETRIA AVANZADA' (código: ECON_3043) tiene 36 estudiantes.
+En el periodo académico '202362', el curso 'ECONOMETRIA BASICA' (código: ECON_3039) tiene 30 estudiantes.
+En el periodo académico '202362', el curso 'ECONOMIA AMBIEN DES ECON SUST' (código: ECON_5008) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'ECONOMIA AMBIENTAL Y DE REC NA' (código: ECON_4108) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'ECONOMIA DE LA EMPRESA Y MERCA' (código: ECON_2035) tiene 44 estudiantes.
+En el periodo académico '202362', el curso 'ECONOMIA INTERNACIONAL' (código: ECON_5013) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'ECONOMIA INTERNACIONAL' (código: ECON_5077) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'ECONOMIA POLITICA' (código: ECON_5014) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'ECONOMIA POLITICA' (código: ECON_5076) tiene 11 estudiantes.
+En el periodo académico '202362', el curso 'ECONOMIA POPULAR Y SOLIDARIA' (código: ADMI_1127) tiene 21 estudiantes.
+En el periodo académico '202362', el curso 'EMPREN CON BASE TECNOLOGICA I' (código: ADMI_5078) tiene 22 estudiantes.
+En el periodo académico '202362', el curso 'EMPRENDIMIENTO' (código: ADMI_4038) tiene 603 estudiantes.
+En el periodo académico '202362', el curso 'ENGLISH LAN: LIST AND SPEAK IV' (código: EDUC_2118) tiene 122 estudiantes.
+En el periodo académico '202362', el curso 'ENGLISH LAN: LISTE AND SPE III' (código: EDUC_3112) tiene 118 estudiantes.
+En el periodo académico '202362', el curso 'ENGLISH LAN: READ AND WRIT III' (código: EDUC_3111) tiene 116 estudiantes.
+En el periodo académico '202362', el curso 'ENGLISH LAN: READ AND WRIT IV' (código: EDUC_2119) tiene 127 estudiantes.
+En el periodo académico '202362', el curso 'ENGLISH LANG: LIST AND SPEA II' (código: FDCE_1075) tiene 195 estudiantes.
+En el periodo académico '202362', el curso 'ENGLISH LANG: LIST AND SPEAK I' (código: FDCE_1074) tiene 228 estudiantes.
+En el periodo académico '202362', el curso 'ENGLISH LANG: READ AND WRIT II' (código: FDCE_1076) tiene 184 estudiantes.
+En el periodo académico '202362', el curso 'ENGLISH LANG: READI AND WRIT I' (código: IDIO_1104) tiene 225 estudiantes.
+En el periodo académico '202362', el curso 'ENGLISH PRON: PHONETI AND PHON' (código: EDUC_3179) tiene 106 estudiantes.
+En el periodo académico '202362', el curso 'ENGLISH SYNTAX' (código: EDUC_4109) tiene 75 estudiantes.
+En el periodo académico '202362', el curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' (código: CONT_1084) tiene 416 estudiantes.
+En el periodo académico '202362', el curso 'ESTADISTICA' (código: ESTA_1044) tiene 21 estudiantes.
+En el periodo académico '202362', el curso 'ESTADISTICA APLICADA A EDUCA' (código: ESTA_4004) tiene 15 estudiantes.
+En el periodo académico '202362', el curso 'ESTADISTICA BASICA' (código: ESTA_2031) tiene 150 estudiantes.
+En el periodo académico '202362', el curso 'ESTADISTICA BASICA' (código: ESTA_3023) tiene 608 estudiantes.
+En el periodo académico '202362', el curso 'ESTRUCTURAS DE DATOS' (código: DSOF_2029) tiene 77 estudiantes.
+En el periodo académico '202362', el curso 'ETICA' (código: RELI_3000) tiene 41 estudiantes.
+En el periodo académico '202362', el curso 'ETICA DE LA INTELIGENCIA ARTIF' (código: RELI_1109) tiene 65 estudiantes.
+En el periodo académico '202362', el curso 'ETICA Y MORAL' (código: FILO_1114) tiene 585 estudiantes.
+En el periodo académico '202362', el curso 'EVALUACION DE PROYECTOS' (código: ADMI_4089) tiene 10 estudiantes.
+En el periodo académico '202362', el curso 'EXAMEN COMPLEXIVO CON CURSO' (código: UTPL_500) tiene 14 estudiantes.
+En el periodo académico '202362', el curso 'EXAMEN COMPLEXIVO SIN CURSO' (código: UTPL_600) tiene 34 estudiantes.
+En el periodo académico '202362', el curso 'FAMILIA Y EDUCACION: RETOS Y D' (código: EDUC_1143) tiene 7 estudiantes.
+En el periodo académico '202362', el curso 'FIJACION PREC Y ADMIN DE COSTO' (código: CONT_4026) tiene 62 estudiantes.
+En el periodo académico '202362', el curso 'FILOSOFIA E HISTORIA DE LA EDU' (código: FILO_1117) tiene 240 estudiantes.
+En el periodo académico '202362', el curso 'FINANZAS ESTRUCTURALES' (código: FINZ_3024) tiene 273 estudiantes.
+En el periodo académico '202362', el curso 'FINANZAS I' (código: FINZ_1026) tiene 12 estudiantes.
+En el periodo académico '202362', el curso 'FINANZAS II' (código: FINZ_1065) tiene 39 estudiantes.
+En el periodo académico '202362', el curso 'FINANZAS OPERATIVAS' (código: FINZ_3023) tiene 334 estudiantes.
+En el periodo académico '202362', el curso 'FINANZAS Y PRESUPUESTOS' (código: TURI_3011) tiene 38 estudiantes.
+En el periodo académico '202362', el curso 'FISICA BASICA' (código: FISI_1039) tiene 86 estudiantes.
+En el periodo académico '202362', el curso 'FORM EVALUAC DE PROYECTOS' (código: ADMI_4126) tiene 91 estudiantes.
+En el periodo académico '202362', el curso 'FORMULACION DE PROYECTOS' (código: ECON_3045) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'FORMULACION Y EVALUACION DE PR' (código: ADMI_4121) tiene 17 estudiantes.
+En el periodo académico '202362', el curso 'FRANCES I' (código: IDIO_3013) tiene 30 estudiantes.
+En el periodo académico '202362', el curso 'FRANCES II' (código: IDIO_3014) tiene 27 estudiantes.
+En el periodo académico '202362', el curso 'FRANCES III' (código: IDIO_4016) tiene 25 estudiantes.
+En el periodo académico '202362', el curso 'FRANCES IV' (código: IDIO_5001) tiene 17 estudiantes.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE ADMINIST FINAN' (código: ADMI_1115) tiene 218 estudiantes.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE ADMINISTRACION' (código: ADMI_1113) tiene 36 estudiantes.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE ANALISIS DE DAT' (código: DRBD_3014) tiene 23 estudiantes.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE CONTABILIDAD' (código: CONT_1083) tiene 786 estudiantes.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE ECONOMIA' (código: ECON_1088) tiene 326 estudiantes.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE HARDWARE' (código: DSOF_1071) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE REDES' (código: DRBD_4012) tiene 33 estudiantes.
+En el periodo académico '202362', el curso 'FUNDAMENTOS INFORMATICOS' (código: COMP_1034) tiene 51 estudiantes.
+En el periodo académico '202362', el curso 'FUNDAMENTOS MATEMATICOS' (código: MATE_1103) tiene 465 estudiantes.
+En el periodo académico '202362', el curso 'GEOGRAFIA TURISTICA' (código: HOTE_1047) tiene 42 estudiantes.
+En el periodo académico '202362', el curso 'GEOLOGIA DEL SUBSUELO' (código: TIER_1074) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'GERENCIA DE OPERACIONES MINERA' (código: MINE_1005) tiene 3 estudiantes.
+En el periodo académico '202362', el curso 'GEST DE LA CALIDAD DE SOFTWARE' (código: DSOF_3035) tiene 33 estudiantes.
+En el periodo académico '202362', el curso 'GEST DE TECN DE LA INFO' (código: SIST_4000) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'GESTION DE CADENA DE VALOR Y C' (código: TURI_5011) tiene 13 estudiantes.
+En el periodo académico '202362', el curso 'GESTION DE LA CALIDAD' (código: ADMI_4015) tiene 22 estudiantes.
+En el periodo académico '202362', el curso 'GESTION DE LA CALIDAD' (código: ADMI_5067) tiene 297 estudiantes.
+En el periodo académico '202362', el curso 'GESTION DE NUEVOS NEGOCIOS' (código: ADMI_4079) tiene 70 estudiantes.
+En el periodo académico '202362', el curso 'GESTION DEL CONOCIMIENTO' (código: ADMI_3030) tiene 377 estudiantes.
+En el periodo académico '202362', el curso 'GESTION DEL PATRIMONIO CULTU' (código: TURI_2011) tiene 22 estudiantes.
+En el periodo académico '202362', el curso 'GESTION DEL TALENTO HUMANO' (código: ADMI_4094) tiene 15 estudiantes.
+En el periodo académico '202362', el curso 'GESTION E INNOVACION DE DESTIN' (código: TURI_4017) tiene 8 estudiantes.
+En el periodo académico '202362', el curso 'GESTION INNOVACION EMPRESARIAL' (código: ADMI_1111) tiene 24 estudiantes.
+En el periodo académico '202362', el curso 'GESTION PUBLICA DEL TURISMO' (código: TURI_4018) tiene 14 estudiantes.
+En el periodo académico '202362', el curso 'GUIANZA' (código: TURI_2016) tiene 19 estudiantes.
+En el periodo académico '202362', el curso 'HABILIDADES GERENCIALES' (código: ADMI_5064) tiene 544 estudiantes.
+En el periodo académico '202362', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1055) tiene 22 estudiantes.
+En el periodo académico '202362', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1089) tiene 41 estudiantes.
+En el periodo académico '202362', el curso 'HISTORIA ECONOMICA DEL ECUADOR' (código: ECON_1087) tiene 4 estudiantes.
+En el periodo académico '202362', el curso 'HUMANISMO, UNIVERSIDAD Y CULTU' (código: RELI_1105) tiene 1062 estudiantes.
+En el periodo académico '202362', el curso 'IMAGEN PERSONAL Y CORPORATIVA' (código: PERI_3015) tiene 14 estudiantes.
+En el periodo académico '202362', el curso 'INCLUSION Y APRENDIZAJE SOSTEN' (código: EDUC_1102) tiene 81 estudiantes.
+En el periodo académico '202362', el curso 'INCLUSIVE AND SUSTAINABLE EDUC' (código: EDUC_4115) tiene 50 estudiantes.
+En el periodo académico '202362', el curso 'INGENIERIA DE REQUISITOS' (código: DSOF_3039) tiene 38 estudiantes.
+En el periodo académico '202362', el curso 'INTE ARTIFICIAL AVANZADO' (código: DSOF_5003) tiene 13 estudiantes.
+En el periodo académico '202362', el curso 'INTELIG ESTRAT Y METOD INTERNA' (código: ADMI_4081) tiene 113 estudiantes.
+En el periodo académico '202362', el curso 'INTELIGENCIA DE NEGOCIOS' (código: DRBD_1009) tiene 9 estudiantes.
+En el periodo académico '202362', el curso 'INTELIGENCIA EMOCIONAL' (código: EDUC_1146) tiene 78 estudiantes.
+En el periodo académico '202362', el curso 'INTRO AUDITORIA FORENSE EMPRES' (código: CONT_3028) tiene 142 estudiantes.
+En el periodo académico '202362', el curso 'INTRODUC TO EDUCATIO RESEARCH' (código: EDUC_3180) tiene 127 estudiantes.
+En el periodo académico '202362', el curso 'INTRODUCCION A LA AUDITORIA' (código: CONT_1007) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'INTRODUCCION A LA ECONOMIA' (código: ECON_1090) tiene 379 estudiantes.
+En el periodo académico '202362', el curso 'INTRODUCTION TO LINGUISTICS' (código: EDUC_3189) tiene 114 estudiantes.
+En el periodo académico '202362', el curso 'INVESTIGACION DE MERCADOS' (código: ADMI_3026) tiene 327 estudiantes.
+En el periodo académico '202362', el curso 'INVESTIGACION OPERATIVA TOMA D' (código: DIPP_3001) tiene 139 estudiantes.
+En el periodo académico '202362', el curso 'JORN DE INVES LA CREDIBILIDAD' (código: EDUC_2022) tiene 5 estudiantes.
+En el periodo académico '202362', el curso 'JORNADA DE INVEST Y FORMA ESP' (código: EDUC_4160) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'LANGUAGE TESTING' (código: EDUC_3177) tiene 150 estudiantes.
+En el periodo académico '202362', el curso 'LANGUAGE TESTING' (código: FDCE_4011) tiene 13 estudiantes.
+En el periodo académico '202362', el curso 'LECTURA Y REDACCION DE TEXTOS' (código: LITE_1106) tiene 223 estudiantes.
+En el periodo académico '202362', el curso 'LEGISLACION EMPRESARIAL' (código: ADMI_1110) tiene 250 estudiantes.
+En el periodo académico '202362', el curso 'LEGISLACION MERCANTIL Y SOCIET' (código: DERE_2072) tiene 317 estudiantes.
+En el periodo académico '202362', el curso 'LEGISLACION TURISTICA Y AMBIEN' (código: TURI_2013) tiene 32 estudiantes.
+En el periodo académico '202362', el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1147) tiene 61 estudiantes.
+En el periodo académico '202362', el curso 'LOGISTICA EMPRESARIAL' (código: ADMI_4027) tiene 4 estudiantes.
+En el periodo académico '202362', el curso 'MACROECONOMIA ABIERTA' (código: ECON_3041) tiene 34 estudiantes.
+En el periodo académico '202362', el curso 'MACROECONOMIA CERRADA' (código: ECON_2034) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'MANAGEMENT 3.0' (código: ADMI_1117) tiene 61 estudiantes.
+En el periodo académico '202362', el curso 'MARKETING' (código: MERC_1005) tiene 12 estudiantes.
+En el periodo académico '202362', el curso 'MARKETING' (código: MERC_4007) tiene 327 estudiantes.
+En el periodo académico '202362', el curso 'MARKETING TURISTICO' (código: MERC_4004) tiene 34 estudiantes.
+En el periodo académico '202362', el curso 'MATEMATICA BASICA' (código: MATE_1106) tiene 341 estudiantes.
+En el periodo académico '202362', el curso 'MATEMATICA FINANCIERA' (código: MATE_1109) tiene 495 estudiantes.
+En el periodo académico '202362', el curso 'MATRIMONIO Y FAMILIA' (código: RELI_1033) tiene 93 estudiantes.
+En el periodo académico '202362', el curso 'MERCADO DE VALORES' (código: COME_5000) tiene 85 estudiantes.
+En el periodo académico '202362', el curso 'METH TO ADOLESCENTS AND ADULTS' (código: EDUC_3188) tiene 37 estudiantes.
+En el periodo académico '202362', el curso 'METHO FOR ACADEMIC PURPOSES' (código: EDUC_3187) tiene 39 estudiantes.
+En el periodo académico '202362', el curso 'METHODO FOR TEAC ENGL TO CHILD' (código: EDUC_3191) tiene 94 estudiantes.
+En el periodo académico '202362', el curso 'METHODOLOGY AND DIDACTICS III:' (código: FDCE_4014) tiene 10 estudiantes.
+En el periodo académico '202362', el curso 'METHODOLOGY FOR TEACHING ENGLI' (código: EDUC_3182) tiene 28 estudiantes.
+En el periodo académico '202362', el curso 'METODOS DE VALOR DE EMPRESAS' (código: ADMI_5065) tiene 142 estudiantes.
+En el periodo académico '202362', el curso 'MICROECONOMIA APLICADA' (código: ECON_3042) tiene 5 estudiantes.
+En el periodo académico '202362', el curso 'MODELOS ECONOMETRICOS' (código: ECON_3040) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'MODELOS OPTIMIZA PARA USO DE R' (código: ECON_4110) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'NEGOCIOS INTERNACIONALES' (código: COME_3003) tiene 95 estudiantes.
+En el periodo académico '202362', el curso 'NEURO MARKT Y TEORIAS DE INFOR' (código: TURI_4021) tiene 6 estudiantes.
+En el periodo académico '202362', el curso 'NEUROCIENCIA Y PSICOL DEL DESA' (código: PSIC_1104) tiene 123 estudiantes.
+En el periodo académico '202362', el curso 'NUEVAS ALTERNATIVAS DE TURISMO' (código: TURI_2018) tiene 26 estudiantes.
+En el periodo académico '202362', el curso 'ORDENAMIENTO TURISTICO TERRITO' (código: TURI_5013) tiene 7 estudiantes.
+En el periodo académico '202362', el curso 'ORGANIZACION DE EVENTOS Y PROT' (código: TURI_2015) tiene 15 estudiantes.
+En el periodo académico '202362', el curso 'ORGANIZACION INDUSTRIAL' (código: PIND_5008) tiene 36 estudiantes.
+En el periodo académico '202362', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: ADMI_5046) tiene 102 estudiantes.
+En el periodo académico '202362', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: CONT_5010) tiene 70 estudiantes.
+En el periodo académico '202362', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: TURI_5006) tiene 14 estudiantes.
+En el periodo académico '202362', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: ADMI_4046) tiene 70 estudiantes.
+En el periodo académico '202362', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: CONT_4000) tiene 44 estudiantes.
+En el periodo académico '202362', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: TURI_4012) tiene 11 estudiantes.
+En el periodo académico '202362', el curso 'PASANTIA PRE-PRO1' (código: FDCE_3015) tiene 10 estudiantes.
+En el periodo académico '202362', el curso 'PASANTIA PRE-PRO2' (código: FDCE_4023) tiene 18 estudiantes.
+En el periodo académico '202362', el curso 'PASANTIAS PRE-PROF PRACTICUM 1' (código: CONT_3002) tiene 6 estudiantes.
+En el periodo académico '202362', el curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: ADMI_4045) tiene 31 estudiantes.
+En el periodo académico '202362', el curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: CONT_4008) tiene 27 estudiantes.
+En el periodo académico '202362', el curso 'PATRIMONIO NATURAL Y BIODIVERS' (código: TURI_3013) tiene 30 estudiantes.
+En el periodo académico '202362', el curso 'PEDAGOGIA' (código: EDUC_3113) tiene 131 estudiantes.
+En el periodo académico '202362', el curso 'PERIODO ADICIONAL 1' (código: UTPL_4000) tiene 6 estudiantes.
+En el periodo académico '202362', el curso 'PERIODO ADICIONAL 2' (código: UTPL_5000) tiene 8 estudiantes.
+En el periodo académico '202362', el curso 'PLAN ESTRATEGIC TRANSF DIGITAL' (código: DSOF_1074) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'PLANIFICACION DE DESTINOS TURI' (código: TURI_4016) tiene 17 estudiantes.
+En el periodo académico '202362', el curso 'PLANIFICACION Y GEST DESA SOST' (código: ECON_4114) tiene 4 estudiantes.
+En el periodo académico '202362', el curso 'PLANIFICACION Y ORDENAM TERRIT' (código: ECON_4113) tiene 7 estudiantes.
+En el periodo académico '202362', el curso 'PLATAFORMAS PARA JUEGOS' (código: DSOF_4071) tiene 16 estudiantes.
+En el periodo académico '202362', el curso 'PLATAFORMAS WEB' (código: DSOF_3038) tiene 9 estudiantes.
+En el periodo académico '202362', el curso 'POLITICA AMBIENTAL' (código: ECON_3046) tiene 7 estudiantes.
+En el periodo académico '202362', el curso 'POLITICA ECONOMICA' (código: ECON_3044) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'POLITICA ECONOMICA II' (código: ECON_4009) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'POLITICA PUBLICA Y MARCO LEGA' (código: FDCE_2030) tiene 242 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICA TRIBUTARIA' (código: CONT_2026) tiene 204 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICAS EN CITTES GP 3.2' (código: DSOF_4007) tiene 7 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 1' (código: ADMI_2029) tiene 401 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 1' (código: CONT_2029) tiene 220 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 1' (código: ECON_2037) tiene 27 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 1' (código: EDUC_2120) tiene 139 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 1' (código: TURI_2010) tiene 25 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 1.2' (código: COMP_2012) tiene 51 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 2' (código: ADMI_3027) tiene 304 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 2' (código: CONT_3037) tiene 163 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 2' (código: EDUC_3181) tiene 104 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 2' (código: TURI_3017) tiene 35 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 2.2' (código: COMP_3014) tiene 34 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 3' (código: ADMI_4080) tiene 280 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 3' (código: EDUC_3186) tiene 90 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 3 SERVICIO COMUN' (código: ECON_3054) tiene 37 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 3 SERVICIO COMUNITA' (código: CONT_3038) tiene 181 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: TURI_3012) tiene 11 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1' (código: COMP_4015) tiene 22 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1' (código: EDUC_4107) tiene 55 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1' (código: TURI_4020) tiene 16 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: ADMI_4087) tiene 134 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: CONT_4032) tiene 115 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1:TRABAJO DE INT E' (código: ECON_4115) tiene 3 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 4.2' (código: EDUC_4114) tiene 15 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 4.2' (código: TURI_5010) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: ADMI_5068) tiene 29 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: CONT_4034) tiene 59 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM 4.2:TRABAJO DE INTEG' (código: ECON_5074) tiene 11 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM ACADE 3 ASESORIA TT' (código: FDCE_4028) tiene 31 estudiantes.
+En el periodo académico '202362', el curso 'PRACTICUM ACADEMICO 2' (código: FDCE_4027) tiene 42 estudiantes.
+En el periodo académico '202362', el curso 'PRINCIPIOS DE AUDITORIA' (código: CONT_3027) tiene 215 estudiantes.
+En el periodo académico '202362', el curso 'PRINCIPIOS DE MACROECONOMIA' (código: ECON_2033) tiene 38 estudiantes.
+En el periodo académico '202362', el curso 'PRINCIPIOS DEL TURISMO' (código: HOTE_1045) tiene 38 estudiantes.
+En el periodo académico '202362', el curso 'PROC DE INGENIERIA DE SOFTWARE' (código: DSOF_5001) tiene 13 estudiantes.
+En el periodo académico '202362', el curso 'PROG ORIENTADA A OBJETOS' (código: DSOF_2034) tiene 72 estudiantes.
+En el periodo académico '202362', el curso 'PROGRAMACION AVANZADA' (código: COMP_4011) tiene 51 estudiantes.
+En el periodo académico '202362', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_3108) tiene 33 estudiantes.
+En el periodo académico '202362', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4105) tiene 234 estudiantes.
+En el periodo académico '202362', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4106) tiene 283 estudiantes.
+En el periodo académico '202362', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4118) tiene 11 estudiantes.
+En el periodo académico '202362', el curso 'PRORROGA 1' (código: UTPL_1000) tiene 94 estudiantes.
+En el periodo académico '202362', el curso 'PRORROGA 2' (código: UTPL_2000) tiene 27 estudiantes.
+En el periodo académico '202362', el curso 'PROSPECTIVA EMPRESARIAL Y A' (código: ADMI_4092) tiene 141 estudiantes.
+En el periodo académico '202362', el curso 'PROTOTIPADO' (código: DSOF_3036) tiene 50 estudiantes.
+En el periodo académico '202362', el curso 'PROYEC DE FIN DE CARRER GP4.2' (código: COMP_5009) tiene 16 estudiantes.
+En el periodo académico '202362', el curso 'PROYECTOS' (código: ADMI_4035) tiene 12 estudiantes.
+En el periodo académico '202362', el curso 'PROYECTOS' (código: ADMI_4090) tiene 183 estudiantes.
+En el periodo académico '202362', el curso 'RADIO Y NUEVAS TECNOLOGIAS' (código: PERI_1120) tiene 74 estudiantes.
+En el periodo académico '202362', el curso 'RECURSOS TANGIB E INTANGIB' (código: TURI_3015) tiene 6 estudiantes.
+En el periodo académico '202362', el curso 'RELACIONES PUB Y PROTOCOLO' (código: HOTE_1040) tiene 83 estudiantes.
+En el periodo académico '202362', el curso 'REPRESENT AVAN CONOCI Y RAZON' (código: COMP_4014) tiene 18 estudiantes.
+En el periodo académico '202362', el curso 'RESEARCH METHODS IN ELT' (código: EDUC_3184) tiene 114 estudiantes.
+En el periodo académico '202362', el curso 'RESPONSABILIDAD SOCIAL EMPRE' (código: ADMI_4088) tiene 272 estudiantes.
+En el periodo académico '202362', el curso 'SECOND LANGUAGE ACQUISITION' (código: EDUC_4113) tiene 73 estudiantes.
+En el periodo académico '202362', el curso 'SEMANTICS AND PRAGMATICS' (código: EDUC_4108) tiene 84 estudiantes.
+En el periodo académico '202362', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ADMI_5047) tiene 94 estudiantes.
+En el periodo académico '202362', el curso 'SEMINARIO DE FIN DE CARRERA' (código: CONT_5004) tiene 86 estudiantes.
+En el periodo académico '202362', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ECON_5035) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'SEMINARIO DE FIN DE CARRERA' (código: FDCE_4031) tiene 39 estudiantes.
+En el periodo académico '202362', el curso 'SEMINARIO DE FIN DE CARRERA' (código: TURI_5007) tiene 21 estudiantes.
+En el periodo académico '202362', el curso 'SIST BASADOS EN CONOCIMIENTO' (código: DSOF_5013) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'SIST BASADOS EN CONOCIMIENTOS' (código: COMP_5018) tiene 14 estudiantes.
+En el periodo académico '202362', el curso 'SISTEMAS DE COSTOS' (código: CONT_2035) tiene 360 estudiantes.
+En el periodo académico '202362', el curso 'SISTEMAS TECNOLOGICOS APLICADO' (código: TURI_4013) tiene 12 estudiantes.
+En el periodo académico '202362', el curso 'SOCIOLOGIA DE LA EDUCACION' (código: EDUC_1109) tiene 238 estudiantes.
+En el periodo académico '202362', el curso 'SOSTENIBILIDAD EMPRESARIAL' (código: ADMI_3024) tiene 379 estudiantes.
+En el periodo académico '202362', el curso 'TEACHING CULTURE IN THE EFL CL' (código: EDUC_4110) tiene 74 estudiantes.
+En el periodo académico '202362', el curso 'TECHNOLOGY IN THE EFL CLASSROO' (código: IDIO_2023) tiene 159 estudiantes.
+En el periodo académico '202362', el curso 'TECNICAS DE INFERENCIA ESTADIS' (código: ESTA_2022) tiene 447 estudiantes.
+En el periodo académico '202362', el curso 'TECNOLOGIAS WEB' (código: DSOF_2043) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'TEFL METHODOLOGY AND DIDACTICS' (código: EDUC_2089) tiene 173 estudiantes.
+En el periodo académico '202362', el curso 'TEORIA DE AUTOMATAS Y COMPILAD' (código: COMP_3012) tiene 41 estudiantes.
+En el periodo académico '202362', el curso 'TEORIA MACROECONOMICA' (código: ECON_2031) tiene 478 estudiantes.
+En el periodo académico '202362', el curso 'TEORIA MICROECONOMICA' (código: ECON_2030) tiene 412 estudiantes.
+En el periodo académico '202362', el curso 'TEORIAS DE ACUMULACION Y CREC' (código: ECON_5039) tiene 2 estudiantes.
+En el periodo académico '202362', el curso 'TEORIAS DEL DESARROLLO' (código: ECON_5075) tiene 36 estudiantes.
+En el periodo académico '202362', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: ADMI_5060) tiene 136 estudiantes.
+En el periodo académico '202362', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: CONT_5000) tiene 123 estudiantes.
+En el periodo académico '202362', el curso 'TRABAJO DE TIT (PRACTICUM IV)' (código: ECON_5040) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'TRABAJO DE TITULACION' (código: FDCE_4043) tiene 69 estudiantes.
+En el periodo académico '202362', el curso 'TRABAJO DE TITULACION CON CURS' (código: UTPL_700) tiene 4 estudiantes.
+En el periodo académico '202362', el curso 'TRABAJO DE TITULACION SIN CURS' (código: UTPL_800) tiene 111 estudiantes.
+En el periodo académico '202362', el curso 'TRANSPORTACION TURISTICA' (código: TURI_2017) tiene 24 estudiantes.
+En el periodo académico '202362', el curso 'TURISMO RURAL Y DESARRO LOCAL' (código: TURI_4019) tiene 7 estudiantes.
+En el periodo académico '202362', el curso 'TURISMO Y HOTELERIA' (código: HOTE_1030) tiene 43 estudiantes.
+En el periodo académico '202362', el curso 'VALIDACION DE PRODUCTO' (código: ADMI_1030) tiene 1 estudiantes.
+En el periodo académico '202362', el curso 'VALORACION DE EMPRESAS' (código: FINZ_5000) tiene 87 estudiantes.
+En el periodo académico '202364', el curso 'ACADEMIC READING AND WRITIN II' (código: EDUC_3183) tiene 129 estudiantes.
+En el periodo académico '202364', el curso 'ACADEMIC READING AND WRITING I' (código: EDUC_3178) tiene 129 estudiantes.
+En el periodo académico '202364', el curso 'ADAPTACIONES CURRICULARES Y DI' (código: EDUC_3185) tiene 110 estudiantes.
+En el periodo académico '202364', el curso 'ADMIN DE CAD DE SUM Y LOG EMPR' (código: ADMI_2030) tiene 304 estudiantes.
+En el periodo académico '202364', el curso 'ADMINISTRACION' (código: ADMI_1026) tiene 2 estudiantes.
+En el periodo académico '202364', el curso 'ADMINISTRACION' (código: ADMI_1109) tiene 469 estudiantes.
+En el periodo académico '202364', el curso 'ADMINISTRACION DE OPERAC Y PR' (código: PIND_2010) tiene 295 estudiantes.
+En el periodo académico '202364', el curso 'ADMINISTRACION DE TECN Y SISTE' (código: ADMI_4095) tiene 277 estudiantes.
+En el periodo académico '202364', el curso 'ADMINISTRACION DE TECNOLOGIAS' (código: SIST_5001) tiene 28 estudiantes.
+En el periodo académico '202364', el curso 'ADMINISTRACION DEL TALENTO HUM' (código: LABO_3002) tiene 298 estudiantes.
+En el periodo académico '202364', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5005) tiene 42 estudiantes.
+En el periodo académico '202364', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5066) tiene 279 estudiantes.
+En el periodo académico '202364', el curso 'ADMINISTRACION FINANCIERA' (código: FINZ_4057) tiene 214 estudiantes.
+En el periodo académico '202364', el curso 'ADMINISTRACION FINANCIERA OPER' (código: ECON_4112) tiene 41 estudiantes.
+En el periodo académico '202364', el curso 'AEROGRAFIA' (código: ARTE_1050) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'ALGEBRA LINEAL' (código: MATE_1108) tiene 541 estudiantes.
+En el periodo académico '202364', el curso 'ANA MATEMATICO MULTIVARIADO' (código: MATE_2029) tiene 40 estudiantes.
+En el periodo académico '202364', el curso 'ANALISIS DE MERCADOS TURISTICO' (código: TURI_4022) tiene 33 estudiantes.
+En el periodo académico '202364', el curso 'ANALISIS TERRITORIAL' (código: ECON_4109) tiene 33 estudiantes.
+En el periodo académico '202364', el curso 'ANTROPOLOGIA BASICA' (código: RELI_2062) tiene 846 estudiantes.
+En el periodo académico '202364', el curso 'ANTROPOLOGIA CULTURAL Y TURIS' (código: TURI_1020) tiene 29 estudiantes.
+En el periodo académico '202364', el curso 'APLIC AUDIT FORENS CICLOS TRAN' (código: CONT_3031) tiene 139 estudiantes.
+En el periodo académico '202364', el curso 'APLICACIONES DE COSTOS' (código: CONT_3030) tiene 192 estudiantes.
+En el periodo académico '202364', el curso 'AREAS PROTEGIDAS' (código: TURI_2014) tiene 15 estudiantes.
+En el periodo académico '202364', el curso 'ARQ Y COMP PARALELA' (código: COMP_5006) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'ARQ Y SEGURIDAD DE REDES' (código: DRBD_5003) tiene 8 estudiantes.
+En el periodo académico '202364', el curso 'ARQUITECTURA DE APLICACIONES' (código: DSOF_4004) tiene 4 estudiantes.
+En el periodo académico '202364', el curso 'ARQUITECTURA DE SOFTWARE' (código: DSOF_4069) tiene 36 estudiantes.
+En el periodo académico '202364', el curso 'AUDIT INT Y ADMIN RIESGOS ERM' (código: CONT_4030) tiene 70 estudiantes.
+En el periodo académico '202364', el curso 'AUDITORIA DE GESTION' (código: CONT_4028) tiene 183 estudiantes.
+En el periodo académico '202364', el curso 'AUDITORIA FINANCIERA' (código: FINZ_4056) tiene 215 estudiantes.
+En el periodo académico '202364', el curso 'AUDITORIA INFORMATICA' (código: SIST_1012) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'AUDITORIA INFORMATICA' (código: SIST_5006) tiene 35 estudiantes.
+En el periodo académico '202364', el curso 'CARACTERIZACION DE MATERIALES' (código: TIER_1078) tiene 5 estudiantes.
+En el periodo académico '202364', el curso 'CICLO DEL MERCURIO EN LA NATUR' (código: TIER_1076) tiene 2 estudiantes.
+En el periodo académico '202364', el curso 'CIUDAD Y TURISMO' (código: TURI_3014) tiene 23 estudiantes.
+En el periodo académico '202364', el curso 'COMERCIO EXTERIOR' (código: COME_1005) tiene 19 estudiantes.
+En el periodo académico '202364', el curso 'COMERCIO EXTERIOR' (código: COME_3002) tiene 233 estudiantes.
+En el periodo académico '202364', el curso 'COMPETITIVIDAD DESTINOS TURIST' (código: TURI_4015) tiene 4 estudiantes.
+En el periodo académico '202364', el curso 'COMPORTAMIENTO ORGANIZACIONAL' (código: ADMI_4082) tiene 314 estudiantes.
+En el periodo académico '202364', el curso 'COMPUTACION Y SOCIEDAD' (código: COMP_1078) tiene 110 estudiantes.
+En el periodo académico '202364', el curso 'COMUNICACION DE DATOS' (código: DRBD_3019) tiene 2 estudiantes.
+En el periodo académico '202364', el curso 'CONSTRUCCION DE INDICADORES' (código: ECON_4116) tiene 5 estudiantes.
+En el periodo académico '202364', el curso 'CONTABILIDAD AGRARIA' (código: CONT_4033) tiene 233 estudiantes.
+En el periodo académico '202364', el curso 'CONTABILIDAD CORPORATIVA' (código: CONT_2027) tiene 182 estudiantes.
+En el periodo académico '202364', el curso 'CONTABILIDAD DE COSTOS' (código: CONT_3026) tiene 179 estudiantes.
+En el periodo académico '202364', el curso 'CONTABILIDAD DE COSTOS OPERATI' (código: CONT_2032) tiene 24 estudiantes.
+En el periodo académico '202364', el curso 'CONTABILIDAD DE INSTITUC FINAN' (código: CONT_3025) tiene 187 estudiantes.
+En el periodo académico '202364', el curso 'CONTABILIDAD FINANCIERA' (código: CONT_1085) tiene 241 estudiantes.
+En el periodo académico '202364', el curso 'CONTABILIDAD FINANCIERA AVANZA' (código: CONT_2025) tiene 270 estudiantes.
+En el periodo académico '202364', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5023) tiene 148 estudiantes.
+En el periodo académico '202364', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_2028) tiene 195 estudiantes.
+En el periodo académico '202364', el curso 'CONTRASTIVE GRAMMAR' (código: EDUC_4116) tiene 76 estudiantes.
+En el periodo académico '202364', el curso 'CONTRATACION PUBLICA' (código: DERE_3050) tiene 226 estudiantes.
+En el periodo académico '202364', el curso 'COSMOVISION ANDINA' (código: TURI_4014) tiene 11 estudiantes.
+En el periodo académico '202364', el curso 'COSTOS RELEV PARA TOMA DECISIO' (código: CONT_4029) tiene 55 estudiantes.
+En el periodo académico '202364', el curso 'CULTURE AND LITERATURE IN ENGL' (código: LITE_4003) tiene 7 estudiantes.
+En el periodo académico '202364', el curso 'CUR DSING FR ACADM AND SPCIF P' (código: EDUC_4111) tiene 37 estudiantes.
+En el periodo académico '202364', el curso 'CURRICLM FUNDTS PRNCPLS AND IS' (código: EDUC_4112) tiene 42 estudiantes.
+En el periodo académico '202364', el curso 'CURSO DE ACTUALIZACION' (código: UTPL_3000) tiene 27 estudiantes.
+En el periodo académico '202364', el curso 'DERECHO LABORAL' (código: DERE_1181) tiene 216 estudiantes.
+En el periodo académico '202364', el curso 'DERECHO TRIBUTARIO' (código: DERE_1182) tiene 231 estudiantes.
+En el periodo académico '202364', el curso 'DERECHO TRIBUTARIO' (código: DERE_4054) tiene 296 estudiantes.
+En el periodo académico '202364', el curso 'DESARROLLO BASADO EN PLAT WEB' (código: DSOF_3048) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'DESARROLLO BASADO EN PLATAF MO' (código: DSOF_4075) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'DESARROLLO ECONOMICO' (código: ECON_4002) tiene 15 estudiantes.
+En el periodo académico '202364', el curso 'DESARROLLO EMPRES NUEVOS NEGOC' (código: ADMI_3025) tiene 103 estudiantes.
+En el periodo académico '202364', el curso 'DESARROLLO EMPRESARIAL' (código: ADMI_1043) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'DESARROLLO REGIONAL' (código: ECON_3047) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'DESARROLLO TRAB PRACTICUM 4' (código: TURI_5000) tiene 19 estudiantes.
+En el periodo académico '202364', el curso 'DIRECCION ESTRATEGICA' (código: ADMI_5071) tiene 205 estudiantes.
+En el periodo académico '202364', el curso 'DISCOURSE ANALYSIS' (código: EDUC_4117) tiene 72 estudiantes.
+En el periodo académico '202364', el curso 'DISEÑO DE PRODUCTOS TURISTICOS' (código: TURI_3016) tiene 19 estudiantes.
+En el periodo académico '202364', el curso 'DISEÑO DE SISTEMAS DE COSTOS' (código: CONT_3029) tiene 113 estudiantes.
+En el periodo académico '202364', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: RELI_1001) tiene 48 estudiantes.
+En el periodo académico '202364', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: RELI_5002) tiene 2 estudiantes.
+En el periodo académico '202364', el curso 'E-COMMERCE' (código: ADMI_4083) tiene 103 estudiantes.
+En el periodo académico '202364', el curso 'ECONOMETRIA AVANZADA' (código: ECON_3043) tiene 8 estudiantes.
+En el periodo académico '202364', el curso 'ECONOMETRIA BASICA' (código: ECON_3039) tiene 3 estudiantes.
+En el periodo académico '202364', el curso 'ECONOMIA AMBIENTAL Y DE REC NA' (código: ECON_4108) tiene 42 estudiantes.
+En el periodo académico '202364', el curso 'ECONOMIA DE LA EMPRESA Y MERCA' (código: ECON_2035) tiene 3 estudiantes.
+En el periodo académico '202364', el curso 'ECONOMIA INTERNACIONAL' (código: ECON_5077) tiene 33 estudiantes.
+En el periodo académico '202364', el curso 'ECONOMIA POLITICA' (código: ECON_5076) tiene 3 estudiantes.
+En el periodo académico '202364', el curso 'ECUACIONES DIFER Y MET NUMER' (código: MATE_3100) tiene 78 estudiantes.
+En el periodo académico '202364', el curso 'EL ARTE DE AMAR' (código: RELI_1110) tiene 38 estudiantes.
+En el periodo académico '202364', el curso 'EMPREN CON BASE TECNOLOGICA II' (código: ADMI_5079) tiene 19 estudiantes.
+En el periodo académico '202364', el curso 'EMPRENDIMIENTO' (código: ADMI_4038) tiene 754 estudiantes.
+En el periodo académico '202364', el curso 'EMPRENDIMIENTO Y FUNDAMENTOS P' (código: ADMI_7125) tiene 8 estudiantes.
+En el periodo académico '202364', el curso 'ENGLISH LAN: LIST AND SPEAK IV' (código: EDUC_2118) tiene 99 estudiantes.
+En el periodo académico '202364', el curso 'ENGLISH LAN: LISTE AND SPE III' (código: EDUC_3112) tiene 170 estudiantes.
+En el periodo académico '202364', el curso 'ENGLISH LAN: READ AND WRIT III' (código: EDUC_3111) tiene 163 estudiantes.
+En el periodo académico '202364', el curso 'ENGLISH LAN: READ AND WRIT IV' (código: EDUC_2119) tiene 105 estudiantes.
+En el periodo académico '202364', el curso 'ENGLISH LANG: LIST AND SPEA II' (código: FDCE_1075) tiene 123 estudiantes.
+En el periodo académico '202364', el curso 'ENGLISH LANG: LIST AND SPEAK I' (código: FDCE_1074) tiene 343 estudiantes.
+En el periodo académico '202364', el curso 'ENGLISH LANG: READ AND WRIT II' (código: FDCE_1076) tiene 127 estudiantes.
+En el periodo académico '202364', el curso 'ENGLISH LANG: READI AND WRIT I' (código: IDIO_1104) tiene 333 estudiantes.
+En el periodo académico '202364', el curso 'ENGLISH PRON: PHONETI AND PHON' (código: EDUC_3179) tiene 119 estudiantes.
+En el periodo académico '202364', el curso 'ENGLISH SYNTAX' (código: EDUC_4109) tiene 99 estudiantes.
+En el periodo académico '202364', el curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' (código: CONT_1084) tiene 434 estudiantes.
+En el periodo académico '202364', el curso 'ESTADISTICA' (código: ESTA_1044) tiene 24 estudiantes.
+En el periodo académico '202364', el curso 'ESTADISTICA APLICADA A EDUCA' (código: ESTA_4004) tiene 4 estudiantes.
+En el periodo académico '202364', el curso 'ESTADISTICA BASICA' (código: ESTA_2031) tiene 124 estudiantes.
+En el periodo académico '202364', el curso 'ESTADISTICA BASICA' (código: ESTA_3023) tiene 495 estudiantes.
+En el periodo académico '202364', el curso 'ESTADISTICA Y PROBABILIDAD' (código: ESTA_3022) tiene 58 estudiantes.
+En el periodo académico '202364', el curso 'ESTRUCTURAS DISCRETAS' (código: DSOF_2030) tiene 115 estudiantes.
+En el periodo académico '202364', el curso 'ETICA' (código: RELI_3000) tiene 10 estudiantes.
+En el periodo académico '202364', el curso 'ETICA DE LA INTELIGENCIA ARTIF' (código: RELI_1109) tiene 21 estudiantes.
+En el periodo académico '202364', el curso 'ETICA Y MORAL' (código: FILO_1114) tiene 545 estudiantes.
+En el periodo académico '202364', el curso 'EVALUACION DE PROYECTOS' (código: ADMI_4089) tiene 4 estudiantes.
+En el periodo académico '202364', el curso 'EXAMEN COMPLEXIVO CON CURSO' (código: UTPL_500) tiene 11 estudiantes.
+En el periodo académico '202364', el curso 'EXAMEN COMPLEXIVO SIN CURSO' (código: UTPL_600) tiene 18 estudiantes.
+En el periodo académico '202364', el curso 'FIJACION PREC Y ADMIN DE COSTO' (código: CONT_4026) tiene 65 estudiantes.
+En el periodo académico '202364', el curso 'FILOSOFIA E HISTORIA DE LA EDU' (código: FILO_1117) tiene 358 estudiantes.
+En el periodo académico '202364', el curso 'FINANZAS ESTRUCTURALES' (código: FINZ_3024) tiene 314 estudiantes.
+En el periodo académico '202364', el curso 'FINANZAS OPERATIVAS' (código: FINZ_3023) tiene 310 estudiantes.
+En el periodo académico '202364', el curso 'FINANZAS Y PRESUPUESTOS' (código: TURI_3011) tiene 25 estudiantes.
+En el periodo académico '202364', el curso 'FISICA BASICA' (código: FISI_1039) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'FORM EVALUAC DE PROYECTOS' (código: ADMI_4126) tiene 134 estudiantes.
+En el periodo académico '202364', el curso 'FORMULACION DE PROYECTOS' (código: ECON_3045) tiene 37 estudiantes.
+En el periodo académico '202364', el curso 'FORMULACION Y EVALUACION DE PR' (código: ADMI_4121) tiene 11 estudiantes.
+En el periodo académico '202364', el curso 'FRANCES I' (código: IDIO_3013) tiene 24 estudiantes.
+En el periodo académico '202364', el curso 'FRANCES II' (código: IDIO_3014) tiene 18 estudiantes.
+En el periodo académico '202364', el curso 'FRANCES III' (código: IDIO_4016) tiene 24 estudiantes.
+En el periodo académico '202364', el curso 'FUND DE INTE ARTIFICIAL' (código: COMP_4012) tiene 35 estudiantes.
+En el periodo académico '202364', el curso 'FUND DEL LENGUAJE VISUAL' (código: ARTE_1089) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'FUNDAMENTOS COMPUTACIONALES' (código: COMP_1075) tiene 114 estudiantes.
+En el periodo académico '202364', el curso 'FUNDAMENTOS DE ADMINIST FINAN' (código: ADMI_1115) tiene 188 estudiantes.
+En el periodo académico '202364', el curso 'FUNDAMENTOS DE ADMINISTRACION' (código: ADMI_1113) tiene 80 estudiantes.
+En el periodo académico '202364', el curso 'FUNDAMENTOS DE BASE DE DATOS' (código: DRBD_2004) tiene 74 estudiantes.
+En el periodo académico '202364', el curso 'FUNDAMENTOS DE CONTABILIDAD' (código: CONT_1083) tiene 845 estudiantes.
+En el periodo académico '202364', el curso 'FUNDAMENTOS DE ECONOMIA' (código: ECON_1088) tiene 355 estudiantes.
+En el periodo académico '202364', el curso 'FUNDAMENTOS DE INGENIERIA DE S' (código: SIST_3011) tiene 42 estudiantes.
+En el periodo académico '202364', el curso 'FUNDAMENTOS INFORMATICOS' (código: COMP_1034) tiene 44 estudiantes.
+En el periodo académico '202364', el curso 'FUNDAMENTOS MATEMATICOS' (código: MATE_1103) tiene 658 estudiantes.
+En el periodo académico '202364', el curso 'FUNDAMENTOS Y APLICACION DE SE' (código: DSOF_4077) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'GEOGRAFIA TURISTICA' (código: HOTE_1047) tiene 47 estudiantes.
+En el periodo académico '202364', el curso 'GESTION DE CADENA DE VALOR Y C' (código: TURI_5011) tiene 12 estudiantes.
+En el periodo académico '202364', el curso 'GESTION DE LA CALIDAD' (código: ADMI_4015) tiene 5 estudiantes.
+En el periodo académico '202364', el curso 'GESTION DE LA CALIDAD' (código: ADMI_5067) tiene 299 estudiantes.
+En el periodo académico '202364', el curso 'GESTION DE LA CALIDAD DEL SOFT' (código: DSOF_3045) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'GESTION DE NUEVOS NEGOCIOS' (código: ADMI_4079) tiene 95 estudiantes.
+En el periodo académico '202364', el curso 'GESTION DE PROYECTOS' (código: ADMI_5077) tiene 24 estudiantes.
+En el periodo académico '202364', el curso 'GESTION DEL CONOCIMIENTO' (código: ADMI_3030) tiene 316 estudiantes.
+En el periodo académico '202364', el curso 'GESTION DEL PATRIMONIO CULTU' (código: TURI_2011) tiene 18 estudiantes.
+En el periodo académico '202364', el curso 'GESTION DEL TALENTO HUMANO' (código: ADMI_4094) tiene 11 estudiantes.
+En el periodo académico '202364', el curso 'GESTION E INNOVACION DE DESTIN' (código: TURI_4017) tiene 13 estudiantes.
+En el periodo académico '202364', el curso 'GESTION INNOVACION EMPRESARIAL' (código: ADMI_1111) tiene 64 estudiantes.
+En el periodo académico '202364', el curso 'GESTION PUBLICA DEL TURISMO' (código: TURI_4018) tiene 17 estudiantes.
+En el periodo académico '202364', el curso 'GUIANZA' (código: TURI_2016) tiene 17 estudiantes.
+En el periodo académico '202364', el curso 'HABILIDADES GERENCIALES' (código: ADMI_5064) tiene 541 estudiantes.
+En el periodo académico '202364', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1055) tiene 8 estudiantes.
+En el periodo académico '202364', el curso 'HISTORIA ECONOMICA DEL ECUADOR' (código: ECON_1087) tiene 36 estudiantes.
+En el periodo académico '202364', el curso 'HUMANISMO, UNIVERSIDAD Y CULTU' (código: RELI_1105) tiene 1312 estudiantes.
+En el periodo académico '202364', el curso 'IMAGEN PERSONAL Y CORPORATIVA' (código: PERI_3015) tiene 21 estudiantes.
+En el periodo académico '202364', el curso 'INCLUSION Y APRENDIZAJE SOSTEN' (código: EDUC_1102) tiene 56 estudiantes.
+En el periodo académico '202364', el curso 'INCLUSIVE AND SUSTAINABLE EDUC' (código: EDUC_4115) tiene 78 estudiantes.
+En el periodo académico '202364', el curso 'INGENIERIA WEB' (código: DSOF_3037) tiene 52 estudiantes.
+En el periodo académico '202364', el curso 'INNOVAR EN LOS FUTUROS DE LA E' (código: EDUC_1149) tiene 38 estudiantes.
+En el periodo académico '202364', el curso 'INTELIG ESTRAT Y METOD INTERNA' (código: ADMI_4081) tiene 209 estudiantes.
+En el periodo académico '202364', el curso 'INTELIGENCIA ARTIFICIAL' (código: DSOF_4009) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'INTELIGENCIA EMOCIONAL' (código: EDUC_1146) tiene 59 estudiantes.
+En el periodo académico '202364', el curso 'INTEROPERY EXPLO DATOS ECO HET' (código: DRBD_4015) tiene 24 estudiantes.
+En el periodo académico '202364', el curso 'INTRO AUDITORIA FORENSE EMPRES' (código: CONT_3028) tiene 130 estudiantes.
+En el periodo académico '202364', el curso 'INTRODUC TO EDUCATIO RESEARCH' (código: EDUC_3180) tiene 140 estudiantes.
+En el periodo académico '202364', el curso 'INTRODUCCION A LA ECONOMIA' (código: ECON_1090) tiene 375 estudiantes.
+En el periodo académico '202364', el curso 'INTRODUCCION A LA INTELIGENCIA' (código: COMP_3013) tiene 50 estudiantes.
+En el periodo académico '202364', el curso 'INTRODUCCION A LA PROGRAMACION' (código: DSOF_1067) tiene 117 estudiantes.
+En el periodo académico '202364', el curso 'INTRODUCCIÓN AL DISEÑO INTERIO' (código: DISE_1032) tiene 3 estudiantes.
+En el periodo académico '202364', el curso 'INTRODUCTION TO LINGUISTICS' (código: EDUC_3189) tiene 97 estudiantes.
+En el periodo académico '202364', el curso 'INVESTIGACION DE MERCADOS' (código: ADMI_3026) tiene 264 estudiantes.
+En el periodo académico '202364', el curso 'INVESTIGACION OPERATIVA TOMA D' (código: DIPP_3001) tiene 192 estudiantes.
+En el periodo académico '202364', el curso 'JORN DE INVES LA CREDIBILIDAD' (código: EDUC_2022) tiene 16 estudiantes.
+En el periodo académico '202364', el curso 'JORNADA DE INVEST Y FORMA ESP' (código: EDUC_4160) tiene 12 estudiantes.
+En el periodo académico '202364', el curso 'LANGUAGE TESTING' (código: EDUC_3177) tiene 154 estudiantes.
+En el periodo académico '202364', el curso 'LANGUAGE TESTING' (código: FDCE_4011) tiene 5 estudiantes.
+En el periodo académico '202364', el curso 'LECTURA Y REDACCION DE TEXTOS' (código: LITE_1106) tiene 333 estudiantes.
+En el periodo académico '202364', el curso 'LEGISLACION EMPRESARIAL' (código: ADMI_1110) tiene 311 estudiantes.
+En el periodo académico '202364', el curso 'LEGISLACION MERCANTIL Y SOCIET' (código: DERE_2072) tiene 329 estudiantes.
+En el periodo académico '202364', el curso 'LEGISLACION TURISTICA Y AMBIEN' (código: TURI_2013) tiene 25 estudiantes.
+En el periodo académico '202364', el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1147) tiene 70 estudiantes.
+En el periodo académico '202364', el curso 'LOGICA DIGITAL' (código: ELEN_2008) tiene 75 estudiantes.
+En el periodo académico '202364', el curso 'MACROECONOMIA ABIERTA' (código: ECON_3041) tiene 2 estudiantes.
+En el periodo académico '202364', el curso 'MACROECONOMIA CERRADA' (código: ECON_2034) tiene 31 estudiantes.
+En el periodo académico '202364', el curso 'MANAGEMENT 3.0' (código: ADMI_1117) tiene 34 estudiantes.
+En el periodo académico '202364', el curso 'MARKETING' (código: MERC_1005) tiene 4 estudiantes.
+En el periodo académico '202364', el curso 'MARKETING' (código: MERC_4007) tiene 280 estudiantes.
+En el periodo académico '202364', el curso 'MARKETING TURISTICO' (código: MERC_4004) tiene 23 estudiantes.
+En el periodo académico '202364', el curso 'MATEMATICA BASICA' (código: MATE_1106) tiene 350 estudiantes.
+En el periodo académico '202364', el curso 'MATEMATICA FINANCIERA' (código: MATE_1109) tiene 428 estudiantes.
+En el periodo académico '202364', el curso 'MATRIMONIO Y FAMILIA' (código: RELI_1033) tiene 49 estudiantes.
+En el periodo académico '202364', el curso 'MERCADO DE VALORES' (código: COME_5000) tiene 33 estudiantes.
+En el periodo académico '202364', el curso 'METH TO ADOLESCENTS AND ADULTS' (código: EDUC_3188) tiene 80 estudiantes.
+En el periodo académico '202364', el curso 'METHO FOR ACADEMIC PURPOSES' (código: EDUC_3187) tiene 26 estudiantes.
+En el periodo académico '202364', el curso 'METHODO FOR TEAC ENGL TO CHILD' (código: EDUC_3191) tiene 104 estudiantes.
+En el periodo académico '202364', el curso 'METHODOLOGY AND DIDACTICS III:' (código: FDCE_4014) tiene 3 estudiantes.
+En el periodo académico '202364', el curso 'METHODOLOGY FOR TEACHING ENGLI' (código: EDUC_3182) tiene 27 estudiantes.
+En el periodo académico '202364', el curso 'METODOS DE VALOR DE EMPRESAS' (código: ADMI_5065) tiene 191 estudiantes.
+En el periodo académico '202364', el curso 'MICROECONOMIA APLICADA' (código: ECON_3042) tiene 39 estudiantes.
+En el periodo académico '202364', el curso 'MODELOS ECONOMETRICOS' (código: ECON_3040) tiene 33 estudiantes.
+En el periodo académico '202364', el curso 'MODELOS OPTIMIZA PARA USO DE R' (código: ECON_4110) tiene 5 estudiantes.
+En el periodo académico '202364', el curso 'NEGOCIOS INTERNACIONALES' (código: COME_3003) tiene 155 estudiantes.
+En el periodo académico '202364', el curso 'NEURO MARKT Y TEORIAS DE INFOR' (código: TURI_4021) tiene 6 estudiantes.
+En el periodo académico '202364', el curso 'NEUROCIENCIA Y PSICOL DEL DESA' (código: PSIC_1104) tiene 190 estudiantes.
+En el periodo académico '202364', el curso 'NUEVAS ALTERNATIVAS DE TURISMO' (código: TURI_2018) tiene 35 estudiantes.
+En el periodo académico '202364', el curso 'ORDENAMIENTO TURISTICO TERRITO' (código: TURI_5013) tiene 14 estudiantes.
+En el periodo académico '202364', el curso 'ORGANIZACION DE EVENTOS Y PROT' (código: TURI_2015) tiene 20 estudiantes.
+En el periodo académico '202364', el curso 'ORGANIZACION INDUSTRIAL' (código: PIND_5008) tiene 12 estudiantes.
+En el periodo académico '202364', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: ADMI_5046) tiene 71 estudiantes.
+En el periodo académico '202364', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: TURI_5006) tiene 11 estudiantes.
+En el periodo académico '202364', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: ADMI_4046) tiene 47 estudiantes.
+En el periodo académico '202364', el curso 'PASANTIA PRE-PRO1' (código: FDCE_3015) tiene 2 estudiantes.
+En el periodo académico '202364', el curso 'PASANTIA PRE-PRO2' (código: FDCE_4023) tiene 8 estudiantes.
+En el periodo académico '202364', el curso 'PATRIMONIO NATURAL Y BIODIVERS' (código: TURI_3013) tiene 18 estudiantes.
+En el periodo académico '202364', el curso 'PEDAGOGIA' (código: EDUC_3113) tiene 163 estudiantes.
+En el periodo académico '202364', el curso 'PERIODO ADICIONAL 1' (código: UTPL_4000) tiene 4 estudiantes.
+En el periodo académico '202364', el curso 'PERIODO ADICIONAL 2' (código: UTPL_5000) tiene 6 estudiantes.
+En el periodo académico '202364', el curso 'PLANIFICACION DE DESTINOS TURI' (código: TURI_4016) tiene 11 estudiantes.
+En el periodo académico '202364', el curso 'PLANIFICACION Y GEST DESA SOST' (código: ECON_4114) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'PLATAFORMAS MOVILES' (código: DSOF_4070) tiene 10 estudiantes.
+En el periodo académico '202364', el curso 'POLITICA AMBIENTAL' (código: ECON_3046) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'POLITICA ECONOMICA' (código: ECON_3044) tiene 34 estudiantes.
+En el periodo académico '202364', el curso 'POLITICA PUBLICA Y MARCO LEGA' (código: FDCE_2030) tiene 167 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICA TRIBUTARIA' (código: CONT_2026) tiene 193 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 1' (código: ADMI_2029) tiene 310 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 1' (código: CONT_2029) tiene 167 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 1' (código: ECON_2037) tiene 3 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 1' (código: EDUC_2120) tiene 101 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 1' (código: TURI_2010) tiene 24 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 1.1' (código: COMP_2011) tiene 77 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 2' (código: ADMI_3027) tiene 306 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 2' (código: CONT_3037) tiene 201 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 2' (código: ECON_3053) tiene 29 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 2' (código: EDUC_3181) tiene 132 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 2' (código: TURI_3017) tiene 22 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 2.1' (código: COMP_3019) tiene 53 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 3' (código: ADMI_4080) tiene 304 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 3' (código: EDUC_3186) tiene 101 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 3 SERVICIO COMUNITA' (código: CONT_3038) tiene 217 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: COMP_4010) tiene 35 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: TURI_3012) tiene 41 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 4.1' (código: EDUC_4107) tiene 89 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 4.1' (código: TURI_4020) tiene 10 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: ADMI_4087) tiene 226 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: CONT_4032) tiene 173 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 4.1:TRABAJO DE INT E' (código: ECON_4115) tiene 37 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 4.2' (código: COMP_5022) tiene 22 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 4.2' (código: EDUC_4114) tiene 48 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 4.2' (código: TURI_5010) tiene 17 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: ADMI_5068) tiene 141 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: CONT_4034) tiene 120 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM 4.2:TRABAJO DE INTEG' (código: ECON_5074) tiene 5 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM ACADE 3 ASESORIA TT' (código: FDCE_4028) tiene 25 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM ACADEMICO 1' (código: FDCE_3021) tiene 3 estudiantes.
+En el periodo académico '202364', el curso 'PRACTICUM ACADEMICO 2' (código: FDCE_4027) tiene 29 estudiantes.
+En el periodo académico '202364', el curso 'PRINCIPIOS DE AUDITORIA' (código: CONT_3027) tiene 224 estudiantes.
+En el periodo académico '202364', el curso 'PRINCIPIOS DE MACROECONOMIA' (código: ECON_2033) tiene 4 estudiantes.
+En el periodo académico '202364', el curso 'PRINCIPIOS DE MICROECONOMIA' (código: ECON_2032) tiene 39 estudiantes.
+En el periodo académico '202364', el curso 'PRINCIPIOS DEL TURISMO' (código: HOTE_1045) tiene 45 estudiantes.
+En el periodo académico '202364', el curso 'PROG FUNCIONAL Y REACTIVA' (código: DSOF_2035) tiene 86 estudiantes.
+En el periodo académico '202364', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_3108) tiene 4 estudiantes.
+En el periodo académico '202364', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4105) tiene 245 estudiantes.
+En el periodo académico '202364', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4106) tiene 316 estudiantes.
+En el periodo académico '202364', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4118) tiene 49 estudiantes.
+En el periodo académico '202364', el curso 'PRORROGA 1' (código: UTPL_1000) tiene 63 estudiantes.
+En el periodo académico '202364', el curso 'PRORROGA 2' (código: UTPL_2000) tiene 23 estudiantes.
+En el periodo académico '202364', el curso 'PROSPECTIVA EMPRESARIAL Y A' (código: ADMI_4092) tiene 206 estudiantes.
+En el periodo académico '202364', el curso 'PROYEC DE FIN DE CARRER GP4.1' (código: COMP_5004) tiene 10 estudiantes.
+En el periodo académico '202364', el curso 'PROYECTOS' (código: ADMI_4090) tiene 239 estudiantes.
+En el periodo académico '202364', el curso 'RADIO Y NUEVAS TECNOLOGIAS' (código: PERI_1120) tiene 27 estudiantes.
+En el periodo académico '202364', el curso 'RECURSOS TANGIB E INTANGIB' (código: TURI_3015) tiene 17 estudiantes.
+En el periodo académico '202364', el curso 'REDES Y SISTEMAS DISTRIBUIDOS' (código: DRBD_4014) tiene 36 estudiantes.
+En el periodo académico '202364', el curso 'RELACIONES PUB Y PROTOCOLO' (código: HOTE_1040) tiene 54 estudiantes.
+En el periodo académico '202364', el curso 'RESEARCH METHODS IN ELT' (código: EDUC_3184) tiene 111 estudiantes.
+En el periodo académico '202364', el curso 'RESPONSABILIDAD SOCIAL EMPRE' (código: ADMI_4088) tiene 258 estudiantes.
+En el periodo académico '202364', el curso 'SECOND LANGUAGE ACQUISITION' (código: EDUC_4113) tiene 115 estudiantes.
+En el periodo académico '202364', el curso 'SEGURIDAD DE LA INFORMACION' (código: DSOF_5025) tiene 20 estudiantes.
+En el periodo académico '202364', el curso 'SEMANTICS AND PRAGMATICS' (código: EDUC_4108) tiene 95 estudiantes.
+En el periodo académico '202364', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ADMI_5047) tiene 76 estudiantes.
+En el periodo académico '202364', el curso 'SEMINARIO DE FIN DE CARRERA' (código: CONT_5004) tiene 60 estudiantes.
+En el periodo académico '202364', el curso 'SEMINARIO DE FIN DE CARRERA' (código: FDCE_4031) tiene 39 estudiantes.
+En el periodo académico '202364', el curso 'SISTEMAS DE COSTOS' (código: CONT_2035) tiene 298 estudiantes.
+En el periodo académico '202364', el curso 'SISTEMAS INTELIGENTES' (código: COMP_5020) tiene 18 estudiantes.
+En el periodo académico '202364', el curso 'SISTEMAS OPERATIVOS' (código: COMP_3011) tiene 55 estudiantes.
+En el periodo académico '202364', el curso 'SISTEMAS TECNOLOGICOS APLICADO' (código: TURI_4013) tiene 29 estudiantes.
+En el periodo académico '202364', el curso 'SOCIOLOGIA DE LA EDUCACION' (código: EDUC_1109) tiene 169 estudiantes.
+En el periodo académico '202364', el curso 'SOSTENIBILIDAD EMPRESARIAL' (código: ADMI_3024) tiene 330 estudiantes.
+En el periodo académico '202364', el curso 'TEACHING CULTURE IN THE EFL CL' (código: EDUC_4110) tiene 114 estudiantes.
+En el periodo académico '202364', el curso 'TECHNOLOGY IN THE EFL CLASSROO' (código: IDIO_2023) tiene 146 estudiantes.
+En el periodo académico '202364', el curso 'TECNICAS DE INFERENCIA ESTADIS' (código: ESTA_2022) tiene 529 estudiantes.
+En el periodo académico '202364', el curso 'TECNOLOGIAS EMERGENTES' (código: COMP_5023) tiene 27 estudiantes.
+En el periodo académico '202364', el curso 'TEFL METHODOLOGY AND DIDACTICS' (código: EDUC_2089) tiene 139 estudiantes.
+En el periodo académico '202364', el curso 'TEORIA MACROECONOMICA' (código: ECON_2031) tiene 389 estudiantes.
+En el periodo académico '202364', el curso 'TEORIA MICROECONOMICA' (código: ECON_2030) tiene 470 estudiantes.
+En el periodo académico '202364', el curso 'TEORIAS DE ACUMULACION Y CREC' (código: ECON_5039) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'TEORIAS DEL DESARROLLO' (código: ECON_5075) tiene 2 estudiantes.
+En el periodo académico '202364', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: ADMI_5060) tiene 97 estudiantes.
+En el periodo académico '202364', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: CONT_5000) tiene 82 estudiantes.
+En el periodo académico '202364', el curso 'TRABAJO DE TITULACION' (código: FDCE_4043) tiene 45 estudiantes.
+En el periodo académico '202364', el curso 'TRABAJO DE TITULACION CON CURS' (código: UTPL_700) tiene 1 estudiantes.
+En el periodo académico '202364', el curso 'TRABAJO DE TITULACION SIN CURS' (código: UTPL_800) tiene 94 estudiantes.
+En el periodo académico '202364', el curso 'TRANSPORTACION TURISTICA' (código: TURI_2017) tiene 17 estudiantes.
+En el periodo académico '202364', el curso 'TURISMO RURAL Y DESARRO LOCAL' (código: TURI_4019) tiene 3 estudiantes.
+En el periodo académico '202364', el curso 'TURISMO Y HOTELERIA' (código: HOTE_1030) tiene 21 estudiantes.
+En el periodo académico '202364', el curso 'VALORACION DE EMPRESAS' (código: FINZ_5000) tiene 48 estudiantes.
+En el periodo académico '202462', el curso 'ACADEMIC READING AND WRITIN II' (código: EDUC_3183) tiene 140 estudiantes.
+En el periodo académico '202462', el curso 'ACADEMIC READING AND WRITING I' (código: EDUC_3178) tiene 113 estudiantes.
+En el periodo académico '202462', el curso 'ADAPTACIONES CURRICULARES Y DI' (código: EDUC_3185) tiene 131 estudiantes.
+En el periodo académico '202462', el curso 'ADMIN DE CAD DE SUM Y LOG EMPR' (código: ADMI_2030) tiene 268 estudiantes.
+En el periodo académico '202462', el curso 'ADMINISTRACION' (código: ADMI_1109) tiene 373 estudiantes.
+En el periodo académico '202462', el curso 'ADMINISTRACION DE OPERAC Y PR' (código: PIND_2010) tiene 239 estudiantes.
+En el periodo académico '202462', el curso 'ADMINISTRACION DE TECN Y SISTE' (código: ADMI_4095) tiene 299 estudiantes.
+En el periodo académico '202462', el curso 'ADMINISTRACION DE TECNOLOGIAS' (código: SIST_5001) tiene 21 estudiantes.
+En el periodo académico '202462', el curso 'ADMINISTRACION DEL TALENTO HUM' (código: LABO_3002) tiene 343 estudiantes.
+En el periodo académico '202462', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5005) tiene 13 estudiantes.
+En el periodo académico '202462', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5066) tiene 311 estudiantes.
+En el periodo académico '202462', el curso 'ADMINISTRACION FINANCIERA' (código: FINZ_4057) tiene 191 estudiantes.
+En el periodo académico '202462', el curso 'ALGEBRA LINEAL' (código: MATE_1108) tiene 722 estudiantes.
+En el periodo académico '202462', el curso 'ALGORITMOS Y RESOLUCION DE PRO' (código: DSOF_1070) tiene 1 estudiantes.
+En el periodo académico '202462', el curso 'ANA Y VISUAL GRA VOL DE DATOS' (código: DRBD_4016) tiene 23 estudiantes.
+En el periodo académico '202462', el curso 'ANALISIS DE ALGORITMOS' (código: DSOF_2036) tiene 79 estudiantes.
+En el periodo académico '202462', el curso 'ANALISIS DE MERCADOS TURISTICO' (código: TURI_4022) tiene 28 estudiantes.
+En el periodo académico '202462', el curso 'ANALISIS MATEMATICO UNIVARIADO' (código: MATE_1101) tiene 120 estudiantes.
+En el periodo académico '202462', el curso 'ANALISIS TERRITORIAL' (código: ECON_4109) tiene 1 estudiantes.
+En el periodo académico '202462', el curso 'ANTROPOLOGIA BASICA' (código: RELI_2062) tiene 827 estudiantes.
+En el periodo académico '202462', el curso 'ANTROPOLOGIA CULTURAL Y TURIS' (código: TURI_1020) tiene 27 estudiantes.
+En el periodo académico '202462', el curso 'APLIC AUDIT FORENS CICLOS TRAN' (código: CONT_3031) tiene 127 estudiantes.
+En el periodo académico '202462', el curso 'APLICACIONES DE COSTOS' (código: CONT_3030) tiene 172 estudiantes.
+En el periodo académico '202462', el curso 'AREAS PROTEGIDAS' (código: TURI_2014) tiene 18 estudiantes.
+En el periodo académico '202462', el curso 'ARQ Y ORGANIZACION DE COMP' (código: COMP_2010) tiene 74 estudiantes.
+En el periodo académico '202462', el curso 'AUDIT INT Y ADMIN RIESGOS ERM' (código: CONT_4030) tiene 119 estudiantes.
+En el periodo académico '202462', el curso 'AUDITORIA DE GESTION' (código: CONT_4028) tiene 212 estudiantes.
+En el periodo académico '202462', el curso 'AUDITORIA FINANCIERA' (código: FINZ_4056) tiene 191 estudiantes.
+En el periodo académico '202462', el curso 'AUDITORIA INFORMATICA' (código: SIST_5006) tiene 11 estudiantes.
+En el periodo académico '202462', el curso 'BASE DE DATOS AVANZADA' (código: DRBD_2005) tiene 79 estudiantes.
+En el periodo académico '202462', el curso 'CALCULO DIFERENCIAL' (código: MATE_1114) tiene 1 estudiantes.
+En el periodo académico '202462', el curso 'CIUDAD Y TURISMO' (código: TURI_3014) tiene 15 estudiantes.
+En el periodo académico '202462', el curso 'COMERCIO EXTERIOR' (código: COME_1005) tiene 6 estudiantes.
+En el periodo académico '202462', el curso 'COMERCIO EXTERIOR' (código: COME_3002) tiene 202 estudiantes.
+En el periodo académico '202462', el curso 'COMP PARALELA Y DISTRIBUIDA' (código: COMP_4013) tiene 34 estudiantes.
+En el periodo académico '202462', el curso 'COMPETITIVIDAD DESTINOS TURIST' (código: TURI_4015) tiene 13 estudiantes.
+En el periodo académico '202462', el curso 'COMPORTAMIENTO ORGANIZACIONAL' (código: ADMI_4082) tiene 295 estudiantes.
+En el periodo académico '202462', el curso 'COMPOSICION DE TEXTOS CIENTIFI' (código: LITE_1108) tiene 40 estudiantes.
+En el periodo académico '202462', el curso 'CONSTRUCCION DE INDICADORES' (código: ECON_4116) tiene 37 estudiantes.
+En el periodo académico '202462', el curso 'CONTABILIDAD AGRARIA' (código: CONT_4033) tiene 190 estudiantes.
+En el periodo académico '202462', el curso 'CONTABILIDAD CORPORATIVA' (código: CONT_2027) tiene 169 estudiantes.
+En el periodo académico '202462', el curso 'CONTABILIDAD DE COSTOS' (código: CONT_3026) tiene 164 estudiantes.
+En el periodo académico '202462', el curso 'CONTABILIDAD DE COSTOS OPERATI' (código: CONT_2032) tiene 23 estudiantes.
+En el periodo académico '202462', el curso 'CONTABILIDAD DE INSTITUC FINAN' (código: CONT_3025) tiene 182 estudiantes.
+En el periodo académico '202462', el curso 'CONTABILIDAD FINANCIERA' (código: CONT_1085) tiene 227 estudiantes.
+En el periodo académico '202462', el curso 'CONTABILIDAD FINANCIERA AVANZA' (código: CONT_2025) tiene 269 estudiantes.
+En el periodo académico '202462', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5023) tiene 198 estudiantes.
+En el periodo académico '202462', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_2028) tiene 174 estudiantes.
+En el periodo académico '202462', el curso 'CONTRASTIVE GRAMMAR' (código: EDUC_4116) tiene 99 estudiantes.
+En el periodo académico '202462', el curso 'CONTRATACION PUBLICA' (código: DERE_3050) tiene 203 estudiantes.
+En el periodo académico '202462', el curso 'COSMOVISION ANDINA' (código: TURI_4014) tiene 17 estudiantes.
+En el periodo académico '202462', el curso 'COSTOS RELEV PARA TOMA DECISIO' (código: CONT_4029) tiene 57 estudiantes.
+En el periodo académico '202462', el curso 'CUR DSING FR ACADM AND SPCIF P' (código: EDUC_4111) tiene 23 estudiantes.
+En el periodo académico '202462', el curso 'CURRICLM FUNDTS PRNCPLS AND IS' (código: EDUC_4112) tiene 72 estudiantes.
+En el periodo académico '202462', el curso 'CURSO DE ACTUALIZACION' (código: UTPL_3000) tiene 26 estudiantes.
+En el periodo académico '202462', el curso 'DERECHO LABORAL' (código: DERE_1181) tiene 222 estudiantes.
+En el periodo académico '202462', el curso 'DERECHO LABORAL' (código: DERE_3045) tiene 14 estudiantes.
+En el periodo académico '202462', el curso 'DERECHO TRIBUTARIO' (código: DERE_1182) tiene 253 estudiantes.
+En el periodo académico '202462', el curso 'DERECHO TRIBUTARIO' (código: DERE_4054) tiene 280 estudiantes.
+En el periodo académico '202462', el curso 'DESARROLLO BASADO EN PLATAF MO' (código: DSOF_4075) tiene 1 estudiantes.
+En el periodo académico '202462', el curso 'DESARROLLO EMPRES NUEVOS NEGOC' (código: ADMI_3025) tiene 96 estudiantes.
+En el periodo académico '202462', el curso 'DESARROLLO REGIONAL' (código: ECON_3047) tiene 19 estudiantes.
+En el periodo académico '202462', el curso 'DESARROLLO TRAB PRACTICUM 4' (código: TURI_5000) tiene 13 estudiantes.
+En el periodo académico '202462', el curso 'DIRECCION ESTRATEGICA' (código: ADMI_5071) tiene 213 estudiantes.
+En el periodo académico '202462', el curso 'DISCOURSE ANALYSIS' (código: EDUC_4117) tiene 95 estudiantes.
+En el periodo académico '202462', el curso 'DISEÑO DE CIMENTACIONES PRO Y' (código: TIER_1080) tiene 6 estudiantes.
+En el periodo académico '202462', el curso 'DISEÑO DE PRODUCTOS TURISTICOS' (código: TURI_3016) tiene 16 estudiantes.
+En el periodo académico '202462', el curso 'DISEÑO DE SISTEMAS DE COSTOS' (código: CONT_3029) tiene 101 estudiantes.
+En el periodo académico '202462', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: EDUC_4167) tiene 2 estudiantes.
+En el periodo académico '202462', el curso 'E-COMMERCE' (código: ADMI_4083) tiene 181 estudiantes.
+En el periodo académico '202462', el curso 'ECONOMETRIA AVANZADA' (código: ECON_3043) tiene 29 estudiantes.
+En el periodo académico '202462', el curso 'ECONOMETRIA BASICA' (código: ECON_3039) tiene 38 estudiantes.
+En el periodo académico '202462', el curso 'ECONOMIA AMBIENTAL Y DE REC NA' (código: ECON_4108) tiene 1 estudiantes.
+En el periodo académico '202462', el curso 'ECONOMIA DE LA EMPRESA Y MERCA' (código: ECON_2035) tiene 28 estudiantes.
+En el periodo académico '202462', el curso 'ECONOMIA INTERNACIONAL' (código: ECON_5077) tiene 6 estudiantes.
+En el periodo académico '202462', el curso 'ECONOMIA POLITICA' (código: ECON_5076) tiene 34 estudiantes.
+En el periodo académico '202462', el curso 'EL ARTE DE AMAR' (código: RELI_1110) tiene 40 estudiantes.
+En el periodo académico '202462', el curso 'EMPREN CON BASE TECNOLOGICA I' (código: ADMI_5078) tiene 39 estudiantes.
+En el periodo académico '202462', el curso 'EMPRENDIMIENTO' (código: ADMI_4038) tiene 580 estudiantes.
+En el periodo académico '202462', el curso 'ENGLISH LAN: LIST AND SPEAK IV' (código: EDUC_2118) tiene 153 estudiantes.
+En el periodo académico '202462', el curso 'ENGLISH LAN: LISTE AND SPE III' (código: EDUC_3112) tiene 112 estudiantes.
+En el periodo académico '202462', el curso 'ENGLISH LAN: READ AND WRIT III' (código: EDUC_3111) tiene 106 estudiantes.
+En el periodo académico '202462', el curso 'ENGLISH LAN: READ AND WRIT IV' (código: EDUC_2119) tiene 158 estudiantes.
+En el periodo académico '202462', el curso 'ENGLISH LANG: LIST AND SPEA II' (código: FDCE_1075) tiene 210 estudiantes.
+En el periodo académico '202462', el curso 'ENGLISH LANG: LIST AND SPEAK I' (código: FDCE_1074) tiene 241 estudiantes.
+En el periodo académico '202462', el curso 'ENGLISH LANG: READ AND WRIT II' (código: FDCE_1076) tiene 205 estudiantes.
+En el periodo académico '202462', el curso 'ENGLISH LANG: READI AND WRIT I' (código: IDIO_1104) tiene 226 estudiantes.
+En el periodo académico '202462', el curso 'ENGLISH PRON: PHONETI AND PHON' (código: EDUC_3179) tiene 103 estudiantes.
+En el periodo académico '202462', el curso 'ENGLISH SYNTAX' (código: EDUC_4109) tiene 97 estudiantes.
+En el periodo académico '202462', el curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' (código: CONT_1084) tiene 324 estudiantes.
+En el periodo académico '202462', el curso 'ESTABILIDAD DE LADERAS Y TALUD' (código: TIER_1081) tiene 5 estudiantes.
+En el periodo académico '202462', el curso 'ESTADISTICA' (código: ESTA_1044) tiene 24 estudiantes.
+En el periodo académico '202462', el curso 'ESTADISTICA BASICA' (código: ESTA_2031) tiene 188 estudiantes.
+En el periodo académico '202462', el curso 'ESTADISTICA BASICA' (código: ESTA_3023) tiene 571 estudiantes.
+En el periodo académico '202462', el curso 'ESTADISTICA PARA LAS ING Y ARQ' (código: ESTA_2029) tiene 1 estudiantes.
+En el periodo académico '202462', el curso 'ESTRUCTURAS DE DATOS' (código: DSOF_2029) tiene 101 estudiantes.
+En el periodo académico '202462', el curso 'ETICA Y MORAL' (código: FILO_1114) tiene 621 estudiantes.
+En el periodo académico '202462', el curso 'EVALUACION DE PROYECTOS' (código: ADMI_4089) tiene 25 estudiantes.
+En el periodo académico '202462', el curso 'EXAMEN COMPLEXIVO CON CURSO' (código: UTPL_500) tiene 11 estudiantes.
+En el periodo académico '202462', el curso 'EXAMEN COMPLEXIVO SIN CURSO' (código: UTPL_600) tiene 11 estudiantes.
+En el periodo académico '202462', el curso 'FIJACION PREC Y ADMIN DE COSTO' (código: CONT_4026) tiene 96 estudiantes.
+En el periodo académico '202462', el curso 'FILOSOFIA E HISTORIA DE LA EDU' (código: FILO_1117) tiene 255 estudiantes.
+En el periodo académico '202462', el curso 'FINANZAS ESTRUCTURALES' (código: FINZ_3024) tiene 290 estudiantes.
+En el periodo académico '202462', el curso 'FINANZAS OPERATIVAS' (código: FINZ_3023) tiene 242 estudiantes.
+En el periodo académico '202462', el curso 'FINANZAS Y PRESUPUESTOS' (código: TURI_3011) tiene 19 estudiantes.
+En el periodo académico '202462', el curso 'FISICA BASICA' (código: FISI_1039) tiene 109 estudiantes.
+En el periodo académico '202462', el curso 'FORM EVALUAC DE PROYECTOS' (código: ADMI_4126) tiene 169 estudiantes.
+En el periodo académico '202462', el curso 'FORMULACION DE PROYECTOS' (código: ECON_3045) tiene 7 estudiantes.
+En el periodo académico '202462', el curso 'FORMULACION Y EVALUACION DE PR' (código: ADMI_4121) tiene 23 estudiantes.
+En el periodo académico '202462', el curso 'FRANCES I' (código: IDIO_3013) tiene 31 estudiantes.
+En el periodo académico '202462', el curso 'FRANCES II' (código: IDIO_3014) tiene 15 estudiantes.
+En el periodo académico '202462', el curso 'FRANCES III' (código: IDIO_4016) tiene 16 estudiantes.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE ADMINIST FINAN' (código: ADMI_1115) tiene 168 estudiantes.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE ADMINISTRACION' (código: ADMI_1113) tiene 42 estudiantes.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE ANALISIS DE DAT' (código: DRBD_3014) tiene 39 estudiantes.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE BASE DE DATOS' (código: DRBD_2006) tiene 1 estudiantes.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE CONTABILIDAD' (código: CONT_1083) tiene 637 estudiantes.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE ECONOMIA' (código: ECON_1088) tiene 267 estudiantes.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE INGENIERIA DE S' (código: SIST_3012) tiene 1 estudiantes.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE PROGRAMACION' (código: DSOF_1073) tiene 2 estudiantes.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE REDES' (código: DRBD_4012) tiene 51 estudiantes.
+En el periodo académico '202462', el curso 'FUNDAMENTOS MATEMATICOS' (código: MATE_1103) tiene 396 estudiantes.
+En el periodo académico '202462', el curso 'GEOESTADISTICA BASICA' (código: TIER_1062) tiene 5 estudiantes.
+En el periodo académico '202462', el curso 'GEOGRAFIA TURISTICA' (código: HOTE_1047) tiene 39 estudiantes.
+En el periodo académico '202462', el curso 'GEST DE LA CALIDAD DE SOFTWARE' (código: DSOF_3035) tiene 46 estudiantes.
+En el periodo académico '202462', el curso 'GESTION DE CADENA DE VALOR Y C' (código: TURI_5011) tiene 15 estudiantes.
+En el periodo académico '202462', el curso 'GESTION DE LA CALIDAD' (código: ADMI_5067) tiene 282 estudiantes.
+En el periodo académico '202462', el curso 'GESTION DE NUEVOS NEGOCIOS' (código: ADMI_4079) tiene 100 estudiantes.
+En el periodo académico '202462', el curso 'GESTION DEL CONOCIMIENTO' (código: ADMI_3030) tiene 254 estudiantes.
+En el periodo académico '202462', el curso 'GESTION DEL PATRIMONIO CULTU' (código: TURI_2011) tiene 15 estudiantes.
+En el periodo académico '202462', el curso 'GESTION DEL TALENTO HUMANO' (código: ADMI_4094) tiene 21 estudiantes.
+En el periodo académico '202462', el curso 'GESTION E INNOVACION DE DESTIN' (código: TURI_4017) tiene 13 estudiantes.
+En el periodo académico '202462', el curso 'GESTION ESTRATEGICA DE LA INNO' (código: ADMI_7129) tiene 6 estudiantes.
+En el periodo académico '202462', el curso 'GESTION INNOVACION EMPRESARIAL' (código: ADMI_1111) tiene 90 estudiantes.
+En el periodo académico '202462', el curso 'GESTION PUBLICA DEL TURISMO' (código: TURI_4018) tiene 15 estudiantes.
+En el periodo académico '202462', el curso 'GUIANZA' (código: TURI_2016) tiene 18 estudiantes.
+En el periodo académico '202462', el curso 'HABILIDADES GERENCIALES' (código: ADMI_5064) tiene 431 estudiantes.
+En el periodo académico '202462', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1089) tiene 33 estudiantes.
+En el periodo académico '202462', el curso 'HUMANISMO, UNIVERSIDAD Y CULTU' (código: RELI_1105) tiene 895 estudiantes.
+En el periodo académico '202462', el curso 'INCLUSIVE AND SUSTAINABLE EDUC' (código: EDUC_4115) tiene 99 estudiantes.
+En el periodo académico '202462', el curso 'INGENIERIA DE REQUISITOS' (código: DSOF_3039) tiene 46 estudiantes.
+En el periodo académico '202462', el curso 'INTELIG ESTRAT Y METOD INTERNA' (código: ADMI_4081) tiene 195 estudiantes.
+En el periodo académico '202462', el curso 'INTRO AUDITORIA FORENSE EMPRES' (código: CONT_3028) tiene 127 estudiantes.
+En el periodo académico '202462', el curso 'INTRODUC TO EDUCATIO RESEARCH' (código: EDUC_3180) tiene 127 estudiantes.
+En el periodo académico '202462', el curso 'INTRODUCCION A LA ECONOMIA' (código: ECON_1090) tiene 355 estudiantes.
+En el periodo académico '202462', el curso 'INTRODUCCIÓN AL DISEÑO INTERIO' (código: DISE_1032) tiene 8 estudiantes.
+En el periodo académico '202462', el curso 'INTRODUCTION TO LINGUISTICS' (código: EDUC_3189) tiene 112 estudiantes.
+En el periodo académico '202462', el curso 'INVESTIGACION DE MERCADOS' (código: ADMI_3026) tiene 287 estudiantes.
+En el periodo académico '202462', el curso 'INVESTIGACION OPERATIVA TOMA D' (código: DIPP_3001) tiene 267 estudiantes.
+En el periodo académico '202462', el curso 'JORN DE INVES LA CREDIBILIDAD' (código: EDUC_2022) tiene 10 estudiantes.
+En el periodo académico '202462', el curso 'JORNADA DE INVEST Y FORMA ESP' (código: EDUC_4160) tiene 10 estudiantes.
+En el periodo académico '202462', el curso 'LANGUAGE TESTING' (código: EDUC_3177) tiene 118 estudiantes.
+En el periodo académico '202462', el curso 'LECTURA Y REDACCION DE TEXTOS' (código: LITE_1106) tiene 236 estudiantes.
+En el periodo académico '202462', el curso 'LEGISLACION EMPRESARIAL' (código: ADMI_1110) tiene 272 estudiantes.
+En el periodo académico '202462', el curso 'LEGISLACION MERCANTIL Y SOCIET' (código: DERE_2072) tiene 251 estudiantes.
+En el periodo académico '202462', el curso 'LEGISLACION TURISTICA Y AMBIEN' (código: TURI_2013) tiene 25 estudiantes.
+En el periodo académico '202462', el curso 'MACROECONOMIA ABIERTA' (código: ECON_3041) tiene 28 estudiantes.
+En el periodo académico '202462', el curso 'MACROECONOMIA CERRADA' (código: ECON_2034) tiene 4 estudiantes.
+En el periodo académico '202462', el curso 'MANAGEMENT 3.0' (código: ADMI_1117) tiene 13 estudiantes.
+En el periodo académico '202462', el curso 'MARKETING' (código: MERC_4007) tiene 306 estudiantes.
+En el periodo académico '202462', el curso 'MARKETING TURISTICO' (código: MERC_4004) tiene 15 estudiantes.
+En el periodo académico '202462', el curso 'MATEMATICA BASICA' (código: MATE_1106) tiene 269 estudiantes.
+En el periodo académico '202462', el curso 'MATEMATICA FINANCIERA' (código: MATE_1109) tiene 504 estudiantes.
+En el periodo académico '202462', el curso 'MATRIMONIO Y FAMILIA' (código: RELI_1033) tiene 51 estudiantes.
+En el periodo académico '202462', el curso 'MERCADO DE VALORES' (código: COME_5000) tiene 22 estudiantes.
+En el periodo académico '202462', el curso 'METH TO ADOLESCENTS AND ADULTS' (código: EDUC_3188) tiene 108 estudiantes.
+En el periodo académico '202462', el curso 'METHO FOR ACADEMIC PURPOSES' (código: EDUC_3187) tiene 24 estudiantes.
+En el periodo académico '202462', el curso 'METHODO FOR TEAC ENGL TO CHILD' (código: EDUC_3191) tiene 77 estudiantes.
+En el periodo académico '202462', el curso 'METHODOLOGY FOR TEACHING ENGLI' (código: EDUC_3182) tiene 39 estudiantes.
+En el periodo académico '202462', el curso 'METODOS DE VALOR DE EMPRESAS' (código: ADMI_5065) tiene 242 estudiantes.
+En el periodo académico '202462', el curso 'MICROECONOMIA APLICADA' (código: ECON_3042) tiene 6 estudiantes.
+En el periodo académico '202462', el curso 'MODELOS ECONOMETRICOS' (código: ECON_3040) tiene 5 estudiantes.
+En el periodo académico '202462', el curso 'MODELOS OPTIMIZA PARA USO DE R' (código: ECON_4110) tiene 1 estudiantes.
+En el periodo académico '202462', el curso 'NEGOCIOS INTERNACIONALES' (código: COME_3003) tiene 183 estudiantes.
+En el periodo académico '202462', el curso 'NEURO MARKT Y TEORIAS DE INFOR' (código: TURI_4021) tiene 3 estudiantes.
+En el periodo académico '202462', el curso 'NEUROCIENCIA Y PSICOL DEL DESA' (código: PSIC_1104) tiene 123 estudiantes.
+En el periodo académico '202462', el curso 'NUEVAS ALTERNATIVAS DE TURISMO' (código: TURI_2018) tiene 34 estudiantes.
+En el periodo académico '202462', el curso 'ORDENAMIENTO TURISTICO TERRITO' (código: TURI_5013) tiene 7 estudiantes.
+En el periodo académico '202462', el curso 'ORGANIZACION DE EVENTOS Y PROT' (código: TURI_2015) tiene 19 estudiantes.
+En el periodo académico '202462', el curso 'ORGANIZACION INDUSTRIAL' (código: PIND_5008) tiene 7 estudiantes.
+En el periodo académico '202462', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: ADMI_5046) tiene 79 estudiantes.
+En el periodo académico '202462', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: TURI_5006) tiene 7 estudiantes.
+En el periodo académico '202462', el curso 'PATRIMONIO NATURAL Y BIODIVERS' (código: TURI_3013) tiene 23 estudiantes.
+En el periodo académico '202462', el curso 'PEDAGOGIA' (código: EDUC_3113) tiene 119 estudiantes.
+En el periodo académico '202462', el curso 'PERIODO ADICIONAL 1' (código: UTPL_4000) tiene 2 estudiantes.
+En el periodo académico '202462', el curso 'PERIODO ADICIONAL 2' (código: UTPL_5000) tiene 2 estudiantes.
+En el periodo académico '202462', el curso 'PLANIFICACION DE DESTINOS TURI' (código: TURI_4016) tiene 27 estudiantes.
+En el periodo académico '202462', el curso 'PLANIFICACION Y GEST DESA SOST' (código: ECON_4114) tiene 4 estudiantes.
+En el periodo académico '202462', el curso 'PLANIFICACION Y ORDENAM TERRIT' (código: ECON_4113) tiene 31 estudiantes.
+En el periodo académico '202462', el curso 'PLATAFORMAS PARA JUEGOS' (código: DSOF_4071) tiene 13 estudiantes.
+En el periodo académico '202462', el curso 'PLATAFORMAS WEB' (código: DSOF_3038) tiene 15 estudiantes.
+En el periodo académico '202462', el curso 'POLITICA AMBIENTAL' (código: ECON_3046) tiene 22 estudiantes.
+En el periodo académico '202462', el curso 'POLITICA ECONOMICA' (código: ECON_3044) tiene 4 estudiantes.
+En el periodo académico '202462', el curso 'POLITICA PUBLICA Y MARCO LEGA' (código: FDCE_2030) tiene 243 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICA TRIBUTARIA' (código: CONT_2026) tiene 193 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 1' (código: ADMI_2029) tiene 362 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 1' (código: CONT_2029) tiene 195 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 1' (código: ECON_2037) tiene 37 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 1' (código: EDUC_2120) tiene 168 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 1' (código: TURI_2010) tiene 22 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 1.2' (código: COMP_2012) tiene 74 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 2' (código: ADMI_3027) tiene 249 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 2' (código: CONT_3037) tiene 144 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 2' (código: ECON_3053) tiene 4 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 2' (código: EDUC_3181) tiene 97 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 2' (código: TURI_3017) tiene 18 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 2.2' (código: COMP_3014) tiene 50 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 3' (código: ADMI_4080) tiene 315 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 3' (código: EDUC_3186) tiene 138 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 3 SERVICIO COMUN' (código: ECON_3054) tiene 26 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 3 SERVICIO COMUNITA' (código: CONT_3038) tiene 214 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: TURI_3012) tiene 22 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1' (código: COMP_4015) tiene 34 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1' (código: EDUC_4107) tiene 111 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1' (código: TURI_4020) tiene 22 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: ADMI_4087) tiene 261 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: CONT_4032) tiene 194 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1:TRABAJO DE INT E' (código: ECON_4115) tiene 6 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 4.2' (código: EDUC_4114) tiene 86 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 4.2' (código: TURI_5010) tiene 7 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: ADMI_5068) tiene 217 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: CONT_4034) tiene 172 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM 4.2:TRABAJO DE INTEG' (código: ECON_5074) tiene 31 estudiantes.
+En el periodo académico '202462', el curso 'PRACTICUM ACADE 3 ASESORIA TT' (código: FDCE_4028) tiene 12 estudiantes.
+En el periodo académico '202462', el curso 'PRINCIPIOS DE AUDITORIA' (código: CONT_3027) tiene 181 estudiantes.
+En el periodo académico '202462', el curso 'PRINCIPIOS DE MACROECONOMIA' (código: ECON_2033) tiene 41 estudiantes.
+En el periodo académico '202462', el curso 'PRINCIPIOS DE MICROECONOMIA' (código: ECON_2032) tiene 2 estudiantes.
+En el periodo académico '202462', el curso 'PRINCIPIOS DEL TURISMO' (código: HOTE_1045) tiene 38 estudiantes.
+En el periodo académico '202462', el curso 'PROC DE INGENIERIA DE SOFTWARE' (código: DSOF_5001) tiene 7 estudiantes.
+En el periodo académico '202462', el curso 'PROG ORIENTADA A OBJETOS' (código: DSOF_2034) tiene 100 estudiantes.
+En el periodo académico '202462', el curso 'PROGRAMACION AVANZADA' (código: COMP_4011) tiene 79 estudiantes.
+En el periodo académico '202462', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_3108) tiene 29 estudiantes.
+En el periodo académico '202462', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4105) tiene 297 estudiantes.
+En el periodo académico '202462', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4106) tiene 301 estudiantes.
+En el periodo académico '202462', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4118) tiene 26 estudiantes.
+En el periodo académico '202462', el curso 'PRORROGA 1' (código: UTPL_1000) tiene 61 estudiantes.
+En el periodo académico '202462', el curso 'PRORROGA 2' (código: UTPL_2000) tiene 15 estudiantes.
+En el periodo académico '202462', el curso 'PROSPECTIVA EMPRESARIAL Y A' (código: ADMI_4092) tiene 268 estudiantes.
+En el periodo académico '202462', el curso 'PROTOTIPADO' (código: DSOF_3036) tiene 80 estudiantes.
+En el periodo académico '202462', el curso 'PROYEC DE FIN DE CARRER GP4.2' (código: COMP_5009) tiene 19 estudiantes.
+En el periodo académico '202462', el curso 'PROYECTOS' (código: ADMI_4090) tiene 286 estudiantes.
+En el periodo académico '202462', el curso 'RECURSOS TANGIB E INTANGIB' (código: TURI_3015) tiene 9 estudiantes.
+En el periodo académico '202462', el curso 'RELACIONES PUB Y PROTOCOLO' (código: HOTE_1040) tiene 43 estudiantes.
+En el periodo académico '202462', el curso 'REPRESENT AVAN CONOCI Y RAZON' (código: COMP_4014) tiene 35 estudiantes.
+En el periodo académico '202462', el curso 'RESEARCH METHODS IN ELT' (código: EDUC_3184) tiene 134 estudiantes.
+En el periodo académico '202462', el curso 'RESPONSABILIDAD SOCIAL EMPRE' (código: ADMI_4088) tiene 241 estudiantes.
+En el periodo académico '202462', el curso 'SECOND LANGUAGE ACQUISITION' (código: EDUC_4113) tiene 101 estudiantes.
+En el periodo académico '202462', el curso 'SEMANTICS AND PRAGMATICS' (código: EDUC_4108) tiene 109 estudiantes.
+En el periodo académico '202462', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ADMI_5047) tiene 70 estudiantes.
+En el periodo académico '202462', el curso 'SEMINARIO DE FIN DE CARRERA' (código: FDCE_4031) tiene 18 estudiantes.
+En el periodo académico '202462', el curso 'SISTEMAS DE COSTOS' (código: CONT_2035) tiene 350 estudiantes.
+En el periodo académico '202462', el curso 'SISTEMAS TECNOLOGICOS APLICADO' (código: TURI_4013) tiene 21 estudiantes.
+En el periodo académico '202462', el curso 'SOCIOLOGIA DE LA EDUCACION' (código: EDUC_1109) tiene 252 estudiantes.
+En el periodo académico '202462', el curso 'SOSTENIBILIDAD EMPRESARIAL' (código: ADMI_3024) tiene 255 estudiantes.
+En el periodo académico '202462', el curso 'TEACHING CULTURE IN THE EFL CL' (código: EDUC_4110) tiene 97 estudiantes.
+En el periodo académico '202462', el curso 'TECHNOLOGY IN THE EFL CLASSROO' (código: IDIO_2023) tiene 195 estudiantes.
+En el periodo académico '202462', el curso 'TECNICAS DE INFERENCIA ESTADIS' (código: ESTA_2022) tiene 442 estudiantes.
+En el periodo académico '202462', el curso 'TECNOLOGIA APLICADA' (código: ADMI_7132) tiene 6 estudiantes.
+En el periodo académico '202462', el curso 'TEFL METHODOLOGY AND DIDACTICS' (código: EDUC_2089) tiene 188 estudiantes.
+En el periodo académico '202462', el curso 'TEORIA DE AUTOMATAS Y COMPILAD' (código: COMP_3012) tiene 51 estudiantes.
+En el periodo académico '202462', el curso 'TEORIA MACROECONOMICA' (código: ECON_2031) tiene 409 estudiantes.
+En el periodo académico '202462', el curso 'TEORIA MICROECONOMICA' (código: ECON_2030) tiene 443 estudiantes.
+En el periodo académico '202462', el curso 'TEORIAS DEL DESARROLLO' (código: ECON_5075) tiene 35 estudiantes.
+En el periodo académico '202462', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: ADMI_5060) tiene 93 estudiantes.
+En el periodo académico '202462', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: CONT_5000) tiene 62 estudiantes.
+En el periodo académico '202462', el curso 'TRABAJO DE TITULACION' (código: FDCE_4043) tiene 31 estudiantes.
+En el periodo académico '202462', el curso 'TRABAJO DE TITULACION SIN CURS' (código: UTPL_800) tiene 86 estudiantes.
+En el periodo académico '202462', el curso 'TRANSPORTACION TURISTICA' (código: TURI_2017) tiene 13 estudiantes.
+En el periodo académico '202462', el curso 'TURISMO RURAL Y DESARRO LOCAL' (código: TURI_4019) tiene 7 estudiantes.
+En el periodo académico '202462', el curso 'TURISMO Y HOTELERIA' (código: HOTE_1030) tiene 26 estudiantes.
+En el periodo académico '202462', el curso 'VALORACION DE EMPRESAS' (código: FINZ_5000) tiene 20 estudiantes.
+En el periodo académico '202462', el curso 'VOLADURA DE ROCAS' (código: MINE_4001) tiene 2 estudiantes.

@@ -1,0 +1,4 @@
+periodo_academico: 202264, matriculados: 7335
+periodo_academico: 202362, matriculados: 7433
+periodo_academico: 202364, matriculados: 7683
+periodo_academico: 202462, matriculados: 7214

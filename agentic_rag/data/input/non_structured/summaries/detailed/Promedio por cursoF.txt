@@ -1,0 +1,561 @@
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 6.847528830313015 en el curso 'FUNDAMENTOS DE ECONOMIA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.584793152639087 en el curso 'PRACTICUM 3 SERVICIO COMUNITA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.06 en el curso 'JORNADA DE INVESTIGACION TEMAT'.
+El programa 'COMPUTACION' tiene un promedio final de 6.814 en el curso 'INTELIGENCIA ARTIFICIAL'.
+El programa 'COMPUTACION' tiene un promedio final de 8.436181818181817 en el curso 'ARQUITECTURA DE SOFTWARE'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.711153846153846 en el curso 'FUNDAMENTOS INFORMATICOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 9.05 en el curso 'DESARROLLO ESPIRITUAL III'.
+El programa 'TURISMO' tiene un promedio final de 7.6421052631578945 en el curso 'DOCTRINA SOCIAL DE LA IGLESIA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.237836411609498 en el curso 'APLIC AUDIT FORENS CICLOS TRAN'.
+El programa 'COMPUTACION' tiene un promedio final de 8.052977099236642 en el curso 'LOGICA DIGITAL'.
+El programa 'TURISMO' tiene un promedio final de 7.9520202020202015 en el curso 'PATRIMONIO NATURAL Y BIODIVERS'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.773 en el curso 'EL ARTE DE AMAR'.
+El programa 'COMPUTACION' tiene un promedio final de 8.123012048192772 en el curso 'INTRODUCCION A LA INTELIGENCIA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.079809523809523 en el curso 'AUDITORIA III'.
+El programa 'TURISMO' tiene un promedio final de 7.792941176470589 en el curso 'FRANCES IV'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.454 en el curso 'DESARROLLO ECONOMICO'.
+El programa 'TURISMO' tiene un promedio final de 7.422345679012346 en el curso 'ANTROPOLOGIA BASICA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.161666666666665 en el curso 'HISTORIA DEL PENSAMIENTO ECONO'.
+El programa 'COMPUTACION' tiene un promedio final de 7.916551724137931 en el curso 'PLATAFORMAS MOVILES'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 6.828571428571429 en el curso 'PASANTIAS PRE-PROF PRACTICUM 1'.
+El programa 'TURISMO' tiene un promedio final de 4.391666666666667 en el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ'.
+El programa 'TURISMO' tiene un promedio final de 7.506 en el curso 'MANAGEMENT 3.0'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.99954128440367 en el curso 'MATRIMONIO Y FAMILIA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 6.888496168582376 en el curso 'FILOSOFIA E HISTORIA DE LA EDU'.
+El programa 'ECONOMIA' tiene un promedio final de 7.41 en el curso 'GESTION PRODUCTIVA GP 4.2'.
+El programa 'COMPUTACION' tiene un promedio final de 9.338181818181818 en el curso 'PRACTICUM 4.1'.
+El programa 'COMPUTACION' tiene un promedio final de 8.085648854961832 en el curso 'ECUACIONES DIFER Y MET NUMER'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 6.455859375 en el curso 'VALORACION DE EMPRESAS'.
+El programa 'TURISMO' tiene un promedio final de 8.010588235294117 en el curso 'GESTION PUBLICA DEL TURISMO'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.43952380952381 en el curso 'FAMILIA Y EDUCACION: RETOS Y D'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 6.625294117647059 en el curso 'FILOSOFIA DE LA EDUCACION'.
+El programa 'COMPUTACION' tiene un promedio final de 8.65 en el curso 'MODELAMIENTO GEOLOGICO CON LEA'.
+El programa 'COMPUTACION' tiene un promedio final de 8.635 en el curso 'CICLO DEL MERCURIO EN LA NATUR'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.923658536585366 en el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.66488888888889 en el curso 'FINANZAS II'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.142745098039214 en el curso 'ANTROPOLOGIA BASICA'.
+El programa 'TURISMO' tiene un promedio final de 8.83734693877551 en el curso 'PASANT PRE-PROF PRACTICUM 3.2'.
+El programa 'COMPUTACION' tiene un promedio final de 8.580120481927713 en el curso 'INGENIERIA DE REQUISITOS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.461042228212039 en el curso 'GESTION DE LA CALIDAD'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.523373639661427 en el curso 'ALGEBRA LINEAL'.
+El programa 'COMPUTACION' tiene un promedio final de 8.719692307692307 en el curso 'PROTOTIPADO'.
+El programa 'ECONOMIA' tiene un promedio final de 8.258695652173914 en el curso 'ANALISIS MATEMATICO UNIVARIADO'.
+El programa 'COMPUTACION' tiene un promedio final de 7.961830985915493 en el curso 'PROG FUNCIONAL Y REACTIVA'.
+El programa 'TURISMO' tiene un promedio final de 7.522441860465117 en el curso 'GESTION DEL PATRIMONIO CULTU'.
+El programa 'COMPUTACION' tiene un promedio final de 8.32 en el curso 'FUNDAMENTOS DE HARDWARE'.
+El programa 'ECONOMIA' tiene un promedio final de 9.051369863013697 en el curso 'ANTROPOLOGIA BASICA'.
+El programa 'TURISMO' tiene un promedio final de 5.944285714285714 en el curso 'ECONOMIA POPULAR Y SOLIDARIA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.647542857142858 en el curso 'DISEÑO DE SISTEMAS DE COSTOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.968444444444445 en el curso 'RELACIONES PUB Y PROTOCOLO'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.892564102564102 en el curso 'DOCTRINA SOCIAL DE LA IGLESIA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 6.614340796019901 en el curso 'FUNDAMENTOS MATEMATICOS'.
+El programa 'ECONOMIA' tiene un promedio final de 8.163333333333332 en el curso 'CONSTRUCCION DE INDICADORES'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.192533062054934 en el curso 'HUMANISMO, UNIVERSIDAD Y CULTU'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.213061224489797 en el curso 'PRACTICUM 4.2'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 5.992857142857143 en el curso 'AUDITORIA I'.
+El programa 'TURISMO' tiene un promedio final de 8.322 en el curso 'PRACTICUM 4.1'.
+El programa 'COMPUTACION' tiene un promedio final de 8.171944444444446 en el curso 'TECNOLOGIAS EMERGENTES'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.526602870813397 en el curso 'INTELIG ESTRAT Y METOD INTERNA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 6.840476190476191 en el curso 'CURSO DE ACTUALIZACION'.
+El programa 'ECONOMIA' tiene un promedio final de 6.8925 en el curso 'MANAGEMENT 3.0'.
+El programa 'TURISMO' tiene un promedio final de 8.400869565217391 en el curso 'GESTION DE CADENA DE VALOR Y C'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.873333333333333 en el curso 'INTRODUCCION A LA ECONOMIA'.
+El programa 'COMPUTACION' tiene un promedio final de 9.096666666666666 en el curso 'DISEÑO PARAM Y FABRIC DIGITAL'.
+El programa 'TURISMO' tiene un promedio final de 8.586666666666666 en el curso 'JORN DE INVES LA CREDIBILIDAD'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.907693574958813 en el curso 'TECHNOLOGY IN THE EFL CLASSROO'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.5236 en el curso 'ANTROPOLOGIA'.
+El programa 'ECONOMIA' tiene un promedio final de 8.863835616438354 en el curso 'EMPRENDIMIENTO'.
+El programa 'COMPUTACION' tiene un promedio final de 9.101454545454544 en el curso 'COMP PARALELA Y DISTRIBUIDA'.
+El programa 'COMPUTACION' tiene un promedio final de 10.0 en el curso 'ETICA DE LA INTELIGENCIA ARTIF'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.648769841269842 en el curso 'ENGLISH LAN: LISTE AND SPE III'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.0775 en el curso 'JORNADA DE INVESTIGACION TEMAT'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.151835294117646 en el curso 'MARKETING'.
+El programa 'TURISMO' tiene un promedio final de 8.002790697674417 en el curso 'GESTION E INNOVACION DE DESTIN'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.761913580246913 en el curso 'ETICA Y MORAL'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.77 en el curso 'CARACTERIZACION DE MATERIALES'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.590617647058822 en el curso 'TEACHING CULTURE IN THE EFL CL'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.547083333333333 en el curso 'PROYECTOS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.432445652173914 en el curso 'DESARROLLO EMPRES NUEVOS NEGOC'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.427480314960631 en el curso 'INTRODUCTION TO LINGUISTICS'.
+El programa 'TURISMO' tiene un promedio final de 8.913125 en el curso 'NEURO MARKT Y TEORIAS DE INFOR'.
+El programa 'ECONOMIA' tiene un promedio final de 7.710769230769232 en el curso 'EVALUACION DE PROYECTOS'.
+El programa 'TURISMO' tiene un promedio final de 9.12 en el curso 'HISTORIA DEL PENSAMIENTO ECONO'.
+El programa 'ECONOMIA' tiene un promedio final de 7.691973684210526 en el curso 'MATEMATICA FINANCIERA'.
+El programa 'COMPUTACION' tiene un promedio final de 7.5592814371257475 en el curso 'ALGEBRA LINEAL'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.7975 en el curso 'FAMILIA Y EDUCACION: RETOS Y D'.
+El programa 'COMPUTACION' tiene un promedio final de 9.407692307692308 en el curso 'ANA Y VISUAL GRA VOL DE DATOS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.494219015280134 en el curso 'INVESTIGACION DE MERCADOS'.
+El programa 'ECONOMIA' tiene un promedio final de 8.0755 en el curso 'FUNDAMENTOS DE CONTABILIDAD'.
+El programa 'TURISMO' tiene un promedio final de 7.648048780487806 en el curso 'COSMOVISION ANDINA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.12 en el curso 'EXPRESION ORAL Y ESCRITA'.
+El programa 'COMPUTACION' tiene un promedio final de 7.509615384615384 en el curso 'PROYEC DE FIN DE CARRER GP4.1'.
+El programa 'COMPUTACION' tiene un promedio final de 8.425 en el curso 'FUND DEL LENGUAJE VISUAL'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.363192771084337 en el curso 'DOCTRINA SOCIAL DE LA IGLESIA'.
+El programa 'COMPUTACION' tiene un promedio final de 7.720277777777779 en el curso 'GESTION DE PROYECTOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.249038461538461 en el curso 'TURISMO Y HOTELERIA'.
+El programa 'TURISMO' tiene un promedio final de 8.608823529411763 en el curso 'FUNDAMENTOS INFORMATICOS'.
+El programa 'COMPUTACION' tiene un promedio final de 6.4882608695652175 en el curso 'ARQ Y SEGURIDAD DE REDES'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.544444444444445 en el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.391022364217251 en el curso 'METHODO FOR TEAC ENGL TO CHILD'.
+El programa 'TURISMO' tiene un promedio final de 8.095714285714285 en el curso 'EL ARTE DE AMAR'.
+El programa 'COMPUTACION' tiene un promedio final de 7.406666666666665 en el curso 'INTELIGENCIA DE NEGOCIOS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.34326677316294 en el curso 'GESTION DEL CONOCIMIENTO'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.298240165631471 en el curso 'ENGLISH LAN: READ AND WRIT IV'.
+El programa 'ECONOMIA' tiene un promedio final de 7.635555555555555 en el curso 'PLANIFICACION Y GEST DESA SOST'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.984864864864866 en el curso 'ADMINISTRACION ESTRATEGICA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 6.498571428571429 en el curso 'CURSO DE ACTUALIZACION'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.906705685618729 en el curso 'ENGLISH LANG: READ AND WRIT II'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.288947368421052 en el curso 'PASANTIA PRE-PRO2'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 6.37375 en el curso 'JORNADA DE INVESTIGACION TEMAT'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 9.162659574468083 en el curso 'TECNICAS DE INFERENCIA ESTADIS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.555489478499543 en el curso 'EMPRENDIMIENTO'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 6.2800307377049185 en el curso 'ENGLISH LANG: LIST AND SPEAK I'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 6.805873015873016 en el curso 'CULTURE AND LITERATURE IN ENGL'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 6.632570900123305 en el curso 'ADMINISTRACION'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 4.446666666666666 en el curso 'FINANZAS II'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.050654574132492 en el curso 'SOSTENIBILIDAD EMPRESARIAL'.
+El programa 'COMPUTACION' tiene un promedio final de 7.580952380952381 en el curso 'FUNDAMENTOS MATEMATICOS'.
+El programa 'COMPUTACION' tiene un promedio final de 7.4384375 en el curso 'PROGRAMACION AVANZADA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 10.0 en el curso 'JORNADA DE ASESORIA DE SISTEMA'.
+El programa 'TURISMO' tiene un promedio final de 7.321521739130435 en el curso 'ANALISIS DE MERCADOS TURISTICO'.
+El programa 'COMPUTACION' tiene un promedio final de 8.802413793103447 en el curso 'PLATAFORMAS PARA JUEGOS'.
+El programa 'TURISMO' tiene un promedio final de 8.099583333333333 en el curso 'AREAS PROTEGIDAS'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 6.192307692307692 en el curso 'EDUCATIONAL RESEARCH I'.
+El programa 'TURISMO' tiene un promedio final de 7.940769230769232 en el curso 'EMPRENDIMIENTO'.
+El programa 'COMPUTACION' tiene un promedio final de 8.850322580645162 en el curso 'ARQ Y ORGANIZACION DE COMP'.
+El programa 'ECONOMIA' tiene un promedio final de 7.9896875 en el curso 'MACROECONOMIA CERRADA'.
+El programa 'COMPUTACION' tiene un promedio final de 5.9175 en el curso 'ADMINISTRACION I'.
+El programa 'COMPUTACION' tiene un promedio final de 8.2 en el curso 'VOLADURA DE ROCAS'.
+El programa 'COMPUTACION' tiene un promedio final de 9.058139534883722 en el curso 'EMPRENDIMIENTO'.
+El programa 'COMPUTACION' tiene un promedio final de 7.96 en el curso 'GESTION DE LA CALIDAD DEL SOFT'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.445 en el curso 'INTRO A LA CAD DE VALOR EN CAF'.
+El programa 'COMPUTACION' tiene un promedio final de 8.33 en el curso 'FUNDAMENTOS Y APLICACION DE SE'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.242662057044079 en el curso 'ANTROPOLOGIA BASICA'.
+El programa 'TURISMO' tiene un promedio final de 9.15 en el curso 'FINTECH BANCA 4.0'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.824745762711864 en el curso 'MANAGEMENT 3.0'.
+El programa 'TURISMO' tiene un promedio final de 6.987340425531914 en el curso 'PROPUESTA DE INVESTIGACION'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 9.021319444444444 en el curso 'TEORIA MACROECONOMICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 9.35 en el curso 'JORNADA DE INVEST Y FORMA ESP'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.04623348017621 en el curso 'ACADEMIC READING AND WRITIN II'.
+El programa 'TURISMO' tiene un promedio final de 8.57 en el curso 'JORNADA DE INVEST Y FORMA ESP'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.146135458167329 en el curso 'POLITICA PUBLICA Y MARCO LEGA'.
+El programa 'COMPUTACION' tiene un promedio final de 0.6 en el curso 'ALGORITMOS Y RESOLUCION DE PRO'.
+El programa 'TURISMO' tiene un promedio final de 7.655116279069766 en el curso 'FRANCES II'.
+El programa 'ECONOMIA' tiene un promedio final de 8.205945945945947 en el curso 'TECNICAS DE INFERENCIA ESTADIS'.
+El programa 'COMPUTACION' tiene un promedio final de 9.13983606557377 en el curso 'FUNDAMENTOS DE ANALISIS DE DAT'.
+El programa 'ECONOMIA' tiene un promedio final de 7.826666666666665 en el curso 'HISTORIA DEL PENSAMIENTO ECONO'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.649659090909092 en el curso 'METH TO ADOLESCENTS AND ADULTS'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.765094664371773 en el curso 'LANGUAGE TESTING'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.112935779816516 en el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.837692307692307 en el curso 'MERCADO DE VALORES'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.961304347826086 en el curso 'ETICA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 9.54 en el curso 'GESTION PRODUCTIVA 4.2'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.2425 en el curso 'ETICA DE LA INTELIGENCIA ARTIF'.
+El programa 'COMPUTACION' tiene un promedio final de 8.815 en el curso 'PLANIFICACION SUBTERRANEA'.
+El programa 'ECONOMIA' tiene un promedio final de 9.33333333333333 en el curso 'PRACTICUM 3 SERVICIO COMUN'.
+El programa 'COMPUTACION' tiene un promedio final de 8.751807228915663 en el curso 'PRACTICUM 2.2'.
+El programa 'COMPUTACION' tiene un promedio final de 8.26 en el curso 'ANALISIS DE ALGORITMOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.94213197969543 en el curso 'ETICA Y MORAL'.
+El programa 'TURISMO' tiene un promedio final de 4.645 en el curso 'ETICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.325828804347825 en el curso 'FUNDAMENTOS DE ADMINIST FINAN'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.748508946322067 en el curso 'PRACTICUM 1'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.272487804878049 en el curso 'FORM EVALUAC DE PROYECTOS'.
+El programa 'COMPUTACION' tiene un promedio final de 10.0 en el curso 'AEROGRAFIA'.
+El programa 'ECONOMIA' tiene un promedio final de 8.396447368421052 en el curso 'HISTORIA ECONOMICA DEL ECUADOR'.
+El programa 'ECONOMIA' tiene un promedio final de 7.702179487179486 en el curso 'ECONOMIA AMBIENTAL Y DE REC NA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.303378746594005 en el curso 'LEGISLACION EMPRESARIAL'.
+El programa 'ECONOMIA' tiene un promedio final de 8.51 en el curso 'DESARROLLO ECONOMICO'.
+El programa 'ECONOMIA' tiene un promedio final de 8.70638888888889 en el curso 'ETICA Y MORAL'.
+El programa 'ECONOMIA' tiene un promedio final de 8.352857142857143 en el curso 'PRACTICUM 4.1:TRABAJO DE INT E'.
+El programa 'COMPUTACION' tiene un promedio final de 7.718461538461538 en el curso 'INTE ARTIFICIAL AVANZADO'.
+El programa 'ECONOMIA' tiene un promedio final de 4.5125 en el curso 'POLITICA ECONOMICA II'.
+El programa 'TURISMO' tiene un promedio final de 5.447019867549669 en el curso 'GEOGRAFIA TURISTICA'.
+El programa 'TURISMO' tiene un promedio final de 6.06 en el curso 'CURSO DE ACTUALIZACION'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.447959183673468 en el curso 'AUDITORIA FINANCIERA'.
+El programa 'ECONOMIA' tiene un promedio final de 7.753414634146341 en el curso 'ECONOMIA DE LA EMPRESA Y MERCA'.
+El programa 'TURISMO' tiene un promedio final de 8.573076923076924 en el curso 'COMPETITIVIDAD DESTINOS TURIST'.
+El programa 'ECONOMIA' tiene un promedio final de 8.023561643835617 en el curso 'ECONOMETRIA BASICA'.
+El programa 'COMPUTACION' tiene un promedio final de 5.323333333333332 en el curso 'URBANIZACION Y CAMBIO CLIMATIC'.
+El programa 'TURISMO' tiene un promedio final de 8.862631578947369 en el curso 'DESARROLLO TRAB PRACTICUM 4'.
+El programa 'COMPUTACION' tiene un promedio final de 6.913 en el curso 'PROC DE INGENIERIA DE SOFTWARE'.
+El programa 'COMPUTACION' tiene un promedio final de 7.35 en el curso 'DESARROLLO BASADO EN PLAT WEB'.
+El programa 'COMPUTACION' tiene un promedio final de 7.997083333333332 en el curso 'PLATAFORMAS WEB'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 9.16887658227848 en el curso 'PRACTICUM 2'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.19 en el curso 'URBANIZACION Y CAMBIO CLIMATIC'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.698619246861924 en el curso 'INTRO AUDITORIA FORENSE EMPRES'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.289266862170088 en el curso 'PROPUESTA DE INVESTIGACION'.
+El programa 'COMPUTACION' tiene un promedio final de 8.418 en el curso 'RELACIONES PUB Y PROTOCOLO'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.165046641791044 en el curso 'DERECHO TRIBUTARIO'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.2225 en el curso 'ETICA'.
+El programa 'COMPUTACION' tiene un promedio final de 7.823023255813953 en el curso 'BASE DE DATOS AVANZADA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.34253846153846 en el curso 'ALGEBRA LINEAL'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.305207877461706 en el curso 'ENGLISH LAN: LIST AND SPEAK IV'.
+El programa 'COMPUTACION' tiene un promedio final de 8.283333333333333 en el curso 'DESARROLLO BASADO EN PLATAF MO'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.444406779661017 en el curso 'RELACIONES PUB Y PROTOCOLO'.
+El programa 'COMPUTACION' tiene un promedio final de 8.2 en el curso 'TRATAMIENTO Y EDICION DE IMAGE'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.618099315068493 en el curso 'CONTABILIDAD DE INSTITUC FINAN'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 9.104176136363636 en el curso 'TECNICAS DE INFERENCIA ESTADIS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.811666666666666 en el curso 'EL ARTE DE AMAR'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.134647550776584 en el curso 'HUMANISMO, UNIVERSIDAD Y CULTU'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.098383027522935 en el curso 'COMERCIO EXTERIOR'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.634880952380952 en el curso 'TEORIA MICROECONOMICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.221497227356746 en el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.585384615384615 en el curso 'RADIO Y NUEVAS TECNOLOGIAS'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.143025477707006 en el curso 'ENGLISH SYNTAX'.
+El programa 'TURISMO' tiene un promedio final de 7.984320987654321 en el curso 'PRACTICUM 3 SERVICIO COMUNITAR'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.11342939481268 en el curso 'PRACTICUM 1'.
+El programa 'TURISMO' tiene un promedio final de 8.011333333333333 en el curso 'FORMULACION Y EVALUACION DE PR'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.097948717948718 en el curso 'INTELIGENCIA EMOCIONAL'.
+El programa 'COMPUTACION' tiene un promedio final de 0.0 en el curso 'GEST DE TECN DE LA INFO'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 6.606060606060606 en el curso 'FINANZAS I'.
+El programa 'ECONOMIA' tiene un promedio final de 8.416712328767122 en el curso 'ANA MATEMATICO MULTIVARIADO'.
+El programa 'COMPUTACION' tiene un promedio final de 8.26 en el curso 'PYTHON INTERMEDIO APLICADO A L'.
+El programa 'COMPUTACION' tiene un promedio final de 7.543333333333333 en el curso 'ARTE ESCENICO Y EXPRESION ORAL'.
+El programa 'ECONOMIA' tiene un promedio final de 8.414025974025975 en el curso 'FUNDAMENTOS DE ADMINISTRACION'.
+El programa 'COMPUTACION' tiene un promedio final de 8.800506329113924 en el curso 'GEST DE LA CALIDAD DE SOFTWARE'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 5.602 en el curso 'CONTABILIDAD BANCARIA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.298222222222222 en el curso 'FAMILIA Y EDUCACION: RETOS Y D'.
+El programa 'TURISMO' tiene un promedio final de 0.08 en el curso 'TECNICAS DE INFERENCIA ESTADIS'.
+El programa 'ECONOMIA' tiene un promedio final de 8.41173076923077 en el curso 'ECONOMIA POLITICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.104583732057416 en el curso 'CONTABILIDAD FINANCIERA AVANZA'.
+El programa 'TURISMO' tiene un promedio final de 7.505070422535211 en el curso 'GUIANZA'.
+El programa 'COMPUTACION' tiene un promedio final de 8.575 en el curso 'SIST BASADOS EN CONOCIMIENTO'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.557006507592192 en el curso 'ADMINISTRACION DE TECN Y SISTE'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.480575 en el curso 'ESTADISTICA BASICA'.
+El programa 'COMPUTACION' tiene un promedio final de 10.0 en el curso 'INNOVAR EN LOS FUTUROS DE LA E'.
+El programa 'COMPUTACION' tiene un promedio final de 8.359130434782609 en el curso 'SISTEMAS INTELIGENTES'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.693343023255814 en el curso 'PASANT PRE-PROF PRACTICUM 3.2'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.243451492537314 en el curso 'PEDAGOGIA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.719 en el curso 'ECONOMIA POPULAR Y SOLIDARIA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.702738095238095 en el curso 'AUDITORIA INFORMATICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.448090659340659 en el curso 'TEORIA MICROECONOMICA'.
+El programa 'COMPUTACION' tiene un promedio final de 8.540909090909091 en el curso 'INTRODUCCIÓN AL DISEÑO INTERIO'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.378198198198199 en el curso 'NEUROCIENCIA Y PSICOL DEL DESA'.
+El programa 'COMPUTACION' tiene un promedio final de 9.019629629629629 en el curso 'INTEROPERY EXPLO DATOS ECO HET'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.74112244897959 en el curso 'INCLUSION Y APRENDIZAJE SOSTEN'.
+El programa 'TURISMO' tiene un promedio final de 5.663698630136985 en el curso 'FUNDAMENTOS MATEMATICOS'.
+El programa 'COMPUTACION' tiene un promedio final de 7.1066666666666665 en el curso 'GEOESTADISTICA BASICA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 6.82 en el curso 'JORN DE INVES LA CREDIBILIDAD'.
+El programa 'COMPUTACION' tiene un promedio final de 7.424658385093166 en el curso 'ANALISIS MATEMATICO UNIVARIADO'.
+El programa 'TURISMO' tiene un promedio final de 8.606545454545454 en el curso 'GESTION DEL TALENTO HUMANO'.
+El programa 'ECONOMIA' tiene un promedio final de 7.150714285714286 en el curso 'ECONOMIA INTERNACIONAL'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.561829268292684 en el curso 'FUNDAMENTOS INFORMATICOS'.
+El programa 'ECONOMIA' tiene un promedio final de 8.76013888888889 en el curso 'HUMANISMO, UNIVERSIDAD Y CULTU'.
+El programa 'COMPUTACION' tiene un promedio final de 2.55 en el curso 'GEOLOGIA DEL SUBSUELO'.
+El programa 'COMPUTACION' tiene un promedio final de 5.453333333333333 en el curso 'ANALISIS EXPLORATORIO DE DATOS'.
+El programa 'COMPUTACION' tiene un promedio final de 5.086666666666666 en el curso 'GERENCIA DE OPERACIONES MINERA'.
+El programa 'TURISMO' tiene un promedio final de 6.682727272727273 en el curso 'INTELIGENCIA EMOCIONAL'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.767927927927928 en el curso 'PRACTICUM ACADEMICO 2'.
+El programa 'COMPUTACION' tiene un promedio final de 7.733571428571427 en el curso 'FUNDAMENTOS COMPUTACIONALES'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.536 en el curso 'INTRO A LA CAD DE VALOR EN CAF'.
+El programa 'TURISMO' tiene un promedio final de 8.659375 en el curso 'MATRIMONIO Y FAMILIA'.
+El programa 'ECONOMIA' tiene un promedio final de 8.575 en el curso 'TEORIAS DE ACUMULACION Y CREC'.
+El programa 'COMPUTACION' tiene un promedio final de 8.01764705882353 en el curso 'PROYEC DE FIN DE CARRER GP4.2'.
+El programa 'ECONOMIA' tiene un promedio final de 8.29732394366197 en el curso 'MODELOS ECONOMETRICOS'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.548333333333333 en el curso 'ANTROPOLOGIA'.
+El programa 'ECONOMIA' tiene un promedio final de 7.585 en el curso 'MODELOS OPTIMIZA PARA USO DE R'.
+El programa 'ECONOMIA' tiene un promedio final de 7.04289156626506 en el curso 'PRINCIPIOS DE MACROECONOMIA'.
+El programa 'TURISMO' tiene un promedio final de 6.9475 en el curso 'ETICA DE LA INTELIGENCIA ARTIF'.
+El programa 'COMPUTACION' tiene un promedio final de 7.594626865671642 en el curso 'INTRODUCCION A LA PROGRAMACION'.
+El programa 'COMPUTACION' tiene un promedio final de 8.446666666666665 en el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ'.
+El programa 'COMPUTACION' tiene un promedio final de 9.843333333333332 en el curso 'PINTURA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.647536231884057 en el curso 'TURISMO Y HOTELERIA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.925299145299146 en el curso 'ESTADISTICA BASICA'.
+El programa 'ECONOMIA' tiene un promedio final de 9.292028985507246 en el curso 'ALGEBRA LINEAL'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.940845771144279 en el curso 'ENGLISH LANG: LIST AND SPEA II'.
+El programa 'TURISMO' tiene un promedio final de 7.954655172413793 en el curso 'CIUDAD Y TURISMO'.
+El programa 'COMPUTACION' tiene un promedio final de 7.153333333333332 en el curso 'PLAN ESTRATEGIC TRANSF DIGITAL'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.483793103448277 en el curso 'CURSO DE ACTUALIZACION'.
+El programa 'COMPUTACION' tiene un promedio final de 8.530947368421053 en el curso 'COMPUTACION Y SOCIEDAD'.
+El programa 'COMPUTACION' tiene un promedio final de 9.051851851851854 en el curso 'PRACTICUM 4.2'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.781707317073169 en el curso 'INCLUSION Y APRENDIZAJE SOSTEN'.
+El programa 'TURISMO' tiene un promedio final de 7.2182 en el curso 'ANTROPOLOGIA CULTURAL Y TURIS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 9.494285714285713 en el curso 'INNOVAR EN LOS FUTUROS DE LA E'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.36336956521739 en el curso 'ETICA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.180059021922428 en el curso 'ADMINISTRACION DEL TALENTO HUM'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.154227828746178 en el curso 'HUMANISMO, UNIVERSIDAD Y CULTU'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.3225 en el curso 'HISTORIA DEL PENSAMIENTO ECONO'.
+El programa 'COMPUTACION' tiene un promedio final de 7.05 en el curso 'FUNDAMENTOS DE CONTABILIDAD'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 9.114964028776978 en el curso 'COSTOS RELEV PARA TOMA DECISIO'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.068354430379747 en el curso 'CUR DSING FR ACADM AND SPCIF P'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.07037558685446 en el curso 'PASANTI PRE-PROF PRACTICUM 3.1'.
+El programa 'COMPUTACION' tiene un promedio final de 9.125 en el curso 'DISEÑO DE CIMENTACIONES PRO Y'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.730952380952381 en el curso 'AUDITORIA II'.
+El programa 'TURISMO' tiene un promedio final de 7.419900990099011 en el curso 'LEGISLACION TURISTICA Y AMBIEN'.
+El programa 'TURISMO' tiene un promedio final de 7.8938461538461535 en el curso 'HUMANISMO, UNIVERSIDAD Y CULTU'.
+El programa 'COMPUTACION' tiene un promedio final de 8.155094339622641 en el curso 'REPRESENT AVAN CONOCI Y RAZON'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.431900584795322 en el curso 'SECOND LANGUAGE ACQUISITION'.
+El programa 'TURISMO' tiene un promedio final de 8.189746835443039 en el curso 'SISTEMAS TECNOLOGICOS APLICADO'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.77 en el curso 'ESTADISTICA II'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.75 en el curso 'FUND DEL LENGUAJE VISUAL'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.379978902953585 en el curso 'EMPRENDIMIENTO'.
+El programa 'COMPUTACION' tiene un promedio final de 8.604186046511629 en el curso 'ANTROPOLOGIA BASICA'.
+El programa 'TURISMO' tiene un promedio final de 7.88765306122449 en el curso 'FRANCES III'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.5875 en el curso 'FINTECH BANCA 4.0'.
+El programa 'ECONOMIA' tiene un promedio final de 7.975076923076923 en el curso 'MACROECONOMIA ABIERTA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.777551020408163 en el curso 'PASANTIAS PRE-PROF PRACTICUM 2'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 9.183333333333332 en el curso 'FINTECH BANCA 4.0'.
+El programa 'ECONOMIA' tiene un promedio final de 7.587532467532467 en el curso 'MICROECONOMIA APLICADA'.
+El programa 'COMPUTACION' tiene un promedio final de 8.165824175824175 en el curso 'INGENIERIA WEB'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.06268221574344 en el curso 'SEMINARIO DE FIN DE CARRERA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.7984509803921584 en el curso 'INTRODUC TO EDUCATIO RESEARCH'.
+El programa 'ECONOMIA' tiene un promedio final de 8.213648648648649 en el curso 'ESTADISTICA BASICA'.
+El programa 'ECONOMIA' tiene un promedio final de 9.745147058823528 en el curso 'PRACTICUM 1'.
+El programa 'ECONOMIA' tiene un promedio final de 9.792903225806452 en el curso 'PRACTICUM 2'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 9.0361592039801 en el curso 'TEORIA MACROECONOMICA'.
+El programa 'TURISMO' tiene un promedio final de 8.380181818181818 en el curso 'ETICA Y MORAL'.
+El programa 'ECONOMIA' tiene un promedio final de 7.9 en el curso 'TRABAJO DE TIT (PRACTICUM IV)'.
+El programa 'TURISMO' tiene un promedio final de 7.721238938053098 en el curso 'NUEVAS ALTERNATIVAS DE TURISMO'.
+El programa 'COMPUTACION' tiene un promedio final de 8.136666666666665 en el curso 'TURISMO Y HOTELERIA'.
+El programa 'ECONOMIA' tiene un promedio final de 8.78 en el curso 'INTELIGENCIA EMOCIONAL'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.610685328185328 en el curso 'ADMIN DE CAD DE SUM Y LOG EMPR'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.6057 en el curso 'METHO FOR ACADEMIC PURPOSES'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.0225 en el curso 'CALCULO'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 9.55 en el curso 'DESARROLLO ESPIRITUAL III'.
+El programa 'COMPUTACION' tiene un promedio final de 6.373333333333333 en el curso 'IMAGEN PERSONAL Y CORPORATIVA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.458398148148147 en el curso 'ADMINISTRACION DE OPERAC Y PR'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.013657487091223 en el curso 'COMPORTAMIENTO ORGANIZACIONAL'.
+El programa 'COMPUTACION' tiene un promedio final de 9.231967213114753 en el curso 'PRACTICUM 3 SERVICIO COMUNITAR'.
+El programa 'ECONOMIA' tiene un promedio final de 9.005 en el curso 'INNOVAR EN LOS FUTUROS DE LA E'.
+El programa 'ECONOMIA' tiene un promedio final de 7.61 en el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ'.
+El programa 'ECONOMIA' tiene un promedio final de 8.26 en el curso 'ETICA DE LA INTELIGENCIA ARTIF'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.867030303030303 en el curso 'PASANT PRE-PROF PRACTICUM 3.2'.
+El programa 'COMPUTACION' tiene un promedio final de 7.813542857142858 en el curso 'ESTRUCTURAS DE DATOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 6.989913494809689 en el curso 'LEGISLACION MERCANTIL Y SOCIET'.
+El programa 'TURISMO' tiene un promedio final de 7.131794871794872 en el curso 'SEMINARIO DE FIN DE CARRERA'.
+El programa 'ECONOMIA' tiene un promedio final de 6.43 en el curso 'ECONOMIA POPULAR Y SOLIDARIA'.
+El programa 'COMPUTACION' tiene un promedio final de 8.976666666666665 en el curso 'OFIMAT PARA EL MODEL Y ANALISI'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.392862232779098 en el curso 'CONTABILIDAD AGRARIA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.844098360655737 en el curso 'FIJACION PREC Y ADMIN DE COSTO'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 6.864187035069076 en el curso 'ENGLISH LANG: READI AND WRIT I'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.902777777777779 en el curso 'JORNADA DE INVEST Y FORMA ESP'.
+El programa 'COMPUTACION' tiene un promedio final de 10.0 en el curso 'EMPRENDIMIENTO Y FUNDAMENTOS P'.
+El programa 'TURISMO' tiene un promedio final de 8.418 en el curso 'IMAGEN PERSONAL Y CORPORATIVA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.189516129032258 en el curso 'GESTION INNOVACION EMPRESARIAL'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.09125 en el curso 'LOGISTICA EMPRESARIAL'.
+El programa 'ECONOMIA' tiene un promedio final de 7.186986301369863 en el curso 'ADMINISTRACION FINANCIERA OPER'.
+El programa 'COMPUTACION' tiene un promedio final de 9.306666666666665 en el curso 'GESTION DE NUEVOS RIESGOS LABO'.
+El programa 'TURISMO' tiene un promedio final de 7.732386363636363 en el curso 'MARKETING TURISTICO'.
+El programa 'COMPUTACION' tiene un promedio final de 8.995722222222222 en el curso 'HUMANISMO, UNIVERSIDAD Y CULTU'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.830088495575222 en el curso 'CONTABILIDAD CORPORATIVA'.
+El programa 'COMPUTACION' tiene un promedio final de 8.868333333333332 en el curso 'EL ARTE DE AMAR'.
+El programa 'TURISMO' tiene un promedio final de 7.793636363636363 en el curso 'DIRECCION HOTELERA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.488372641509434 en el curso 'RESEARCH METHODS IN ELT'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 6.376666666666666 en el curso 'INTRO A LA CAD DE VALOR EN CAF'.
+El programa 'COMPUTACION' tiene un promedio final de 9.34 en el curso 'ADMINISTRACION'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.112368932038835 en el curso 'PRACTICUM 3'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.961388888888889 en el curso 'MATRIMONIO Y FAMILIA'.
+El programa 'COMPUTACION' tiene un promedio final de 7.267988165680474 en el curso 'PROG ORIENTADA A OBJETOS'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.960072463768118 en el curso 'SEMINARIO DE FIN DE CARRERA'.
+El programa 'ECONOMIA' tiene un promedio final de 8.449722222222222 en el curso 'TEORIAS DEL DESARROLLO'.
+El programa 'TURISMO' tiene un promedio final de 8.2144 en el curso 'PASANTI PRE-PROF PRACTICUM 3.1'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 9.175051546391751 en el curso 'E-COMMERCE'.
+El programa 'TURISMO' tiene un promedio final de 5.749352517985612 en el curso 'FUNDAMENTOS DE ADMINISTRACION'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.32 en el curso 'PROYECTO FIN CARRERA II GP 4.2'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.532689987937274 en el curso 'CONTRATACION PUBLICA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.574436274509806 en el curso 'PROYECTOS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.8408284714119025 en el curso 'PRACTICUM 2'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.351843317972351 en el curso 'EMPRENDIMIENTO'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.37375 en el curso 'ETICA DE LA INTELIGENCIA ARTIF'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.99074251497006 en el curso 'CONTABILIDAD FINANCIERA'.
+El programa 'COMPUTACION' tiene un promedio final de 8.27462962962963 en el curso 'EMPREN CON BASE TECNOLOGICA I'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.2343 en el curso 'GESTION DE NUEVOS NEGOCIOS'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.952782834850455 en el curso 'SOCIOLOGIA DE LA EDUCACION'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 4.0725 en el curso 'CURRICULUM AND MATERIALS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 9.006008583690987 en el curso 'AUDIT INT Y ADMIN RIESGOS ERM'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.26840206185567 en el curso 'PRACTICA TRIBUTARIA'.
+El programa 'COMPUTACION' tiene un promedio final de 7.896 en el curso 'INTELIGENCIA EMOCIONAL'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.067533081285443 en el curso 'FINANZAS ESTRUCTURALES'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.478140293637846 en el curso 'TEFL METHODOLOGY AND DIDACTICS'.
+El programa 'ECONOMIA' tiene un promedio final de 8.66325 en el curso 'ANALISIS TERRITORIAL'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 6.03952380952381 en el curso 'COMPUTACION APLICADA'.
+El programa 'COMPUTACION' tiene un promedio final de 9.0 en el curso 'TECNOLOGIA APLICADA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.898139321723189 en el curso 'ETICA Y MORAL'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 6.9781103166496425 en el curso 'LECTURA Y REDACCION DE TEXTOS'.
+El programa 'COMPUTACION' tiene un promedio final de 8.60888888888889 en el curso 'MATRIMONIO Y FAMILIA'.
+El programa 'COMPUTACION' tiene un promedio final de 8.388571428571428 en el curso 'PRACTICAS EN CITTES GP 3.2'.
+El programa 'COMPUTACION' tiene un promedio final de 9.705 en el curso 'GESTION ESTRATEGICA DE LA INNO'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.911555555555555 en el curso 'RADIO Y NUEVAS TECNOLOGIAS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.738090185676391 en el curso 'DIRECCION ESTRATEGICA'.
+El programa 'COMPUTACION' tiene un promedio final de 7.644433497536947 en el curso 'ESTRUCTURAS DISCRETAS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.048571428571429 en el curso 'GERENCIA DE RECURSOS NATURALES'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.213462321792258 en el curso 'ENGLISH LAN: READ AND WRIT III'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 9.05577715355805 en el curso 'MATEMATICA FINANCIERA'.
+El programa 'COMPUTACION' tiene un promedio final de 7.76 en el curso 'RADIO Y NUEVAS TECNOLOGIAS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.4885 en el curso 'PASANTIAS PRE-PROF PRACTICUM 1'.
+El programa 'TURISMO' tiene un promedio final de 6.930853658536585 en el curso 'CONTABILIDAD DE COSTOS OPERATI'.
+El programa 'COMPUTACION' tiene un promedio final de 8.99 en el curso 'DESARROLLO ESPIRITUAL III'.
+El programa 'ECONOMIA' tiene un promedio final de 8.97342105263158 en el curso 'PLANIFICACION Y ORDENAM TERRIT'.
+El programa 'ECONOMIA' tiene un promedio final de 9.27 en el curso 'MATRIMONIO Y FAMILIA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.462 en el curso 'ETICA DE LA INTELIGENCIA ARTIF'.
+El programa 'COMPUTACION' tiene un promedio final de 3.065 en el curso 'FUNDAMENTOS DE PROGRAMACION'.
+El programa 'ECONOMIA' tiene un promedio final de 7.47 en el curso 'INTRO A LA CAD DE VALOR EN CAF'.
+El programa 'COMPUTACION' tiene un promedio final de 8.08288888888889 en el curso 'TEORIA DE AUTOMATAS Y COMPILAD'.
+El programa 'ECONOMIA' tiene un promedio final de 6.9875 en el curso 'INCLUSION Y APRENDIZAJE SOSTEN'.
+El programa 'TURISMO' tiene un promedio final de 7.395609756097562 en el curso 'ESTADISTICA'.
+El programa 'TURISMO' tiene un promedio final de 6.227857142857143 en el curso 'INCLUSION Y APRENDIZAJE SOSTEN'.
+El programa 'ECONOMIA' tiene un promedio final de 8.07611111111111 en el curso 'DESARROLLO REGIONAL'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.588025247971146 en el curso 'ESTADISTICA BASICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.1814245014245 en el curso 'PRACTICUM 1'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 9.89 en el curso 'FINTECH BANCA 4.0'.
+El programa 'COMPUTACION' tiene un promedio final de 7.26 en el curso 'COMUNICACION DE DATOS'.
+El programa 'TURISMO' tiene un promedio final de 5.911538461538462 en el curso 'PRINCIPIOS DEL TURISMO'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.10673469387755 en el curso 'PASANTIAS PRE-PROF PRACTICUM 2'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.614368932038834 en el curso 'PRACTICUM 2'.
+El programa 'COMPUTACION' tiene un promedio final de 8.98723076923077 en el curso 'COMPOSICION DE TEXTOS CIENTIFI'.
+El programa 'ECONOMIA' tiene un promedio final de 8.28 en el curso 'INTRODUCCION A LA ECONOMIA'.
+El programa 'COMPUTACION' tiene un promedio final de 4.926666666666667 en el curso 'CURSO DE ACTUALIZACION'.
+El programa 'ECONOMIA' tiene un promedio final de 9.75 en el curso 'ECONOMIA AMBIEN DES ECON SUST'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.2 en el curso 'HISTORIA DEL PENSAMIENTO ECONO'.
+El programa 'COMPUTACION' tiene un promedio final de 8.814943820224718 en el curso 'PRACTICUM 2.1'.
+El programa 'COMPUTACION' tiene un promedio final de 5.4 en el curso 'ESTADISTICA PARA LAS ING Y ARQ'.
+El programa 'COMPUTACION' tiene un promedio final de 8.463333333333333 en el curso 'VALIDACION DE PRODUCTO'.
+El programa 'COMPUTACION' tiene un promedio final de 9.39333333333333 en el curso 'EMPREN CON BASE TECNOLOGICA II'.
+El programa 'COMPUTACION' tiene un promedio final de 8.3805223880597 en el curso 'PRACTICUM 1.1'.
+El programa 'TURISMO' tiene un promedio final de 7.912659574468085 en el curso 'FINANZAS Y PRESUPUESTOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.938571428571427 en el curso 'IMAGEN PERSONAL Y CORPORATIVA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.9986915887850465 en el curso 'INTELIGENCIA EMOCIONAL'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.522759067357514 en el curso 'CONTABILIDAD GUBERNAMENTAL'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.710229226361031 en el curso 'ADMINISTRACION FINANCIERA'.
+El programa 'COMPUTACION' tiene un promedio final de 7.9 en el curso 'ESTABILIDAD DE LADERAS Y TALUD'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.3 en el curso 'DOCTRINA SOCIAL DE LA IGLESIA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.4296 en el curso 'JORN DE INVES LA CREDIBILIDAD'.
+El programa 'COMPUTACION' tiene un promedio final de 7.405 en el curso 'TECNOLOGIAS WEB'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.477142857142857 en el curso 'ADMINISTRACION'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.033164983164982 en el curso 'SISTEMAS DE COSTOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.119264339152119 en el curso 'PRINCIPIOS DE AUDITORIA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.949181818181817 en el curso 'SEMANTICS AND PRAGMATICS'.
+El programa 'ECONOMIA' tiene un promedio final de 6.65 en el curso 'GESTION PRODUCTIVA GP 4.1'.
+El programa 'COMPUTACION' tiene un promedio final de 7.882307692307693 en el curso 'SIST BASADOS EN CONOCIMIENTOS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.631223241590215 en el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.52 en el curso 'ANALISIS EXPLORATORIO DE DATOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 5.6825 en el curso 'PRESUPUESTOS'.
+El programa 'TURISMO' tiene un promedio final de 7.961851851851852 en el curso 'PRACTICUM 4.2'.
+El programa 'TURISMO' tiene un promedio final de 7.75111111111111 en el curso 'INTRO A LA CAD DE VALOR EN CAF'.
+El programa 'TURISMO' tiene un promedio final de 7.585 en el curso 'RADIO Y NUEVAS TECNOLOGIAS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.255371900826447 en el curso 'SEMINARIO DE FIN DE CARRERA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 9.35 en el curso 'DESARROLLO EMPRESARIAL'.
+El programa 'COMPUTACION' tiene un promedio final de 8.62 en el curso 'AUDITORIA INFORMATICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 4.24 en el curso 'LEGISLACION MONETARIA Y BANCAR'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 9.475925925925925 en el curso 'PRACTICUM ACADE 3 ASESORIA TT'.
+El programa 'COMPUTACION' tiene un promedio final de 8.571063829787233 en el curso 'ESTADISTICA Y PROBABILIDAD'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 9.701428571428572 en el curso 'INNOVAR EN LOS FUTUROS DE LA E'.
+El programa 'ECONOMIA' tiene un promedio final de 9.0 en el curso 'URBANIZACION Y CAMBIO CLIMATIC'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.31924528301887 en el curso 'PRACTICUM 4.1'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 6.855294117647058 en el curso 'JORN DE INVES LA CREDIBILIDAD'.
+El programa 'ECONOMIA' tiene un promedio final de 8.279589041095889 en el curso 'FUNDAMENTOS MATEMATICOS'.
+El programa 'COMPUTACION' tiene un promedio final de 7.7573333333333325 en el curso 'REDES Y SISTEMAS DISTRIBUIDOS'.
+El programa 'TURISMO' tiene un promedio final de 7.216666666666666 en el curso 'FUNDAMENTOS DE CONTABILIDAD'.
+El programa 'ECONOMIA' tiene un promedio final de 7.37 en el curso 'RELACIONES PUB Y PROTOCOLO'.
+El programa 'COMPUTACION' tiene un promedio final de 8.136666666666665 en el curso 'FAMILIA Y EDUCACION: RETOS Y D'.
+El programa 'COMPUTACION' tiene un promedio final de 8.292375 en el curso 'FUNDAMENTOS DE INGENIERIA DE S'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 5.469090909090909 en el curso 'TEACHING TECHNIQUES'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 6.624051186017478 en el curso 'FUNDAMENTOS DE CONTABILIDAD'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.101372881355934 en el curso 'METODOS DE VALOR DE EMPRESAS'.
+El programa 'ECONOMIA' tiene un promedio final de 6.717 en el curso 'POLITICA AMBIENTAL'.
+El programa 'ECONOMIA' tiene un promedio final de 6.956805555555556 en el curso 'ECONOMETRIA AVANZADA'.
+El programa 'ECONOMIA' tiene un promedio final de 6.886455696202532 en el curso 'PRINCIPIOS DE MICROECONOMIA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.100823529411763 en el curso 'INTELIGENCIA EMOCIONAL'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.226685714285714 en el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA'.
+El programa 'TURISMO' tiene un promedio final de 8.459550561797753 en el curso 'TRANSPORTACION TURISTICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.859080459770115 en el curso 'INCLUSION Y APRENDIZAJE SOSTEN'.
+El programa 'TURISMO' tiene un promedio final de 8.451944444444445 en el curso 'RECURSOS TANGIB E INTANGIB'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 6.695303340149966 en el curso 'EPISTEMOLOGIA DE CONTA Y AUDIT'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.173467230443974 en el curso 'NEGOCIOS INTERNACIONALES'.
+El programa 'TURISMO' tiene un promedio final de 6.971090909090909 en el curso 'FRANCES I'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.224403491755577 en el curso 'ADMINISTRACION ESTRATEGICA'.
+El programa 'COMPUTACION' tiene un promedio final de 8.06064516129032 en el curso 'SEGURIDAD DE LA INFORMACION'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.630898004434589 en el curso 'PROPUESTA DE INVESTIGACION'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.062408163265305 en el curso 'CONTRASTIVE GRAMMAR'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.06 en el curso 'COMPUTACION'.
+El programa 'ECONOMIA' tiene un promedio final de 9.24 en el curso 'ECONOMETRIA III'.
+El programa 'COMPUTACION' tiene un promedio final de 9.076037735849056 en el curso 'FUND DE INTE ARTIFICIAL'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 9.68 en el curso 'JORNADA DE INVEST Y FORMA ESP'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.358943161634102 en el curso 'FINANZAS OPERATIVAS'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 6.8478 en el curso 'ESTADISTICA APLICADA A EDUCA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.35 en el curso 'LECTURA Y REDACCION DE TEXTOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.20611510791367 en el curso 'ANTROPOLOGIA BASICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.435 en el curso 'CALCULO'.
+El programa 'COMPUTACION' tiene un promedio final de 7.28 en el curso 'ARQUITECTURA DE COMPUTADORAS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 6.563888888888889 en el curso 'ANTROPOLOGIA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.868333333333332 en el curso 'INCLUSIVE AND SUSTAINABLE EDUC'.
+El programa 'COMPUTACION' tiene un promedio final de 6.571666666666666 en el curso 'FISICA BASICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.41796460176991 en el curso 'DERECHO LABORAL'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.499542857142858 en el curso 'TRABAJO DE TIT (PRACTICUM 4)'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.7 en el curso 'BIOECONOMIA CIRCULAR'.
+El programa 'ECONOMIA' tiene un promedio final de 8.4 en el curso 'TURISMO Y HOTELERIA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.832564102564103 en el curso 'ORGANIZACION INDUSTRIAL'.
+El programa 'COMPUTACION' tiene un promedio final de 7.13 en el curso 'ARQ Y COMP PARALELA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.114761215629521 en el curso 'CONTABILIDAD DE COSTOS'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.099790794979079 en el curso 'ACADEMIC READING AND WRITING I'.
+El programa 'TURISMO' tiene un promedio final de 8.979 en el curso 'ORDENAMIENTO TURISTICO TERRITO'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.593636363636364 en el curso 'MATRIMONIO Y FAMILIA'.
+El programa 'ECONOMIA' tiene un promedio final de 9.025 en el curso 'FUNDAMENTOS INFORMATICOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.93454081632653 en el curso 'AUDITORIA DE GESTION'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.733131868131869 en el curso 'PRACTICUM 3'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.085625 en el curso 'IMAGEN PERSONAL Y CORPORATIVA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.632444794952682 en el curso 'PROSPECTIVA EMPRESARIAL Y A'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.801296296296296 en el curso 'PASANTI PRE-PROF PRACTICUM 3.1'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.752741433021807 en el curso 'TRABAJO DE TIT (PRACTICUM 4)'.
+El programa 'COMPUTACION' tiene un promedio final de 0.0 en el curso 'CALCULO DIFERENCIAL'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.67875 en el curso 'INNOVAR EN LOS FUTUROS DE LA E'.
+El programa 'COMPUTACION' tiene un promedio final de 7.911927710843373 en el curso 'FUNDAMENTOS DE REDES'.
+El programa 'TURISMO' tiene un promedio final de 8.080963855421686 en el curso 'DISEÑO DE PRODUCTOS TURISTICOS'.
+El programa 'ECONOMIA' tiene un promedio final de 7.965 en el curso 'PROYECTOS II'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.402628205128205 en el curso 'METHODOLOGY FOR TEACHING ENGLI'.
+El programa 'TURISMO' tiene un promedio final de 7.62688679245283 en el curso 'PRACTICUM 1'.
+El programa 'TURISMO' tiene un promedio final de 5.508896103896104 en el curso 'INTRODUCCION A LA ECONOMIA'.
+El programa 'COMPUTACION' tiene un promedio final de 7.812164948453608 en el curso 'SISTEMAS OPERATIVOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.094994861253854 en el curso 'RESPONSABILIDAD SOCIAL EMPRE'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.75113924050633 en el curso 'MANAGEMENT 3.0'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.099 en el curso 'TURISMO Y HOTELERIA'.
+El programa 'ECONOMIA' tiene un promedio final de 7.9 en el curso 'CURSO DE ACTUALIZACION'.
+El programa 'ECONOMIA' tiene un promedio final de 7.159122807017544 en el curso 'FORMULACION DE PROYECTOS'.
+El programa 'TURISMO' tiene un promedio final de 7.218101265822784 en el curso 'ORGANIZACION DE EVENTOS Y PROT'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.0 en el curso 'GEOESTADISTICA BASICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 6.825321336760925 en el curso 'FUNDAMENTOS DE CONTABILIDAD'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.303142857142857 en el curso 'METHODOLOGY AND DIDACTICS III:'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.58955223880597 en el curso 'ADAPTACIONES CURRICULARES Y DI'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 6.572915642915643 en el curso 'MATEMATICA BASICA'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.92 en el curso 'ANALISIS EXPLORATORIO DE DATOS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.914928229665072 en el curso 'ADMINISTRACION DE TECNOLOGIAS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.690462585034012 en el curso 'APLICACIONES DE COSTOS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.855611175785797 en el curso 'DERECHO TRIBUTARIO'.
+El programa 'COMPUTACION' tiene un promedio final de 8.58 en el curso 'ROBOTICA INDUSTRIAL'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 7.3229411764705885 en el curso 'ECONOMIA POPULAR Y SOLIDARIA'.
+El programa 'TURISMO' tiene un promedio final de 5.75 en el curso 'INNOVAR EN LOS FUTUROS DE LA E'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.405058139534884 en el curso 'CURRICLM FUNDTS PRNCPLS AND IS'.
+El programa 'ECONOMIA' tiene un promedio final de 7.85 en el curso 'EL ARTE DE AMAR'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 9.015966620305981 en el curso 'MATEMATICA FINANCIERA'.
+El programa 'COMPUTACION' tiene un promedio final de 8.591 en el curso 'INCLUSION Y APRENDIZAJE SOSTEN'.
+El programa 'ECONOMIA' tiene un promedio final de 8.303191489361703 en el curso 'PRACTICUM 4.2:TRABAJO DE INTEG'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.623584905660378 en el curso 'IMAGEN PERSONAL Y CORPORATIVA'.
+El programa 'COMPUTACION' tiene un promedio final de 8.59783505154639 en el curso 'ETICA Y MORAL'.
+El programa 'ECONOMIA' tiene un promedio final de 9.12 en el curso 'DOCTRINA SOCIAL DE LA IGLESIA'.
+El programa 'TURISMO' tiene un promedio final de 8.99294117647059 en el curso 'TURISMO RURAL Y DESARRO LOCAL'.
+El programa 'ECONOMIA' tiene un promedio final de 6.276666666666666 en el curso 'SEMINARIO DE FIN DE CARRERA'.
+El programa 'ECONOMIA' tiene un promedio final de 8.24 en el curso 'RADIO Y NUEVAS TECNOLOGIAS'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.368413793103448 en el curso 'CONTABILIDAD GERENCIAL'.
+El programa 'COMPUTACION' tiene un promedio final de 8.310564516129032 en el curso 'FUNDAMENTOS DE BASE DE DATOS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.156727748691099 en el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA'.
+El programa 'ECONOMIA' tiene un promedio final de 7.15 en el curso 'INTRODUCCION A LA AUDITORIA'.
+El programa 'ECONOMIA' tiene un promedio final de 3.43 en el curso 'ECONOMETRIA II'.
+El programa 'ECONOMIA' tiene un promedio final de 8.953880597014924 en el curso 'PROPUESTA DE INVESTIGACION'.
+El programa 'ECONOMIA' tiene un promedio final de 7.453265306122449 en el curso 'POLITICA ECONOMICA'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.373133640552995 en el curso 'ENGLISH PRON: PHONETI AND PHON'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 9.1175 en el curso 'EL ARTE DE AMAR'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.971681415929202 en el curso 'DISCOURSE ANALYSIS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 7.1559375 en el curso 'ECONOMIA POPULAR Y SOLIDARIA'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 8.512025518341309 en el curso 'INVESTIGACION OPERATIVA TOMA D'.
+El programa 'COMPUTACION' tiene un promedio final de 8.961544715447154 en el curso 'PRACTICUM 1.2'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.371 en el curso 'PRACTICUM ACADEMICO 1'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.511071428571427 en el curso 'RELACIONES PUB Y PROTOCOLO'.
+El programa 'TURISMO' tiene un promedio final de 7.78044776119403 en el curso 'PLANIFICACION DE DESTINOS TURI'.
+El programa 'TURISMO' tiene un promedio final de 9.058111111111112 en el curso 'PRACTICUM 2'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 7.366685393258427 en el curso 'TRABAJO DE TITULACION'.
+El programa 'CONTABILIDAD Y AUDITORIA' tiene un promedio final de 8.516875 en el curso 'RADIO Y NUEVAS TECNOLOGIAS'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 6.5010381679389315 en el curso 'HABILIDADES GERENCIALES'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' tiene un promedio final de 8.716666666666665 en el curso 'PASANTIA PRE-PRO1'.
+El programa 'COMPUTACION' tiene un promedio final de 8.205454545454545 en el curso 'ARQUITECTURA DE APLICACIONES'.
+El programa 'TURISMO' tiene un promedio final de 8.411428571428571 en el curso 'FAMILIA Y EDUCACION: RETOS Y D'.
+El programa 'ADMINISTRACION DE EMPRESAS' tiene un promedio final de 9.13 en el curso 'DISEÑO PARAM Y FABRIC DIGITAL'.

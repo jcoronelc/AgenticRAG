@@ -1,0 +1,587 @@
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, total_reprobados: 36, total_estudiantes: 407, porcentaje_reprobados: 8.85
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, total_reprobados: 50, total_estudiantes: 436, porcentaje_reprobados: 11.47
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, total_reprobados: 27, total_estudiantes: 356, porcentaje_reprobados: 7.58
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, total_reprobados: 80, total_estudiantes: 989, porcentaje_reprobados: 8.09
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, total_reprobados: 487, total_estudiantes: 1529, porcentaje_reprobados: 31.85
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1026, curso_nombre: ADMINISTRACION, total_reprobados: 0, total_estudiantes: 7, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, total_reprobados: 92, total_estudiantes: 1029, porcentaje_reprobados: 8.94
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, total_reprobados: 62, total_estudiantes: 890, porcentaje_reprobados: 6.97
+programa_modalidad_nombre: DISTANCIA, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, total_reprobados: 30, total_estudiantes: 208, porcentaje_reprobados: 14.42
+programa_modalidad_nombre: DISTANCIA, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, total_reprobados: 138, total_estudiantes: 1102, porcentaje_reprobados: 12.52
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, total_reprobados: 57, total_estudiantes: 874, porcentaje_reprobados: 6.52
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, total_reprobados: 52, total_estudiantes: 274, porcentaje_reprobados: 18.98
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, total_reprobados: 33, total_estudiantes: 680, porcentaje_reprobados: 4.85
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, total_reprobados: 194, total_estudiantes: 2020, porcentaje_reprobados: 9.60
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4022, curso_nombre: ANALISIS DE MERCADOS TURISTICO, total_reprobados: 19, total_estudiantes: 92, porcentaje_reprobados: 20.65
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_3002, curso_nombre: ANTROPOLOGIA, total_reprobados: 16, total_estudiantes: 48, porcentaje_reprobados: 33.33
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, total_reprobados: 396, total_estudiantes: 2676, porcentaje_reprobados: 14.80
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_1020, curso_nombre: ANTROPOLOGIA CULTURAL Y TURIS, total_reprobados: 21, total_estudiantes: 100, porcentaje_reprobados: 21.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, total_reprobados: 21, total_estudiantes: 361, porcentaje_reprobados: 5.82
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, total_reprobados: 35, total_estudiantes: 716, porcentaje_reprobados: 4.89
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2014, curso_nombre: AREAS PROTEGIDAS, total_reprobados: 6, total_estudiantes: 72, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, total_reprobados: 5, total_estudiantes: 219, porcentaje_reprobados: 2.28
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, total_reprobados: 21, total_estudiantes: 573, porcentaje_reprobados: 3.66
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, total_reprobados: 46, total_estudiantes: 716, porcentaje_reprobados: 6.42
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4006, curso_nombre: AUDITORIA I, total_reprobados: 2, total_estudiantes: 7, porcentaje_reprobados: 28.57
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_1015, curso_nombre: AUDITORIA II, total_reprobados: 3, total_estudiantes: 21, porcentaje_reprobados: 14.29
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5002, curso_nombre: AUDITORIA III, total_reprobados: 13, total_estudiantes: 105, porcentaje_reprobados: 12.38
+programa_modalidad_nombre: DISTANCIA, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, total_reprobados: 27, total_estudiantes: 166, porcentaje_reprobados: 16.27
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1091, curso_nombre: CALCULO, total_reprobados: 1, total_estudiantes: 8, porcentaje_reprobados: 12.50
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3014, curso_nombre: CIUDAD Y TURISMO, total_reprobados: 7, total_estudiantes: 58, porcentaje_reprobados: 12.07
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, total_reprobados: 21, total_estudiantes: 115, porcentaje_reprobados: 18.26
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, total_reprobados: 94, total_estudiantes: 735, porcentaje_reprobados: 12.79
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4015, curso_nombre: COMPETITIVIDAD DESTINOS TURIST, total_reprobados: 1, total_estudiantes: 26, porcentaje_reprobados: 3.85
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, total_reprobados: 156, total_estudiantes: 1091, porcentaje_reprobados: 14.30
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COMP_1000, curso_nombre: COMPUTACION, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4010, curso_nombre: COMPUTACION APLICADA, total_reprobados: 10, total_estudiantes: 21, porcentaje_reprobados: 47.62
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, total_reprobados: 59, total_estudiantes: 825, porcentaje_reprobados: 7.15
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2015, curso_nombre: CONTABILIDAD BANCARIA, total_reprobados: 3, total_estudiantes: 5, porcentaje_reprobados: 60.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, total_reprobados: 12, total_estudiantes: 548, porcentaje_reprobados: 2.19
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, total_reprobados: 72, total_estudiantes: 666, porcentaje_reprobados: 10.81
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2032, curso_nombre: CONTABILIDAD DE COSTOS OPERATI, total_reprobados: 21, total_estudiantes: 82, porcentaje_reprobados: 25.61
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, total_reprobados: 28, total_estudiantes: 566, porcentaje_reprobados: 4.95
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, total_reprobados: 100, total_estudiantes: 805, porcentaje_reprobados: 12.42
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, total_reprobados: 273, total_estudiantes: 1019, porcentaje_reprobados: 26.79
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5006, curso_nombre: CONTABILIDAD GERENCIAL, total_reprobados: 17, total_estudiantes: 131, porcentaje_reprobados: 12.98
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, total_reprobados: 13, total_estudiantes: 436, porcentaje_reprobados: 2.98
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, total_reprobados: 45, total_estudiantes: 748, porcentaje_reprobados: 6.02
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3017, curso_nombre: CONTABILIDAD GUBERNAMENTAL, total_reprobados: 3, total_estudiantes: 6, porcentaje_reprobados: 50.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, total_reprobados: 17, total_estudiantes: 222, porcentaje_reprobados: 7.66
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, total_reprobados: 148, total_estudiantes: 807, porcentaje_reprobados: 18.34
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4014, curso_nombre: COSMOVISION ANDINA, total_reprobados: 6, total_estudiantes: 41, porcentaje_reprobados: 14.63
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4029, curso_nombre: COSTOS RELEV PARA TOMA DECISIO, total_reprobados: 0, total_estudiantes: 139, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: LITE_4003, curso_nombre: CULTURE AND LITERATURE IN ENGL, total_reprobados: 23, total_estudiantes: 63, porcentaje_reprobados: 36.51
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, total_reprobados: 5, total_estudiantes: 71, porcentaje_reprobados: 7.04
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, total_reprobados: 8, total_estudiantes: 155, porcentaje_reprobados: 5.16
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4001, curso_nombre: CURRICULUM AND MATERIALS, total_reprobados: 6, total_estudiantes: 8, porcentaje_reprobados: 75.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, total_reprobados: 11, total_estudiantes: 59, porcentaje_reprobados: 18.64
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_1181, curso_nombre: DERECHO LABORAL, total_reprobados: 67, total_estudiantes: 762, porcentaje_reprobados: 8.79
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, total_reprobados: 93, total_estudiantes: 1003, porcentaje_reprobados: 9.27
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, total_reprobados: 112, total_estudiantes: 829, porcentaje_reprobados: 13.51
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_4002, curso_nombre: DESARROLLO ECONOMICO, total_reprobados: 25, total_estudiantes: 112, porcentaje_reprobados: 22.32
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, total_reprobados: 32, total_estudiantes: 343, porcentaje_reprobados: 9.33
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5000, curso_nombre: DESARROLLO TRAB PRACTICUM 4, total_reprobados: 0, total_estudiantes: 57, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, total_reprobados: 32, total_estudiantes: 732, porcentaje_reprobados: 4.37
+programa_modalidad_nombre: DISTANCIA, curso_codigo: HOTE_5003, curso_nombre: DIRECCION HOTELERA, total_reprobados: 2, total_estudiantes: 11, porcentaje_reprobados: 18.18
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, total_reprobados: 3, total_estudiantes: 203, porcentaje_reprobados: 1.48
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3016, curso_nombre: DISEÑO DE PRODUCTOS TURISTICOS, total_reprobados: 9, total_estudiantes: 83, porcentaje_reprobados: 10.84
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3029, curso_nombre: DISEÑO DE SISTEMAS DE COSTOS, total_reprobados: 42, total_estudiantes: 350, porcentaje_reprobados: 12.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4167, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_1001, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, total_reprobados: 42, total_estudiantes: 299, porcentaje_reprobados: 14.05
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, total_reprobados: 6, total_estudiantes: 369, porcentaje_reprobados: 1.63
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1127, curso_nombre: ECONOMIA POPULAR Y SOLIDARIA, total_reprobados: 21, total_estudiantes: 83, porcentaje_reprobados: 25.30
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDSE_4007, curso_nombre: EDUCATIONAL RESEARCH I, total_reprobados: 7, total_estudiantes: 13, porcentaje_reprobados: 53.85
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_1110, curso_nombre: EL ARTE DE AMAR, total_reprobados: 4, total_estudiantes: 60, porcentaje_reprobados: 6.67
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, total_reprobados: 381, total_estudiantes: 2238, porcentaje_reprobados: 17.02
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, total_reprobados: 40, total_estudiantes: 394, porcentaje_reprobados: 10.15
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, total_reprobados: 74, total_estudiantes: 436, porcentaje_reprobados: 16.97
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, total_reprobados: 31, total_estudiantes: 422, porcentaje_reprobados: 7.35
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, total_reprobados: 26, total_estudiantes: 418, porcentaje_reprobados: 6.22
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, total_reprobados: 78, total_estudiantes: 496, porcentaje_reprobados: 15.73
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, total_reprobados: 347, total_estudiantes: 871, porcentaje_reprobados: 39.84
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, total_reprobados: 67, total_estudiantes: 496, porcentaje_reprobados: 13.51
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, total_reprobados: 268, total_estudiantes: 835, porcentaje_reprobados: 32.10
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, total_reprobados: 30, total_estudiantes: 393, porcentaje_reprobados: 7.63
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, total_reprobados: 21, total_estudiantes: 290, porcentaje_reprobados: 7.24
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, total_reprobados: 469, total_estudiantes: 1436, porcentaje_reprobados: 32.66
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_1044, curso_nombre: ESTADISTICA, total_reprobados: 15, total_estudiantes: 82, porcentaje_reprobados: 18.29
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_4004, curso_nombre: ESTADISTICA APLICADA A EDUCA, total_reprobados: 17, total_estudiantes: 50, porcentaje_reprobados: 34.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, total_reprobados: 72, total_estudiantes: 517, porcentaje_reprobados: 13.93
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, total_reprobados: 162, total_estudiantes: 1799, porcentaje_reprobados: 9.01
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_1012, curso_nombre: ESTADISTICA II, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_3000, curso_nombre: ETICA, total_reprobados: 19, total_estudiantes: 129, porcentaje_reprobados: 14.73
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_1109, curso_nombre: ETICA DE LA INTELIGENCIA ARTIF, total_reprobados: 6, total_estudiantes: 81, porcentaje_reprobados: 7.41
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, total_reprobados: 129, total_estudiantes: 1975, porcentaje_reprobados: 6.53
+programa_modalidad_nombre: DISTANCIA, curso_codigo: LITE_1016, curso_nombre: EXPRESION ORAL Y ESCRITA, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1143, curso_nombre: FAMILIA Y EDUCACION: RETOS Y D, total_reprobados: 9, total_estudiantes: 119, porcentaje_reprobados: 7.56
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4026, curso_nombre: FIJACION PREC Y ADMIN DE COSTO, total_reprobados: 3, total_estudiantes: 244, porcentaje_reprobados: 1.23
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FILO_4002, curso_nombre: FILOSOFIA DE LA EDUCACION, total_reprobados: 6, total_estudiantes: 17, porcentaje_reprobados: 35.29
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, total_reprobados: 300, total_estudiantes: 938, porcentaje_reprobados: 31.98
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, total_reprobados: 97, total_estudiantes: 1013, porcentaje_reprobados: 9.58
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_1026, curso_nombre: FINANZAS I, total_reprobados: 12, total_estudiantes: 33, porcentaje_reprobados: 36.36
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_1065, curso_nombre: FINANZAS II, total_reprobados: 20, total_estudiantes: 93, porcentaje_reprobados: 21.51
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, total_reprobados: 116, total_estudiantes: 1073, porcentaje_reprobados: 10.81
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3011, curso_nombre: FINANZAS Y PRESUPUESTOS, total_reprobados: 13, total_estudiantes: 94, porcentaje_reprobados: 13.83
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_1073, curso_nombre: FINTECH BANCA 4.0, total_reprobados: 2, total_estudiantes: 18, porcentaje_reprobados: 11.11
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, total_reprobados: 29, total_estudiantes: 397, porcentaje_reprobados: 7.30
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4121, curso_nombre: FORMULACION Y EVALUACION DE PR, total_reprobados: 2, total_estudiantes: 60, porcentaje_reprobados: 3.33
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_3013, curso_nombre: FRANCES I, total_reprobados: 28, total_estudiantes: 110, porcentaje_reprobados: 25.45
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_3014, curso_nombre: FRANCES II, total_reprobados: 13, total_estudiantes: 86, porcentaje_reprobados: 15.12
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_4016, curso_nombre: FRANCES III, total_reprobados: 11, total_estudiantes: 98, porcentaje_reprobados: 11.22
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_5001, curso_nombre: FRANCES IV, total_reprobados: 2, total_estudiantes: 17, porcentaje_reprobados: 11.76
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, total_reprobados: 52, total_estudiantes: 720, porcentaje_reprobados: 7.22
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, total_reprobados: 57, total_estudiantes: 139, porcentaje_reprobados: 41.01
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, total_reprobados: 863, total_estudiantes: 2738, porcentaje_reprobados: 31.52
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, total_reprobados: 318, total_estudiantes: 1183, porcentaje_reprobados: 26.88
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COMP_1034, curso_nombre: FUNDAMENTOS INFORMATICOS, total_reprobados: 11, total_estudiantes: 147, porcentaje_reprobados: 7.48
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, total_reprobados: 538, total_estudiantes: 1663, porcentaje_reprobados: 32.35
+programa_modalidad_nombre: DISTANCIA, curso_codigo: HOTE_1047, curso_nombre: GEOGRAFIA TURISTICA, total_reprobados: 67, total_estudiantes: 151, porcentaje_reprobados: 44.37
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RENR_3001, curso_nombre: GERENCIA DE RECURSOS NATURALES, total_reprobados: 3, total_estudiantes: 6, porcentaje_reprobados: 50.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5011, curso_nombre: GESTION DE CADENA DE VALOR Y C, total_reprobados: 3, total_estudiantes: 46, porcentaje_reprobados: 6.52
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, total_reprobados: 70, total_estudiantes: 1001, porcentaje_reprobados: 6.99
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4015, curso_nombre: GESTION DE LA CALIDAD, total_reprobados: 28, total_estudiantes: 76, porcentaje_reprobados: 36.84
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, total_reprobados: 23, total_estudiantes: 285, porcentaje_reprobados: 8.07
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, total_reprobados: 151, total_estudiantes: 1199, porcentaje_reprobados: 12.59
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2011, curso_nombre: GESTION DEL PATRIMONIO CULTU, total_reprobados: 21, total_estudiantes: 86, porcentaje_reprobados: 24.42
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4094, curso_nombre: GESTION DEL TALENTO HUMANO, total_reprobados: 0, total_estudiantes: 55, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4017, curso_nombre: GESTION E INNOVACION DE DESTIN, total_reprobados: 4, total_estudiantes: 43, porcentaje_reprobados: 9.30
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, total_reprobados: 15, total_estudiantes: 180, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4018, curso_nombre: GESTION PUBLICA DEL TURISMO, total_reprobados: 6, total_estudiantes: 51, porcentaje_reprobados: 11.76
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2016, curso_nombre: GUIANZA, total_reprobados: 11, total_estudiantes: 71, porcentaje_reprobados: 15.49
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, total_reprobados: 648, total_estudiantes: 1871, porcentaje_reprobados: 34.63
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_1055, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, total_reprobados: 4, total_estudiantes: 38, porcentaje_reprobados: 10.53
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, total_reprobados: 1050, total_estudiantes: 3838, porcentaje_reprobados: 27.36
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PERI_3015, curso_nombre: IMAGEN PERSONAL Y CORPORATIVA, total_reprobados: 14, total_estudiantes: 126, porcentaje_reprobados: 11.11
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1102, curso_nombre: INCLUSION Y APRENDIZAJE SOSTEN, total_reprobados: 44, total_estudiantes: 227, porcentaje_reprobados: 19.38
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, total_reprobados: 8, total_estudiantes: 227, porcentaje_reprobados: 3.52
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1149, curso_nombre: INNOVAR EN LOS FUTUROS DE LA E, total_reprobados: 2, total_estudiantes: 31, porcentaje_reprobados: 6.45
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, total_reprobados: 40, total_estudiantes: 608, porcentaje_reprobados: 6.58
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1146, curso_nombre: INTELIGENCIA EMOCIONAL, total_reprobados: 31, total_estudiantes: 238, porcentaje_reprobados: 13.03
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PAGR_1017, curso_nombre: INTRO A LA CAD DE VALOR EN CAF, total_reprobados: 4, total_estudiantes: 21, porcentaje_reprobados: 19.05
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, total_reprobados: 14, total_estudiantes: 458, porcentaje_reprobados: 3.06
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, total_reprobados: 69, total_estudiantes: 463, porcentaje_reprobados: 14.90
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, total_reprobados: 204, total_estudiantes: 1179, porcentaje_reprobados: 17.30
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, total_reprobados: 22, total_estudiantes: 339, porcentaje_reprobados: 6.49
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, total_reprobados: 85, total_estudiantes: 1111, porcentaje_reprobados: 7.65
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, total_reprobados: 27, total_estudiantes: 592, porcentaje_reprobados: 4.56
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2022, curso_nombre: JORN DE INVES LA CREDIBILIDAD, total_reprobados: 10, total_estudiantes: 45, porcentaje_reprobados: 22.22
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1033, curso_nombre: JORNADA DE ASESORIA DE SISTEMA, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4160, curso_nombre: JORNADA DE INVEST Y FORMA ESP, total_reprobados: 1, total_estudiantes: 21, porcentaje_reprobados: 4.76
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2021, curso_nombre: JORNADA DE INVESTIGACION TEMAT, total_reprobados: 10, total_estudiantes: 23, porcentaje_reprobados: 43.48
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, total_reprobados: 90, total_estudiantes: 493, porcentaje_reprobados: 18.26
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4011, curso_nombre: LANGUAGE TESTING, total_reprobados: 12, total_estudiantes: 41, porcentaje_reprobados: 29.27
+programa_modalidad_nombre: DISTANCIA, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, total_reprobados: 268, total_estudiantes: 875, porcentaje_reprobados: 30.63
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, total_reprobados: 124, total_estudiantes: 1029, porcentaje_reprobados: 12.05
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, total_reprobados: 310, total_estudiantes: 1127, porcentaje_reprobados: 27.51
+programa_modalidad_nombre: DISTANCIA, curso_codigo: DERE_1102, curso_nombre: LEGISLACION MONETARIA Y BANCAR, total_reprobados: 4, total_estudiantes: 4, porcentaje_reprobados: 100.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2013, curso_nombre: LEGISLACION TURISTICA Y AMBIEN, total_reprobados: 20, total_estudiantes: 101, porcentaje_reprobados: 19.80
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1147, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, total_reprobados: 31, total_estudiantes: 211, porcentaje_reprobados: 14.69
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1141, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, total_reprobados: 2, total_estudiantes: 12, porcentaje_reprobados: 16.67
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4027, curso_nombre: LOGISTICA EMPRESARIAL, total_reprobados: 3, total_estudiantes: 16, porcentaje_reprobados: 18.75
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, total_reprobados: 25, total_estudiantes: 149, porcentaje_reprobados: 16.78
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MERC_4007, curso_nombre: MARKETING, total_reprobados: 146, total_estudiantes: 1162, porcentaje_reprobados: 12.56
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MERC_1005, curso_nombre: MARKETING, total_reprobados: 10, total_estudiantes: 41, porcentaje_reprobados: 24.39
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MERC_4004, curso_nombre: MARKETING TURISTICO, total_reprobados: 13, total_estudiantes: 88, porcentaje_reprobados: 14.77
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, total_reprobados: 378, total_estudiantes: 1190, porcentaje_reprobados: 31.76
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, total_reprobados: 82, total_estudiantes: 1696, porcentaje_reprobados: 4.83
+programa_modalidad_nombre: DISTANCIA, curso_codigo: MATE_1095, curso_nombre: MATEMATICA FINANCIERA, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, total_reprobados: 13, total_estudiantes: 257, porcentaje_reprobados: 5.06
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, total_reprobados: 32, total_estudiantes: 229, porcentaje_reprobados: 13.97
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, total_reprobados: 7, total_estudiantes: 241, porcentaje_reprobados: 2.90
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3187, curso_nombre: METHO FOR ACADEMIC PURPOSES, total_reprobados: 3, total_estudiantes: 86, porcentaje_reprobados: 3.49
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, total_reprobados: 14, total_estudiantes: 289, porcentaje_reprobados: 4.84
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4014, curso_nombre: METHODOLOGY AND DIDACTICS III:, total_reprobados: 7, total_estudiantes: 35, porcentaje_reprobados: 20.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, total_reprobados: 32, total_estudiantes: 141, porcentaje_reprobados: 22.70
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, total_reprobados: 54, total_estudiantes: 557, porcentaje_reprobados: 9.69
+programa_modalidad_nombre: DISTANCIA, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, total_reprobados: 46, total_estudiantes: 458, porcentaje_reprobados: 10.04
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4021, curso_nombre: NEURO MARKT Y TEORIAS DE INFOR, total_reprobados: 2, total_estudiantes: 16, porcentaje_reprobados: 12.50
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, total_reprobados: 47, total_estudiantes: 480, porcentaje_reprobados: 9.79
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2018, curso_nombre: NUEVAS ALTERNATIVAS DE TURISMO, total_reprobados: 19, total_estudiantes: 113, porcentaje_reprobados: 16.81
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5013, curso_nombre: ORDENAMIENTO TURISTICO TERRITO, total_reprobados: 0, total_estudiantes: 30, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2015, curso_nombre: ORGANIZACION DE EVENTOS Y PROT, total_reprobados: 17, total_estudiantes: 79, porcentaje_reprobados: 21.52
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PIND_5008, curso_nombre: ORGANIZACION INDUSTRIAL, total_reprobados: 17, total_estudiantes: 117, porcentaje_reprobados: 14.53
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5010, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, total_reprobados: 7, total_estudiantes: 165, porcentaje_reprobados: 4.24
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, total_reprobados: 31, total_estudiantes: 343, porcentaje_reprobados: 9.04
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5006, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, total_reprobados: 0, total_estudiantes: 49, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4046, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, total_reprobados: 37, total_estudiantes: 213, porcentaje_reprobados: 17.37
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4012, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, total_reprobados: 0, total_estudiantes: 25, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4000, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, total_reprobados: 17, total_estudiantes: 106, porcentaje_reprobados: 16.04
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_3015, curso_nombre: PASANTIA PRE-PRO1, total_reprobados: 2, total_estudiantes: 24, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4023, curso_nombre: PASANTIA PRE-PRO2, total_reprobados: 8, total_estudiantes: 57, porcentaje_reprobados: 14.04
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3002, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, total_reprobados: 4, total_estudiantes: 20, porcentaje_reprobados: 20.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3023, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 1, total_reprobados: 6, total_estudiantes: 14, porcentaje_reprobados: 42.86
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4045, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, total_reprobados: 6, total_estudiantes: 49, porcentaje_reprobados: 12.24
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4008, curso_nombre: PASANTIAS PRE-PROF PRACTICUM 2, total_reprobados: 4, total_estudiantes: 49, porcentaje_reprobados: 8.16
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3013, curso_nombre: PATRIMONIO NATURAL Y BIODIVERS, total_reprobados: 12, total_estudiantes: 99, porcentaje_reprobados: 12.12
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, total_reprobados: 45, total_estudiantes: 462, porcentaje_reprobados: 9.74
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4016, curso_nombre: PLANIFICACION DE DESTINOS TURI, total_reprobados: 7, total_estudiantes: 67, porcentaje_reprobados: 10.45
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, total_reprobados: 112, total_estudiantes: 649, porcentaje_reprobados: 17.26
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, total_reprobados: 100, total_estudiantes: 755, porcentaje_reprobados: 13.25
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, total_reprobados: 109, total_estudiantes: 681, porcentaje_reprobados: 16.01
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, total_reprobados: 96, total_estudiantes: 440, porcentaje_reprobados: 21.82
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2010, curso_nombre: PRACTICUM 1, total_reprobados: 23, total_estudiantes: 106, porcentaje_reprobados: 21.70
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, total_reprobados: 357, total_estudiantes: 1319, porcentaje_reprobados: 27.07
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3017, curso_nombre: PRACTICUM 2, total_reprobados: 7, total_estudiantes: 90, porcentaje_reprobados: 7.78
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, total_reprobados: 33, total_estudiantes: 614, porcentaje_reprobados: 5.37
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, total_reprobados: 41, total_estudiantes: 371, porcentaje_reprobados: 11.05
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, total_reprobados: 122, total_estudiantes: 815, porcentaje_reprobados: 14.97
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, total_reprobados: 155, total_estudiantes: 982, porcentaje_reprobados: 15.78
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, total_reprobados: 27, total_estudiantes: 324, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, total_reprobados: 79, total_estudiantes: 681, porcentaje_reprobados: 11.60
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3012, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, total_reprobados: 8, total_estudiantes: 81, porcentaje_reprobados: 9.88
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, total_reprobados: 17, total_estudiantes: 245, porcentaje_reprobados: 6.94
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4020, curso_nombre: PRACTICUM 4.1, total_reprobados: 6, total_estudiantes: 50, porcentaje_reprobados: 12.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, total_reprobados: 30, total_estudiantes: 617, porcentaje_reprobados: 4.86
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, total_reprobados: 36, total_estudiantes: 521, porcentaje_reprobados: 6.91
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, total_reprobados: 13, total_estudiantes: 127, porcentaje_reprobados: 10.24
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5010, curso_nombre: PRACTICUM 4.2, total_reprobados: 4, total_estudiantes: 27, porcentaje_reprobados: 14.81
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, total_reprobados: 84, total_estudiantes: 334, porcentaje_reprobados: 25.15
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, total_reprobados: 39, total_estudiantes: 354, porcentaje_reprobados: 11.02
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4028, curso_nombre: PRACTICUM ACADE 3 ASESORIA TT, total_reprobados: 2, total_estudiantes: 108, porcentaje_reprobados: 1.85
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_3021, curso_nombre: PRACTICUM ACADEMICO 1, total_reprobados: 2, total_estudiantes: 10, porcentaje_reprobados: 20.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4027, curso_nombre: PRACTICUM ACADEMICO 2, total_reprobados: 23, total_estudiantes: 111, porcentaje_reprobados: 20.72
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_1018, curso_nombre: PRESUPUESTOS, total_reprobados: 2, total_estudiantes: 3, porcentaje_reprobados: 66.67
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, total_reprobados: 95, total_estudiantes: 783, porcentaje_reprobados: 12.13
+programa_modalidad_nombre: DISTANCIA, curso_codigo: HOTE_1045, curso_nombre: PRINCIPIOS DEL TURISMO, total_reprobados: 56, total_estudiantes: 143, porcentaje_reprobados: 39.16
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, total_reprobados: 174, total_estudiantes: 881, porcentaje_reprobados: 19.75
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4118, curso_nombre: PROPUESTA DE INVESTIGACION, total_reprobados: 19, total_estudiantes: 94, porcentaje_reprobados: 20.21
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, total_reprobados: 195, total_estudiantes: 975, porcentaje_reprobados: 20.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, total_reprobados: 93, total_estudiantes: 597, porcentaje_reprobados: 15.58
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, total_reprobados: 29, total_estudiantes: 756, porcentaje_reprobados: 3.84
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4035, curso_nombre: PROYECTOS, total_reprobados: 13, total_estudiantes: 58, porcentaje_reprobados: 22.41
+programa_modalidad_nombre: DISTANCIA, curso_codigo: PERI_1120, curso_nombre: RADIO Y NUEVAS TECNOLOGIAS, total_reprobados: 9, total_estudiantes: 95, porcentaje_reprobados: 9.47
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_3015, curso_nombre: RECURSOS TANGIB E INTANGIB, total_reprobados: 3, total_estudiantes: 36, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: DISTANCIA, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, total_reprobados: 23, total_estudiantes: 234, porcentaje_reprobados: 9.83
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, total_reprobados: 21, total_estudiantes: 380, porcentaje_reprobados: 5.53
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, total_reprobados: 150, total_estudiantes: 947, porcentaje_reprobados: 15.84
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, total_reprobados: 22, total_estudiantes: 310, porcentaje_reprobados: 7.10
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, total_reprobados: 6, total_estudiantes: 306, porcentaje_reprobados: 1.96
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5004, curso_nombre: SEMINARIO DE FIN DE CARRERA, total_reprobados: 22, total_estudiantes: 237, porcentaje_reprobados: 9.28
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_5007, curso_nombre: SEMINARIO DE FIN DE CARRERA, total_reprobados: 5, total_estudiantes: 39, porcentaje_reprobados: 12.82
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4031, curso_nombre: SEMINARIO DE FIN DE CARRERA, total_reprobados: 13, total_estudiantes: 138, porcentaje_reprobados: 9.42
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5047, curso_nombre: SEMINARIO DE FIN DE CARRERA, total_reprobados: 35, total_estudiantes: 343, porcentaje_reprobados: 10.20
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, total_reprobados: 164, total_estudiantes: 1106, porcentaje_reprobados: 14.83
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4013, curso_nombre: SISTEMAS TECNOLOGICOS APLICADO, total_reprobados: 8, total_estudiantes: 79, porcentaje_reprobados: 10.13
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, total_reprobados: 128, total_estudiantes: 664, porcentaje_reprobados: 19.28
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, total_reprobados: 169, total_estudiantes: 1214, porcentaje_reprobados: 13.92
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, total_reprobados: 24, total_estudiantes: 308, porcentaje_reprobados: 7.79
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4038, curso_nombre: TEACHING TECHNIQUES, total_reprobados: 8, total_estudiantes: 11, porcentaje_reprobados: 72.73
+programa_modalidad_nombre: DISTANCIA, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, total_reprobados: 88, total_estudiantes: 540, porcentaje_reprobados: 16.30
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, total_reprobados: 57, total_estudiantes: 1717, porcentaje_reprobados: 3.32
+programa_modalidad_nombre: DISTANCIA, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, total_reprobados: 120, total_estudiantes: 546, porcentaje_reprobados: 21.98
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, total_reprobados: 55, total_estudiantes: 1645, porcentaje_reprobados: 3.34
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, total_reprobados: 113, total_estudiantes: 1647, porcentaje_reprobados: 6.86
+programa_modalidad_nombre: DISTANCIA, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), total_reprobados: 17, total_estudiantes: 341, porcentaje_reprobados: 4.99
+programa_modalidad_nombre: DISTANCIA, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), total_reprobados: 11, total_estudiantes: 315, porcentaje_reprobados: 3.49
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, total_reprobados: 37, total_estudiantes: 172, porcentaje_reprobados: 21.51
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_2017, curso_nombre: TRANSPORTACION TURISTICA, total_reprobados: 11, total_estudiantes: 89, porcentaje_reprobados: 12.36
+programa_modalidad_nombre: DISTANCIA, curso_codigo: TURI_4019, curso_nombre: TURISMO RURAL Y DESARRO LOCAL, total_reprobados: 0, total_estudiantes: 17, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: DISTANCIA, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, total_reprobados: 14, total_estudiantes: 127, porcentaje_reprobados: 11.02
+programa_modalidad_nombre: DISTANCIA, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, total_reprobados: 79, total_estudiantes: 253, porcentaje_reprobados: 31.23
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3183, curso_nombre: ACADEMIC READING AND WRITIN II, total_reprobados: 6, total_estudiantes: 47, porcentaje_reprobados: 12.77
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3178, curso_nombre: ACADEMIC READING AND WRITING I, total_reprobados: 1, total_estudiantes: 42, porcentaje_reprobados: 2.38
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3185, curso_nombre: ADAPTACIONES CURRICULARES Y DI, total_reprobados: 2, total_estudiantes: 46, porcentaje_reprobados: 4.35
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_2030, curso_nombre: ADMIN DE CAD DE SUM Y LOG EMPR, total_reprobados: 0, total_estudiantes: 47, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1109, curso_nombre: ADMINISTRACION, total_reprobados: 9, total_estudiantes: 94, porcentaje_reprobados: 9.57
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PIND_2010, curso_nombre: ADMINISTRACION DE OPERAC Y PR, total_reprobados: 9, total_estudiantes: 51, porcentaje_reprobados: 17.65
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4095, curso_nombre: ADMINISTRACION DE TECN Y SISTE, total_reprobados: 2, total_estudiantes: 32, porcentaje_reprobados: 6.25
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_5001, curso_nombre: ADMINISTRACION DE TECNOLOGIAS, total_reprobados: 1, total_estudiantes: 1, porcentaje_reprobados: 100.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: LABO_3002, curso_nombre: ADMINISTRACION DEL TALENTO HUM, total_reprobados: 3, total_estudiantes: 84, porcentaje_reprobados: 3.57
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5005, curso_nombre: ADMINISTRACION ESTRATEGICA, total_reprobados: 1, total_estudiantes: 2, porcentaje_reprobados: 50.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5066, curso_nombre: ADMINISTRACION ESTRATEGICA, total_reprobados: 3, total_estudiantes: 29, porcentaje_reprobados: 10.34
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_4057, curso_nombre: ADMINISTRACION FINANCIERA, total_reprobados: 0, total_estudiantes: 18, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4112, curso_nombre: ADMINISTRACION FINANCIERA OPER, total_reprobados: 11, total_estudiantes: 73, porcentaje_reprobados: 15.07
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1009, curso_nombre: ADMINISTRACION I, total_reprobados: 1, total_estudiantes: 4, porcentaje_reprobados: 25.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ARTE_1050, curso_nombre: AEROGRAFIA, total_reprobados: 0, total_estudiantes: 4, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1108, curso_nombre: ALGEBRA LINEAL, total_reprobados: 21, total_estudiantes: 343, porcentaje_reprobados: 6.12
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_1070, curso_nombre: ALGORITMOS Y RESOLUCION DE PRO, total_reprobados: 1, total_estudiantes: 1, porcentaje_reprobados: 100.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_2029, curso_nombre: ANA MATEMATICO MULTIVARIADO, total_reprobados: 3, total_estudiantes: 73, porcentaje_reprobados: 4.11
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_4016, curso_nombre: ANA Y VISUAL GRA VOL DE DATOS, total_reprobados: 0, total_estudiantes: 26, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2036, curso_nombre: ANALISIS DE ALGORITMOS, total_reprobados: 6, total_estudiantes: 131, porcentaje_reprobados: 4.58
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1075, curso_nombre: ANALISIS EXPLORATORIO DE DATOS, total_reprobados: 1, total_estudiantes: 5, porcentaje_reprobados: 20.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1101, curso_nombre: ANALISIS MATEMATICO UNIVARIADO, total_reprobados: 15, total_estudiantes: 230, porcentaje_reprobados: 6.52
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4109, curso_nombre: ANALISIS TERRITORIAL, total_reprobados: 0, total_estudiantes: 40, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_3002, curso_nombre: ANTROPOLOGIA, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_2062, curso_nombre: ANTROPOLOGIA BASICA, total_reprobados: 9, total_estudiantes: 400, porcentaje_reprobados: 2.25
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3031, curso_nombre: APLIC AUDIT FORENS CICLOS TRAN, total_reprobados: 0, total_estudiantes: 18, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3030, curso_nombre: APLICACIONES DE COSTOS, total_reprobados: 0, total_estudiantes: 19, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5006, curso_nombre: ARQ Y COMP PARALELA, total_reprobados: 1, total_estudiantes: 7, porcentaje_reprobados: 14.29
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_2010, curso_nombre: ARQ Y ORGANIZACION DE COMP, total_reprobados: 3, total_estudiantes: 124, porcentaje_reprobados: 2.42
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_5003, curso_nombre: ARQ Y SEGURIDAD DE REDES, total_reprobados: 10, total_estudiantes: 23, porcentaje_reprobados: 43.48
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4004, curso_nombre: ARQUITECTURA DE APLICACIONES, total_reprobados: 0, total_estudiantes: 11, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2039, curso_nombre: ARQUITECTURA DE COMPUTADORAS, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4069, curso_nombre: ARQUITECTURA DE SOFTWARE, total_reprobados: 1, total_estudiantes: 55, porcentaje_reprobados: 1.82
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PERI_1110, curso_nombre: ARTE ESCENICO Y EXPRESION ORAL, total_reprobados: 1, total_estudiantes: 3, porcentaje_reprobados: 33.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4030, curso_nombre: AUDIT INT Y ADMIN RIESGOS ERM, total_reprobados: 0, total_estudiantes: 14, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4028, curso_nombre: AUDITORIA DE GESTION, total_reprobados: 0, total_estudiantes: 15, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_4056, curso_nombre: AUDITORIA FINANCIERA, total_reprobados: 0, total_estudiantes: 19, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_5006, curso_nombre: AUDITORIA INFORMATICA, total_reprobados: 1, total_estudiantes: 2, porcentaje_reprobados: 50.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_1012, curso_nombre: AUDITORIA INFORMATICA, total_reprobados: 0, total_estudiantes: 5, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_2005, curso_nombre: BASE DE DATOS AVANZADA, total_reprobados: 9, total_estudiantes: 129, porcentaje_reprobados: 6.98
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RENR_1004, curso_nombre: BIOECONOMIA CIRCULAR, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1114, curso_nombre: CALCULO DIFERENCIAL, total_reprobados: 1, total_estudiantes: 1, porcentaje_reprobados: 100.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1078, curso_nombre: CARACTERIZACION DE MATERIALES, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1076, curso_nombre: CICLO DEL MERCURIO EN LA NATUR, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COME_1005, curso_nombre: COMERCIO EXTERIOR, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COME_3002, curso_nombre: COMERCIO EXTERIOR, total_reprobados: 0, total_estudiantes: 21, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4013, curso_nombre: COMP PARALELA Y DISTRIBUIDA, total_reprobados: 0, total_estudiantes: 55, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4082, curso_nombre: COMPORTAMIENTO ORGANIZACIONAL, total_reprobados: 7, total_estudiantes: 71, porcentaje_reprobados: 9.86
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: LITE_1108, curso_nombre: COMPOSICION DE TEXTOS CIENTIFI, total_reprobados: 5, total_estudiantes: 65, porcentaje_reprobados: 7.69
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_1081, curso_nombre: COMPUTACION Y SOCIEDAD, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_1078, curso_nombre: COMPUTACION Y SOCIEDAD, total_reprobados: 9, total_estudiantes: 189, porcentaje_reprobados: 4.76
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_3019, curso_nombre: COMUNICACION DE DATOS, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4116, curso_nombre: CONSTRUCCION DE INDICADORES, total_reprobados: 4, total_estudiantes: 51, porcentaje_reprobados: 7.84
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4033, curso_nombre: CONTABILIDAD AGRARIA, total_reprobados: 0, total_estudiantes: 17, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2027, curso_nombre: CONTABILIDAD CORPORATIVA, total_reprobados: 0, total_estudiantes: 17, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3026, curso_nombre: CONTABILIDAD DE COSTOS, total_reprobados: 6, total_estudiantes: 25, porcentaje_reprobados: 24.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3025, curso_nombre: CONTABILIDAD DE INSTITUC FINAN, total_reprobados: 0, total_estudiantes: 18, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_1085, curso_nombre: CONTABILIDAD FINANCIERA, total_reprobados: 1, total_estudiantes: 30, porcentaje_reprobados: 3.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2025, curso_nombre: CONTABILIDAD FINANCIERA AVANZA, total_reprobados: 3, total_estudiantes: 26, porcentaje_reprobados: 11.54
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_5023, curso_nombre: CONTABILIDAD GERENCIAL, total_reprobados: 0, total_estudiantes: 13, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2028, curso_nombre: CONTABILIDAD GUBERNAMENTAL, total_reprobados: 0, total_estudiantes: 18, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4116, curso_nombre: CONTRASTIVE GRAMMAR, total_reprobados: 0, total_estudiantes: 23, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DERE_3050, curso_nombre: CONTRATACION PUBLICA, total_reprobados: 2, total_estudiantes: 22, porcentaje_reprobados: 9.09
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4111, curso_nombre: CUR DSING FR ACADM AND SPCIF P, total_reprobados: 0, total_estudiantes: 8, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4112, curso_nombre: CURRICLM FUNDTS PRNCPLS AND IS, total_reprobados: 0, total_estudiantes: 17, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: UTPL_3000, curso_nombre: CURSO DE ACTUALIZACION, total_reprobados: 8, total_estudiantes: 20, porcentaje_reprobados: 40.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DERE_3045, curso_nombre: DERECHO LABORAL, total_reprobados: 0, total_estudiantes: 29, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DERE_4054, curso_nombre: DERECHO TRIBUTARIO, total_reprobados: 0, total_estudiantes: 69, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DERE_1182, curso_nombre: DERECHO TRIBUTARIO, total_reprobados: 0, total_estudiantes: 30, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3048, curso_nombre: DESARROLLO BASADO EN PLAT WEB, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4075, curso_nombre: DESARROLLO BASADO EN PLATAF MO, total_reprobados: 0, total_estudiantes: 3, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4002, curso_nombre: DESARROLLO ECONOMICO, total_reprobados: 2, total_estudiantes: 4, porcentaje_reprobados: 50.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_3025, curso_nombre: DESARROLLO EMPRES NUEVOS NEGOC, total_reprobados: 2, total_estudiantes: 25, porcentaje_reprobados: 8.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1043, curso_nombre: DESARROLLO EMPRESARIAL, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_3005, curso_nombre: DESARROLLO ESPIRITUAL III, total_reprobados: 0, total_estudiantes: 3, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3047, curso_nombre: DESARROLLO REGIONAL, total_reprobados: 1, total_estudiantes: 54, porcentaje_reprobados: 1.85
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5071, curso_nombre: DIRECCION ESTRATEGICA, total_reprobados: 0, total_estudiantes: 22, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4117, curso_nombre: DISCOURSE ANALYSIS, total_reprobados: 0, total_estudiantes: 23, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1080, curso_nombre: DISEÑO DE CIMENTACIONES PRO Y, total_reprobados: 0, total_estudiantes: 4, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ARQU_1021, curso_nombre: DISEÑO PARAM Y FABRIC DIGITAL, total_reprobados: 0, total_estudiantes: 4, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_1001, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_5002, curso_nombre: DOCTRINA SOCIAL DE LA IGLESIA, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4083, curso_nombre: E-COMMERCE, total_reprobados: 1, total_estudiantes: 19, porcentaje_reprobados: 5.26
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3043, curso_nombre: ECONOMETRIA AVANZADA, total_reprobados: 15, total_estudiantes: 72, porcentaje_reprobados: 20.83
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3039, curso_nombre: ECONOMETRIA BASICA, total_reprobados: 5, total_estudiantes: 73, porcentaje_reprobados: 6.85
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECMA_4003, curso_nombre: ECONOMETRIA II, total_reprobados: 1, total_estudiantes: 1, porcentaje_reprobados: 100.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECMA_4004, curso_nombre: ECONOMETRIA III, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5008, curso_nombre: ECONOMIA AMBIEN DES ECON SUST, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4108, curso_nombre: ECONOMIA AMBIENTAL Y DE REC NA, total_reprobados: 9, total_estudiantes: 78, porcentaje_reprobados: 11.54
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2035, curso_nombre: ECONOMIA DE LA EMPRESA Y MERCA, total_reprobados: 11, total_estudiantes: 82, porcentaje_reprobados: 13.41
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5013, curso_nombre: ECONOMIA INTERNACIONAL, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5077, curso_nombre: ECONOMIA INTERNACIONAL, total_reprobados: 13, total_estudiantes: 54, porcentaje_reprobados: 24.07
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5014, curso_nombre: ECONOMIA POLITICA, total_reprobados: 1, total_estudiantes: 4, porcentaje_reprobados: 25.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5076, curso_nombre: ECONOMIA POLITICA, total_reprobados: 3, total_estudiantes: 48, porcentaje_reprobados: 6.25
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1127, curso_nombre: ECONOMIA POPULAR Y SOLIDARIA, total_reprobados: 1, total_estudiantes: 1, porcentaje_reprobados: 100.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_3100, curso_nombre: ECUACIONES DIFER Y MET NUMER, total_reprobados: 15, total_estudiantes: 131, porcentaje_reprobados: 11.45
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_1110, curso_nombre: EL ARTE DE AMAR, total_reprobados: 0, total_estudiantes: 10, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5078, curso_nombre: EMPREN CON BASE TECNOLOGICA I, total_reprobados: 4, total_estudiantes: 54, porcentaje_reprobados: 7.41
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5079, curso_nombre: EMPREN CON BASE TECNOLOGICA II, total_reprobados: 0, total_estudiantes: 24, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4038, curso_nombre: EMPRENDIMIENTO, total_reprobados: 5, total_estudiantes: 214, porcentaje_reprobados: 2.34
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_7125, curso_nombre: EMPRENDIMIENTO Y FUNDAMENTOS P, total_reprobados: 0, total_estudiantes: 8, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_2118, curso_nombre: ENGLISH LAN: LIST AND SPEAK IV, total_reprobados: 1, total_estudiantes: 63, porcentaje_reprobados: 1.59
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3112, curso_nombre: ENGLISH LAN: LISTE AND SPE III, total_reprobados: 4, total_estudiantes: 68, porcentaje_reprobados: 5.88
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3111, curso_nombre: ENGLISH LAN: READ AND WRIT III, total_reprobados: 7, total_estudiantes: 69, porcentaje_reprobados: 10.14
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_2119, curso_nombre: ENGLISH LAN: READ AND WRIT IV, total_reprobados: 1, total_estudiantes: 65, porcentaje_reprobados: 1.54
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_1075, curso_nombre: ENGLISH LANG: LIST AND SPEA II, total_reprobados: 6, total_estudiantes: 107, porcentaje_reprobados: 5.61
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_1074, curso_nombre: ENGLISH LANG: LIST AND SPEAK I, total_reprobados: 3, total_estudiantes: 105, porcentaje_reprobados: 2.86
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_1076, curso_nombre: ENGLISH LANG: READ AND WRIT II, total_reprobados: 2, total_estudiantes: 102, porcentaje_reprobados: 1.96
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: IDIO_1104, curso_nombre: ENGLISH LANG: READI AND WRIT I, total_reprobados: 6, total_estudiantes: 106, porcentaje_reprobados: 5.66
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3179, curso_nombre: ENGLISH PRON: PHONETI AND PHON, total_reprobados: 1, total_estudiantes: 41, porcentaje_reprobados: 2.44
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4109, curso_nombre: ENGLISH SYNTAX, total_reprobados: 2, total_estudiantes: 24, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_1084, curso_nombre: EPISTEMOLOGIA DE CONTA Y AUDIT, total_reprobados: 3, total_estudiantes: 31, porcentaje_reprobados: 9.68
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1081, curso_nombre: ESTABILIDAD DE LADERAS Y TALUD, total_reprobados: 0, total_estudiantes: 5, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_3023, curso_nombre: ESTADISTICA BASICA, total_reprobados: 10, total_estudiantes: 184, porcentaje_reprobados: 5.43
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_2031, curso_nombre: ESTADISTICA BASICA, total_reprobados: 6, total_estudiantes: 68, porcentaje_reprobados: 8.82
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_1012, curso_nombre: ESTADISTICA II, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_2029, curso_nombre: ESTADISTICA PARA LAS ING Y ARQ, total_reprobados: 1, total_estudiantes: 1, porcentaje_reprobados: 100.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_3022, curso_nombre: ESTADISTICA Y PROBABILIDAD, total_reprobados: 6, total_estudiantes: 94, porcentaje_reprobados: 6.38
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2029, curso_nombre: ESTRUCTURAS DE DATOS, total_reprobados: 18, total_estudiantes: 175, porcentaje_reprobados: 10.29
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2030, curso_nombre: ESTRUCTURAS DISCRETAS, total_reprobados: 24, total_estudiantes: 203, porcentaje_reprobados: 11.82
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_1109, curso_nombre: ETICA DE LA INTELIGENCIA ARTIF, total_reprobados: 0, total_estudiantes: 3, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FILO_1114, curso_nombre: ETICA Y MORAL, total_reprobados: 6, total_estudiantes: 290, porcentaje_reprobados: 2.07
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4089, curso_nombre: EVALUACION DE PROYECTOS, total_reprobados: 3, total_estudiantes: 39, porcentaje_reprobados: 7.69
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1143, curso_nombre: FAMILIA Y EDUCACION: RETOS Y D, total_reprobados: 0, total_estudiantes: 4, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FILO_1117, curso_nombre: FILOSOFIA E HISTORIA DE LA EDU, total_reprobados: 0, total_estudiantes: 106, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_3024, curso_nombre: FINANZAS ESTRUCTURALES, total_reprobados: 11, total_estudiantes: 45, porcentaje_reprobados: 24.44
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_3023, curso_nombre: FINANZAS OPERATIVAS, total_reprobados: 5, total_estudiantes: 53, porcentaje_reprobados: 9.43
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FISI_1039, curso_nombre: FISICA BASICA, total_reprobados: 62, total_estudiantes: 186, porcentaje_reprobados: 33.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4126, curso_nombre: FORM EVALUAC DE PROYECTOS, total_reprobados: 0, total_estudiantes: 13, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3045, curso_nombre: FORMULACION DE PROYECTOS, total_reprobados: 13, total_estudiantes: 57, porcentaje_reprobados: 22.81
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4012, curso_nombre: FUND DE INTE ARTIFICIAL, total_reprobados: 1, total_estudiantes: 53, porcentaje_reprobados: 1.89
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ARTE_1089, curso_nombre: FUND DEL LENGUAJE VISUAL, total_reprobados: 0, total_estudiantes: 3, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_1075, curso_nombre: FUNDAMENTOS COMPUTACIONALES, total_reprobados: 27, total_estudiantes: 196, porcentaje_reprobados: 13.78
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1115, curso_nombre: FUNDAMENTOS DE ADMINIST FINAN, total_reprobados: 0, total_estudiantes: 16, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1113, curso_nombre: FUNDAMENTOS DE ADMINISTRACION, total_reprobados: 3, total_estudiantes: 77, porcentaje_reprobados: 3.90
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_3014, curso_nombre: FUNDAMENTOS DE ANALISIS DE DAT, total_reprobados: 0, total_estudiantes: 61, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_2004, curso_nombre: FUNDAMENTOS DE BASE DE DATOS, total_reprobados: 3, total_estudiantes: 123, porcentaje_reprobados: 2.44
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_2006, curso_nombre: FUNDAMENTOS DE BASE DE DATOS, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_1083, curso_nombre: FUNDAMENTOS DE CONTABILIDAD, total_reprobados: 17, total_estudiantes: 199, porcentaje_reprobados: 8.54
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_1088, curso_nombre: FUNDAMENTOS DE ECONOMIA, total_reprobados: 4, total_estudiantes: 31, porcentaje_reprobados: 12.90
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_1071, curso_nombre: FUNDAMENTOS DE HARDWARE, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_3012, curso_nombre: FUNDAMENTOS DE INGENIERIA DE S, total_reprobados: 1, total_estudiantes: 3, porcentaje_reprobados: 33.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_3011, curso_nombre: FUNDAMENTOS DE INGENIERIA DE S, total_reprobados: 0, total_estudiantes: 77, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_1073, curso_nombre: FUNDAMENTOS DE PROGRAMACION, total_reprobados: 2, total_estudiantes: 2, porcentaje_reprobados: 100.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_4012, curso_nombre: FUNDAMENTOS DE REDES, total_reprobados: 6, total_estudiantes: 83, porcentaje_reprobados: 7.23
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_1034, curso_nombre: FUNDAMENTOS INFORMATICOS, total_reprobados: 0, total_estudiantes: 6, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1103, curso_nombre: FUNDAMENTOS MATEMATICOS, total_reprobados: 36, total_estudiantes: 353, porcentaje_reprobados: 10.20
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4077, curso_nombre: FUNDAMENTOS Y APLICACION DE SE, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1062, curso_nombre: GEOESTADISTICA BASICA, total_reprobados: 0, total_estudiantes: 4, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1074, curso_nombre: GEOLOGIA DEL SUBSUELO, total_reprobados: 1, total_estudiantes: 1, porcentaje_reprobados: 100.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MINE_1005, curso_nombre: GERENCIA DE OPERACIONES MINERA, total_reprobados: 1, total_estudiantes: 3, porcentaje_reprobados: 33.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RENR_3001, curso_nombre: GERENCIA DE RECURSOS NATURALES, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3035, curso_nombre: GEST DE LA CALIDAD DE SOFTWARE, total_reprobados: 2, total_estudiantes: 79, porcentaje_reprobados: 2.53
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SIST_4000, curso_nombre: GEST DE TECN DE LA INFO, total_reprobados: 1, total_estudiantes: 1, porcentaje_reprobados: 100.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5067, curso_nombre: GESTION DE LA CALIDAD, total_reprobados: 1, total_estudiantes: 36, porcentaje_reprobados: 2.78
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3045, curso_nombre: GESTION DE LA CALIDAD DEL SOFT, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4079, curso_nombre: GESTION DE NUEVOS NEGOCIOS, total_reprobados: 7, total_estudiantes: 15, porcentaje_reprobados: 46.67
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: SEPR_1002, curso_nombre: GESTION DE NUEVOS RIESGOS LABO, total_reprobados: 0, total_estudiantes: 3, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5077, curso_nombre: GESTION DE PROYECTOS, total_reprobados: 2, total_estudiantes: 36, porcentaje_reprobados: 5.56
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_3030, curso_nombre: GESTION DEL CONOCIMIENTO, total_reprobados: 8, total_estudiantes: 53, porcentaje_reprobados: 15.09
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_7129, curso_nombre: GESTION ESTRATEGICA DE LA INNO, total_reprobados: 0, total_estudiantes: 6, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1111, curso_nombre: GESTION INNOVACION EMPRESARIAL, total_reprobados: 0, total_estudiantes: 6, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5025, curso_nombre: GESTION PRODUCTIVA 4.2, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5021, curso_nombre: GESTION PRODUCTIVA GP 4.1, total_reprobados: 1, total_estudiantes: 4, porcentaje_reprobados: 25.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5023, curso_nombre: GESTION PRODUCTIVA GP 4.2, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5064, curso_nombre: HABILIDADES GERENCIALES, total_reprobados: 5, total_estudiantes: 94, porcentaje_reprobados: 5.32
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_1089, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, total_reprobados: 6, total_estudiantes: 72, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_1055, curso_nombre: HISTORIA DEL PENSAMIENTO ECONO, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_1087, curso_nombre: HISTORIA ECONOMICA DEL ECUADOR, total_reprobados: 6, total_estudiantes: 76, porcentaje_reprobados: 7.89
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_1105, curso_nombre: HUMANISMO, UNIVERSIDAD Y CULTU, total_reprobados: 21, total_estudiantes: 470, porcentaje_reprobados: 4.47
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PERI_3015, curso_nombre: IMAGEN PERSONAL Y CORPORATIVA, total_reprobados: 2, total_estudiantes: 3, porcentaje_reprobados: 66.67
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1102, curso_nombre: INCLUSION Y APRENDIZAJE SOSTEN, total_reprobados: 3, total_estudiantes: 27, porcentaje_reprobados: 11.11
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4115, curso_nombre: INCLUSIVE AND SUSTAINABLE EDUC, total_reprobados: 2, total_estudiantes: 25, porcentaje_reprobados: 8.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3039, curso_nombre: INGENIERIA DE REQUISITOS, total_reprobados: 1, total_estudiantes: 83, porcentaje_reprobados: 1.20
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3037, curso_nombre: INGENIERIA WEB, total_reprobados: 12, total_estudiantes: 91, porcentaje_reprobados: 13.19
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1149, curso_nombre: INNOVAR EN LOS FUTUROS DE LA E, total_reprobados: 0, total_estudiantes: 3, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_5003, curso_nombre: INTE ARTIFICIAL AVANZADO, total_reprobados: 2, total_estudiantes: 13, porcentaje_reprobados: 15.38
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4081, curso_nombre: INTELIG ESTRAT Y METOD INTERNA, total_reprobados: 1, total_estudiantes: 19, porcentaje_reprobados: 5.26
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4009, curso_nombre: INTELIGENCIA ARTIFICIAL, total_reprobados: 2, total_estudiantes: 10, porcentaje_reprobados: 20.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_1009, curso_nombre: INTELIGENCIA DE NEGOCIOS, total_reprobados: 1, total_estudiantes: 9, porcentaje_reprobados: 11.11
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1146, curso_nombre: INTELIGENCIA EMOCIONAL, total_reprobados: 1, total_estudiantes: 12, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_4015, curso_nombre: INTEROPERY EXPLO DATOS ECO HET, total_reprobados: 0, total_estudiantes: 27, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PAGR_1017, curso_nombre: INTRO A LA CAD DE VALOR EN CAF, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3028, curso_nombre: INTRO AUDITORIA FORENSE EMPRES, total_reprobados: 0, total_estudiantes: 20, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3180, curso_nombre: INTRODUC TO EDUCATIO RESEARCH, total_reprobados: 2, total_estudiantes: 47, porcentaje_reprobados: 4.26
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_1007, curso_nombre: INTRODUCCION A LA AUDITORIA, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_1090, curso_nombre: INTRODUCCION A LA ECONOMIA, total_reprobados: 9, total_estudiantes: 161, porcentaje_reprobados: 5.59
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_3013, curso_nombre: INTRODUCCION A LA INTELIGENCIA, total_reprobados: 0, total_estudiantes: 83, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_1067, curso_nombre: INTRODUCCION A LA PROGRAMACION, total_reprobados: 33, total_estudiantes: 201, porcentaje_reprobados: 16.42
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DISE_1032, curso_nombre: INTRODUCCIÓN AL DISEÑO INTERIO, total_reprobados: 0, total_estudiantes: 11, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3189, curso_nombre: INTRODUCTION TO LINGUISTICS, total_reprobados: 0, total_estudiantes: 42, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_3026, curso_nombre: INVESTIGACION DE MERCADOS, total_reprobados: 1, total_estudiantes: 67, porcentaje_reprobados: 1.49
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DIPP_3001, curso_nombre: INVESTIGACION OPERATIVA TOMA D, total_reprobados: 7, total_estudiantes: 35, porcentaje_reprobados: 20.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_2022, curso_nombre: JORN DE INVES LA CREDIBILIDAD, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4160, curso_nombre: JORNADA DE INVEST Y FORMA ESP, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3177, curso_nombre: LANGUAGE TESTING, total_reprobados: 0, total_estudiantes: 47, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: LITE_1106, curso_nombre: LECTURA Y REDACCION DE TEXTOS, total_reprobados: 7, total_estudiantes: 107, porcentaje_reprobados: 6.54
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1110, curso_nombre: LEGISLACION EMPRESARIAL, total_reprobados: 2, total_estudiantes: 72, porcentaje_reprobados: 2.78
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DERE_2072, curso_nombre: LEGISLACION MERCANTIL Y SOCIET, total_reprobados: 2, total_estudiantes: 29, porcentaje_reprobados: 6.90
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1147, curso_nombre: LIDERAZGO INCLUSIVO Y APRENDIZ, total_reprobados: 5, total_estudiantes: 19, porcentaje_reprobados: 26.32
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ELEN_2008, curso_nombre: LOGICA DIGITAL, total_reprobados: 5, total_estudiantes: 131, porcentaje_reprobados: 3.82
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3041, curso_nombre: MACROECONOMIA ABIERTA, total_reprobados: 3, total_estudiantes: 65, porcentaje_reprobados: 4.62
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2034, curso_nombre: MACROECONOMIA CERRADA, total_reprobados: 3, total_estudiantes: 64, porcentaje_reprobados: 4.69
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1117, curso_nombre: MANAGEMENT 3.0, total_reprobados: 1, total_estudiantes: 8, porcentaje_reprobados: 12.50
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MERC_4007, curso_nombre: MARKETING, total_reprobados: 0, total_estudiantes: 72, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1106, curso_nombre: MATEMATICA BASICA, total_reprobados: 4, total_estudiantes: 31, porcentaje_reprobados: 12.90
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MATE_1109, curso_nombre: MATEMATICA FINANCIERA, total_reprobados: 11, total_estudiantes: 166, porcentaje_reprobados: 6.63
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: RELI_1033, curso_nombre: MATRIMONIO Y FAMILIA, total_reprobados: 1, total_estudiantes: 13, porcentaje_reprobados: 7.69
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COME_5000, curso_nombre: MERCADO DE VALORES, total_reprobados: 1, total_estudiantes: 5, porcentaje_reprobados: 20.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3188, curso_nombre: METH TO ADOLESCENTS AND ADULTS, total_reprobados: 0, total_estudiantes: 23, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3187, curso_nombre: METHO FOR ACADEMIC PURPOSES, total_reprobados: 0, total_estudiantes: 14, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3191, curso_nombre: METHODO FOR TEAC ENGL TO CHILD, total_reprobados: 0, total_estudiantes: 24, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3182, curso_nombre: METHODOLOGY FOR TEACHING ENGLI, total_reprobados: 0, total_estudiantes: 15, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5065, curso_nombre: METODOS DE VALOR DE EMPRESAS, total_reprobados: 1, total_estudiantes: 33, porcentaje_reprobados: 3.03
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3042, curso_nombre: MICROECONOMIA APLICADA, total_reprobados: 9, total_estudiantes: 77, porcentaje_reprobados: 11.69
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1071, curso_nombre: MODELAMIENTO GEOLOGICO CON LEA, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3040, curso_nombre: MODELOS ECONOMETRICOS, total_reprobados: 5, total_estudiantes: 71, porcentaje_reprobados: 7.04
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4110, curso_nombre: MODELOS OPTIMIZA PARA USO DE R, total_reprobados: 1, total_estudiantes: 12, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COME_3003, curso_nombre: NEGOCIOS INTERNACIONALES, total_reprobados: 0, total_estudiantes: 15, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PSIC_1104, curso_nombre: NEUROCIENCIA Y PSICOL DEL DESA, total_reprobados: 3, total_estudiantes: 75, porcentaje_reprobados: 4.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1069, curso_nombre: OFIMAT PARA EL MODEL Y ANALISI, total_reprobados: 0, total_estudiantes: 3, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5046, curso_nombre: PASANT PRE-PROF PRACTICUM 3.2, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4000, curso_nombre: PASANTI PRE-PROF PRACTICUM 3.1, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3113, curso_nombre: PEDAGOGIA, total_reprobados: 3, total_estudiantes: 74, porcentaje_reprobados: 4.05
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ARTE_4020, curso_nombre: PINTURA, total_reprobados: 0, total_estudiantes: 3, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_1074, curso_nombre: PLAN ESTRATEGIC TRANSF DIGITAL, total_reprobados: 1, total_estudiantes: 3, porcentaje_reprobados: 33.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MINE_1007, curso_nombre: PLANIFICACION SUBTERRANEA, total_reprobados: 0, total_estudiantes: 4, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4114, curso_nombre: PLANIFICACION Y GEST DESA SOST, total_reprobados: 0, total_estudiantes: 9, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4113, curso_nombre: PLANIFICACION Y ORDENAM TERRIT, total_reprobados: 0, total_estudiantes: 38, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4070, curso_nombre: PLATAFORMAS MOVILES, total_reprobados: 3, total_estudiantes: 29, porcentaje_reprobados: 10.34
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4071, curso_nombre: PLATAFORMAS PARA JUEGOS, total_reprobados: 1, total_estudiantes: 29, porcentaje_reprobados: 3.45
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3038, curso_nombre: PLATAFORMAS WEB, total_reprobados: 2, total_estudiantes: 24, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3046, curso_nombre: POLITICA AMBIENTAL, total_reprobados: 11, total_estudiantes: 30, porcentaje_reprobados: 36.67
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3044, curso_nombre: POLITICA ECONOMICA, total_reprobados: 4, total_estudiantes: 49, porcentaje_reprobados: 8.16
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4009, curso_nombre: POLITICA ECONOMICA II, total_reprobados: 2, total_estudiantes: 4, porcentaje_reprobados: 50.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_2030, curso_nombre: POLITICA PUBLICA Y MARCO LEGA, total_reprobados: 3, total_estudiantes: 104, porcentaje_reprobados: 2.88
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2026, curso_nombre: PRACTICA TRIBUTARIA, total_reprobados: 1, total_estudiantes: 21, porcentaje_reprobados: 4.76
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_4007, curso_nombre: PRACTICAS EN CITTES GP 3.2, total_reprobados: 0, total_estudiantes: 7, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2029, curso_nombre: PRACTICUM 1, total_reprobados: 1, total_estudiantes: 21, porcentaje_reprobados: 4.76
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_2029, curso_nombre: PRACTICUM 1, total_reprobados: 3, total_estudiantes: 69, porcentaje_reprobados: 4.35
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_2120, curso_nombre: PRACTICUM 1, total_reprobados: 4, total_estudiantes: 63, porcentaje_reprobados: 6.35
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2037, curso_nombre: PRACTICUM 1, total_reprobados: 0, total_estudiantes: 68, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_2011, curso_nombre: PRACTICUM 1.1, total_reprobados: 12, total_estudiantes: 134, porcentaje_reprobados: 8.96
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_2012, curso_nombre: PRACTICUM 1.2, total_reprobados: 5, total_estudiantes: 123, porcentaje_reprobados: 4.07
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_3027, curso_nombre: PRACTICUM 2, total_reprobados: 1, total_estudiantes: 42, porcentaje_reprobados: 2.38
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3053, curso_nombre: PRACTICUM 2, total_reprobados: 0, total_estudiantes: 62, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3181, curso_nombre: PRACTICUM 2, total_reprobados: 1, total_estudiantes: 41, porcentaje_reprobados: 2.44
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3037, curso_nombre: PRACTICUM 2, total_reprobados: 0, total_estudiantes: 18, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_3019, curso_nombre: PRACTICUM 2.1, total_reprobados: 6, total_estudiantes: 89, porcentaje_reprobados: 6.74
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_3014, curso_nombre: PRACTICUM 2.2, total_reprobados: 6, total_estudiantes: 83, porcentaje_reprobados: 7.23
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3186, curso_nombre: PRACTICUM 3, total_reprobados: 1, total_estudiantes: 40, porcentaje_reprobados: 2.50
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4080, curso_nombre: PRACTICUM 3, total_reprobados: 1, total_estudiantes: 48, porcentaje_reprobados: 2.08
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_3054, curso_nombre: PRACTICUM 3 SERVICIO COMUN, total_reprobados: 1, total_estudiantes: 63, porcentaje_reprobados: 1.59
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3038, curso_nombre: PRACTICUM 3 SERVICIO COMUNITA, total_reprobados: 0, total_estudiantes: 20, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4010, curso_nombre: PRACTICUM 3 SERVICIO COMUNITAR, total_reprobados: 0, total_estudiantes: 61, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4015, curso_nombre: PRACTICUM 4.1, total_reprobados: 2, total_estudiantes: 55, porcentaje_reprobados: 3.64
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4107, curso_nombre: PRACTICUM 4.1, total_reprobados: 1, total_estudiantes: 20, porcentaje_reprobados: 5.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4032, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, total_reprobados: 1, total_estudiantes: 20, porcentaje_reprobados: 5.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4087, curso_nombre: PRACTICUM 4.1 TRAB DE INTE/EXA, total_reprobados: 6, total_estudiantes: 37, porcentaje_reprobados: 16.22
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_4115, curso_nombre: PRACTICUM 4.1:TRABAJO DE INT E, total_reprobados: 7, total_estudiantes: 56, porcentaje_reprobados: 12.50
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5022, curso_nombre: PRACTICUM 4.2, total_reprobados: 3, total_estudiantes: 27, porcentaje_reprobados: 11.11
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4114, curso_nombre: PRACTICUM 4.2, total_reprobados: 4, total_estudiantes: 20, porcentaje_reprobados: 20.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_4034, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, total_reprobados: 1, total_estudiantes: 16, porcentaje_reprobados: 6.25
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5068, curso_nombre: PRACTICUM 4.2 TRAB DE INTE/EXA, total_reprobados: 0, total_estudiantes: 28, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5074, curso_nombre: PRACTICUM 4.2:TRABAJO DE INTEG, total_reprobados: 6, total_estudiantes: 47, porcentaje_reprobados: 12.77
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_1018, curso_nombre: PRESUPUESTOS, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_3027, curso_nombre: PRINCIPIOS DE AUDITORIA, total_reprobados: 0, total_estudiantes: 19, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2033, curso_nombre: PRINCIPIOS DE MACROECONOMIA, total_reprobados: 15, total_estudiantes: 83, porcentaje_reprobados: 18.07
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2032, curso_nombre: PRINCIPIOS DE MICROECONOMIA, total_reprobados: 15, total_estudiantes: 79, porcentaje_reprobados: 18.99
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_5001, curso_nombre: PROC DE INGENIERIA DE SOFTWARE, total_reprobados: 2, total_estudiantes: 20, porcentaje_reprobados: 10.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2035, curso_nombre: PROG FUNCIONAL Y REACTIVA, total_reprobados: 18, total_estudiantes: 142, porcentaje_reprobados: 12.68
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2034, curso_nombre: PROG ORIENTADA A OBJETOS, total_reprobados: 29, total_estudiantes: 169, porcentaje_reprobados: 17.16
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4011, curso_nombre: PROGRAMACION AVANZADA, total_reprobados: 14, total_estudiantes: 128, porcentaje_reprobados: 10.94
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4106, curso_nombre: PROPUESTA DE INVESTIGACION, total_reprobados: 4, total_estudiantes: 48, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4105, curso_nombre: PROPUESTA DE INVESTIGACION, total_reprobados: 0, total_estudiantes: 21, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3108, curso_nombre: PROPUESTA DE INVESTIGACION, total_reprobados: 2, total_estudiantes: 67, porcentaje_reprobados: 2.99
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4092, curso_nombre: PROSPECTIVA EMPRESARIAL Y A, total_reprobados: 5, total_estudiantes: 37, porcentaje_reprobados: 13.51
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_3036, curso_nombre: PROTOTIPADO, total_reprobados: 4, total_estudiantes: 130, porcentaje_reprobados: 3.08
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5004, curso_nombre: PROYEC DE FIN DE CARRER GP4.1, total_reprobados: 4, total_estudiantes: 26, porcentaje_reprobados: 15.38
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5009, curso_nombre: PROYEC DE FIN DE CARRER GP4.2, total_reprobados: 5, total_estudiantes: 34, porcentaje_reprobados: 14.71
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_5012, curso_nombre: PROYECTO FIN CARRERA II GP 4.2, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4090, curso_nombre: PROYECTOS, total_reprobados: 7, total_estudiantes: 26, porcentaje_reprobados: 26.92
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5034, curso_nombre: PROYECTOS II, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_1077, curso_nombre: PYTHON INTERMEDIO APLICADO A L, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: PERI_1120, curso_nombre: RADIO Y NUEVAS TECNOLOGIAS, total_reprobados: 1, total_estudiantes: 3, porcentaje_reprobados: 33.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DRBD_4014, curso_nombre: REDES Y SISTEMAS DISTRIBUIDOS, total_reprobados: 5, total_estudiantes: 60, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: HOTE_1040, curso_nombre: RELACIONES PUB Y PROTOCOLO, total_reprobados: 0, total_estudiantes: 9, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_4014, curso_nombre: REPRESENT AVAN CONOCI Y RAZON, total_reprobados: 1, total_estudiantes: 53, porcentaje_reprobados: 1.89
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_3184, curso_nombre: RESEARCH METHODS IN ELT, total_reprobados: 2, total_estudiantes: 44, porcentaje_reprobados: 4.55
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_4088, curso_nombre: RESPONSABILIDAD SOCIAL EMPRE, total_reprobados: 1, total_estudiantes: 26, porcentaje_reprobados: 3.85
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ELEC_1018, curso_nombre: ROBOTICA INDUSTRIAL, total_reprobados: 1, total_estudiantes: 5, porcentaje_reprobados: 20.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4113, curso_nombre: SECOND LANGUAGE ACQUISITION, total_reprobados: 1, total_estudiantes: 32, porcentaje_reprobados: 3.13
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_5015, curso_nombre: SEGURIDAD DE LA INFORMACION, total_reprobados: 3, total_estudiantes: 5, porcentaje_reprobados: 60.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_5025, curso_nombre: SEGURIDAD DE LA INFORMACION, total_reprobados: 0, total_estudiantes: 26, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4108, curso_nombre: SEMANTICS AND PRAGMATICS, total_reprobados: 0, total_estudiantes: 24, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5035, curso_nombre: SEMINARIO DE FIN DE CARRERA, total_reprobados: 1, total_estudiantes: 3, porcentaje_reprobados: 33.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_5004, curso_nombre: SEMINARIO DE FIN DE CARRERA, total_reprobados: 1, total_estudiantes: 5, porcentaje_reprobados: 20.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_5013, curso_nombre: SIST BASADOS EN CONOCIMIENTO, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5018, curso_nombre: SIST BASADOS EN CONOCIMIENTOS, total_reprobados: 1, total_estudiantes: 13, porcentaje_reprobados: 7.69
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_2035, curso_nombre: SISTEMAS DE COSTOS, total_reprobados: 1, total_estudiantes: 82, porcentaje_reprobados: 1.22
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5020, curso_nombre: SISTEMAS INTELIGENTES, total_reprobados: 0, total_estudiantes: 23, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_3011, curso_nombre: SISTEMAS OPERATIVOS, total_reprobados: 11, total_estudiantes: 97, porcentaje_reprobados: 11.34
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_1109, curso_nombre: SOCIOLOGIA DE LA EDUCACION, total_reprobados: 3, total_estudiantes: 105, porcentaje_reprobados: 2.86
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_3024, curso_nombre: SOSTENIBILIDAD EMPRESARIAL, total_reprobados: 12, total_estudiantes: 54, porcentaje_reprobados: 22.22
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_4110, curso_nombre: TEACHING CULTURE IN THE EFL CL, total_reprobados: 0, total_estudiantes: 32, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: IDIO_2023, curso_nombre: TECHNOLOGY IN THE EFL CLASSROO, total_reprobados: 1, total_estudiantes: 67, porcentaje_reprobados: 1.49
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ESTA_2022, curso_nombre: TECNICAS DE INFERENCIA ESTADIS, total_reprobados: 10, total_estudiantes: 166, porcentaje_reprobados: 6.02
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_7132, curso_nombre: TECNOLOGIA APLICADA, total_reprobados: 0, total_estudiantes: 6, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_5023, curso_nombre: TECNOLOGIAS EMERGENTES, total_reprobados: 3, total_estudiantes: 36, porcentaje_reprobados: 8.33
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: DSOF_2043, curso_nombre: TECNOLOGIAS WEB, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: EDUC_2089, curso_nombre: TEFL METHODOLOGY AND DIDACTICS, total_reprobados: 2, total_estudiantes: 67, porcentaje_reprobados: 2.99
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: COMP_3012, curso_nombre: TEORIA DE AUTOMATAS Y COMPILAD, total_reprobados: 10, total_estudiantes: 90, porcentaje_reprobados: 11.11
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2031, curso_nombre: TEORIA MACROECONOMICA, total_reprobados: 1, total_estudiantes: 80, porcentaje_reprobados: 1.25
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_2030, curso_nombre: TEORIA MICROECONOMICA, total_reprobados: 8, total_estudiantes: 89, porcentaje_reprobados: 8.99
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5039, curso_nombre: TEORIAS DE ACUMULACION Y CREC, total_reprobados: 0, total_estudiantes: 4, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5075, curso_nombre: TEORIAS DEL DESARROLLO, total_reprobados: 3, total_estudiantes: 72, porcentaje_reprobados: 4.17
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_5060, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), total_reprobados: 2, total_estudiantes: 9, porcentaje_reprobados: 22.22
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: CONT_5000, curso_nombre: TRABAJO DE TIT (PRACTICUM 4), total_reprobados: 1, total_estudiantes: 6, porcentaje_reprobados: 16.67
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ECON_5040, curso_nombre: TRABAJO DE TIT (PRACTICUM IV), total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_4044, curso_nombre: TRABAJO DE TITULACION, total_reprobados: 0, total_estudiantes: 2, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FDCE_4043, curso_nombre: TRABAJO DE TITULACION, total_reprobados: 1, total_estudiantes: 4, porcentaje_reprobados: 25.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: TIER_1070, curso_nombre: TRATAMIENTO Y EDICION DE IMAGE, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: HOTE_1030, curso_nombre: TURISMO Y HOTELERIA, total_reprobados: 1, total_estudiantes: 9, porcentaje_reprobados: 11.11
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ARQU_1092, curso_nombre: URBANIZACION Y CAMBIO CLIMATIC, total_reprobados: 1, total_estudiantes: 6, porcentaje_reprobados: 16.67
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: ADMI_1030, curso_nombre: VALIDACION DE PRODUCTO, total_reprobados: 1, total_estudiantes: 6, porcentaje_reprobados: 16.67
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: FINZ_5000, curso_nombre: VALORACION DE EMPRESAS, total_reprobados: 0, total_estudiantes: 3, porcentaje_reprobados: 0.00
+programa_modalidad_nombre: PRESENCIAL, curso_codigo: MINE_4001, curso_nombre: VOLADURA DE ROCAS, total_reprobados: 0, total_estudiantes: 1, porcentaje_reprobados: 0.00

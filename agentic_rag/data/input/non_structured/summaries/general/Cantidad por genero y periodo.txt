@@ -1,0 +1,8 @@
+periodo_academico: 202264, genero: hombre, cantidad_estudiantes: 3769
+periodo_academico: 202264, genero: mujer, cantidad_estudiantes: 3566
+periodo_academico: 202362, genero: hombre, cantidad_estudiantes: 3788
+periodo_academico: 202362, genero: mujer, cantidad_estudiantes: 3645
+periodo_academico: 202364, genero: hombre, cantidad_estudiantes: 3942
+periodo_academico: 202364, genero: mujer, cantidad_estudiantes: 3741
+periodo_academico: 202462, genero: hombre, cantidad_estudiantes: 3693
+periodo_academico: 202462, genero: mujer, cantidad_estudiantes: 3521

@@ -3,6 +3,7 @@ from openai import OpenAI
 # API key para interactuar con OpenAI
 api_key = "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"
 base_url = "http://127.0.0.1:1234/v1"
+# base_url = "https://6de2-200-55-228-82.ngrok-free.app/v1"
 tavily_key="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"
 
 # client = OpenAI( 
@@ -22,7 +23,7 @@ models_llm = {
     0: "meta-llama-3-8b-instruct-bpe-fix",
     1: "deepseek-r1-distill-qwen-7b",
     2: "mistral-nemo-instruct-2407",
-    3: 'gemma-3-4b-it-qat',
+    3: 'gemma-3-4b-it',
     4: 'utplllama',
     5: 'llama-3.2-3b-instruct' 
 }
@@ -30,8 +31,13 @@ models_llm = {
 model_llm_embeddings = models_embedding[0]
 model_llm_responses = models_llm[5]
 
-retrieval_method = 'naive' # naive / reranking 
-collection_name = "bdv5"  #collection chroma para generar embeddings (ver read_me)
+retrieval_method = 'naive' # naive / reranking / self
+collection_name = "bdv4"  #collection chroma para generar embeddings (ver read_me)
+collection_name_summary = "bdv4" 
 
 
-collection_name_active = "bdv5"  #collection chroma al usar en la app  (ver read_me)
+collection_name_active = "bdv3"  #collection chroma al usar en la app  (ver read_me)
+collection_name_active_summary = "bdvs1"
+
+
+# bdvt1, 2 , 3 , 4 , 5, 6, 7,8

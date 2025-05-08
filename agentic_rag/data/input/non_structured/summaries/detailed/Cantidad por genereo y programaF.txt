@@ -1,0 +1,12 @@
+El programa 'ADMINISTRACION DE EMPRESAS' cuenta con 2400 estudiantes del género 'hombre'.
+El programa 'ADMINISTRACION DE EMPRESAS' cuenta con 2334 estudiantes del género 'mujer'.
+El programa 'COMPUTACION' cuenta con 202 estudiantes del género 'hombre'.
+El programa 'COMPUTACION' cuenta con 217 estudiantes del género 'mujer'.
+El programa 'CONTABILIDAD Y AUDITORIA' cuenta con 1804 estudiantes del género 'hombre'.
+El programa 'CONTABILIDAD Y AUDITORIA' cuenta con 1756 estudiantes del género 'mujer'.
+El programa 'ECONOMIA' cuenta con 103 estudiantes del género 'hombre'.
+El programa 'ECONOMIA' cuenta con 95 estudiantes del género 'mujer'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' cuenta con 1202 estudiantes del género 'hombre'.
+El programa 'PED. IDIOMA NACIONALES Y EXTR' cuenta con 1141 estudiantes del género 'mujer'.
+El programa 'TURISMO' cuenta con 240 estudiantes del género 'hombre'.
+El programa 'TURISMO' cuenta con 238 estudiantes del género 'mujer'.

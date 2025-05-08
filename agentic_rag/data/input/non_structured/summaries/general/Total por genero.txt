@@ -1,0 +1,2 @@
+genero: hombre, cantidad_estudiantes: 5951
+genero: mujer, cantidad_estudiantes: 5781

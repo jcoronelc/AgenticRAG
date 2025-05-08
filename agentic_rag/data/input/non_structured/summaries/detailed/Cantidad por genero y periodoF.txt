@@ -1,0 +1,8 @@
+En el periodo académico '202264', hay 3769 estudiantes del género 'hombre'.
+En el periodo académico '202264', hay 3566 estudiantes del género 'mujer'.
+En el periodo académico '202362', hay 3788 estudiantes del género 'hombre'.
+En el periodo académico '202362', hay 3645 estudiantes del género 'mujer'.
+En el periodo académico '202364', hay 3942 estudiantes del género 'hombre'.
+En el periodo académico '202364', hay 3741 estudiantes del género 'mujer'.
+En el periodo académico '202462', hay 3693 estudiantes del género 'hombre'.
+En el periodo académico '202462', hay 3521 estudiantes del género 'mujer'.

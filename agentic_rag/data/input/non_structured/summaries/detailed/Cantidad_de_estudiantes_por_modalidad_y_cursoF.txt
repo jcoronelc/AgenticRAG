@@ -1,0 +1,605 @@
+El curso 'ACADEMIC READING AND WRITIN II' con código 'EDUC_3183', en la modalidad 'DISTANCIA' consta con un total de 398 estudiantes.
+El curso 'ACADEMIC READING AND WRITING I' con código 'EDUC_3178', en la modalidad 'DISTANCIA' consta con un total de 418 estudiantes.
+El curso 'ADAPTACIONES CURRICULARES Y DI' con código 'EDUC_3185', en la modalidad 'DISTANCIA' consta con un total de 361 estudiantes.
+El curso 'ADMIN DE CAD DE SUM Y LOG EMPR' con código 'ADMI_2030', en la modalidad 'DISTANCIA' consta con un total de 986 estudiantes.
+El curso 'ADMINISTRACION' con código 'ADMI_1026', en la modalidad 'DISTANCIA' consta con un total de 7 estudiantes.
+El curso 'ADMINISTRACION' con código 'ADMI_1109', en la modalidad 'DISTANCIA' consta con un total de 1659 estudiantes.
+El curso 'ADMINISTRACION DE OPERAC Y PR' con código 'PIND_2010', en la modalidad 'DISTANCIA' consta con un total de 1014 estudiantes.
+El curso 'ADMINISTRACION DE TECN Y SISTE' con código 'ADMI_4095', en la modalidad 'DISTANCIA' consta con un total de 888 estudiantes.
+El curso 'ADMINISTRACION DE TECNOLOGIAS' con código 'SIST_5001', en la modalidad 'DISTANCIA' consta con un total de 201 estudiantes.
+El curso 'ADMINISTRACION DEL TALENTO HUM' con código 'LABO_3002', en la modalidad 'DISTANCIA' consta con un total de 1158 estudiantes.
+El curso 'ADMINISTRACION ESTRATEGICA' con código 'ADMI_5005', en la modalidad 'DISTANCIA' consta con un total de 258 estudiantes.
+El curso 'ADMINISTRACION ESTRATEGICA' con código 'ADMI_5066', en la modalidad 'DISTANCIA' consta con un total de 874 estudiantes.
+El curso 'ADMINISTRACION FINANCIERA' con código 'FINZ_4057', en la modalidad 'DISTANCIA' consta con un total de 679 estudiantes.
+El curso 'ALGEBRA LINEAL' con código 'MATE_1108', en la modalidad 'DISTANCIA' consta con un total de 2128 estudiantes.
+El curso 'ANALISIS DE MERCADOS TURISTICO' con código 'TURI_4022', en la modalidad 'DISTANCIA' consta con un total de 88 estudiantes.
+El curso 'ANTROPOLOGIA' con código 'RELI_3002', en la modalidad 'DISTANCIA' consta con un total de 49 estudiantes.
+El curso 'ANTROPOLOGIA BASICA' con código 'RELI_2062', en la modalidad 'DISTANCIA' consta con un total de 2762 estudiantes.
+El curso 'ANTROPOLOGIA CULTURAL Y TURIS' con código 'TURI_1020', en la modalidad 'DISTANCIA' consta con un total de 107 estudiantes.
+El curso 'APLIC AUDIT FORENS CICLOS TRAN' con código 'CONT_3031', en la modalidad 'DISTANCIA' consta con un total de 356 estudiantes.
+El curso 'APLICACIONES DE COSTOS' con código 'CONT_3030', en la modalidad 'DISTANCIA' consta con un total de 722 estudiantes.
+El curso 'AREAS PROTEGIDAS' con código 'TURI_2014', en la modalidad 'DISTANCIA' consta con un total de 75 estudiantes.
+El curso 'AUDIT INT Y ADMIN RIESGOS ERM' con código 'CONT_4030', en la modalidad 'DISTANCIA' consta con un total de 219 estudiantes.
+El curso 'AUDITORIA DE GESTION' con código 'CONT_4028', en la modalidad 'DISTANCIA' consta con un total de 569 estudiantes.
+El curso 'AUDITORIA FINANCIERA' con código 'FINZ_4056', en la modalidad 'DISTANCIA' consta con un total de 710 estudiantes.
+El curso 'AUDITORIA I' con código 'CONT_4006', en la modalidad 'DISTANCIA' consta con un total de 7 estudiantes.
+El curso 'AUDITORIA II' con código 'CONT_1015', en la modalidad 'DISTANCIA' consta con un total de 21 estudiantes.
+El curso 'AUDITORIA III' con código 'CONT_5002', en la modalidad 'DISTANCIA' consta con un total de 102 estudiantes.
+El curso 'AUDITORIA INFORMATICA' con código 'SIST_5006', en la modalidad 'DISTANCIA' consta con un total de 162 estudiantes.
+El curso 'CALCULO' con código 'MATE_1091', en la modalidad 'DISTANCIA' consta con un total de 8 estudiantes.
+El curso 'CIUDAD Y TURISMO' con código 'TURI_3014', en la modalidad 'DISTANCIA' consta con un total de 61 estudiantes.
+El curso 'COMERCIO EXTERIOR' con código 'COME_1005', en la modalidad 'DISTANCIA' consta con un total de 109 estudiantes.
+El curso 'COMERCIO EXTERIOR' con código 'COME_3002', en la modalidad 'DISTANCIA' consta con un total de 732 estudiantes.
+El curso 'COMPETITIVIDAD DESTINOS TURIST' con código 'TURI_4015', en la modalidad 'DISTANCIA' consta con un total de 28 estudiantes.
+El curso 'COMPORTAMIENTO ORGANIZACIONAL' con código 'ADMI_4082', en la modalidad 'DISTANCIA' consta con un total de 1097 estudiantes.
+El curso 'COMPUTACION' con código 'COMP_1000', en la modalidad 'DISTANCIA' consta con un total de 1 estudiantes.
+El curso 'COMPUTACION APLICADA' con código 'CONT_4010', en la modalidad 'DISTANCIA' consta con un total de 20 estudiantes.
+El curso 'CONTABILIDAD AGRARIA' con código 'CONT_4033', en la modalidad 'DISTANCIA' consta con un total de 843 estudiantes.
+El curso 'CONTABILIDAD BANCARIA' con código 'CONT_2015', en la modalidad 'DISTANCIA' consta con un total de 7 estudiantes.
+El curso 'CONTABILIDAD CORPORATIVA' con código 'CONT_2027', en la modalidad 'DISTANCIA' consta con un total de 550 estudiantes.
+El curso 'CONTABILIDAD DE COSTOS' con código 'CONT_3026', en la modalidad 'DISTANCIA' consta con un total de 666 estudiantes.
+El curso 'CONTABILIDAD DE COSTOS OPERATI' con código 'CONT_2032', en la modalidad 'DISTANCIA' consta con un total de 82 estudiantes.
+El curso 'CONTABILIDAD DE INSTITUC FINAN' con código 'CONT_3025', en la modalidad 'DISTANCIA' consta con un total de 573 estudiantes.
+El curso 'CONTABILIDAD FINANCIERA' con código 'CONT_1085', en la modalidad 'DISTANCIA' consta con un total de 848 estudiantes.
+El curso 'CONTABILIDAD FINANCIERA AVANZA' con código 'CONT_2025', en la modalidad 'DISTANCIA' consta con un total de 1020 estudiantes.
+El curso 'CONTABILIDAD GERENCIAL' con código 'CONT_5006', en la modalidad 'DISTANCIA' consta con un total de 129 estudiantes.
+El curso 'CONTABILIDAD GERENCIAL' con código 'CONT_5023', en la modalidad 'DISTANCIA' consta con un total de 442 estudiantes.
+El curso 'CONTABILIDAD GUBERNAMENTAL' con código 'CONT_2028', en la modalidad 'DISTANCIA' consta con un total de 756 estudiantes.
+El curso 'CONTABILIDAD GUBERNAMENTAL' con código 'CONT_3017', en la modalidad 'DISTANCIA' consta con un total de 7 estudiantes.
+El curso 'CONTRASTIVE GRAMMAR' con código 'EDUC_4116', en la modalidad 'DISTANCIA' consta con un total de 218 estudiantes.
+El curso 'CONTRATACION PUBLICA' con código 'DERE_3050', en la modalidad 'DISTANCIA' consta con un total de 818 estudiantes.
+El curso 'COSMOVISION ANDINA' con código 'TURI_4014', en la modalidad 'DISTANCIA' consta con un total de 39 estudiantes.
+El curso 'COSTOS RELEV PARA TOMA DECISIO' con código 'CONT_4029', en la modalidad 'DISTANCIA' consta con un total de 141 estudiantes.
+El curso 'CULTURE AND LITERATURE IN ENGL' con código 'LITE_4003', en la modalidad 'DISTANCIA' consta con un total de 58 estudiantes.
+El curso 'CUR DSING FR ACADM AND SPCIF P' con código 'EDUC_4111', en la modalidad 'DISTANCIA' consta con un total de 69 estudiantes.
+El curso 'CURRICLM FUNDTS PRNCPLS AND IS' con código 'EDUC_4112', en la modalidad 'DISTANCIA' consta con un total de 152 estudiantes.
+El curso 'CURRICULUM AND MATERIALS' con código 'FDCE_4001', en la modalidad 'DISTANCIA' consta con un total de 8 estudiantes.
+El curso 'CURSO DE ACTUALIZACION' con código 'UTPL_3000', en la modalidad 'DISTANCIA' consta con un total de 59 estudiantes.
+El curso 'DERECHO LABORAL' con código 'DERE_1181', en la modalidad 'DISTANCIA' consta con un total de 826 estudiantes.
+El curso 'DERECHO TRIBUTARIO' con código 'DERE_1182', en la modalidad 'DISTANCIA' consta con un total de 884 estudiantes.
+El curso 'DERECHO TRIBUTARIO' con código 'DERE_4054', en la modalidad 'DISTANCIA' consta con un total de 1027 estudiantes.
+El curso 'DESARROLLO ECONOMICO' con código 'ECON_4002', en la modalidad 'DISTANCIA' consta con un total de 107 estudiantes.
+El curso 'DESARROLLO EMPRES NUEVOS NEGOC' con código 'ADMI_3025', en la modalidad 'DISTANCIA' consta con un total de 343 estudiantes.
+El curso 'DESARROLLO EMPRESARIAL' con código 'ADMI_1043', en la modalidad 'DISTANCIA' consta con un total de 1 estudiantes.
+El curso 'DESARROLLO TRAB PRACTICUM 4' con código 'TURI_5000', en la modalidad 'DISTANCIA' consta con un total de 57 estudiantes.
+El curso 'DIRECCION ESTRATEGICA' con código 'ADMI_5071', en la modalidad 'DISTANCIA' consta con un total de 733 estudiantes.
+El curso 'DIRECCION HOTELERA' con código 'HOTE_5003', en la modalidad 'DISTANCIA' consta con un total de 12 estudiantes.
+El curso 'DISCOURSE ANALYSIS' con código 'EDUC_4117', en la modalidad 'DISTANCIA' consta con un total de 204 estudiantes.
+El curso 'DISEÑO DE PRODUCTOS TURISTICOS' con código 'TURI_3016', en la modalidad 'DISTANCIA' consta con un total de 82 estudiantes.
+El curso 'DISEÑO DE SISTEMAS DE COSTOS' con código 'CONT_3029', en la modalidad 'DISTANCIA' consta con un total de 344 estudiantes.
+El curso 'DOCTRINA SOCIAL DE LA IGLESIA' con código 'EDUC_4167', en la modalidad 'DISTANCIA' consta con un total de 2 estudiantes.
+El curso 'DOCTRINA SOCIAL DE LA IGLESIA' con código 'RELI_1001', en la modalidad 'DISTANCIA' consta con un total de 293 estudiantes.
+El curso 'E-COMMERCE' con código 'ADMI_4083', en la modalidad 'DISTANCIA' consta con un total de 376 estudiantes.
+El curso 'ECONOMIA POPULAR Y SOLIDARIA' con código 'ADMI_1127', en la modalidad 'DISTANCIA' consta con un total de 91 estudiantes.
+El curso 'EDUCATIONAL RESEARCH I' con código 'FDSE_4007', en la modalidad 'DISTANCIA' consta con un total de 13 estudiantes.
+El curso 'EL ARTE DE AMAR' con código 'RELI_1110', en la modalidad 'DISTANCIA' consta con un total de 67 estudiantes.
+El curso 'EMPRENDIMIENTO' con código 'ADMI_4038', en la modalidad 'DISTANCIA' consta con un total de 2253 estudiantes.
+El curso 'ENGLISH LAN: LIST AND SPEAK IV' con código 'EDUC_2118', en la modalidad 'DISTANCIA' consta con un total de 392 estudiantes.
+El curso 'ENGLISH LAN: LISTE AND SPE III' con código 'EDUC_3112', en la modalidad 'DISTANCIA' consta con un total de 428 estudiantes.
+El curso 'ENGLISH LAN: READ AND WRIT III' con código 'EDUC_3111', en la modalidad 'DISTANCIA' consta con un total de 432 estudiantes.
+El curso 'ENGLISH LAN: READ AND WRIT IV' con código 'EDUC_2119', en la modalidad 'DISTANCIA' consta con un total de 421 estudiantes.
+El curso 'ENGLISH LANG: LIST AND SPEA II' con código 'FDCE_1075', en la modalidad 'DISTANCIA' consta con un total de 516 estudiantes.
+El curso 'ENGLISH LANG: LIST AND SPEAK I' con código 'FDCE_1074', en la modalidad 'DISTANCIA' consta con un total de 947 estudiantes.
+El curso 'ENGLISH LANG: READ AND WRIT II' con código 'FDCE_1076', en la modalidad 'DISTANCIA' consta con un total de 516 estudiantes.
+El curso 'ENGLISH LANG: READI AND WRIT I' con código 'IDIO_1104', en la modalidad 'DISTANCIA' consta con un total de 922 estudiantes.
+El curso 'ENGLISH PRON: PHONETI AND PHON' con código 'EDUC_3179', en la modalidad 'DISTANCIA' consta con un total de 390 estudiantes.
+El curso 'ENGLISH SYNTAX' con código 'EDUC_4109', en la modalidad 'DISTANCIA' consta con un total de 286 estudiantes.
+El curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' con código 'CONT_1084', en la modalidad 'DISTANCIA' consta con un total de 1529 estudiantes.
+El curso 'ESTADISTICA' con código 'ESTA_1044', en la modalidad 'DISTANCIA' consta con un total de 84 estudiantes.
+El curso 'ESTADISTICA APLICADA A EDUCA' con código 'ESTA_4004', en la modalidad 'DISTANCIA' consta con un total de 44 estudiantes.
+El curso 'ESTADISTICA BASICA' con código 'ESTA_2031', en la modalidad 'DISTANCIA' consta con un total de 522 estudiantes.
+El curso 'ESTADISTICA BASICA' con código 'ESTA_3023', en la modalidad 'DISTANCIA' consta con un total de 1903 estudiantes.
+El curso 'ESTADISTICA II' con código 'ESTA_1012', en la modalidad 'DISTANCIA' consta con un total de 1 estudiantes.
+El curso 'ETICA' con código 'RELI_3000', en la modalidad 'DISTANCIA' consta con un total de 129 estudiantes.
+El curso 'ETICA DE LA INTELIGENCIA ARTIF' con código 'RELI_1109', en la modalidad 'DISTANCIA' consta con un total de 83 estudiantes.
+El curso 'ETICA Y MORAL' con código 'FILO_1114', en la modalidad 'DISTANCIA' consta con un total de 2020 estudiantes.
+El curso 'EXAMEN COMPLEXIVO CON CURSO' con código 'UTPL_500', en la modalidad 'DISTANCIA' consta con un total de 29 estudiantes.
+El curso 'EXAMEN COMPLEXIVO SIN CURSO' con código 'UTPL_600', en la modalidad 'DISTANCIA' consta con un total de 66 estudiantes.
+El curso 'EXPRESION ORAL Y ESCRITA' con código 'LITE_1016', en la modalidad 'DISTANCIA' consta con un total de 1 estudiantes.
+El curso 'FAMILIA Y EDUCACION: RETOS Y D' con código 'EDUC_1143', en la modalidad 'DISTANCIA' consta con un total de 128 estudiantes.
+El curso 'FIJACION PREC Y ADMIN DE COSTO' con código 'CONT_4026', en la modalidad 'DISTANCIA' consta con un total de 249 estudiantes.
+El curso 'FILOSOFIA DE LA EDUCACION' con código 'FILO_4002', en la modalidad 'DISTANCIA' consta con un total de 18 estudiantes.
+El curso 'FILOSOFIA E HISTORIA DE LA EDU' con código 'FILO_1117', en la modalidad 'DISTANCIA' consta con un total de 1035 estudiantes.
+El curso 'FINANZAS ESTRUCTURALES' con código 'FINZ_3024', en la modalidad 'DISTANCIA' consta con un total de 995 estudiantes.
+El curso 'FINANZAS I' con código 'FINZ_1026', en la modalidad 'DISTANCIA' consta con un total de 30 estudiantes.
+El curso 'FINANZAS II' con código 'FINZ_1065', en la modalidad 'DISTANCIA' consta con un total de 89 estudiantes.
+El curso 'FINANZAS OPERATIVAS' con código 'FINZ_3023', en la modalidad 'DISTANCIA' consta con un total de 1071 estudiantes.
+El curso 'FINANZAS Y PRESUPUESTOS' con código 'TURI_3011', en la modalidad 'DISTANCIA' consta con un total de 93 estudiantes.
+El curso 'FINTECH BANCA 4.0' con código 'FINZ_1073', en la modalidad 'DISTANCIA' consta con un total de 18 estudiantes.
+El curso 'FORM EVALUAC DE PROYECTOS' con código 'ADMI_4126', en la modalidad 'DISTANCIA' consta con un total de 393 estudiantes.
+El curso 'FORMULACION Y EVALUACION DE PR' con código 'ADMI_4121', en la modalidad 'DISTANCIA' consta con un total de 61 estudiantes.
+El curso 'FRANCES I' con código 'IDIO_3013', en la modalidad 'DISTANCIA' consta con un total de 114 estudiantes.
+El curso 'FRANCES II' con código 'IDIO_3014', en la modalidad 'DISTANCIA' consta con un total de 90 estudiantes.
+El curso 'FRANCES III' con código 'IDIO_4016', en la modalidad 'DISTANCIA' consta con un total de 95 estudiantes.
+El curso 'FRANCES IV' con código 'IDIO_5001', en la modalidad 'DISTANCIA' consta con un total de 19 estudiantes.
+El curso 'FUNDAMENTOS DE ADMINIST FINAN' con código 'ADMI_1115', en la modalidad 'DISTANCIA' consta con un total de 724 estudiantes.
+El curso 'FUNDAMENTOS DE ADMINISTRACION' con código 'ADMI_1113', en la modalidad 'DISTANCIA' consta con un total de 160 estudiantes.
+El curso 'FUNDAMENTOS DE CONTABILIDAD' con código 'CONT_1083', en la modalidad 'DISTANCIA' consta con un total de 2942 estudiantes.
+El curso 'FUNDAMENTOS DE ECONOMIA' con código 'ECON_1088', en la modalidad 'DISTANCIA' consta con un total de 1263 estudiantes.
+El curso 'FUNDAMENTOS INFORMATICOS' con código 'COMP_1034', en la modalidad 'DISTANCIA' consta con un total de 154 estudiantes.
+El curso 'FUNDAMENTOS MATEMATICOS' con código 'MATE_1103', en la modalidad 'DISTANCIA' consta con un total de 1795 estudiantes.
+El curso 'GEOGRAFIA TURISTICA' con código 'HOTE_1047', en la modalidad 'DISTANCIA' consta con un total de 168 estudiantes.
+El curso 'GERENCIA DE RECURSOS NATURALES' con código 'RENR_3001', en la modalidad 'DISTANCIA' consta con un total de 7 estudiantes.
+El curso 'GESTION DE CADENA DE VALOR Y C' con código 'TURI_5011', en la modalidad 'DISTANCIA' consta con un total de 45 estudiantes.
+El curso 'GESTION DE LA CALIDAD' con código 'ADMI_4015', en la modalidad 'DISTANCIA' consta con un total de 65 estudiantes.
+El curso 'GESTION DE LA CALIDAD' con código 'ADMI_5067', en la modalidad 'DISTANCIA' consta con un total de 999 estudiantes.
+El curso 'GESTION DE NUEVOS NEGOCIOS' con código 'ADMI_4079', en la modalidad 'DISTANCIA' consta con un total de 286 estudiantes.
+El curso 'GESTION DE NUEVOS RIESGOS LABO' con código 'SEPR_1002', en la modalidad 'DISTANCIA' consta con un total de 3 estudiantes.
+El curso 'GESTION DEL CONOCIMIENTO' con código 'ADMI_3030', en la modalidad 'DISTANCIA' consta con un total de 1189 estudiantes.
+El curso 'GESTION DEL PATRIMONIO CULTU' con código 'TURI_2011', en la modalidad 'DISTANCIA' consta con un total de 83 estudiantes.
+El curso 'GESTION DEL TALENTO HUMANO' con código 'ADMI_4094', en la modalidad 'DISTANCIA' consta con un total de 56 estudiantes.
+El curso 'GESTION E INNOVACION DE DESTIN' con código 'TURI_4017', en la modalidad 'DISTANCIA' consta con un total de 44 estudiantes.
+El curso 'GESTION INNOVACION EMPRESARIAL' con código 'ADMI_1111', en la modalidad 'DISTANCIA' consta con un total de 177 estudiantes.
+El curso 'GESTION PUBLICA DEL TURISMO' con código 'TURI_4018', en la modalidad 'DISTANCIA' consta con un total de 52 estudiantes.
+El curso 'GUIANZA' con código 'TURI_2016', en la modalidad 'DISTANCIA' consta con un total de 72 estudiantes.
+El curso 'HABILIDADES GERENCIALES' con código 'ADMI_5064', en la modalidad 'DISTANCIA' consta con un total de 1971 estudiantes.
+El curso 'HISTORIA DEL PENSAMIENTO ECONO' con código 'ECON_1055', en la modalidad 'DISTANCIA' consta con un total de 40 estudiantes.
+El curso 'HUMANISMO, UNIVERSIDAD Y CULTU' con código 'RELI_1105', en la modalidad 'DISTANCIA' consta con un total de 4102 estudiantes.
+El curso 'IMAGEN PERSONAL Y CORPORATIVA' con código 'PERI_3015', en la modalidad 'DISTANCIA' consta con un total de 131 estudiantes.
+El curso 'INCLUSION Y APRENDIZAJE SOSTEN' con código 'EDUC_1102', en la modalidad 'DISTANCIA' consta con un total de 232 estudiantes.
+El curso 'INCLUSIVE AND SUSTAINABLE EDUC' con código 'EDUC_4115', en la modalidad 'DISTANCIA' consta con un total de 229 estudiantes.
+El curso 'INGLES VI' con código 'IDIO_3010', en la modalidad 'DISTANCIA' consta con un total de 1 estudiantes.
+El curso 'INNOVAR EN LOS FUTUROS DE LA E' con código 'EDUC_1149', en la modalidad 'DISTANCIA' consta con un total de 35 estudiantes.
+El curso 'INTELIG ESTRAT Y METOD INTERNA' con código 'ADMI_4081', en la modalidad 'DISTANCIA' consta con un total de 604 estudiantes.
+El curso 'INTELIGENCIA EMOCIONAL' con código 'EDUC_1146', en la modalidad 'DISTANCIA' consta con un total de 255 estudiantes.
+El curso 'INTRO A LA CAD DE VALOR EN CAF' con código 'PAGR_1017', en la modalidad 'DISTANCIA' consta con un total de 23 estudiantes.
+El curso 'INTRO AUDITORIA FORENSE EMPRES' con código 'CONT_3028', en la modalidad 'DISTANCIA' consta con un total de 463 estudiantes.
+El curso 'INTRODUC TO EDUCATIO RESEARCH' con código 'EDUC_3180', en la modalidad 'DISTANCIA' consta con un total de 450 estudiantes.
+El curso 'INTRODUCCION A LA ECONOMIA' con código 'ECON_1090', en la modalidad 'DISTANCIA' consta con un total de 1247 estudiantes.
+El curso 'INTRODUCTION TO LINGUISTICS' con código 'EDUC_3189', en la modalidad 'DISTANCIA' consta con un total de 344 estudiantes.
+El curso 'INVESTIGACION DE MERCADOS' con código 'ADMI_3026', en la modalidad 'DISTANCIA' consta con un total de 1114 estudiantes.
+El curso 'INVESTIGACION OPERATIVA TOMA D' con código 'DIPP_3001', en la modalidad 'DISTANCIA' consta con un total de 603 estudiantes.
+El curso 'JORN DE INVES LA CREDIBILIDAD' con código 'EDUC_2022', en la modalidad 'DISTANCIA' consta con un total de 43 estudiantes.
+El curso 'JORNADA DE ASESORIA DE SISTEMA' con código 'EDUC_1033', en la modalidad 'DISTANCIA' consta con un total de 1 estudiantes.
+El curso 'JORNADA DE INVEST Y FORMA ESP' con código 'EDUC_4160', en la modalidad 'DISTANCIA' consta con un total de 21 estudiantes.
+El curso 'JORNADA DE INVESTIGACION TEMAT' con código 'EDUC_2021', en la modalidad 'DISTANCIA' consta con un total de 25 estudiantes.
+El curso 'LANGUAGE TESTING' con código 'EDUC_3177', en la modalidad 'DISTANCIA' consta con un total de 474 estudiantes.
+El curso 'LANGUAGE TESTING' con código 'FDCE_4011', en la modalidad 'DISTANCIA' consta con un total de 40 estudiantes.
+El curso 'LECTURA Y REDACCION DE TEXTOS' con código 'LITE_1106', en la modalidad 'DISTANCIA' consta con un total de 945 estudiantes.
+El curso 'LEGISLACION EMPRESARIAL' con código 'ADMI_1110', en la modalidad 'DISTANCIA' consta con un total de 1054 estudiantes.
+El curso 'LEGISLACION MERCANTIL Y SOCIET' con código 'DERE_2072', en la modalidad 'DISTANCIA' consta con un total de 1190 estudiantes.
+El curso 'LEGISLACION MONETARIA Y BANCAR' con código 'DERE_1102', en la modalidad 'DISTANCIA' consta con un total de 5 estudiantes.
+El curso 'LEGISLACION TURISTICA Y AMBIEN' con código 'TURI_2013', en la modalidad 'DISTANCIA' consta con un total de 100 estudiantes.
+El curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' con código 'EDUC_1141', en la modalidad 'DISTANCIA' consta con un total de 16 estudiantes.
+El curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' con código 'EDUC_1147', en la modalidad 'DISTANCIA' consta con un total de 221 estudiantes.
+El curso 'LOGISTICA EMPRESARIAL' con código 'ADMI_4027', en la modalidad 'DISTANCIA' consta con un total de 17 estudiantes.
+El curso 'MANAGEMENT 3.0' con código 'ADMI_1117', en la modalidad 'DISTANCIA' consta con un total de 153 estudiantes.
+El curso 'MARKETING' con código 'MERC_1005', en la modalidad 'DISTANCIA' consta con un total de 38 estudiantes.
+El curso 'MARKETING' con código 'MERC_4007', en la modalidad 'DISTANCIA' consta con un total de 1171 estudiantes.
+El curso 'MARKETING TURISTICO' con código 'MERC_4004', en la modalidad 'DISTANCIA' consta con un total de 84 estudiantes.
+El curso 'MATEMATICA BASICA' con código 'MATE_1106', en la modalidad 'DISTANCIA' consta con un total de 1261 estudiantes.
+El curso 'MATEMATICA FINANCIERA' con código 'MATE_1095', en la modalidad 'DISTANCIA' consta con un total de 1 estudiantes.
+El curso 'MATEMATICA FINANCIERA' con código 'MATE_1109', en la modalidad 'DISTANCIA' consta con un total de 1744 estudiantes.
+El curso 'MATRIMONIO Y FAMILIA' con código 'RELI_1033', en la modalidad 'DISTANCIA' consta con un total de 273 estudiantes.
+El curso 'MERCADO DE VALORES' con código 'COME_5000', en la modalidad 'DISTANCIA' consta con un total de 224 estudiantes.
+El curso 'METH TO ADOLESCENTS AND ADULTS' con código 'EDUC_3188', en la modalidad 'DISTANCIA' consta con un total de 244 estudiantes.
+El curso 'METHO FOR ACADEMIC PURPOSES' con código 'EDUC_3187', en la modalidad 'DISTANCIA' consta con un total de 85 estudiantes.
+El curso 'METHODO FOR TEAC ENGL TO CHILD' con código 'EDUC_3191', en la modalidad 'DISTANCIA' consta con un total de 286 estudiantes.
+El curso 'METHODOLOGY AND DIDACTICS III:' con código 'FDCE_4014', en la modalidad 'DISTANCIA' consta con un total de 34 estudiantes.
+El curso 'METHODOLOGY FOR TEACHING ENGLI' con código 'EDUC_3182', en la modalidad 'DISTANCIA' consta con un total de 131 estudiantes.
+El curso 'METODOS DE VALOR DE EMPRESAS' con código 'ADMI_5065', en la modalidad 'DISTANCIA' consta con un total de 556 estudiantes.
+El curso 'NEGOCIOS INTERNACIONALES' con código 'COME_3003', en la modalidad 'DISTANCIA' consta con un total de 450 estudiantes.
+El curso 'NEURO MARKT Y TEORIAS DE INFOR' con código 'TURI_4021', en la modalidad 'DISTANCIA' consta con un total de 15 estudiantes.
+El curso 'NEUROCIENCIA Y PSICOL DEL DESA' con código 'PSIC_1104', en la modalidad 'DISTANCIA' consta con un total de 500 estudiantes.
+El curso 'NUEVAS ALTERNATIVAS DE TURISMO' con código 'TURI_2018', en la modalidad 'DISTANCIA' consta con un total de 120 estudiantes.
+El curso 'ORDENAMIENTO TURISTICO TERRITO' con código 'TURI_5013', en la modalidad 'DISTANCIA' consta con un total de 30 estudiantes.
+El curso 'ORGANIZACION DE EVENTOS Y PROT' con código 'TURI_2015', en la modalidad 'DISTANCIA' consta con un total de 76 estudiantes.
+El curso 'ORGANIZACION INDUSTRIAL' con código 'PIND_5008', en la modalidad 'DISTANCIA' consta con un total de 110 estudiantes.
+El curso 'PASANT PRE-PROF PRACTICUM 3.2' con código 'ADMI_5046', en la modalidad 'DISTANCIA' consta con un total de 340 estudiantes.
+El curso 'PASANT PRE-PROF PRACTICUM 3.2' con código 'CONT_5010', en la modalidad 'DISTANCIA' consta con un total de 164 estudiantes.
+El curso 'PASANT PRE-PROF PRACTICUM 3.2' con código 'TURI_5006', en la modalidad 'DISTANCIA' consta con un total de 50 estudiantes.
+El curso 'PASANTI PRE-PROF PRACTICUM 3.1' con código 'ADMI_4046', en la modalidad 'DISTANCIA' consta con un total de 210 estudiantes.
+El curso 'PASANTI PRE-PROF PRACTICUM 3.1' con código 'CONT_4000', en la modalidad 'DISTANCIA' consta con un total de 106 estudiantes.
+El curso 'PASANTI PRE-PROF PRACTICUM 3.1' con código 'TURI_4012', en la modalidad 'DISTANCIA' consta con un total de 27 estudiantes.
+El curso 'PASANTIA PRE-PRO1' con código 'FDCE_3015', en la modalidad 'DISTANCIA' consta con un total de 25 estudiantes.
+El curso 'PASANTIA PRE-PRO2' con código 'FDCE_4023', en la modalidad 'DISTANCIA' consta con un total de 55 estudiantes.
+El curso 'PASANTIAS PRE-PROF PRACTICUM 1' con código 'ADMI_3023', en la modalidad 'DISTANCIA' consta con un total de 15 estudiantes.
+El curso 'PASANTIAS PRE-PROF PRACTICUM 1' con código 'CONT_3002', en la modalidad 'DISTANCIA' consta con un total de 22 estudiantes.
+El curso 'PASANTIAS PRE-PROF PRACTICUM 2' con código 'ADMI_4045', en la modalidad 'DISTANCIA' consta con un total de 90 estudiantes.
+El curso 'PASANTIAS PRE-PROF PRACTICUM 2' con código 'CONT_4008', en la modalidad 'DISTANCIA' consta con un total de 58 estudiantes.
+El curso 'PATRIMONIO NATURAL Y BIODIVERS' con código 'TURI_3013', en la modalidad 'DISTANCIA' consta con un total de 106 estudiantes.
+El curso 'PEDAGOGIA' con código 'EDUC_3113', en la modalidad 'DISTANCIA' consta con un total de 475 estudiantes.
+El curso 'PERIODO ADICIONAL 1' con código 'UTPL_4000', en la modalidad 'DISTANCIA' consta con un total de 10 estudiantes.
+El curso 'PERIODO ADICIONAL 2' con código 'UTPL_5000', en la modalidad 'DISTANCIA' consta con un total de 10 estudiantes.
+El curso 'PLANIFICACION DE DESTINOS TURI' con código 'TURI_4016', en la modalidad 'DISTANCIA' consta con un total de 66 estudiantes.
+El curso 'POLITICA PUBLICA Y MARCO LEGA' con código 'FDCE_2030', en la modalidad 'DISTANCIA' consta con un total de 686 estudiantes.
+El curso 'PRACTICA TRIBUTARIA' con código 'CONT_2026', en la modalidad 'DISTANCIA' consta con un total de 765 estudiantes.
+El curso 'PRACTICUM 1' con código 'ADMI_2029', en la modalidad 'DISTANCIA' consta con un total de 1223 estudiantes.
+El curso 'PRACTICUM 1' con código 'CONT_2029', en la modalidad 'DISTANCIA' consta con un total de 723 estudiantes.
+El curso 'PRACTICUM 1' con código 'EDUC_2120', en la modalidad 'DISTANCIA' consta con un total de 431 estudiantes.
+El curso 'PRACTICUM 1' con código 'TURI_2010', en la modalidad 'DISTANCIA' consta con un total de 105 estudiantes.
+El curso 'PRACTICUM 2' con código 'ADMI_3027', en la modalidad 'DISTANCIA' consta con un total de 994 estudiantes.
+El curso 'PRACTICUM 2' con código 'CONT_3037', en la modalidad 'DISTANCIA' consta con un total de 630 estudiantes.
+El curso 'PRACTICUM 2' con código 'EDUC_3181', en la modalidad 'DISTANCIA' consta con un total de 368 estudiantes.
+El curso 'PRACTICUM 2' con código 'TURI_3017', en la modalidad 'DISTANCIA' consta con un total de 93 estudiantes.
+El curso 'PRACTICUM 3' con código 'ADMI_4080', en la modalidad 'DISTANCIA' consta con un total de 917 estudiantes.
+El curso 'PRACTICUM 3' con código 'EDUC_3186', en la modalidad 'DISTANCIA' consta con un total de 325 estudiantes.
+El curso 'PRACTICUM 3 SERVICIO COMUNITA' con código 'CONT_3038', en la modalidad 'DISTANCIA' consta con un total de 652 estudiantes.
+El curso 'PRACTICUM 3 SERVICIO COMUNITAR' con código 'TURI_3012', en la modalidad 'DISTANCIA' consta con un total de 83 estudiantes.
+El curso 'PRACTICUM 4.1' con código 'EDUC_4107', en la modalidad 'DISTANCIA' consta con un total de 237 estudiantes.
+El curso 'PRACTICUM 4.1' con código 'TURI_4020', en la modalidad 'DISTANCIA' consta con un total de 47 estudiantes.
+El curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' con código 'ADMI_4087', en la modalidad 'DISTANCIA' consta con un total de 608 estudiantes.
+El curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' con código 'CONT_4032', en la modalidad 'DISTANCIA' consta con un total de 513 estudiantes.
+El curso 'PRACTICUM 4.2' con código 'EDUC_4114', en la modalidad 'DISTANCIA' consta con un total de 124 estudiantes.
+El curso 'PRACTICUM 4.2' con código 'TURI_5010', en la modalidad 'DISTANCIA' consta con un total de 26 estudiantes.
+El curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' con código 'ADMI_5068', en la modalidad 'DISTANCIA' consta con un total de 339 estudiantes.
+El curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' con código 'CONT_4034', en la modalidad 'DISTANCIA' consta con un total de 310 estudiantes.
+El curso 'PRACTICUM ACADE 3 ASESORIA TT' con código 'FDCE_4028', en la modalidad 'DISTANCIA' consta con un total de 109 estudiantes.
+El curso 'PRACTICUM ACADEMICO 1' con código 'FDCE_3021', en la modalidad 'DISTANCIA' consta con un total de 13 estudiantes.
+El curso 'PRACTICUM ACADEMICO 2' con código 'FDCE_4027', en la modalidad 'DISTANCIA' consta con un total de 107 estudiantes.
+El curso 'PRESUPUESTOS' con código 'FINZ_1018', en la modalidad 'DISTANCIA' consta con un total de 3 estudiantes.
+El curso 'PRINCIPIOS DE AUDITORIA' con código 'CONT_3027', en la modalidad 'DISTANCIA' consta con un total de 781 estudiantes.
+El curso 'PRINCIPIOS DEL TURISMO' con código 'HOTE_1045', en la modalidad 'DISTANCIA' consta con un total de 160 estudiantes.
+El curso 'PROPUESTA DE INVESTIGACION' con código 'EDUC_4105', en la modalidad 'DISTANCIA' consta con un total de 834 estudiantes.
+El curso 'PROPUESTA DE INVESTIGACION' con código 'EDUC_4106', en la modalidad 'DISTANCIA' consta con un total de 888 estudiantes.
+El curso 'PROPUESTA DE INVESTIGACION' con código 'EDUC_4118', en la modalidad 'DISTANCIA' consta con un total de 87 estudiantes.
+El curso 'PRORROGA 1' con código 'UTPL_1000', en la modalidad 'DISTANCIA' consta con un total de 217 estudiantes.
+El curso 'PRORROGA 2' con código 'UTPL_2000', en la modalidad 'DISTANCIA' consta con un total de 65 estudiantes.
+El curso 'PROSPECTIVA EMPRESARIAL Y A' con código 'ADMI_4092', en la modalidad 'DISTANCIA' consta con un total de 572 estudiantes.
+El curso 'PROYECTOS' con código 'ADMI_4035', en la modalidad 'DISTANCIA' consta con un total de 60 estudiantes.
+El curso 'PROYECTOS' con código 'ADMI_4090', en la modalidad 'DISTANCIA' consta con un total de 757 estudiantes.
+El curso 'RADIO Y NUEVAS TECNOLOGIAS' con código 'PERI_1120', en la modalidad 'DISTANCIA' consta con un total de 98 estudiantes.
+El curso 'RECURSOS TANGIB E INTANGIB' con código 'TURI_3015', en la modalidad 'DISTANCIA' consta con un total de 39 estudiantes.
+El curso 'RELACIONES PUB Y PROTOCOLO' con código 'HOTE_1040', en la modalidad 'DISTANCIA' consta con un total de 246 estudiantes.
+El curso 'RESEARCH METHODS IN ELT' con código 'EDUC_3184', en la modalidad 'DISTANCIA' consta con un total de 380 estudiantes.
+El curso 'RESPONSABILIDAD SOCIAL EMPRE' con código 'ADMI_4088', en la modalidad 'DISTANCIA' consta con un total de 980 estudiantes.
+El curso 'SECOND LANGUAGE ACQUISITION' con código 'EDUC_4113', en la modalidad 'DISTANCIA' consta con un total de 312 estudiantes.
+El curso 'SEMANTICS AND PRAGMATICS' con código 'EDUC_4108', en la modalidad 'DISTANCIA' consta con un total de 305 estudiantes.
+El curso 'SEMINARIO DE FIN DE CARRERA' con código 'ADMI_5047', en la modalidad 'DISTANCIA' consta con un total de 339 estudiantes.
+El curso 'SEMINARIO DE FIN DE CARRERA' con código 'CONT_5004', en la modalidad 'DISTANCIA' consta con un total de 229 estudiantes.
+El curso 'SEMINARIO DE FIN DE CARRERA' con código 'FDCE_4031', en la modalidad 'DISTANCIA' consta con un total de 133 estudiantes.
+El curso 'SEMINARIO DE FIN DE CARRERA' con código 'TURI_5007', en la modalidad 'DISTANCIA' consta con un total de 40 estudiantes.
+El curso 'SISTEMAS DE COSTOS' con código 'CONT_2035', en la modalidad 'DISTANCIA' consta con un total de 1147 estudiantes.
+El curso 'SISTEMAS TECNOLOGICOS APLICADO' con código 'TURI_4013', en la modalidad 'DISTANCIA' consta con un total de 78 estudiantes.
+El curso 'SOCIOLOGIA DE LA EDUCACION' con código 'EDUC_1109', en la modalidad 'DISTANCIA' consta con un total de 705 estudiantes.
+El curso 'SOSTENIBILIDAD EMPRESARIAL' con código 'ADMI_3024', en la modalidad 'DISTANCIA' consta con un total de 1185 estudiantes.
+El curso 'TEACHING CULTURE IN THE EFL CL' con código 'EDUC_4110', en la modalidad 'DISTANCIA' consta con un total de 311 estudiantes.
+El curso 'TEACHING TECHNIQUES' con código 'FDCE_4038', en la modalidad 'DISTANCIA' consta con un total de 12 estudiantes.
+El curso 'TECHNOLOGY IN THE EFL CLASSROO' con código 'IDIO_2023', en la modalidad 'DISTANCIA' consta con un total de 537 estudiantes.
+El curso 'TECNICAS DE INFERENCIA ESTADIS' con código 'ESTA_2022', en la modalidad 'DISTANCIA' consta con un total de 1770 estudiantes.
+El curso 'TEFL METHODOLOGY AND DIDACTICS' con código 'EDUC_2089', en la modalidad 'DISTANCIA' consta con un total de 523 estudiantes.
+El curso 'TEORIA MACROECONOMICA' con código 'ECON_2031', en la modalidad 'DISTANCIA' consta con un total de 1680 estudiantes.
+El curso 'TEORIA MICROECONOMICA' con código 'ECON_2030', en la modalidad 'DISTANCIA' consta con un total de 1700 estudiantes.
+El curso 'TRABAJO DE TIT (PRACTICUM 4)' con código 'ADMI_5060', en la modalidad 'DISTANCIA' consta con un total de 337 estudiantes.
+El curso 'TRABAJO DE TIT (PRACTICUM 4)' con código 'CONT_5000', en la modalidad 'DISTANCIA' consta con un total de 313 estudiantes.
+El curso 'TRABAJO DE TITULACION' con código 'FDCE_4043', en la modalidad 'DISTANCIA' consta con un total de 151 estudiantes.
+El curso 'TRABAJO DE TITULACION CON CURS' con código 'UTPL_700', en la modalidad 'DISTANCIA' consta con un total de 7 estudiantes.
+El curso 'TRABAJO DE TITULACION SIN CURS' con código 'UTPL_800', en la modalidad 'DISTANCIA' consta con un total de 191 estudiantes.
+El curso 'TRANSPORTACION TURISTICA' con código 'TURI_2017', en la modalidad 'DISTANCIA' consta con un total de 90 estudiantes.
+El curso 'TURISMO RURAL Y DESARRO LOCAL' con código 'TURI_4019', en la modalidad 'DISTANCIA' consta con un total de 17 estudiantes.
+El curso 'TURISMO Y HOTELERIA' con código 'HOTE_1030', en la modalidad 'DISTANCIA' consta con un total de 133 estudiantes.
+El curso 'VALORACION DE EMPRESAS' con código 'FINZ_5000', en la modalidad 'DISTANCIA' consta con un total de 218 estudiantes.
+El curso 'ACADEMIC READING AND WRITIN II' con código 'EDUC_3183', en la modalidad 'PRESENCIAL' consta con un total de 45 estudiantes.
+El curso 'ACADEMIC READING AND WRITING I' con código 'EDUC_3178', en la modalidad 'PRESENCIAL' consta con un total de 42 estudiantes.
+El curso 'ADAPTACIONES CURRICULARES Y DI' con código 'EDUC_3185', en la modalidad 'PRESENCIAL' consta con un total de 47 estudiantes.
+El curso 'ADMIN DE CAD DE SUM Y LOG EMPR' con código 'ADMI_2030', en la modalidad 'PRESENCIAL' consta con un total de 49 estudiantes.
+El curso 'ADMINISTRACION' con código 'ADMI_1109', en la modalidad 'PRESENCIAL' consta con un total de 95 estudiantes.
+El curso 'ADMINISTRACION DE OPERAC Y PR' con código 'PIND_2010', en la modalidad 'PRESENCIAL' consta con un total de 52 estudiantes.
+El curso 'ADMINISTRACION DE TECN Y SISTE' con código 'ADMI_4095', en la modalidad 'PRESENCIAL' consta con un total de 31 estudiantes.
+El curso 'ADMINISTRACION DE TECNOLOGIAS' con código 'SIST_5001', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'ADMINISTRACION DEL TALENTO HUM' con código 'LABO_3002', en la modalidad 'PRESENCIAL' consta con un total de 84 estudiantes.
+El curso 'ADMINISTRACION ESTRATEGICA' con código 'ADMI_5005', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'ADMINISTRACION ESTRATEGICA' con código 'ADMI_5066', en la modalidad 'PRESENCIAL' consta con un total de 29 estudiantes.
+El curso 'ADMINISTRACION FINANCIERA' con código 'FINZ_4057', en la modalidad 'PRESENCIAL' consta con un total de 18 estudiantes.
+El curso 'ADMINISTRACION FINANCIERA OPER' con código 'ECON_4112', en la modalidad 'PRESENCIAL' consta con un total de 74 estudiantes.
+El curso 'ADMINISTRACION I' con código 'ADMI_1009', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'AEROGRAFIA' con código 'ARTE_1050', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'ALGEBRA LINEAL' con código 'MATE_1108', en la modalidad 'PRESENCIAL' consta con un total de 345 estudiantes.
+El curso 'ALGORITMOS Y RESOLUCION DE PRO' con código 'DSOF_1070', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'ANA MATEMATICO MULTIVARIADO' con código 'MATE_2029', en la modalidad 'PRESENCIAL' consta con un total de 72 estudiantes.
+El curso 'ANA Y VISUAL GRA VOL DE DATOS' con código 'DRBD_4016', en la modalidad 'PRESENCIAL' consta con un total de 26 estudiantes.
+El curso 'ANALISIS DE ALGORITMOS' con código 'DSOF_2036', en la modalidad 'PRESENCIAL' consta con un total de 130 estudiantes.
+El curso 'ANALISIS EXPLORATORIO DE DATOS' con código 'TIER_1075', en la modalidad 'PRESENCIAL' consta con un total de 5 estudiantes.
+El curso 'ANALISIS MATEMATICO UNIVARIADO' con código 'MATE_1101', en la modalidad 'PRESENCIAL' consta con un total de 234 estudiantes.
+El curso 'ANALISIS TERRITORIAL' con código 'ECON_4109', en la modalidad 'PRESENCIAL' consta con un total de 40 estudiantes.
+El curso 'ANTROPOLOGIA' con código 'RELI_3002', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'ANTROPOLOGIA BASICA' con código 'RELI_2062', en la modalidad 'PRESENCIAL' consta con un total de 406 estudiantes.
+El curso 'APLIC AUDIT FORENS CICLOS TRAN' con código 'CONT_3031', en la modalidad 'PRESENCIAL' consta con un total de 18 estudiantes.
+El curso 'APLICACIONES DE COSTOS' con código 'CONT_3030', en la modalidad 'PRESENCIAL' consta con un total de 19 estudiantes.
+El curso 'ARQ Y COMP PARALELA' con código 'COMP_5006', en la modalidad 'PRESENCIAL' consta con un total de 8 estudiantes.
+El curso 'ARQ Y ORGANIZACION DE COMP' con código 'COMP_2010', en la modalidad 'PRESENCIAL' consta con un total de 125 estudiantes.
+El curso 'ARQ Y SEGURIDAD DE REDES' con código 'DRBD_5003', en la modalidad 'PRESENCIAL' consta con un total de 16 estudiantes.
+El curso 'ARQUITECTURA DE APLICACIONES' con código 'DSOF_4004', en la modalidad 'PRESENCIAL' consta con un total de 15 estudiantes.
+El curso 'ARQUITECTURA DE COMPUTADORAS' con código 'DSOF_2039', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'ARQUITECTURA DE SOFTWARE' con código 'DSOF_4069', en la modalidad 'PRESENCIAL' consta con un total de 56 estudiantes.
+El curso 'ARTE ESCENICO Y EXPRESION ORAL' con código 'PERI_1110', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'AUDIT INT Y ADMIN RIESGOS ERM' con código 'CONT_4030', en la modalidad 'PRESENCIAL' consta con un total de 14 estudiantes.
+El curso 'AUDITORIA DE GESTION' con código 'CONT_4028', en la modalidad 'PRESENCIAL' consta con un total de 15 estudiantes.
+El curso 'AUDITORIA FINANCIERA' con código 'FINZ_4056', en la modalidad 'PRESENCIAL' consta con un total de 19 estudiantes.
+El curso 'AUDITORIA INFORMATICA' con código 'SIST_1012', en la modalidad 'PRESENCIAL' consta con un total de 5 estudiantes.
+El curso 'AUDITORIA INFORMATICA' con código 'SIST_5006', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'BASE DE DATOS AVANZADA' con código 'DRBD_2005', en la modalidad 'PRESENCIAL' consta con un total de 130 estudiantes.
+El curso 'BIOECONOMIA CIRCULAR' con código 'RENR_1004', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'CALCULO DIFERENCIAL' con código 'MATE_1114', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'CARACTERIZACION DE MATERIALES' con código 'TIER_1078', en la modalidad 'PRESENCIAL' consta con un total de 5 estudiantes.
+El curso 'CICLO DEL MERCURIO EN LA NATUR' con código 'TIER_1076', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'COMERCIO EXTERIOR' con código 'COME_1005', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'COMERCIO EXTERIOR' con código 'COME_3002', en la modalidad 'PRESENCIAL' consta con un total de 22 estudiantes.
+El curso 'COMP PARALELA Y DISTRIBUIDA' con código 'COMP_4013', en la modalidad 'PRESENCIAL' consta con un total de 55 estudiantes.
+El curso 'COMPORTAMIENTO ORGANIZACIONAL' con código 'ADMI_4082', en la modalidad 'PRESENCIAL' consta con un total de 69 estudiantes.
+El curso 'COMPOSICION DE TEXTOS CIENTIFI' con código 'LITE_1108', en la modalidad 'PRESENCIAL' consta con un total de 69 estudiantes.
+El curso 'COMPUTACION Y SOCIEDAD' con código 'COMP_1078', en la modalidad 'PRESENCIAL' consta con un total de 196 estudiantes.
+El curso 'COMPUTACION Y SOCIEDAD' con código 'COMP_1081', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'COMUNICACION DE DATOS' con código 'DRBD_3019', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'CONSTRUCCION DE INDICADORES' con código 'ECON_4116', en la modalidad 'PRESENCIAL' consta con un total de 49 estudiantes.
+El curso 'CONTABILIDAD AGRARIA' con código 'CONT_4033', en la modalidad 'PRESENCIAL' consta con un total de 17 estudiantes.
+El curso 'CONTABILIDAD CORPORATIVA' con código 'CONT_2027', en la modalidad 'PRESENCIAL' consta con un total de 17 estudiantes.
+El curso 'CONTABILIDAD DE COSTOS' con código 'CONT_3026', en la modalidad 'PRESENCIAL' consta con un total de 23 estudiantes.
+El curso 'CONTABILIDAD DE INSTITUC FINAN' con código 'CONT_3025', en la modalidad 'PRESENCIAL' consta con un total de 18 estudiantes.
+El curso 'CONTABILIDAD FINANCIERA' con código 'CONT_1085', en la modalidad 'PRESENCIAL' consta con un total de 32 estudiantes.
+El curso 'CONTABILIDAD FINANCIERA AVANZA' con código 'CONT_2025', en la modalidad 'PRESENCIAL' consta con un total de 25 estudiantes.
+El curso 'CONTABILIDAD GERENCIAL' con código 'CONT_5023', en la modalidad 'PRESENCIAL' consta con un total de 13 estudiantes.
+El curso 'CONTABILIDAD GUBERNAMENTAL' con código 'CONT_2028', en la modalidad 'PRESENCIAL' consta con un total de 18 estudiantes.
+El curso 'CONTRASTIVE GRAMMAR' con código 'EDUC_4116', en la modalidad 'PRESENCIAL' consta con un total de 23 estudiantes.
+El curso 'CONTRATACION PUBLICA' con código 'DERE_3050', en la modalidad 'PRESENCIAL' consta con un total de 22 estudiantes.
+El curso 'CUR DSING FR ACADM AND SPCIF P' con código 'EDUC_4111', en la modalidad 'PRESENCIAL' consta con un total de 8 estudiantes.
+El curso 'CURRICLM FUNDTS PRNCPLS AND IS' con código 'EDUC_4112', en la modalidad 'PRESENCIAL' consta con un total de 17 estudiantes.
+El curso 'CURSO DE ACTUALIZACION' con código 'UTPL_3000', en la modalidad 'PRESENCIAL' consta con un total de 16 estudiantes.
+El curso 'DERECHO LABORAL' con código 'DERE_3045', en la modalidad 'PRESENCIAL' consta con un total de 31 estudiantes.
+El curso 'DERECHO TRIBUTARIO' con código 'DERE_1182', en la modalidad 'PRESENCIAL' consta con un total de 31 estudiantes.
+El curso 'DERECHO TRIBUTARIO' con código 'DERE_4054', en la modalidad 'PRESENCIAL' consta con un total de 70 estudiantes.
+El curso 'DESARROLLO BASADO EN PLAT WEB' con código 'DSOF_3048', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'DESARROLLO BASADO EN PLATAF MO' con código 'DSOF_4075', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'DESARROLLO ECONOMICO' con código 'ECON_4002', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'DESARROLLO EMPRES NUEVOS NEGOC' con código 'ADMI_3025', en la modalidad 'PRESENCIAL' consta con un total de 25 estudiantes.
+El curso 'DESARROLLO EMPRESARIAL' con código 'ADMI_1043', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'DESARROLLO ESPIRITUAL III' con código 'RELI_3005', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'DESARROLLO REGIONAL' con código 'ECON_3047', en la modalidad 'PRESENCIAL' consta con un total de 53 estudiantes.
+El curso 'DIRECCION ESTRATEGICA' con código 'ADMI_5071', en la modalidad 'PRESENCIAL' consta con un total de 22 estudiantes.
+El curso 'DISCOURSE ANALYSIS' con código 'EDUC_4117', en la modalidad 'PRESENCIAL' consta con un total de 23 estudiantes.
+El curso 'DISEÑO DE CIMENTACIONES PRO Y' con código 'TIER_1080', en la modalidad 'PRESENCIAL' consta con un total de 6 estudiantes.
+El curso 'DISEÑO DE SISTEMAS DE COSTOS' con código 'CONT_3029', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'DISEÑO PARAM Y FABRIC DIGITAL' con código 'ARQU_1021', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'DOCTRINA SOCIAL DE LA IGLESIA' con código 'RELI_1001', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'DOCTRINA SOCIAL DE LA IGLESIA' con código 'RELI_5002', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'E-COMMERCE' con código 'ADMI_4083', en la modalidad 'PRESENCIAL' consta con un total de 19 estudiantes.
+El curso 'ECONOMETRIA AVANZADA' con código 'ECON_3043', en la modalidad 'PRESENCIAL' consta con un total de 66 estudiantes.
+El curso 'ECONOMETRIA BASICA' con código 'ECON_3039', en la modalidad 'PRESENCIAL' consta con un total de 73 estudiantes.
+El curso 'ECONOMETRIA II' con código 'ECMA_4003', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'ECONOMETRIA III' con código 'ECMA_4004', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'ECONOMIA AMBIEN DES ECON SUST' con código 'ECON_5008', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'ECONOMIA AMBIENTAL Y DE REC NA' con código 'ECON_4108', en la modalidad 'PRESENCIAL' consta con un total de 76 estudiantes.
+El curso 'ECONOMIA DE LA EMPRESA Y MERCA' con código 'ECON_2035', en la modalidad 'PRESENCIAL' consta con un total de 75 estudiantes.
+El curso 'ECONOMIA INTERNACIONAL' con código 'ECON_5013', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'ECONOMIA INTERNACIONAL' con código 'ECON_5077', en la modalidad 'PRESENCIAL' consta con un total de 52 estudiantes.
+El curso 'ECONOMIA POLITICA' con código 'ECON_5014', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'ECONOMIA POLITICA' con código 'ECON_5076', en la modalidad 'PRESENCIAL' consta con un total de 47 estudiantes.
+El curso 'ECONOMIA POPULAR Y SOLIDARIA' con código 'ADMI_1127', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'ECUACIONES DIFER Y MET NUMER' con código 'MATE_3100', en la modalidad 'PRESENCIAL' consta con un total de 132 estudiantes.
+El curso 'EL ARTE DE AMAR' con código 'RELI_1110', en la modalidad 'PRESENCIAL' consta con un total de 11 estudiantes.
+El curso 'EMPREN CON BASE TECNOLOGICA I' con código 'ADMI_5078', en la modalidad 'PRESENCIAL' consta con un total de 60 estudiantes.
+El curso 'EMPREN CON BASE TECNOLOGICA II' con código 'ADMI_5079', en la modalidad 'PRESENCIAL' consta con un total de 24 estudiantes.
+El curso 'EMPRENDIMIENTO' con código 'ADMI_4038', en la modalidad 'PRESENCIAL' consta con un total de 222 estudiantes.
+El curso 'EMPRENDIMIENTO Y FUNDAMENTOS P' con código 'ADMI_7125', en la modalidad 'PRESENCIAL' consta con un total de 8 estudiantes.
+El curso 'ENGLISH LAN: LIST AND SPEAK IV' con código 'EDUC_2118', en la modalidad 'PRESENCIAL' consta con un total de 65 estudiantes.
+El curso 'ENGLISH LAN: LISTE AND SPE III' con código 'EDUC_3112', en la modalidad 'PRESENCIAL' consta con un total de 66 estudiantes.
+El curso 'ENGLISH LAN: READ AND WRIT III' con código 'EDUC_3111', en la modalidad 'PRESENCIAL' consta con un total de 69 estudiantes.
+El curso 'ENGLISH LAN: READ AND WRIT IV' con código 'EDUC_2119', en la modalidad 'PRESENCIAL' consta con un total de 67 estudiantes.
+El curso 'ENGLISH LANG: LIST AND SPEA II' con código 'FDCE_1075', en la modalidad 'PRESENCIAL' consta con un total de 106 estudiantes.
+El curso 'ENGLISH LANG: LIST AND SPEAK I' con código 'FDCE_1074', en la modalidad 'PRESENCIAL' consta con un total de 109 estudiantes.
+El curso 'ENGLISH LANG: READ AND WRIT II' con código 'FDCE_1076', en la modalidad 'PRESENCIAL' consta con un total de 104 estudiantes.
+El curso 'ENGLISH LANG: READI AND WRIT I' con código 'IDIO_1104', en la modalidad 'PRESENCIAL' consta con un total de 109 estudiantes.
+El curso 'ENGLISH PRON: PHONETI AND PHON' con código 'EDUC_3179', en la modalidad 'PRESENCIAL' consta con un total de 40 estudiantes.
+El curso 'ENGLISH SYNTAX' con código 'EDUC_4109', en la modalidad 'PRESENCIAL' consta con un total de 24 estudiantes.
+El curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' con código 'CONT_1084', en la modalidad 'PRESENCIAL' consta con un total de 35 estudiantes.
+El curso 'ESTABILIDAD DE LADERAS Y TALUD' con código 'TIER_1081', en la modalidad 'PRESENCIAL' consta con un total de 5 estudiantes.
+El curso 'ESTADISTICA BASICA' con código 'ESTA_2031', en la modalidad 'PRESENCIAL' consta con un total de 69 estudiantes.
+El curso 'ESTADISTICA BASICA' con código 'ESTA_3023', en la modalidad 'PRESENCIAL' consta con un total de 187 estudiantes.
+El curso 'ESTADISTICA II' con código 'ESTA_1012', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'ESTADISTICA PARA LAS ING Y ARQ' con código 'ESTA_2029', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'ESTADISTICA Y PROBABILIDAD' con código 'ESTA_3022', en la modalidad 'PRESENCIAL' consta con un total de 94 estudiantes.
+El curso 'ESTRUCTURAS DE DATOS' con código 'DSOF_2029', en la modalidad 'PRESENCIAL' consta con un total de 173 estudiantes.
+El curso 'ESTRUCTURAS DISCRETAS' con código 'DSOF_2030', en la modalidad 'PRESENCIAL' consta con un total de 206 estudiantes.
+El curso 'ETICA DE LA INTELIGENCIA ARTIF' con código 'RELI_1109', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'ETICA Y MORAL' con código 'FILO_1114', en la modalidad 'PRESENCIAL' consta con un total de 292 estudiantes.
+El curso 'EVALUACION DE PROYECTOS' con código 'ADMI_4089', en la modalidad 'PRESENCIAL' consta con un total de 37 estudiantes.
+El curso 'EXAMEN COMPLEXIVO CON CURSO' con código 'UTPL_500', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'FAMILIA Y EDUCACION: RETOS Y D' con código 'EDUC_1143', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'FILOSOFIA E HISTORIA DE LA EDU' con código 'FILO_1117', en la modalidad 'PRESENCIAL' consta con un total de 110 estudiantes.
+El curso 'FINANZAS ESTRUCTURALES' con código 'FINZ_3024', en la modalidad 'PRESENCIAL' consta con un total de 46 estudiantes.
+El curso 'FINANZAS OPERATIVAS' con código 'FINZ_3023', en la modalidad 'PRESENCIAL' consta con un total de 53 estudiantes.
+El curso 'FISICA BASICA' con código 'FISI_1039', en la modalidad 'PRESENCIAL' consta con un total de 188 estudiantes.
+El curso 'FORM EVALUAC DE PROYECTOS' con código 'ADMI_4126', en la modalidad 'PRESENCIAL' consta con un total de 13 estudiantes.
+El curso 'FORMULACION DE PROYECTOS' con código 'ECON_3045', en la modalidad 'PRESENCIAL' consta con un total de 51 estudiantes.
+El curso 'FUND DE INTE ARTIFICIAL' con código 'COMP_4012', en la modalidad 'PRESENCIAL' consta con un total de 54 estudiantes.
+El curso 'FUND DEL LENGUAJE VISUAL' con código 'ARTE_1089', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'FUNDAMENTOS COMPUTACIONALES' con código 'COMP_1075', en la modalidad 'PRESENCIAL' consta con un total de 200 estudiantes.
+El curso 'FUNDAMENTOS DE ADMINIST FINAN' con código 'ADMI_1115', en la modalidad 'PRESENCIAL' consta con un total de 16 estudiantes.
+El curso 'FUNDAMENTOS DE ADMINISTRACION' con código 'ADMI_1113', en la modalidad 'PRESENCIAL' consta con un total de 77 estudiantes.
+El curso 'FUNDAMENTOS DE ANALISIS DE DAT' con código 'DRBD_3014', en la modalidad 'PRESENCIAL' consta con un total de 62 estudiantes.
+El curso 'FUNDAMENTOS DE BASE DE DATOS' con código 'DRBD_2004', en la modalidad 'PRESENCIAL' consta con un total de 123 estudiantes.
+El curso 'FUNDAMENTOS DE BASE DE DATOS' con código 'DRBD_2006', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'FUNDAMENTOS DE CONTABILIDAD' con código 'CONT_1083', en la modalidad 'PRESENCIAL' consta con un total de 203 estudiantes.
+El curso 'FUNDAMENTOS DE ECONOMIA' con código 'ECON_1088', en la modalidad 'PRESENCIAL' consta con un total de 34 estudiantes.
+El curso 'FUNDAMENTOS DE HARDWARE' con código 'DSOF_1071', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'FUNDAMENTOS DE INGENIERIA DE S' con código 'SIST_3011', en la modalidad 'PRESENCIAL' consta con un total de 78 estudiantes.
+El curso 'FUNDAMENTOS DE INGENIERIA DE S' con código 'SIST_3012', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'FUNDAMENTOS DE PROGRAMACION' con código 'DSOF_1073', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'FUNDAMENTOS DE REDES' con código 'DRBD_4012', en la modalidad 'PRESENCIAL' consta con un total de 82 estudiantes.
+El curso 'FUNDAMENTOS INFORMATICOS' con código 'COMP_1034', en la modalidad 'PRESENCIAL' consta con un total de 6 estudiantes.
+El curso 'FUNDAMENTOS MATEMATICOS' con código 'MATE_1103', en la modalidad 'PRESENCIAL' consta con un total de 358 estudiantes.
+El curso 'FUNDAMENTOS Y APLICACION DE SE' con código 'DSOF_4077', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'GEOESTADISTICA BASICA' con código 'TIER_1062', en la modalidad 'PRESENCIAL' consta con un total de 5 estudiantes.
+El curso 'GEOLOGIA DEL SUBSUELO' con código 'TIER_1074', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'GERENCIA DE OPERACIONES MINERA' con código 'MINE_1005', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'GERENCIA DE RECURSOS NATURALES' con código 'RENR_3001', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'GEST DE LA CALIDAD DE SOFTWARE' con código 'DSOF_3035', en la modalidad 'PRESENCIAL' consta con un total de 79 estudiantes.
+El curso 'GEST DE TECN DE LA INFO' con código 'SIST_4000', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'GESTION DE LA CALIDAD' con código 'ADMI_5067', en la modalidad 'PRESENCIAL' consta con un total de 38 estudiantes.
+El curso 'GESTION DE LA CALIDAD DEL SOFT' con código 'DSOF_3045', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'GESTION DE NUEVOS NEGOCIOS' con código 'ADMI_4079', en la modalidad 'PRESENCIAL' consta con un total de 15 estudiantes.
+El curso 'GESTION DE NUEVOS RIESGOS LABO' con código 'SEPR_1002', en la modalidad 'PRESENCIAL' consta con un total de 5 estudiantes.
+El curso 'GESTION DE PROYECTOS' con código 'ADMI_5077', en la modalidad 'PRESENCIAL' consta con un total de 36 estudiantes.
+El curso 'GESTION DEL CONOCIMIENTO' con código 'ADMI_3030', en la modalidad 'PRESENCIAL' consta con un total de 56 estudiantes.
+El curso 'GESTION ESTRATEGICA DE LA INNO' con código 'ADMI_7129', en la modalidad 'PRESENCIAL' consta con un total de 6 estudiantes.
+El curso 'GESTION INNOVACION EMPRESARIAL' con código 'ADMI_1111', en la modalidad 'PRESENCIAL' consta con un total de 6 estudiantes.
+El curso 'GESTION PRODUCTIVA 4.2' con código 'ADMI_5025', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'GESTION PRODUCTIVA GP 4.1' con código 'ECON_5021', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'GESTION PRODUCTIVA GP 4.2' con código 'ECON_5023', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'HABILIDADES GERENCIALES' con código 'ADMI_5064', en la modalidad 'PRESENCIAL' consta con un total de 96 estudiantes.
+El curso 'HISTORIA DEL PENSAMIENTO ECONO' con código 'ECON_1055', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'HISTORIA DEL PENSAMIENTO ECONO' con código 'ECON_1089', en la modalidad 'PRESENCIAL' consta con un total de 73 estudiantes.
+El curso 'HISTORIA ECONOMICA DEL ECUADOR' con código 'ECON_1087', en la modalidad 'PRESENCIAL' consta con un total de 75 estudiantes.
+El curso 'HUMANISMO, UNIVERSIDAD Y CULTU' con código 'RELI_1105', en la modalidad 'PRESENCIAL' consta con un total de 488 estudiantes.
+El curso 'IMAGEN PERSONAL Y CORPORATIVA' con código 'PERI_3015', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'INCLUSION Y APRENDIZAJE SOSTEN' con código 'EDUC_1102', en la modalidad 'PRESENCIAL' consta con un total de 29 estudiantes.
+El curso 'INCLUSIVE AND SUSTAINABLE EDUC' con código 'EDUC_4115', en la modalidad 'PRESENCIAL' consta con un total de 25 estudiantes.
+El curso 'INGENIERIA DE REQUISITOS' con código 'DSOF_3039', en la modalidad 'PRESENCIAL' consta con un total de 82 estudiantes.
+El curso 'INGENIERIA WEB' con código 'DSOF_3037', en la modalidad 'PRESENCIAL' consta con un total de 87 estudiantes.
+El curso 'INNOVAR EN LOS FUTUROS DE LA E' con código 'EDUC_1149', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'INTE ARTIFICIAL AVANZADO' con código 'DSOF_5003', en la modalidad 'PRESENCIAL' consta con un total de 13 estudiantes.
+El curso 'INTELIG ESTRAT Y METOD INTERNA' con código 'ADMI_4081', en la modalidad 'PRESENCIAL' consta con un total de 21 estudiantes.
+El curso 'INTELIGENCIA ARTIFICIAL' con código 'DSOF_4009', en la modalidad 'PRESENCIAL' consta con un total de 11 estudiantes.
+El curso 'INTELIGENCIA DE NEGOCIOS' con código 'DRBD_1009', en la modalidad 'PRESENCIAL' consta con un total de 9 estudiantes.
+El curso 'INTELIGENCIA EMOCIONAL' con código 'EDUC_1146', en la modalidad 'PRESENCIAL' consta con un total de 14 estudiantes.
+El curso 'INTEROPERY EXPLO DATOS ECO HET' con código 'DRBD_4015', en la modalidad 'PRESENCIAL' consta con un total de 28 estudiantes.
+El curso 'INTRO A LA CAD DE VALOR EN CAF' con código 'PAGR_1017', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'INTRO AUDITORIA FORENSE EMPRES' con código 'CONT_3028', en la modalidad 'PRESENCIAL' consta con un total de 20 estudiantes.
+El curso 'INTRODUC TO EDUCATIO RESEARCH' con código 'EDUC_3180', en la modalidad 'PRESENCIAL' consta con un total de 47 estudiantes.
+El curso 'INTRODUCCION A LA AUDITORIA' con código 'CONT_1007', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'INTRODUCCION A LA ECONOMIA' con código 'ECON_1090', en la modalidad 'PRESENCIAL' consta con un total de 159 estudiantes.
+El curso 'INTRODUCCION A LA INTELIGENCIA' con código 'COMP_3013', en la modalidad 'PRESENCIAL' consta con un total de 85 estudiantes.
+El curso 'INTRODUCCION A LA PROGRAMACION' con código 'DSOF_1067', en la modalidad 'PRESENCIAL' consta con un total de 203 estudiantes.
+El curso 'INTRODUCCIÓN AL DISEÑO INTERIO' con código 'DISE_1032', en la modalidad 'PRESENCIAL' consta con un total de 12 estudiantes.
+El curso 'INTRODUCTION TO LINGUISTICS' con código 'EDUC_3189', en la modalidad 'PRESENCIAL' consta con un total de 44 estudiantes.
+El curso 'INVESTIGACION DE MERCADOS' con código 'ADMI_3026', en la modalidad 'PRESENCIAL' consta con un total de 68 estudiantes.
+El curso 'INVESTIGACION OPERATIVA TOMA D' con código 'DIPP_3001', en la modalidad 'PRESENCIAL' consta con un total de 35 estudiantes.
+El curso 'JORN DE INVES LA CREDIBILIDAD' con código 'EDUC_2022', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'JORNADA DE INVEST Y FORMA ESP' con código 'EDUC_4160', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'LANGUAGE TESTING' con código 'EDUC_3177', en la modalidad 'PRESENCIAL' consta con un total de 48 estudiantes.
+El curso 'LECTURA Y REDACCION DE TEXTOS' con código 'LITE_1106', en la modalidad 'PRESENCIAL' consta con un total de 110 estudiantes.
+El curso 'LEGISLACION EMPRESARIAL' con código 'ADMI_1110', en la modalidad 'PRESENCIAL' consta con un total de 71 estudiantes.
+El curso 'LEGISLACION MERCANTIL Y SOCIET' con código 'DERE_2072', en la modalidad 'PRESENCIAL' consta con un total de 33 estudiantes.
+El curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' con código 'EDUC_1147', en la modalidad 'PRESENCIAL' consta con un total de 18 estudiantes.
+El curso 'LOGICA DIGITAL' con código 'ELEN_2008', en la modalidad 'PRESENCIAL' consta con un total de 131 estudiantes.
+El curso 'MACROECONOMIA ABIERTA' con código 'ECON_3041', en la modalidad 'PRESENCIAL' consta con un total de 64 estudiantes.
+El curso 'MACROECONOMIA CERRADA' con código 'ECON_2034', en la modalidad 'PRESENCIAL' consta con un total de 65 estudiantes.
+El curso 'MANAGEMENT 3.0' con código 'ADMI_1117', en la modalidad 'PRESENCIAL' consta con un total de 8 estudiantes.
+El curso 'MARKETING' con código 'MERC_4007', en la modalidad 'PRESENCIAL' consta con un total de 74 estudiantes.
+El curso 'MATEMATICA BASICA' con código 'MATE_1106', en la modalidad 'PRESENCIAL' consta con un total de 34 estudiantes.
+El curso 'MATEMATICA FINANCIERA' con código 'MATE_1109', en la modalidad 'PRESENCIAL' consta con un total de 165 estudiantes.
+El curso 'MATRIMONIO Y FAMILIA' con código 'RELI_1033', en la modalidad 'PRESENCIAL' consta con un total de 14 estudiantes.
+El curso 'MERCADO DE VALORES' con código 'COME_5000', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'METH TO ADOLESCENTS AND ADULTS' con código 'EDUC_3188', en la modalidad 'PRESENCIAL' consta con un total de 23 estudiantes.
+El curso 'METHO FOR ACADEMIC PURPOSES' con código 'EDUC_3187', en la modalidad 'PRESENCIAL' consta con un total de 14 estudiantes.
+El curso 'METHODO FOR TEAC ENGL TO CHILD' con código 'EDUC_3191', en la modalidad 'PRESENCIAL' consta con un total de 24 estudiantes.
+El curso 'METHODOLOGY FOR TEACHING ENGLI' con código 'EDUC_3182', en la modalidad 'PRESENCIAL' consta con un total de 15 estudiantes.
+El curso 'METODOS DE VALOR DE EMPRESAS' con código 'ADMI_5065', en la modalidad 'PRESENCIAL' consta con un total de 34 estudiantes.
+El curso 'MICROECONOMIA APLICADA' con código 'ECON_3042', en la modalidad 'PRESENCIAL' consta con un total de 76 estudiantes.
+El curso 'MODELAMIENTO GEOLOGICO CON LEA' con código 'TIER_1071', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'MODELOS ECONOMETRICOS' con código 'ECON_3040', en la modalidad 'PRESENCIAL' consta con un total de 70 estudiantes.
+El curso 'MODELOS OPTIMIZA PARA USO DE R' con código 'ECON_4110', en la modalidad 'PRESENCIAL' consta con un total de 12 estudiantes.
+El curso 'NEGOCIOS INTERNACIONALES' con código 'COME_3003', en la modalidad 'PRESENCIAL' consta con un total de 15 estudiantes.
+El curso 'NEUROCIENCIA Y PSICOL DEL DESA' con código 'PSIC_1104', en la modalidad 'PRESENCIAL' consta con un total de 75 estudiantes.
+El curso 'OFIMAT PARA EL MODEL Y ANALISI' con código 'TIER_1069', en la modalidad 'PRESENCIAL' consta con un total de 5 estudiantes.
+El curso 'PASANT PRE-PROF PRACTICUM 3.2' con código 'ADMI_5046', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'PASANTI PRE-PROF PRACTICUM 3.1' con código 'CONT_4000', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'PEDAGOGIA' con código 'EDUC_3113', en la modalidad 'PRESENCIAL' consta con un total de 74 estudiantes.
+El curso 'PERIODO ADICIONAL 1' con código 'UTPL_4000', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'PERIODO ADICIONAL 2' con código 'UTPL_5000', en la modalidad 'PRESENCIAL' consta con un total de 5 estudiantes.
+El curso 'PINTURA' con código 'ARTE_4020', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'PLAN ESTRATEGIC TRANSF DIGITAL' con código 'DSOF_1074', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'PLANIFICACION SUBTERRANEA' con código 'MINE_1007', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'PLANIFICACION Y GEST DESA SOST' con código 'ECON_4114', en la modalidad 'PRESENCIAL' consta con un total de 9 estudiantes.
+El curso 'PLANIFICACION Y ORDENAM TERRIT' con código 'ECON_4113', en la modalidad 'PRESENCIAL' consta con un total de 38 estudiantes.
+El curso 'PLATAFORMAS MOVILES' con código 'DSOF_4070', en la modalidad 'PRESENCIAL' consta con un total de 28 estudiantes.
+El curso 'PLATAFORMAS PARA JUEGOS' con código 'DSOF_4071', en la modalidad 'PRESENCIAL' consta con un total de 29 estudiantes.
+El curso 'PLATAFORMAS WEB' con código 'DSOF_3038', en la modalidad 'PRESENCIAL' consta con un total de 24 estudiantes.
+El curso 'POLITICA AMBIENTAL' con código 'ECON_3046', en la modalidad 'PRESENCIAL' consta con un total de 29 estudiantes.
+El curso 'POLITICA ECONOMICA' con código 'ECON_3044', en la modalidad 'PRESENCIAL' consta con un total de 46 estudiantes.
+El curso 'POLITICA ECONOMICA II' con código 'ECON_4009', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'POLITICA PUBLICA Y MARCO LEGA' con código 'FDCE_2030', en la modalidad 'PRESENCIAL' consta con un total de 107 estudiantes.
+El curso 'PRACTICA TRIBUTARIA' con código 'CONT_2026', en la modalidad 'PRESENCIAL' consta con un total de 20 estudiantes.
+El curso 'PRACTICAS EN CITTES GP 3.2' con código 'DSOF_4007', en la modalidad 'PRESENCIAL' consta con un total de 7 estudiantes.
+El curso 'PRACTICUM 1' con código 'ADMI_2029', en la modalidad 'PRESENCIAL' consta con un total de 69 estudiantes.
+El curso 'PRACTICUM 1' con código 'CONT_2029', en la modalidad 'PRESENCIAL' consta con un total de 21 estudiantes.
+El curso 'PRACTICUM 1' con código 'ECON_2037', en la modalidad 'PRESENCIAL' consta con un total de 68 estudiantes.
+El curso 'PRACTICUM 1' con código 'EDUC_2120', en la modalidad 'PRESENCIAL' consta con un total de 64 estudiantes.
+El curso 'PRACTICUM 1.1' con código 'COMP_2011', en la modalidad 'PRESENCIAL' consta con un total de 134 estudiantes.
+El curso 'PRACTICUM 1.2' con código 'COMP_2012', en la modalidad 'PRESENCIAL' consta con un total de 123 estudiantes.
+El curso 'PRACTICUM 2' con código 'ADMI_3027', en la modalidad 'PRESENCIAL' consta con un total de 42 estudiantes.
+El curso 'PRACTICUM 2' con código 'CONT_3037', en la modalidad 'PRESENCIAL' consta con un total de 18 estudiantes.
+El curso 'PRACTICUM 2' con código 'ECON_3053', en la modalidad 'PRESENCIAL' consta con un total de 68 estudiantes.
+El curso 'PRACTICUM 2' con código 'EDUC_3181', en la modalidad 'PRESENCIAL' consta con un total de 41 estudiantes.
+El curso 'PRACTICUM 2.1' con código 'COMP_3019', en la modalidad 'PRESENCIAL' consta con un total de 88 estudiantes.
+El curso 'PRACTICUM 2.2' con código 'COMP_3014', en la modalidad 'PRESENCIAL' consta con un total de 82 estudiantes.
+El curso 'PRACTICUM 3' con código 'ADMI_4080', en la modalidad 'PRESENCIAL' consta con un total de 50 estudiantes.
+El curso 'PRACTICUM 3' con código 'EDUC_3186', en la modalidad 'PRESENCIAL' consta con un total de 40 estudiantes.
+El curso 'PRACTICUM 3 SERVICIO COMUN' con código 'ECON_3054', en la modalidad 'PRESENCIAL' consta con un total de 63 estudiantes.
+El curso 'PRACTICUM 3 SERVICIO COMUNITA' con código 'CONT_3038', en la modalidad 'PRESENCIAL' consta con un total de 20 estudiantes.
+El curso 'PRACTICUM 3 SERVICIO COMUNITAR' con código 'COMP_4010', en la modalidad 'PRESENCIAL' consta con un total de 61 estudiantes.
+El curso 'PRACTICUM 4.1' con código 'COMP_4015', en la modalidad 'PRESENCIAL' consta con un total de 56 estudiantes.
+El curso 'PRACTICUM 4.1' con código 'EDUC_4107', en la modalidad 'PRESENCIAL' consta con un total de 20 estudiantes.
+El curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' con código 'ADMI_4087', en la modalidad 'PRESENCIAL' consta con un total de 35 estudiantes.
+El curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' con código 'CONT_4032', en la modalidad 'PRESENCIAL' consta con un total de 21 estudiantes.
+El curso 'PRACTICUM 4.1:TRABAJO DE INT E' con código 'ECON_4115', en la modalidad 'PRESENCIAL' consta con un total de 55 estudiantes.
+El curso 'PRACTICUM 4.2' con código 'COMP_5022', en la modalidad 'PRESENCIAL' consta con un total de 27 estudiantes.
+El curso 'PRACTICUM 4.2' con código 'EDUC_4114', en la modalidad 'PRESENCIAL' consta con un total de 20 estudiantes.
+El curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' con código 'ADMI_5068', en la modalidad 'PRESENCIAL' consta con un total de 28 estudiantes.
+El curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' con código 'CONT_4034', en la modalidad 'PRESENCIAL' consta con un total de 17 estudiantes.
+El curso 'PRACTICUM 4.2:TRABAJO DE INTEG' con código 'ECON_5074', en la modalidad 'PRESENCIAL' consta con un total de 45 estudiantes.
+El curso 'PRESUPUESTOS' con código 'FINZ_1018', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'PRINCIPIOS DE AUDITORIA' con código 'CONT_3027', en la modalidad 'PRESENCIAL' consta con un total de 19 estudiantes.
+El curso 'PRINCIPIOS DE MACROECONOMIA' con código 'ECON_2033', en la modalidad 'PRESENCIAL' consta con un total de 76 estudiantes.
+El curso 'PRINCIPIOS DE MICROECONOMIA' con código 'ECON_2032', en la modalidad 'PRESENCIAL' consta con un total de 78 estudiantes.
+El curso 'PROC DE INGENIERIA DE SOFTWARE' con código 'DSOF_5001', en la modalidad 'PRESENCIAL' consta con un total de 19 estudiantes.
+El curso 'PROG FUNCIONAL Y REACTIVA' con código 'DSOF_2035', en la modalidad 'PRESENCIAL' consta con un total de 135 estudiantes.
+El curso 'PROG ORIENTADA A OBJETOS' con código 'DSOF_2034', en la modalidad 'PRESENCIAL' consta con un total de 167 estudiantes.
+El curso 'PROGRAMACION AVANZADA' con código 'COMP_4011', en la modalidad 'PRESENCIAL' consta con un total de 126 estudiantes.
+El curso 'PROPUESTA DE INVESTIGACION' con código 'EDUC_3108', en la modalidad 'PRESENCIAL' consta con un total de 65 estudiantes.
+El curso 'PROPUESTA DE INVESTIGACION' con código 'EDUC_4105', en la modalidad 'PRESENCIAL' consta con un total de 21 estudiantes.
+El curso 'PROPUESTA DE INVESTIGACION' con código 'EDUC_4106', en la modalidad 'PRESENCIAL' consta con un total de 51 estudiantes.
+El curso 'PRORROGA 1' con código 'UTPL_1000', en la modalidad 'PRESENCIAL' consta con un total de 34 estudiantes.
+El curso 'PRORROGA 2' con código 'UTPL_2000', en la modalidad 'PRESENCIAL' consta con un total de 13 estudiantes.
+El curso 'PROSPECTIVA EMPRESARIAL Y A' con código 'ADMI_4092', en la modalidad 'PRESENCIAL' consta con un total de 36 estudiantes.
+El curso 'PROTOTIPADO' con código 'DSOF_3036', en la modalidad 'PRESENCIAL' consta con un total de 129 estudiantes.
+El curso 'PROYEC DE FIN DE CARRER GP4.1' con código 'COMP_5004', en la modalidad 'PRESENCIAL' consta con un total de 25 estudiantes.
+El curso 'PROYEC DE FIN DE CARRER GP4.2' con código 'COMP_5009', en la modalidad 'PRESENCIAL' consta con un total de 32 estudiantes.
+El curso 'PROYECTO FIN CARRERA II GP 4.2' con código 'CONT_5012', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'PROYECTOS' con código 'ADMI_4090', en la modalidad 'PRESENCIAL' consta con un total de 26 estudiantes.
+El curso 'PROYECTOS II' con código 'ECON_5034', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'PYTHON INTERMEDIO APLICADO A L' con código 'COMP_1077', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'RADIO Y NUEVAS TECNOLOGIAS' con código 'PERI_1120', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'REDES Y SISTEMAS DISTRIBUIDOS' con código 'DRBD_4014', en la modalidad 'PRESENCIAL' consta con un total de 59 estudiantes.
+El curso 'RELACIONES PUB Y PROTOCOLO' con código 'HOTE_1040', en la modalidad 'PRESENCIAL' consta con un total de 10 estudiantes.
+El curso 'REPRESENT AVAN CONOCI Y RAZON' con código 'COMP_4014', en la modalidad 'PRESENCIAL' consta con un total de 53 estudiantes.
+El curso 'RESEARCH METHODS IN ELT' con código 'EDUC_3184', en la modalidad 'PRESENCIAL' consta con un total de 43 estudiantes.
+El curso 'RESPONSABILIDAD SOCIAL EMPRE' con código 'ADMI_4088', en la modalidad 'PRESENCIAL' consta con un total de 26 estudiantes.
+El curso 'ROBOTICA INDUSTRIAL' con código 'ELEC_1018', en la modalidad 'PRESENCIAL' consta con un total de 6 estudiantes.
+El curso 'SECOND LANGUAGE ACQUISITION' con código 'EDUC_4113', en la modalidad 'PRESENCIAL' consta con un total de 33 estudiantes.
+El curso 'SEGURIDAD DE LA INFORMACION' con código 'DSOF_5015', en la modalidad 'PRESENCIAL' consta con un total de 5 estudiantes.
+El curso 'SEGURIDAD DE LA INFORMACION' con código 'DSOF_5025', en la modalidad 'PRESENCIAL' consta con un total de 26 estudiantes.
+El curso 'SEMANTICS AND PRAGMATICS' con código 'EDUC_4108', en la modalidad 'PRESENCIAL' consta con un total de 24 estudiantes.
+El curso 'SEMINARIO DE FIN DE CARRERA' con código 'CONT_5004', en la modalidad 'PRESENCIAL' consta con un total de 6 estudiantes.
+El curso 'SEMINARIO DE FIN DE CARRERA' con código 'ECON_5035', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'SIST BASADOS EN CONOCIMIENTO' con código 'DSOF_5013', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'SIST BASADOS EN CONOCIMIENTOS' con código 'COMP_5018', en la modalidad 'PRESENCIAL' consta con un total de 14 estudiantes.
+El curso 'SISTEMAS DE COSTOS' con código 'CONT_2035', en la modalidad 'PRESENCIAL' consta con un total de 83 estudiantes.
+El curso 'SISTEMAS INTELIGENTES' con código 'COMP_5020', en la modalidad 'PRESENCIAL' consta con un total de 23 estudiantes.
+El curso 'SISTEMAS OPERATIVOS' con código 'COMP_3011', en la modalidad 'PRESENCIAL' consta con un total de 92 estudiantes.
+El curso 'SOCIOLOGIA DE LA EDUCACION' con código 'EDUC_1109', en la modalidad 'PRESENCIAL' consta con un total de 108 estudiantes.
+El curso 'SOSTENIBILIDAD EMPRESARIAL' con código 'ADMI_3024', en la modalidad 'PRESENCIAL' consta con un total de 54 estudiantes.
+El curso 'TEACHING CULTURE IN THE EFL CL' con código 'EDUC_4110', en la modalidad 'PRESENCIAL' consta con un total de 33 estudiantes.
+El curso 'TECHNOLOGY IN THE EFL CLASSROO' con código 'IDIO_2023', en la modalidad 'PRESENCIAL' consta con un total de 68 estudiantes.
+El curso 'TECNICAS DE INFERENCIA ESTADIS' con código 'ESTA_2022', en la modalidad 'PRESENCIAL' consta con un total de 161 estudiantes.
+El curso 'TECNOLOGIA APLICADA' con código 'ADMI_7132', en la modalidad 'PRESENCIAL' consta con un total de 6 estudiantes.
+El curso 'TECNOLOGIAS EMERGENTES' con código 'COMP_5023', en la modalidad 'PRESENCIAL' consta con un total de 38 estudiantes.
+El curso 'TECNOLOGIAS WEB' con código 'DSOF_2043', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.
+El curso 'TEFL METHODOLOGY AND DIDACTICS' con código 'EDUC_2089', en la modalidad 'PRESENCIAL' consta con un total de 68 estudiantes.
+El curso 'TEORIA DE AUTOMATAS Y COMPILAD' con código 'COMP_3012', en la modalidad 'PRESENCIAL' consta con un total de 90 estudiantes.
+El curso 'TEORIA MACROECONOMICA' con código 'ECON_2031', en la modalidad 'PRESENCIAL' consta con un total de 80 estudiantes.
+El curso 'TEORIA MICROECONOMICA' con código 'ECON_2030', en la modalidad 'PRESENCIAL' consta con un total de 87 estudiantes.
+El curso 'TEORIAS DE ACUMULACION Y CREC' con código 'ECON_5039', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'TEORIAS DEL DESARROLLO' con código 'ECON_5075', en la modalidad 'PRESENCIAL' consta con un total de 72 estudiantes.
+El curso 'TRABAJO DE TIT (PRACTICUM 4)' con código 'ADMI_5060', en la modalidad 'PRESENCIAL' consta con un total de 9 estudiantes.
+El curso 'TRABAJO DE TIT (PRACTICUM 4)' con código 'CONT_5000', en la modalidad 'PRESENCIAL' consta con un total de 6 estudiantes.
+El curso 'TRABAJO DE TIT (PRACTICUM IV)' con código 'ECON_5040', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'TRABAJO DE TITULACION' con código 'FDCE_4043', en la modalidad 'PRESENCIAL' consta con un total de 4 estudiantes.
+El curso 'TRABAJO DE TITULACION' con código 'FDCE_4044', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'TRABAJO DE TITULACION SIN CURS' con código 'UTPL_800', en la modalidad 'PRESENCIAL' consta con un total de 51 estudiantes.
+El curso 'TRATAMIENTO Y EDICION DE IMAGE' con código 'TIER_1070', en la modalidad 'PRESENCIAL' consta con un total de 1 estudiantes.
+El curso 'TURISMO Y HOTELERIA' con código 'HOTE_1030', en la modalidad 'PRESENCIAL' consta con un total de 10 estudiantes.
+El curso 'URBANIZACION Y CAMBIO CLIMATIC' con código 'ARQU_1092', en la modalidad 'PRESENCIAL' consta con un total de 6 estudiantes.
+El curso 'VALIDACION DE PRODUCTO' con código 'ADMI_1030', en la modalidad 'PRESENCIAL' consta con un total de 5 estudiantes.
+El curso 'VALORACION DE EMPRESAS' con código 'FINZ_5000', en la modalidad 'PRESENCIAL' consta con un total de 3 estudiantes.
+El curso 'VOLADURA DE ROCAS' con código 'MINE_4001', en la modalidad 'PRESENCIAL' consta con un total de 2 estudiantes.

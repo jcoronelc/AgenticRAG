@@ -1,0 +1,48 @@
+programa_nombre: ADMINISTRACION DE EMPRESAS, periodo_academico: 202264, genero: hombre, cantidad_estudiantes: 1563
+programa_nombre: ADMINISTRACION DE EMPRESAS, periodo_academico: 202264, genero: mujer, cantidad_estudiantes: 1479
+programa_nombre: COMPUTACION, periodo_academico: 202264, genero: hombre, cantidad_estudiantes: 129
+programa_nombre: COMPUTACION, periodo_academico: 202264, genero: mujer, cantidad_estudiantes: 151
+programa_nombre: CONTABILIDAD Y AUDITORIA, periodo_academico: 202264, genero: hombre, cantidad_estudiantes: 1153
+programa_nombre: CONTABILIDAD Y AUDITORIA, periodo_academico: 202264, genero: mujer, cantidad_estudiantes: 1095
+programa_nombre: ECONOMIA, periodo_academico: 202264, genero: hombre, cantidad_estudiantes: 76
+programa_nombre: ECONOMIA, periodo_academico: 202264, genero: mujer, cantidad_estudiantes: 69
+programa_nombre: PED. IDIOMA NACIONALES Y EXTR, periodo_academico: 202264, genero: hombre, cantidad_estudiantes: 698
+programa_nombre: PED. IDIOMA NACIONALES Y EXTR, periodo_academico: 202264, genero: mujer, cantidad_estudiantes: 631
+programa_nombre: TURISMO, periodo_academico: 202264, genero: hombre, cantidad_estudiantes: 150
+programa_nombre: TURISMO, periodo_academico: 202264, genero: mujer, cantidad_estudiantes: 141
+programa_nombre: ADMINISTRACION DE EMPRESAS, periodo_academico: 202362, genero: hombre, cantidad_estudiantes: 1571
+programa_nombre: ADMINISTRACION DE EMPRESAS, periodo_academico: 202362, genero: mujer, cantidad_estudiantes: 1516
+programa_nombre: COMPUTACION, periodo_academico: 202362, genero: hombre, cantidad_estudiantes: 117
+programa_nombre: COMPUTACION, periodo_academico: 202362, genero: mujer, cantidad_estudiantes: 136
+programa_nombre: CONTABILIDAD Y AUDITORIA, periodo_academico: 202362, genero: hombre, cantidad_estudiantes: 1161
+programa_nombre: CONTABILIDAD Y AUDITORIA, periodo_academico: 202362, genero: mujer, cantidad_estudiantes: 1125
+programa_nombre: ECONOMIA, periodo_academico: 202362, genero: hombre, cantidad_estudiantes: 75
+programa_nombre: ECONOMIA, periodo_academico: 202362, genero: mujer, cantidad_estudiantes: 68
+programa_nombre: PED. IDIOMA NACIONALES Y EXTR, periodo_academico: 202362, genero: hombre, cantidad_estudiantes: 715
+programa_nombre: PED. IDIOMA NACIONALES Y EXTR, periodo_academico: 202362, genero: mujer, cantidad_estudiantes: 664
+programa_nombre: TURISMO, periodo_academico: 202362, genero: hombre, cantidad_estudiantes: 149
+programa_nombre: TURISMO, periodo_academico: 202362, genero: mujer, cantidad_estudiantes: 136
+programa_nombre: ADMINISTRACION DE EMPRESAS, periodo_academico: 202364, genero: hombre, cantidad_estudiantes: 1583
+programa_nombre: ADMINISTRACION DE EMPRESAS, periodo_academico: 202364, genero: mujer, cantidad_estudiantes: 1552
+programa_nombre: COMPUTACION, periodo_academico: 202364, genero: hombre, cantidad_estudiantes: 176
+programa_nombre: COMPUTACION, periodo_academico: 202364, genero: mujer, cantidad_estudiantes: 186
+programa_nombre: CONTABILIDAD Y AUDITORIA, periodo_academico: 202364, genero: hombre, cantidad_estudiantes: 1172
+programa_nombre: CONTABILIDAD Y AUDITORIA, periodo_academico: 202364, genero: mujer, cantidad_estudiantes: 1074
+programa_nombre: ECONOMIA, periodo_academico: 202364, genero: hombre, cantidad_estudiantes: 91
+programa_nombre: ECONOMIA, periodo_academico: 202364, genero: mujer, cantidad_estudiantes: 83
+programa_nombre: PED. IDIOMA NACIONALES Y EXTR, periodo_academico: 202364, genero: hombre, cantidad_estudiantes: 771
+programa_nombre: PED. IDIOMA NACIONALES Y EXTR, periodo_academico: 202364, genero: mujer, cantidad_estudiantes: 715
+programa_nombre: TURISMO, periodo_academico: 202364, genero: hombre, cantidad_estudiantes: 149
+programa_nombre: TURISMO, periodo_academico: 202364, genero: mujer, cantidad_estudiantes: 131
+programa_nombre: ADMINISTRACION DE EMPRESAS, periodo_academico: 202462, genero: hombre, cantidad_estudiantes: 1514
+programa_nombre: ADMINISTRACION DE EMPRESAS, periodo_academico: 202462, genero: mujer, cantidad_estudiantes: 1449
+programa_nombre: COMPUTACION, periodo_academico: 202462, genero: hombre, cantidad_estudiantes: 162
+programa_nombre: COMPUTACION, periodo_academico: 202462, genero: mujer, cantidad_estudiantes: 164
+programa_nombre: CONTABILIDAD Y AUDITORIA, periodo_academico: 202462, genero: hombre, cantidad_estudiantes: 1058
+programa_nombre: CONTABILIDAD Y AUDITORIA, periodo_academico: 202462, genero: mujer, cantidad_estudiantes: 1031
+programa_nombre: ECONOMIA, periodo_academico: 202462, genero: hombre, cantidad_estudiantes: 81
+programa_nombre: ECONOMIA, periodo_academico: 202462, genero: mujer, cantidad_estudiantes: 76
+programa_nombre: PED. IDIOMA NACIONALES Y EXTR, periodo_academico: 202462, genero: hombre, cantidad_estudiantes: 758
+programa_nombre: PED. IDIOMA NACIONALES Y EXTR, periodo_academico: 202462, genero: mujer, cantidad_estudiantes: 689
+programa_nombre: TURISMO, periodo_academico: 202462, genero: hombre, cantidad_estudiantes: 120
+programa_nombre: TURISMO, periodo_academico: 202462, genero: mujer, cantidad_estudiantes: 112

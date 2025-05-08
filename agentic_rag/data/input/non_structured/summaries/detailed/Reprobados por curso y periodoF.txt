@@ -1,0 +1,978 @@
+En el periodo académico '202264', el curso 'ACADEMIC READING AND WRITIN II' (código: EDUC_3183) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ACADEMIC READING AND WRITING I' (código: EDUC_3178) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ADAPTACIONES CURRICULARES Y DI' (código: EDUC_3185) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ADMIN DE CAD DE SUM Y LOG EMPR' (código: ADMI_2030) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ADMINISTRACION' (código: ADMI_1109) tiene un total de 187 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ADMINISTRACION DE OPERAC Y PR' (código: PIND_2010) tiene un total de 32 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ADMINISTRACION DE TECN Y SISTE' (código: ADMI_4095) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ADMINISTRACION DE TECNOLOGIAS' (código: SIST_5001) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ADMINISTRACION DEL TALENTO HUM' (código: LABO_3002) tiene un total de 60 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5005) tiene un total de 29 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5066) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ADMINISTRACION FINANCIERA' (código: FINZ_4057) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ADMINISTRACION FINANCIERA OPER' (código: ECON_4112) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ALGEBRA LINEAL' (código: MATE_1108) tiene un total de 79 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ANA MATEMATICO MULTIVARIADO' (código: MATE_2029) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ANALISIS DE MERCADOS TURISTICO' (código: TURI_4022) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ANTROPOLOGIA' (código: RELI_3002) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ANTROPOLOGIA BASICA' (código: RELI_2062) tiene un total de 160 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ANTROPOLOGIA CULTURAL Y TURIS' (código: TURI_1020) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202264', el curso 'APLIC AUDIT FORENS CICLOS TRAN' (código: CONT_3031) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'APLICACIONES DE COSTOS' (código: CONT_3030) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202264', el curso 'AREAS PROTEGIDAS' (código: TURI_2014) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ARQ Y COMP PARALELA' (código: COMP_5006) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ARQ Y SEGURIDAD DE REDES' (código: DRBD_5003) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202264', el curso 'AUDIT INT Y ADMIN RIESGOS ERM' (código: CONT_4030) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'AUDITORIA DE GESTION' (código: CONT_4028) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'AUDITORIA FINANCIERA' (código: FINZ_4056) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202264', el curso 'AUDITORIA I' (código: CONT_4006) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'AUDITORIA II' (código: CONT_1015) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'AUDITORIA III' (código: CONT_5002) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'AUDITORIA INFORMATICA' (código: SIST_5006) tiene un total de 16 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CALCULO' (código: MATE_1091) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'COMERCIO EXTERIOR' (código: COME_1005) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'COMERCIO EXTERIOR' (código: COME_3002) tiene un total de 26 estudiantes reprobados.
+En el periodo académico '202264', el curso 'COMPORTAMIENTO ORGANIZACIONAL' (código: ADMI_4082) tiene un total de 86 estudiantes reprobados.
+En el periodo académico '202264', el curso 'COMPUTACION APLICADA' (código: CONT_4010) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'COMPUTACION Y SOCIEDAD' (código: COMP_1078) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD AGRARIA' (código: CONT_4033) tiene un total de 22 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD BANCARIA' (código: CONT_2015) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD CORPORATIVA' (código: CONT_2027) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD DE COSTOS' (código: CONT_3026) tiene un total de 26 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD DE COSTOS OPERATI' (código: CONT_2032) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD DE INSTITUC FINAN' (código: CONT_3025) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD FINANCIERA' (código: CONT_1085) tiene un total de 34 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD FINANCIERA AVANZA' (código: CONT_2025) tiene un total de 92 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5006) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5023) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_2028) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_3017) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTRASTIVE GRAMMAR' (código: EDUC_4116) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CONTRATACION PUBLICA' (código: DERE_3050) tiene un total de 48 estudiantes reprobados.
+En el periodo académico '202264', el curso 'COSMOVISION ANDINA' (código: TURI_4014) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CULTURE AND LITERATURE IN ENGL' (código: LITE_4003) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CUR DSING FR ACADM AND SPCIF P' (código: EDUC_4111) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CURRICLM FUNDTS PRNCPLS AND IS' (código: EDUC_4112) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CURRICULUM AND MATERIALS' (código: FDCE_4001) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'CURSO DE ACTUALIZACION' (código: UTPL_3000) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'DERECHO LABORAL' (código: DERE_1181) tiene un total de 24 estudiantes reprobados.
+En el periodo académico '202264', el curso 'DERECHO TRIBUTARIO' (código: DERE_1182) tiene un total de 39 estudiantes reprobados.
+En el periodo académico '202264', el curso 'DERECHO TRIBUTARIO' (código: DERE_4054) tiene un total de 34 estudiantes reprobados.
+En el periodo académico '202264', el curso 'DESARROLLO ECONOMICO' (código: ECON_4002) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202264', el curso 'DESARROLLO EMPRES NUEVOS NEGOC' (código: ADMI_3025) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'DIRECCION ESTRATEGICA' (código: ADMI_5071) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202264', el curso 'DIRECCION HOTELERA' (código: HOTE_5003) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'DISCOURSE ANALYSIS' (código: EDUC_4117) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'DISEÑO DE PRODUCTOS TURISTICOS' (código: TURI_3016) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'DISEÑO DE SISTEMAS DE COSTOS' (código: CONT_3029) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: RELI_1001) tiene un total de 24 estudiantes reprobados.
+En el periodo académico '202264', el curso 'E-COMMERCE' (código: ADMI_4083) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ECONOMETRIA II' (código: ECMA_4003) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ECONOMIA AMBIENTAL Y DE REC NA' (código: ECON_4108) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ECONOMIA DE LA EMPRESA Y MERCA' (código: ECON_2035) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ECONOMIA INTERNACIONAL' (código: ECON_5077) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ECONOMIA POLITICA' (código: ECON_5014) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ECONOMIA POPULAR Y SOLIDARIA' (código: ADMI_1127) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ECUACIONES DIFER Y MET NUMER' (código: MATE_3100) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'EDUCATIONAL RESEARCH I' (código: FDSE_4007) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202264', el curso 'EMPRENDIMIENTO' (código: ADMI_4038) tiene un total de 124 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ENGLISH LAN: LIST AND SPEAK IV' (código: EDUC_2118) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ENGLISH LAN: LISTE AND SPE III' (código: EDUC_3112) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ENGLISH LAN: READ AND WRIT III' (código: EDUC_3111) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ENGLISH LAN: READ AND WRIT IV' (código: EDUC_2119) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ENGLISH LANG: LIST AND SPEA II' (código: FDCE_1075) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ENGLISH LANG: LIST AND SPEAK I' (código: FDCE_1074) tiene un total de 95 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ENGLISH LANG: READ AND WRIT II' (código: FDCE_1076) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ENGLISH LANG: READI AND WRIT I' (código: IDIO_1104) tiene un total de 86 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ENGLISH PRON: PHONETI AND PHON' (código: EDUC_3179) tiene un total de 16 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ENGLISH SYNTAX' (código: EDUC_4109) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' (código: CONT_1084) tiene un total de 194 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ESTADISTICA' (código: ESTA_1044) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ESTADISTICA APLICADA A EDUCA' (código: ESTA_4004) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ESTADISTICA BASICA' (código: ESTA_2031) tiene un total de 27 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ESTADISTICA BASICA' (código: ESTA_3023) tiene un total de 60 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ESTADISTICA Y PROBABILIDAD' (código: ESTA_3022) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ESTRUCTURAS DISCRETAS' (código: DSOF_2030) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ETICA' (código: RELI_3000) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ETICA Y MORAL' (código: FILO_1114) tiene un total de 38 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FAMILIA Y EDUCACION: RETOS Y D' (código: EDUC_1143) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FILOSOFIA DE LA EDUCACION' (código: FILO_4002) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FILOSOFIA E HISTORIA DE LA EDU' (código: FILO_1117) tiene un total de 91 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FINANZAS ESTRUCTURALES' (código: FINZ_3024) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FINANZAS I' (código: FINZ_1026) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FINANZAS II' (código: FINZ_1065) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FINANZAS OPERATIVAS' (código: FINZ_3023) tiene un total de 27 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FINANZAS Y PRESUPUESTOS' (código: TURI_3011) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FINTECH BANCA 4.0' (código: FINZ_1073) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FORM EVALUAC DE PROYECTOS' (código: ADMI_4126) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FORMULACION DE PROYECTOS' (código: ECON_3045) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FRANCES I' (código: IDIO_3013) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FRANCES II' (código: IDIO_3014) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FRANCES III' (código: IDIO_4016) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FUNDAMENTOS COMPUTACIONALES' (código: COMP_1075) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE ADMINIST FINAN' (código: ADMI_1115) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE ADMINISTRACION' (código: ADMI_1113) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE BASE DE DATOS' (código: DRBD_2004) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE CONTABILIDAD' (código: CONT_1083) tiene un total de 345 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE ECONOMIA' (código: ECON_1088) tiene un total de 127 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FUNDAMENTOS DE INGENIERIA DE S' (código: SIST_3012) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FUNDAMENTOS INFORMATICOS' (código: COMP_1034) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'FUNDAMENTOS MATEMATICOS' (código: MATE_1103) tiene un total de 210 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GEOGRAFIA TURISTICA' (código: HOTE_1047) tiene un total de 24 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GERENCIA DE RECURSOS NATURALES' (código: RENR_3001) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GESTION DE LA CALIDAD' (código: ADMI_4015) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GESTION DE LA CALIDAD' (código: ADMI_5067) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GESTION DE NUEVOS NEGOCIOS' (código: ADMI_4079) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GESTION DE PROYECTOS' (código: ADMI_5077) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GESTION DEL CONOCIMIENTO' (código: ADMI_3030) tiene un total de 47 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GESTION DEL PATRIMONIO CULTU' (código: TURI_2011) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GESTION E INNOVACION DE DESTIN' (código: TURI_4017) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GESTION INNOVACION EMPRESARIAL' (código: ADMI_1111) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GESTION PRODUCTIVA GP 4.1' (código: ECON_5021) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GESTION PUBLICA DEL TURISMO' (código: TURI_4018) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'GUIANZA' (código: TURI_2016) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'HABILIDADES GERENCIALES' (código: ADMI_5064) tiene un total de 229 estudiantes reprobados.
+En el periodo académico '202264', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1055) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'HISTORIA ECONOMICA DEL ECUADOR' (código: ECON_1087) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'HUMANISMO, UNIVERSIDAD Y CULTU' (código: RELI_1105) tiene un total de 408 estudiantes reprobados.
+En el periodo académico '202264', el curso 'IMAGEN PERSONAL Y CORPORATIVA' (código: PERI_3015) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INCLUSION Y APRENDIZAJE SOSTEN' (código: EDUC_1102) tiene un total de 30 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INCLUSIVE AND SUSTAINABLE EDUC' (código: EDUC_4115) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INGENIERIA WEB' (código: DSOF_3037) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INTELIG ESTRAT Y METOD INTERNA' (código: ADMI_4081) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INTELIGENCIA ARTIFICIAL' (código: DSOF_4009) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INTELIGENCIA EMOCIONAL' (código: EDUC_1146) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INTRO A LA CAD DE VALOR EN CAF' (código: PAGR_1017) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INTRO AUDITORIA FORENSE EMPRES' (código: CONT_3028) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INTRODUC TO EDUCATIO RESEARCH' (código: EDUC_3180) tiene un total de 29 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INTRODUCCION A LA ECONOMIA' (código: ECON_1090) tiene un total de 78 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INTRODUCCION A LA PROGRAMACION' (código: DSOF_1067) tiene un total de 16 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INTRODUCTION TO LINGUISTICS' (código: EDUC_3189) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INVESTIGACION DE MERCADOS' (código: ADMI_3026) tiene un total de 32 estudiantes reprobados.
+En el periodo académico '202264', el curso 'INVESTIGACION OPERATIVA TOMA D' (código: DIPP_3001) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'JORN DE INVES LA CREDIBILIDAD' (código: EDUC_2022) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202264', el curso 'JORNADA DE INVESTIGACION TEMAT' (código: EDUC_2021) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202264', el curso 'LANGUAGE TESTING' (código: EDUC_3177) tiene un total de 41 estudiantes reprobados.
+En el periodo académico '202264', el curso 'LANGUAGE TESTING' (código: FDCE_4011) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'LECTURA Y REDACCION DE TEXTOS' (código: LITE_1106) tiene un total de 82 estudiantes reprobados.
+En el periodo académico '202264', el curso 'LEGISLACION EMPRESARIAL' (código: ADMI_1110) tiene un total de 57 estudiantes reprobados.
+En el periodo académico '202264', el curso 'LEGISLACION MERCANTIL Y SOCIET' (código: DERE_2072) tiene un total de 118 estudiantes reprobados.
+En el periodo académico '202264', el curso 'LEGISLACION MONETARIA Y BANCAR' (código: DERE_1102) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'LEGISLACION TURISTICA Y AMBIEN' (código: TURI_2013) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1141) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1147) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202264', el curso 'LOGICA DIGITAL' (código: ELEN_2008) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'LOGISTICA EMPRESARIAL' (código: ADMI_4027) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'MANAGEMENT 3.0' (código: ADMI_1117) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'MARKETING' (código: MERC_1005) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'MARKETING' (código: MERC_4007) tiene un total de 56 estudiantes reprobados.
+En el periodo académico '202264', el curso 'MARKETING TURISTICO' (código: MERC_4004) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'MATEMATICA BASICA' (código: MATE_1106) tiene un total de 154 estudiantes reprobados.
+En el periodo académico '202264', el curso 'MATEMATICA FINANCIERA' (código: MATE_1109) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202264', el curso 'MATRIMONIO Y FAMILIA' (código: RELI_1033) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'MERCADO DE VALORES' (código: COME_5000) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202264', el curso 'METHODO FOR TEAC ENGL TO CHILD' (código: EDUC_3191) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'METHODOLOGY AND DIDACTICS III:' (código: FDCE_4014) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'METHODOLOGY FOR TEACHING ENGLI' (código: EDUC_3182) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202264', el curso 'METODOS DE VALOR DE EMPRESAS' (código: ADMI_5065) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202264', el curso 'MICROECONOMIA APLICADA' (código: ECON_3042) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'MODELOS ECONOMETRICOS' (código: ECON_3040) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'MODELOS OPTIMIZA PARA USO DE R' (código: ECON_4110) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'NEGOCIOS INTERNACIONALES' (código: COME_3003) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202264', el curso 'NEURO MARKT Y TEORIAS DE INFOR' (código: TURI_4021) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'NEUROCIENCIA Y PSICOL DEL DESA' (código: PSIC_1104) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202264', el curso 'NUEVAS ALTERNATIVAS DE TURISMO' (código: TURI_2018) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ORGANIZACION DE EVENTOS Y PROT' (código: TURI_2015) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ORGANIZACION INDUSTRIAL' (código: PIND_5008) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: ADMI_5046) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: CONT_5010) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: ADMI_4046) tiene un total de 17 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: CONT_4000) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PASANTIA PRE-PRO1' (código: FDCE_3015) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PASANTIA PRE-PRO2' (código: FDCE_4023) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PASANTIAS PRE-PROF PRACTICUM 1' (código: ADMI_3023) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PASANTIAS PRE-PROF PRACTICUM 1' (código: CONT_3002) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: ADMI_4045) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: CONT_4008) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PATRIMONIO NATURAL Y BIODIVERS' (código: TURI_3013) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PEDAGOGIA' (código: EDUC_3113) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PLANIFICACION DE DESTINOS TURI' (código: TURI_4016) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PLATAFORMAS MOVILES' (código: DSOF_4070) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'POLITICA ECONOMICA II' (código: ECON_4009) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'POLITICA PUBLICA Y MARCO LEGA' (código: FDCE_2030) tiene un total de 44 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICA TRIBUTARIA' (código: CONT_2026) tiene un total de 36 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 1' (código: ADMI_2029) tiene un total de 107 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 1' (código: CONT_2029) tiene un total de 40 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 1' (código: EDUC_2120) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 1' (código: TURI_2010) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 1.1' (código: COMP_2011) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 2' (código: ADMI_3027) tiene un total de 28 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 2' (código: CONT_3037) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 2' (código: EDUC_3181) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 2' (código: TURI_3017) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 2.1' (código: COMP_3019) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 3' (código: ADMI_4080) tiene un total de 24 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 3' (código: EDUC_3186) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 3 SERVICIO COMUNITA' (código: CONT_3038) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 4.1' (código: EDUC_4107) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 4.1' (código: TURI_4020) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: ADMI_4087) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: CONT_4032) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 4.1:TRABAJO DE INT E' (código: ECON_4115) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 4.2' (código: EDUC_4114) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: ADMI_5068) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: CONT_4034) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM ACADE 3 ASESORIA TT' (código: FDCE_4028) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM ACADEMICO 1' (código: FDCE_3021) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRACTICUM ACADEMICO 2' (código: FDCE_4027) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRESUPUESTOS' (código: FINZ_1018) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRINCIPIOS DE AUDITORIA' (código: CONT_3027) tiene un total de 28 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRINCIPIOS DE MICROECONOMIA' (código: ECON_2032) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PRINCIPIOS DEL TURISMO' (código: HOTE_1045) tiene un total de 18 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PROG FUNCIONAL Y REACTIVA' (código: DSOF_2035) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4105) tiene un total de 44 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4106) tiene un total de 49 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4118) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PROSPECTIVA EMPRESARIAL Y A' (código: ADMI_4092) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PROYEC DE FIN DE CARRER GP4.1' (código: COMP_5004) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PROYECTOS' (código: ADMI_4035) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'PROYECTOS' (código: ADMI_4090) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'REDES Y SISTEMAS DISTRIBUIDOS' (código: DRBD_4014) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'RELACIONES PUB Y PROTOCOLO' (código: HOTE_1040) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'RESEARCH METHODS IN ELT' (código: EDUC_3184) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'RESPONSABILIDAD SOCIAL EMPRE' (código: ADMI_4088) tiene un total de 60 estudiantes reprobados.
+En el periodo académico '202264', el curso 'ROBOTICA INDUSTRIAL' (código: ELEC_1018) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SECOND LANGUAGE ACQUISITION' (código: EDUC_4113) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SEGURIDAD DE LA INFORMACION' (código: DSOF_5015) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SEMANTICS AND PRAGMATICS' (código: EDUC_4108) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ADMI_5047) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SEMINARIO DE FIN DE CARRERA' (código: CONT_5004) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ECON_5035) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SEMINARIO DE FIN DE CARRERA' (código: FDCE_4031) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SEMINARIO DE FIN DE CARRERA' (código: TURI_5007) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SISTEMAS DE COSTOS' (código: CONT_2035) tiene un total de 67 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SISTEMAS OPERATIVOS' (código: COMP_3011) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SISTEMAS TECNOLOGICOS APLICADO' (código: TURI_4013) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SOCIOLOGIA DE LA EDUCACION' (código: EDUC_1109) tiene un total de 46 estudiantes reprobados.
+En el periodo académico '202264', el curso 'SOSTENIBILIDAD EMPRESARIAL' (código: ADMI_3024) tiene un total de 56 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TEACHING CULTURE IN THE EFL CL' (código: EDUC_4110) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TEACHING TECHNIQUES' (código: FDCE_4038) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TECHNOLOGY IN THE EFL CLASSROO' (código: IDIO_2023) tiene un total de 38 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TECNICAS DE INFERENCIA ESTADIS' (código: ESTA_2022) tiene un total de 26 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TECNOLOGIAS EMERGENTES' (código: COMP_5023) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TEFL METHODOLOGY AND DIDACTICS' (código: EDUC_2089) tiene un total de 32 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TEORIA MACROECONOMICA' (código: ECON_2031) tiene un total de 22 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TEORIA MICROECONOMICA' (código: ECON_2030) tiene un total de 43 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: ADMI_5060) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: CONT_5000) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TRABAJO DE TITULACION' (código: FDCE_4043) tiene un total de 16 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TRANSPORTACION TURISTICA' (código: TURI_2017) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202264', el curso 'TURISMO Y HOTELERIA' (código: HOTE_1030) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202264', el curso 'URBANIZACION Y CAMBIO CLIMATIC' (código: ARQU_1092) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'VALIDACION DE PRODUCTO' (código: ADMI_1030) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202264', el curso 'VALORACION DE EMPRESAS' (código: FINZ_5000) tiene un total de 40 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ACADEMIC READING AND WRITIN II' (código: EDUC_3183) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ACADEMIC READING AND WRITING I' (código: EDUC_3178) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ADAPTACIONES CURRICULARES Y DI' (código: EDUC_3185) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ADMIN DE CAD DE SUM Y LOG EMPR' (código: ADMI_2030) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ADMINISTRACION' (código: ADMI_1109) tiene un total de 122 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ADMINISTRACION DE OPERAC Y PR' (código: PIND_2010) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ADMINISTRACION DE TECN Y SISTE' (código: ADMI_4095) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ADMINISTRACION DE TECNOLOGIAS' (código: SIST_5001) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ADMINISTRACION DEL TALENTO HUM' (código: LABO_3002) tiene un total de 34 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5005) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5066) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ADMINISTRACION FINANCIERA' (código: FINZ_4057) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ADMINISTRACION I' (código: ADMI_1009) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ALGEBRA LINEAL' (código: MATE_1108) tiene un total de 44 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ANALISIS DE ALGORITMOS' (código: DSOF_2036) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ANALISIS DE MERCADOS TURISTICO' (código: TURI_4022) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ANALISIS EXPLORATORIO DE DATOS' (código: TIER_1075) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ANALISIS MATEMATICO UNIVARIADO' (código: MATE_1101) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ANTROPOLOGIA' (código: RELI_3002) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ANTROPOLOGIA BASICA' (código: RELI_2062) tiene un total de 110 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ANTROPOLOGIA CULTURAL Y TURIS' (código: TURI_1020) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'APLIC AUDIT FORENS CICLOS TRAN' (código: CONT_3031) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202362', el curso 'APLICACIONES DE COSTOS' (código: CONT_3030) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'AREAS PROTEGIDAS' (código: TURI_2014) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ARQ Y ORGANIZACION DE COMP' (código: COMP_2010) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ARTE ESCENICO Y EXPRESION ORAL' (código: PERI_1110) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'AUDIT INT Y ADMIN RIESGOS ERM' (código: CONT_4030) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'AUDITORIA DE GESTION' (código: CONT_4028) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'AUDITORIA FINANCIERA' (código: FINZ_4056) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202362', el curso 'AUDITORIA III' (código: CONT_5002) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'AUDITORIA INFORMATICA' (código: SIST_5006) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'BASE DE DATOS AVANZADA' (código: DRBD_2005) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CIUDAD Y TURISMO' (código: TURI_3014) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'COMERCIO EXTERIOR' (código: COME_1005) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'COMERCIO EXTERIOR' (código: COME_3002) tiene un total de 26 estudiantes reprobados.
+En el periodo académico '202362', el curso 'COMPORTAMIENTO ORGANIZACIONAL' (código: ADMI_4082) tiene un total de 32 estudiantes reprobados.
+En el periodo académico '202362', el curso 'COMPUTACION APLICADA' (código: CONT_4010) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONSTRUCCION DE INDICADORES' (código: ECON_4116) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTABILIDAD AGRARIA' (código: CONT_4033) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTABILIDAD CORPORATIVA' (código: CONT_2027) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTABILIDAD DE COSTOS' (código: CONT_3026) tiene un total de 18 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTABILIDAD DE COSTOS OPERATI' (código: CONT_2032) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTABILIDAD DE INSTITUC FINAN' (código: CONT_3025) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTABILIDAD FINANCIERA' (código: CONT_1085) tiene un total de 22 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTABILIDAD FINANCIERA AVANZA' (código: CONT_2025) tiene un total de 91 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5006) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5023) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_2028) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTRASTIVE GRAMMAR' (código: EDUC_4116) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CONTRATACION PUBLICA' (código: DERE_3050) tiene un total de 37 estudiantes reprobados.
+En el periodo académico '202362', el curso 'COSMOVISION ANDINA' (código: TURI_4014) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CULTURE AND LITERATURE IN ENGL' (código: LITE_4003) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CUR DSING FR ACADM AND SPCIF P' (código: EDUC_4111) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CURRICLM FUNDTS PRNCPLS AND IS' (código: EDUC_4112) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'CURSO DE ACTUALIZACION' (código: UTPL_3000) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DERECHO LABORAL' (código: DERE_1181) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DERECHO TRIBUTARIO' (código: DERE_1182) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DERECHO TRIBUTARIO' (código: DERE_4054) tiene un total de 23 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DESARROLLO ECONOMICO' (código: ECON_4002) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DESARROLLO EMPRES NUEVOS NEGOC' (código: ADMI_3025) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DESARROLLO REGIONAL' (código: ECON_3047) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DIRECCION ESTRATEGICA' (código: ADMI_5071) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DIRECCION HOTELERA' (código: HOTE_5003) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DISCOURSE ANALYSIS' (código: EDUC_4117) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DISEÑO DE PRODUCTOS TURISTICOS' (código: TURI_3016) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DISEÑO DE SISTEMAS DE COSTOS' (código: CONT_3029) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202362', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: RELI_1001) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202362', el curso 'E-COMMERCE' (código: ADMI_4083) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ECONOMETRIA AVANZADA' (código: ECON_3043) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ECONOMIA DE LA EMPRESA Y MERCA' (código: ECON_2035) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ECONOMIA POLITICA' (código: ECON_5076) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ECONOMIA POPULAR Y SOLIDARIA' (código: ADMI_1127) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'EMPREN CON BASE TECNOLOGICA I' (código: ADMI_5078) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'EMPRENDIMIENTO' (código: ADMI_4038) tiene un total de 91 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ENGLISH LAN: LIST AND SPEAK IV' (código: EDUC_2118) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ENGLISH LAN: LISTE AND SPE III' (código: EDUC_3112) tiene un total de 22 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ENGLISH LAN: READ AND WRIT III' (código: EDUC_3111) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ENGLISH LAN: READ AND WRIT IV' (código: EDUC_2119) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ENGLISH LANG: LIST AND SPEA II' (código: FDCE_1075) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ENGLISH LANG: LIST AND SPEAK I' (código: FDCE_1074) tiene un total de 81 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ENGLISH LANG: READ AND WRIT II' (código: FDCE_1076) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ENGLISH LANG: READI AND WRIT I' (código: IDIO_1104) tiene un total de 60 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ENGLISH PRON: PHONETI AND PHON' (código: EDUC_3179) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ENGLISH SYNTAX' (código: EDUC_4109) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202362', el curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' (código: CONT_1084) tiene un total de 129 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ESTADISTICA' (código: ESTA_1044) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ESTADISTICA APLICADA A EDUCA' (código: ESTA_4004) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ESTADISTICA BASICA' (código: ESTA_2031) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ESTADISTICA BASICA' (código: ESTA_3023) tiene un total de 45 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ESTRUCTURAS DE DATOS' (código: DSOF_2029) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ETICA' (código: RELI_3000) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ETICA DE LA INTELIGENCIA ARTIF' (código: RELI_1109) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ETICA Y MORAL' (código: FILO_1114) tiene un total de 29 estudiantes reprobados.
+En el periodo académico '202362', el curso 'EVALUACION DE PROYECTOS' (código: ADMI_4089) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FAMILIA Y EDUCACION: RETOS Y D' (código: EDUC_1143) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FIJACION PREC Y ADMIN DE COSTO' (código: CONT_4026) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FILOSOFIA E HISTORIA DE LA EDU' (código: FILO_1117) tiene un total de 72 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FINANZAS ESTRUCTURALES' (código: FINZ_3024) tiene un total de 29 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FINANZAS I' (código: FINZ_1026) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FINANZAS II' (código: FINZ_1065) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FINANZAS OPERATIVAS' (código: FINZ_3023) tiene un total de 24 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FINANZAS Y PRESUPUESTOS' (código: TURI_3011) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FISICA BASICA' (código: FISI_1039) tiene un total de 28 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FORM EVALUAC DE PROYECTOS' (código: ADMI_4126) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FRANCES I' (código: IDIO_3013) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FRANCES II' (código: IDIO_3014) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FRANCES III' (código: IDIO_4016) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FRANCES IV' (código: IDIO_5001) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE ADMINIST FINAN' (código: ADMI_1115) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE ADMINISTRACION' (código: ADMI_1113) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE CONTABILIDAD' (código: CONT_1083) tiene un total de 187 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE ECONOMIA' (código: ECON_1088) tiene un total de 72 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FUNDAMENTOS DE REDES' (código: DRBD_4012) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FUNDAMENTOS INFORMATICOS' (código: COMP_1034) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'FUNDAMENTOS MATEMATICOS' (código: MATE_1103) tiene un total de 141 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GEOGRAFIA TURISTICA' (código: HOTE_1047) tiene un total de 18 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GEOLOGIA DEL SUBSUELO' (código: TIER_1074) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GERENCIA DE OPERACIONES MINERA' (código: MINE_1005) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GEST DE TECN DE LA INFO' (código: SIST_4000) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GESTION DE CADENA DE VALOR Y C' (código: TURI_5011) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GESTION DE LA CALIDAD' (código: ADMI_4015) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GESTION DE LA CALIDAD' (código: ADMI_5067) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GESTION DE NUEVOS NEGOCIOS' (código: ADMI_4079) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GESTION DEL CONOCIMIENTO' (código: ADMI_3030) tiene un total de 42 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GESTION DEL PATRIMONIO CULTU' (código: TURI_2011) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GESTION E INNOVACION DE DESTIN' (código: TURI_4017) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'GUIANZA' (código: TURI_2016) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'HABILIDADES GERENCIALES' (código: ADMI_5064) tiene un total de 182 estudiantes reprobados.
+En el periodo académico '202362', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1055) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1089) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'HISTORIA ECONOMICA DEL ECUADOR' (código: ECON_1087) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'HUMANISMO, UNIVERSIDAD Y CULTU' (código: RELI_1105) tiene un total de 241 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INCLUSION Y APRENDIZAJE SOSTEN' (código: EDUC_1102) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INCLUSIVE AND SUSTAINABLE EDUC' (código: EDUC_4115) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INGENIERIA DE REQUISITOS' (código: DSOF_3039) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INTE ARTIFICIAL AVANZADO' (código: DSOF_5003) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INTELIG ESTRAT Y METOD INTERNA' (código: ADMI_4081) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INTELIGENCIA DE NEGOCIOS' (código: DRBD_1009) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INTELIGENCIA EMOCIONAL' (código: EDUC_1146) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INTRODUC TO EDUCATIO RESEARCH' (código: EDUC_3180) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INTRODUCCION A LA ECONOMIA' (código: ECON_1090) tiene un total de 52 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INTRODUCTION TO LINGUISTICS' (código: EDUC_3189) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INVESTIGACION DE MERCADOS' (código: ADMI_3026) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202362', el curso 'INVESTIGACION OPERATIVA TOMA D' (código: DIPP_3001) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'LANGUAGE TESTING' (código: EDUC_3177) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202362', el curso 'LANGUAGE TESTING' (código: FDCE_4011) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'LECTURA Y REDACCION DE TEXTOS' (código: LITE_1106) tiene un total de 53 estudiantes reprobados.
+En el periodo académico '202362', el curso 'LEGISLACION EMPRESARIAL' (código: ADMI_1110) tiene un total de 28 estudiantes reprobados.
+En el periodo académico '202362', el curso 'LEGISLACION MERCANTIL Y SOCIET' (código: DERE_2072) tiene un total de 79 estudiantes reprobados.
+En el periodo académico '202362', el curso 'LEGISLACION TURISTICA Y AMBIEN' (código: TURI_2013) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1147) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202362', el curso 'LOGISTICA EMPRESARIAL' (código: ADMI_4027) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'MACROECONOMIA ABIERTA' (código: ECON_3041) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'MANAGEMENT 3.0' (código: ADMI_1117) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'MARKETING' (código: MERC_1005) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'MARKETING' (código: MERC_4007) tiene un total de 38 estudiantes reprobados.
+En el periodo académico '202362', el curso 'MARKETING TURISTICO' (código: MERC_4004) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'MATEMATICA BASICA' (código: MATE_1106) tiene un total de 93 estudiantes reprobados.
+En el periodo académico '202362', el curso 'MATEMATICA FINANCIERA' (código: MATE_1109) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202362', el curso 'MATRIMONIO Y FAMILIA' (código: RELI_1033) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'MERCADO DE VALORES' (código: COME_5000) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202362', el curso 'METH TO ADOLESCENTS AND ADULTS' (código: EDUC_3188) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'METHO FOR ACADEMIC PURPOSES' (código: EDUC_3187) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'METHODO FOR TEAC ENGL TO CHILD' (código: EDUC_3191) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'METHODOLOGY AND DIDACTICS III:' (código: FDCE_4014) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'METHODOLOGY FOR TEACHING ENGLI' (código: EDUC_3182) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'METODOS DE VALOR DE EMPRESAS' (código: ADMI_5065) tiene un total de 17 estudiantes reprobados.
+En el periodo académico '202362', el curso 'MICROECONOMIA APLICADA' (código: ECON_3042) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'NEGOCIOS INTERNACIONALES' (código: COME_3003) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202362', el curso 'NEUROCIENCIA Y PSICOL DEL DESA' (código: PSIC_1104) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202362', el curso 'NUEVAS ALTERNATIVAS DE TURISMO' (código: TURI_2018) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ORGANIZACION DE EVENTOS Y PROT' (código: TURI_2015) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'ORGANIZACION INDUSTRIAL' (código: PIND_5008) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: ADMI_5046) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: ADMI_4046) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: CONT_4000) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PASANTIA PRE-PRO2' (código: FDCE_4023) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PASANTIAS PRE-PROF PRACTICUM 1' (código: CONT_3002) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: ADMI_4045) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PASANTIAS PRE-PROF PRACTICUM 2' (código: CONT_4008) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PATRIMONIO NATURAL Y BIODIVERS' (código: TURI_3013) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PEDAGOGIA' (código: EDUC_3113) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PLAN ESTRATEGIC TRANSF DIGITAL' (código: DSOF_1074) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PLANIFICACION DE DESTINOS TURI' (código: TURI_4016) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'POLITICA AMBIENTAL' (código: ECON_3046) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'POLITICA ECONOMICA II' (código: ECON_4009) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'POLITICA PUBLICA Y MARCO LEGA' (código: FDCE_2030) tiene un total de 27 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICA TRIBUTARIA' (código: CONT_2026) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 1' (código: ADMI_2029) tiene un total de 97 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 1' (código: CONT_2029) tiene un total de 18 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 1' (código: EDUC_2120) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 1' (código: TURI_2010) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 1.2' (código: COMP_2012) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 2' (código: ADMI_3027) tiene un total de 24 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 2' (código: CONT_3037) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 2' (código: EDUC_3181) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 2' (código: TURI_3017) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 2.2' (código: COMP_3014) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 3' (código: ADMI_4080) tiene un total de 42 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 3' (código: EDUC_3186) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 3 SERVICIO COMUNITA' (código: CONT_3038) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: TURI_3012) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1' (código: COMP_4015) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1' (código: EDUC_4107) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1' (código: TURI_4020) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: ADMI_4087) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: CONT_4032) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 4.1:TRABAJO DE INT E' (código: ECON_4115) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 4.2' (código: EDUC_4114) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: ADMI_5068) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: CONT_4034) tiene un total de 18 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM 4.2:TRABAJO DE INTEG' (código: ECON_5074) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRACTICUM ACADEMICO 2' (código: FDCE_4027) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRINCIPIOS DE AUDITORIA' (código: CONT_3027) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRINCIPIOS DE MACROECONOMIA' (código: ECON_2033) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PRINCIPIOS DEL TURISMO' (código: HOTE_1045) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROC DE INGENIERIA DE SOFTWARE' (código: DSOF_5001) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROG ORIENTADA A OBJETOS' (código: DSOF_2034) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROGRAMACION AVANZADA' (código: COMP_4011) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_3108) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4105) tiene un total de 35 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4106) tiene un total de 44 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4118) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROSPECTIVA EMPRESARIAL Y A' (código: ADMI_4092) tiene un total de 46 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROTOTIPADO' (código: DSOF_3036) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROYEC DE FIN DE CARRER GP4.2' (código: COMP_5009) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROYECTOS' (código: ADMI_4035) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'PROYECTOS' (código: ADMI_4090) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202362', el curso 'RADIO Y NUEVAS TECNOLOGIAS' (código: PERI_1120) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'RECURSOS TANGIB E INTANGIB' (código: TURI_3015) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'RELACIONES PUB Y PROTOCOLO' (código: HOTE_1040) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'RESEARCH METHODS IN ELT' (código: EDUC_3184) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202362', el curso 'RESPONSABILIDAD SOCIAL EMPRE' (código: ADMI_4088) tiene un total de 33 estudiantes reprobados.
+En el periodo académico '202362', el curso 'SECOND LANGUAGE ACQUISITION' (código: EDUC_4113) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'SEMANTICS AND PRAGMATICS' (código: EDUC_4108) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202362', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ADMI_5047) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'SEMINARIO DE FIN DE CARRERA' (código: CONT_5004) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'SEMINARIO DE FIN DE CARRERA' (código: FDCE_4031) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202362', el curso 'SEMINARIO DE FIN DE CARRERA' (código: TURI_5007) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'SIST BASADOS EN CONOCIMIENTOS' (código: COMP_5018) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202362', el curso 'SISTEMAS DE COSTOS' (código: CONT_2035) tiene un total de 38 estudiantes reprobados.
+En el periodo académico '202362', el curso 'SOCIOLOGIA DE LA EDUCACION' (código: EDUC_1109) tiene un total de 37 estudiantes reprobados.
+En el periodo académico '202362', el curso 'SOSTENIBILIDAD EMPRESARIAL' (código: ADMI_3024) tiene un total de 60 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TEACHING CULTURE IN THE EFL CL' (código: EDUC_4110) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TECHNOLOGY IN THE EFL CLASSROO' (código: IDIO_2023) tiene un total de 27 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TECNICAS DE INFERENCIA ESTADIS' (código: ESTA_2022) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TEFL METHODOLOGY AND DIDACTICS' (código: EDUC_2089) tiene un total de 55 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TEORIA DE AUTOMATAS Y COMPILAD' (código: COMP_3012) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TEORIA MACROECONOMICA' (código: ECON_2031) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TEORIA MICROECONOMICA' (código: ECON_2030) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: ADMI_5060) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: CONT_5000) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TRABAJO DE TITULACION' (código: FDCE_4043) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TRANSPORTACION TURISTICA' (código: TURI_2017) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'TURISMO Y HOTELERIA' (código: HOTE_1030) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202362', el curso 'VALORACION DE EMPRESAS' (código: FINZ_5000) tiene un total de 24 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ACADEMIC READING AND WRITIN II' (código: EDUC_3183) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ACADEMIC READING AND WRITING I' (código: EDUC_3178) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ADAPTACIONES CURRICULARES Y DI' (código: EDUC_3185) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ADMIN DE CAD DE SUM Y LOG EMPR' (código: ADMI_2030) tiene un total de 16 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ADMINISTRACION' (código: ADMI_1109) tiene un total de 103 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ADMINISTRACION DE OPERAC Y PR' (código: PIND_2010) tiene un total de 26 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ADMINISTRACION DE TECN Y SISTE' (código: ADMI_4095) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ADMINISTRACION DE TECNOLOGIAS' (código: SIST_5001) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ADMINISTRACION DEL TALENTO HUM' (código: LABO_3002) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5005) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5066) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ADMINISTRACION FINANCIERA' (código: FINZ_4057) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ADMINISTRACION FINANCIERA OPER' (código: ECON_4112) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ALGEBRA LINEAL' (código: MATE_1108) tiene un total de 29 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ANA MATEMATICO MULTIVARIADO' (código: MATE_2029) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ANALISIS DE MERCADOS TURISTICO' (código: TURI_4022) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ANTROPOLOGIA BASICA' (código: RELI_2062) tiene un total de 64 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ANTROPOLOGIA CULTURAL Y TURIS' (código: TURI_1020) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'APLIC AUDIT FORENS CICLOS TRAN' (código: CONT_3031) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'APLICACIONES DE COSTOS' (código: CONT_3030) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202364', el curso 'AREAS PROTEGIDAS' (código: TURI_2014) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ARQUITECTURA DE SOFTWARE' (código: DSOF_4069) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'AUDIT INT Y ADMIN RIESGOS ERM' (código: CONT_4030) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'AUDITORIA DE GESTION' (código: CONT_4028) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202364', el curso 'AUDITORIA FINANCIERA' (código: FINZ_4056) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202364', el curso 'AUDITORIA INFORMATICA' (código: SIST_5006) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CIUDAD Y TURISMO' (código: TURI_3014) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'COMERCIO EXTERIOR' (código: COME_1005) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'COMERCIO EXTERIOR' (código: COME_3002) tiene un total de 23 estudiantes reprobados.
+En el periodo académico '202364', el curso 'COMPETITIVIDAD DESTINOS TURIST' (código: TURI_4015) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'COMPORTAMIENTO ORGANIZACIONAL' (código: ADMI_4082) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202364', el curso 'COMPUTACION Y SOCIEDAD' (código: COMP_1078) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CONTABILIDAD AGRARIA' (código: CONT_4033) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CONTABILIDAD CORPORATIVA' (código: CONT_2027) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CONTABILIDAD DE COSTOS' (código: CONT_3026) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CONTABILIDAD DE COSTOS OPERATI' (código: CONT_2032) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CONTABILIDAD DE INSTITUC FINAN' (código: CONT_3025) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CONTABILIDAD FINANCIERA' (código: CONT_1085) tiene un total de 22 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CONTABILIDAD FINANCIERA AVANZA' (código: CONT_2025) tiene un total de 49 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5023) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_2028) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CONTRASTIVE GRAMMAR' (código: EDUC_4116) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CONTRATACION PUBLICA' (código: DERE_3050) tiene un total de 36 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CUR DSING FR ACADM AND SPCIF P' (código: EDUC_4111) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CURRICLM FUNDTS PRNCPLS AND IS' (código: EDUC_4112) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'CURSO DE ACTUALIZACION' (código: UTPL_3000) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'DERECHO LABORAL' (código: DERE_1181) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202364', el curso 'DERECHO TRIBUTARIO' (código: DERE_1182) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202364', el curso 'DERECHO TRIBUTARIO' (código: DERE_4054) tiene un total de 17 estudiantes reprobados.
+En el periodo académico '202364', el curso 'DESARROLLO ECONOMICO' (código: ECON_4002) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'DESARROLLO EMPRES NUEVOS NEGOC' (código: ADMI_3025) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'DIRECCION ESTRATEGICA' (código: ADMI_5071) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'DISCOURSE ANALYSIS' (código: EDUC_4117) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'DISEÑO DE SISTEMAS DE COSTOS' (código: CONT_3029) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202364', el curso 'DOCTRINA SOCIAL DE LA IGLESIA' (código: RELI_1001) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'E-COMMERCE' (código: ADMI_4083) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ECONOMETRIA AVANZADA' (código: ECON_3043) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ECONOMIA AMBIENTAL Y DE REC NA' (código: ECON_4108) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ECONOMIA DE LA EMPRESA Y MERCA' (código: ECON_2035) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ECONOMIA INTERNACIONAL' (código: ECON_5077) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ECUACIONES DIFER Y MET NUMER' (código: MATE_3100) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202364', el curso 'EL ARTE DE AMAR' (código: RELI_1110) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'EMPRENDIMIENTO' (código: ADMI_4038) tiene un total de 92 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ENGLISH LAN: LIST AND SPEAK IV' (código: EDUC_2118) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ENGLISH LAN: LISTE AND SPE III' (código: EDUC_3112) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ENGLISH LAN: READ AND WRIT III' (código: EDUC_3111) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ENGLISH LAN: READ AND WRIT IV' (código: EDUC_2119) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ENGLISH LANG: LIST AND SPEA II' (código: FDCE_1075) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ENGLISH LANG: LIST AND SPEAK I' (código: FDCE_1074) tiene un total de 101 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ENGLISH LANG: READ AND WRIT II' (código: FDCE_1076) tiene un total de 18 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ENGLISH LANG: READI AND WRIT I' (código: IDIO_1104) tiene un total de 82 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ENGLISH PRON: PHONETI AND PHON' (código: EDUC_3179) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ENGLISH SYNTAX' (código: EDUC_4109) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' (código: CONT_1084) tiene un total de 94 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ESTADISTICA' (código: ESTA_1044) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ESTADISTICA APLICADA A EDUCA' (código: ESTA_4004) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ESTADISTICA BASICA' (código: ESTA_2031) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ESTADISTICA BASICA' (código: ESTA_3023) tiene un total de 30 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ESTADISTICA Y PROBABILIDAD' (código: ESTA_3022) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ESTRUCTURAS DISCRETAS' (código: DSOF_2030) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ETICA' (código: RELI_3000) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ETICA DE LA INTELIGENCIA ARTIF' (código: RELI_1109) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ETICA Y MORAL' (código: FILO_1114) tiene un total de 29 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FILOSOFIA E HISTORIA DE LA EDU' (código: FILO_1117) tiene un total de 84 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FINANZAS ESTRUCTURALES' (código: FINZ_3024) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FINANZAS OPERATIVAS' (código: FINZ_3023) tiene un total de 34 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FINANZAS Y PRESUPUESTOS' (código: TURI_3011) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FORM EVALUAC DE PROYECTOS' (código: ADMI_4126) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FORMULACION DE PROYECTOS' (código: ECON_3045) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FRANCES I' (código: IDIO_3013) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FRANCES II' (código: IDIO_3014) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FRANCES III' (código: IDIO_4016) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FUND DE INTE ARTIFICIAL' (código: COMP_4012) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FUNDAMENTOS COMPUTACIONALES' (código: COMP_1075) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FUNDAMENTOS DE ADMINIST FINAN' (código: ADMI_1115) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FUNDAMENTOS DE ADMINISTRACION' (código: ADMI_1113) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FUNDAMENTOS DE BASE DE DATOS' (código: DRBD_2004) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FUNDAMENTOS DE CONTABILIDAD' (código: CONT_1083) tiene un total de 191 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FUNDAMENTOS DE ECONOMIA' (código: ECON_1088) tiene un total de 75 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FUNDAMENTOS INFORMATICOS' (código: COMP_1034) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'FUNDAMENTOS MATEMATICOS' (código: MATE_1103) tiene un total de 133 estudiantes reprobados.
+En el periodo académico '202364', el curso 'GEOGRAFIA TURISTICA' (código: HOTE_1047) tiene un total de 16 estudiantes reprobados.
+En el periodo académico '202364', el curso 'GESTION DE LA CALIDAD' (código: ADMI_4015) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'GESTION DE LA CALIDAD' (código: ADMI_5067) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202364', el curso 'GESTION DE NUEVOS NEGOCIOS' (código: ADMI_4079) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202364', el curso 'GESTION DE PROYECTOS' (código: ADMI_5077) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'GESTION DEL CONOCIMIENTO' (código: ADMI_3030) tiene un total de 37 estudiantes reprobados.
+En el periodo académico '202364', el curso 'GESTION DEL PATRIMONIO CULTU' (código: TURI_2011) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'GESTION E INNOVACION DE DESTIN' (código: TURI_4017) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'GESTION INNOVACION EMPRESARIAL' (código: ADMI_1111) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'GESTION PUBLICA DEL TURISMO' (código: TURI_4018) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'GUIANZA' (código: TURI_2016) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'HABILIDADES GERENCIALES' (código: ADMI_5064) tiene un total de 129 estudiantes reprobados.
+En el periodo académico '202364', el curso 'HISTORIA ECONOMICA DEL ECUADOR' (código: ECON_1087) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'HUMANISMO, UNIVERSIDAD Y CULTU' (código: RELI_1105) tiene un total de 257 estudiantes reprobados.
+En el periodo académico '202364', el curso 'IMAGEN PERSONAL Y CORPORATIVA' (código: PERI_3015) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INCLUSION Y APRENDIZAJE SOSTEN' (código: EDUC_1102) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INCLUSIVE AND SUSTAINABLE EDUC' (código: EDUC_4115) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INGENIERIA WEB' (código: DSOF_3037) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INNOVAR EN LOS FUTUROS DE LA E' (código: EDUC_1149) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INTELIG ESTRAT Y METOD INTERNA' (código: ADMI_4081) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INTELIGENCIA EMOCIONAL' (código: EDUC_1146) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INTRO AUDITORIA FORENSE EMPRES' (código: CONT_3028) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INTRODUC TO EDUCATIO RESEARCH' (código: EDUC_3180) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INTRODUCCION A LA ECONOMIA' (código: ECON_1090) tiene un total de 49 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INTRODUCCION A LA PROGRAMACION' (código: DSOF_1067) tiene un total de 17 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INTRODUCTION TO LINGUISTICS' (código: EDUC_3189) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INVESTIGACION DE MERCADOS' (código: ADMI_3026) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202364', el curso 'INVESTIGACION OPERATIVA TOMA D' (código: DIPP_3001) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202364', el curso 'JORN DE INVES LA CREDIBILIDAD' (código: EDUC_2022) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'LANGUAGE TESTING' (código: EDUC_3177) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202364', el curso 'LANGUAGE TESTING' (código: FDCE_4011) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'LECTURA Y REDACCION DE TEXTOS' (código: LITE_1106) tiene un total de 81 estudiantes reprobados.
+En el periodo académico '202364', el curso 'LEGISLACION EMPRESARIAL' (código: ADMI_1110) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202364', el curso 'LEGISLACION MERCANTIL Y SOCIET' (código: DERE_2072) tiene un total de 72 estudiantes reprobados.
+En el periodo académico '202364', el curso 'LEGISLACION TURISTICA Y AMBIEN' (código: TURI_2013) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'LIDERAZGO INCLUSIVO Y APRENDIZ' (código: EDUC_1147) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202364', el curso 'LOGICA DIGITAL' (código: ELEN_2008) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'MACROECONOMIA CERRADA' (código: ECON_2034) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'MANAGEMENT 3.0' (código: ADMI_1117) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202364', el curso 'MARKETING' (código: MERC_4007) tiene un total de 28 estudiantes reprobados.
+En el periodo académico '202364', el curso 'MARKETING TURISTICO' (código: MERC_4004) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'MATEMATICA BASICA' (código: MATE_1106) tiene un total de 86 estudiantes reprobados.
+En el periodo académico '202364', el curso 'MATEMATICA FINANCIERA' (código: MATE_1109) tiene un total de 22 estudiantes reprobados.
+En el periodo académico '202364', el curso 'MATRIMONIO Y FAMILIA' (código: RELI_1033) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'MERCADO DE VALORES' (código: COME_5000) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202364', el curso 'METH TO ADOLESCENTS AND ADULTS' (código: EDUC_3188) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'METHO FOR ACADEMIC PURPOSES' (código: EDUC_3187) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'METHODO FOR TEAC ENGL TO CHILD' (código: EDUC_3191) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'METHODOLOGY AND DIDACTICS III:' (código: FDCE_4014) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'METHODOLOGY FOR TEACHING ENGLI' (código: EDUC_3182) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'METODOS DE VALOR DE EMPRESAS' (código: ADMI_5065) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202364', el curso 'MICROECONOMIA APLICADA' (código: ECON_3042) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202364', el curso 'MODELOS ECONOMETRICOS' (código: ECON_3040) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'NEGOCIOS INTERNACIONALES' (código: COME_3003) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202364', el curso 'NEUROCIENCIA Y PSICOL DEL DESA' (código: PSIC_1104) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202364', el curso 'NUEVAS ALTERNATIVAS DE TURISMO' (código: TURI_2018) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ORGANIZACION DE EVENTOS Y PROT' (código: TURI_2015) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'ORGANIZACION INDUSTRIAL' (código: PIND_5008) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: ADMI_5046) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PASANTI PRE-PROF PRACTICUM 3.1' (código: ADMI_4046) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PASANTIA PRE-PRO2' (código: FDCE_4023) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PATRIMONIO NATURAL Y BIODIVERS' (código: TURI_3013) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PEDAGOGIA' (código: EDUC_3113) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202364', el curso 'POLITICA AMBIENTAL' (código: ECON_3046) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'POLITICA ECONOMICA' (código: ECON_3044) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'POLITICA PUBLICA Y MARCO LEGA' (código: FDCE_2030) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICA TRIBUTARIA' (código: CONT_2026) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 1' (código: ADMI_2029) tiene un total de 83 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 1' (código: CONT_2029) tiene un total de 22 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 1' (código: EDUC_2120) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 1' (código: TURI_2010) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 1.1' (código: COMP_2011) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 2' (código: ADMI_3027) tiene un total de 44 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 2' (código: CONT_3037) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 2' (código: EDUC_3181) tiene un total de 18 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 2' (código: TURI_3017) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 2.1' (código: COMP_3019) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 3' (código: ADMI_4080) tiene un total de 50 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 3' (código: EDUC_3186) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 3 SERVICIO COMUNITA' (código: CONT_3038) tiene un total de 27 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: TURI_3012) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 4.1' (código: EDUC_4107) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 4.1' (código: TURI_4020) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: ADMI_4087) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: CONT_4032) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 4.1:TRABAJO DE INT E' (código: ECON_4115) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 4.2' (código: COMP_5022) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 4.2' (código: EDUC_4114) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 4.2' (código: TURI_5010) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: ADMI_5068) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: CONT_4034) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRACTICUM ACADEMICO 2' (código: FDCE_4027) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRINCIPIOS DE AUDITORIA' (código: CONT_3027) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRINCIPIOS DE MICROECONOMIA' (código: ECON_2032) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PRINCIPIOS DEL TURISMO' (código: HOTE_1045) tiene un total de 16 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PROG FUNCIONAL Y REACTIVA' (código: DSOF_2035) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4105) tiene un total de 49 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4106) tiene un total de 57 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4118) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PROSPECTIVA EMPRESARIAL Y A' (código: ADMI_4092) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PROYEC DE FIN DE CARRER GP4.1' (código: COMP_5004) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'PROYECTOS' (código: ADMI_4090) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202364', el curso 'RADIO Y NUEVAS TECNOLOGIAS' (código: PERI_1120) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'REDES Y SISTEMAS DISTRIBUIDOS' (código: DRBD_4014) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202364', el curso 'RELACIONES PUB Y PROTOCOLO' (código: HOTE_1040) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'RESEARCH METHODS IN ELT' (código: EDUC_3184) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'RESPONSABILIDAD SOCIAL EMPRE' (código: ADMI_4088) tiene un total de 33 estudiantes reprobados.
+En el periodo académico '202364', el curso 'SECOND LANGUAGE ACQUISITION' (código: EDUC_4113) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'SEMANTICS AND PRAGMATICS' (código: EDUC_4108) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ADMI_5047) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202364', el curso 'SEMINARIO DE FIN DE CARRERA' (código: CONT_5004) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202364', el curso 'SEMINARIO DE FIN DE CARRERA' (código: FDCE_4031) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'SISTEMAS DE COSTOS' (código: CONT_2035) tiene un total de 29 estudiantes reprobados.
+En el periodo académico '202364', el curso 'SISTEMAS OPERATIVOS' (código: COMP_3011) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'SISTEMAS TECNOLOGICOS APLICADO' (código: TURI_4013) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202364', el curso 'SOCIOLOGIA DE LA EDUCACION' (código: EDUC_1109) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202364', el curso 'SOSTENIBILIDAD EMPRESARIAL' (código: ADMI_3024) tiene un total de 39 estudiantes reprobados.
+En el periodo académico '202364', el curso 'TEACHING CULTURE IN THE EFL CL' (código: EDUC_4110) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'TECHNOLOGY IN THE EFL CLASSROO' (código: IDIO_2023) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202364', el curso 'TECNICAS DE INFERENCIA ESTADIS' (código: ESTA_2022) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202364', el curso 'TEFL METHODOLOGY AND DIDACTICS' (código: EDUC_2089) tiene un total de 17 estudiantes reprobados.
+En el periodo académico '202364', el curso 'TEORIA MACROECONOMICA' (código: ECON_2031) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202364', el curso 'TEORIA MICROECONOMICA' (código: ECON_2030) tiene un total de 27 estudiantes reprobados.
+En el periodo académico '202364', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: ADMI_5060) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202364', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: CONT_5000) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202364', el curso 'TRABAJO DE TITULACION' (código: FDCE_4043) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202364', el curso 'TRANSPORTACION TURISTICA' (código: TURI_2017) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'TURISMO Y HOTELERIA' (código: HOTE_1030) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202364', el curso 'VALORACION DE EMPRESAS' (código: FINZ_5000) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ACADEMIC READING AND WRITIN II' (código: EDUC_3183) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ACADEMIC READING AND WRITING I' (código: EDUC_3178) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ADAPTACIONES CURRICULARES Y DI' (código: EDUC_3185) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ADMIN DE CAD DE SUM Y LOG EMPR' (código: ADMI_2030) tiene un total de 20 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ADMINISTRACION' (código: ADMI_1109) tiene un total de 84 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ADMINISTRACION DE OPERAC Y PR' (código: PIND_2010) tiene un total de 18 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ADMINISTRACION DE TECN Y SISTE' (código: ADMI_4095) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ADMINISTRACION DE TECNOLOGIAS' (código: SIST_5001) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ADMINISTRACION DEL TALENTO HUM' (código: LABO_3002) tiene un total de 26 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5005) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ADMINISTRACION ESTRATEGICA' (código: ADMI_5066) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ADMINISTRACION FINANCIERA' (código: FINZ_4057) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ALGEBRA LINEAL' (código: MATE_1108) tiene un total de 63 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ALGORITMOS Y RESOLUCION DE PRO' (código: DSOF_1070) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ANALISIS DE ALGORITMOS' (código: DSOF_2036) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ANALISIS DE MERCADOS TURISTICO' (código: TURI_4022) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ANALISIS MATEMATICO UNIVARIADO' (código: MATE_1101) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ANTROPOLOGIA BASICA' (código: RELI_2062) tiene un total de 71 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ANTROPOLOGIA CULTURAL Y TURIS' (código: TURI_1020) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'APLIC AUDIT FORENS CICLOS TRAN' (código: CONT_3031) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'APLICACIONES DE COSTOS' (código: CONT_3030) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202462', el curso 'AREAS PROTEGIDAS' (código: TURI_2014) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ARQ Y ORGANIZACION DE COMP' (código: COMP_2010) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'AUDIT INT Y ADMIN RIESGOS ERM' (código: CONT_4030) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'AUDITORIA DE GESTION' (código: CONT_4028) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'AUDITORIA FINANCIERA' (código: FINZ_4056) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202462', el curso 'AUDITORIA INFORMATICA' (código: SIST_5006) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'BASE DE DATOS AVANZADA' (código: DRBD_2005) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CALCULO DIFERENCIAL' (código: MATE_1114) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CIUDAD Y TURISMO' (código: TURI_3014) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'COMERCIO EXTERIOR' (código: COME_3002) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202462', el curso 'COMPORTAMIENTO ORGANIZACIONAL' (código: ADMI_4082) tiene un total de 24 estudiantes reprobados.
+En el periodo académico '202462', el curso 'COMPOSICION DE TEXTOS CIENTIFI' (código: LITE_1108) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CONTABILIDAD AGRARIA' (código: CONT_4033) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CONTABILIDAD CORPORATIVA' (código: CONT_2027) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CONTABILIDAD DE COSTOS' (código: CONT_3026) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CONTABILIDAD DE COSTOS OPERATI' (código: CONT_2032) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CONTABILIDAD DE INSTITUC FINAN' (código: CONT_3025) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CONTABILIDAD FINANCIERA' (código: CONT_1085) tiene un total de 23 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CONTABILIDAD FINANCIERA AVANZA' (código: CONT_2025) tiene un total de 44 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CONTABILIDAD GERENCIAL' (código: CONT_5023) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CONTABILIDAD GUBERNAMENTAL' (código: CONT_2028) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CONTRASTIVE GRAMMAR' (código: EDUC_4116) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CONTRATACION PUBLICA' (código: DERE_3050) tiene un total de 29 estudiantes reprobados.
+En el periodo académico '202462', el curso 'COSMOVISION ANDINA' (código: TURI_4014) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CUR DSING FR ACADM AND SPCIF P' (código: EDUC_4111) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CURRICLM FUNDTS PRNCPLS AND IS' (código: EDUC_4112) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'CURSO DE ACTUALIZACION' (código: UTPL_3000) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'DERECHO LABORAL' (código: DERE_1181) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202462', el curso 'DERECHO TRIBUTARIO' (código: DERE_1182) tiene un total de 28 estudiantes reprobados.
+En el periodo académico '202462', el curso 'DERECHO TRIBUTARIO' (código: DERE_4054) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202462', el curso 'DESARROLLO EMPRES NUEVOS NEGOC' (código: ADMI_3025) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202462', el curso 'DIRECCION ESTRATEGICA' (código: ADMI_5071) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'DISEÑO DE PRODUCTOS TURISTICOS' (código: TURI_3016) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'DISEÑO DE SISTEMAS DE COSTOS' (código: CONT_3029) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202462', el curso 'E-COMMERCE' (código: ADMI_4083) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ECONOMETRIA AVANZADA' (código: ECON_3043) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ECONOMETRIA BASICA' (código: ECON_3039) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ECONOMIA INTERNACIONAL' (código: ECON_5077) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ECONOMIA POLITICA' (código: ECON_5076) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'EL ARTE DE AMAR' (código: RELI_1110) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'EMPREN CON BASE TECNOLOGICA I' (código: ADMI_5078) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'EMPRENDIMIENTO' (código: ADMI_4038) tiene un total de 79 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ENGLISH LAN: LIST AND SPEAK IV' (código: EDUC_2118) tiene un total de 13 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ENGLISH LAN: LISTE AND SPE III' (código: EDUC_3112) tiene un total de 16 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ENGLISH LAN: READ AND WRIT III' (código: EDUC_3111) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ENGLISH LAN: READ AND WRIT IV' (código: EDUC_2119) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ENGLISH LANG: LIST AND SPEA II' (código: FDCE_1075) tiene un total de 26 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ENGLISH LANG: LIST AND SPEAK I' (código: FDCE_1074) tiene un total de 73 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ENGLISH LANG: READ AND WRIT II' (código: FDCE_1076) tiene un total de 23 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ENGLISH LANG: READI AND WRIT I' (código: IDIO_1104) tiene un total de 46 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ENGLISH PRON: PHONETI AND PHON' (código: EDUC_3179) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ENGLISH SYNTAX' (código: EDUC_4109) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'EPISTEMOLOGIA DE CONTA Y AUDIT' (código: CONT_1084) tiene un total de 55 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ESTADISTICA' (código: ESTA_1044) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ESTADISTICA BASICA' (código: ESTA_2031) tiene un total de 16 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ESTADISTICA BASICA' (código: ESTA_3023) tiene un total de 37 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ESTADISTICA PARA LAS ING Y ARQ' (código: ESTA_2029) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ESTRUCTURAS DE DATOS' (código: DSOF_2029) tiene un total de 12 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ETICA Y MORAL' (código: FILO_1114) tiene un total de 39 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FIJACION PREC Y ADMIN DE COSTO' (código: CONT_4026) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FILOSOFIA E HISTORIA DE LA EDU' (código: FILO_1117) tiene un total de 53 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FINANZAS ESTRUCTURALES' (código: FINZ_3024) tiene un total de 35 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FINANZAS OPERATIVAS' (código: FINZ_3023) tiene un total de 36 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FINANZAS Y PRESUPUESTOS' (código: TURI_3011) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FISICA BASICA' (código: FISI_1039) tiene un total de 34 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FORM EVALUAC DE PROYECTOS' (código: ADMI_4126) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FORMULACION DE PROYECTOS' (código: ECON_3045) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FORMULACION Y EVALUACION DE PR' (código: ADMI_4121) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FRANCES I' (código: IDIO_3013) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FRANCES II' (código: IDIO_3014) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FRANCES III' (código: IDIO_4016) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE ADMINIST FINAN' (código: ADMI_1115) tiene un total de 18 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE ADMINISTRACION' (código: ADMI_1113) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE CONTABILIDAD' (código: CONT_1083) tiene un total de 157 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE ECONOMIA' (código: ECON_1088) tiene un total de 48 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE PROGRAMACION' (código: DSOF_1073) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FUNDAMENTOS DE REDES' (código: DRBD_4012) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'FUNDAMENTOS MATEMATICOS' (código: MATE_1103) tiene un total de 90 estudiantes reprobados.
+En el periodo académico '202462', el curso 'GEOGRAFIA TURISTICA' (código: HOTE_1047) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202462', el curso 'GEST DE LA CALIDAD DE SOFTWARE' (código: DSOF_3035) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'GESTION DE CADENA DE VALOR Y C' (código: TURI_5011) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'GESTION DE LA CALIDAD' (código: ADMI_5067) tiene un total de 17 estudiantes reprobados.
+En el periodo académico '202462', el curso 'GESTION DE NUEVOS NEGOCIOS' (código: ADMI_4079) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202462', el curso 'GESTION DEL CONOCIMIENTO' (código: ADMI_3030) tiene un total de 33 estudiantes reprobados.
+En el periodo académico '202462', el curso 'GESTION DEL PATRIMONIO CULTU' (código: TURI_2011) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'GESTION E INNOVACION DE DESTIN' (código: TURI_4017) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'GESTION INNOVACION EMPRESARIAL' (código: ADMI_1111) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202462', el curso 'GESTION PUBLICA DEL TURISMO' (código: TURI_4018) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'HABILIDADES GERENCIALES' (código: ADMI_5064) tiene un total de 113 estudiantes reprobados.
+En el periodo académico '202462', el curso 'HISTORIA DEL PENSAMIENTO ECONO' (código: ECON_1089) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'HUMANISMO, UNIVERSIDAD Y CULTU' (código: RELI_1105) tiene un total de 165 estudiantes reprobados.
+En el periodo académico '202462', el curso 'INCLUSIVE AND SUSTAINABLE EDUC' (código: EDUC_4115) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'INTELIG ESTRAT Y METOD INTERNA' (código: ADMI_4081) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202462', el curso 'INTRO AUDITORIA FORENSE EMPRES' (código: CONT_3028) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'INTRODUC TO EDUCATIO RESEARCH' (código: EDUC_3180) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202462', el curso 'INTRODUCCION A LA ECONOMIA' (código: ECON_1090) tiene un total de 34 estudiantes reprobados.
+En el periodo académico '202462', el curso 'INTRODUCTION TO LINGUISTICS' (código: EDUC_3189) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202462', el curso 'INVESTIGACION DE MERCADOS' (código: ADMI_3026) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202462', el curso 'INVESTIGACION OPERATIVA TOMA D' (código: DIPP_3001) tiene un total de 18 estudiantes reprobados.
+En el periodo académico '202462', el curso 'JORNADA DE INVEST Y FORMA ESP' (código: EDUC_4160) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'LANGUAGE TESTING' (código: EDUC_3177) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202462', el curso 'LECTURA Y REDACCION DE TEXTOS' (código: LITE_1106) tiene un total de 59 estudiantes reprobados.
+En el periodo académico '202462', el curso 'LEGISLACION EMPRESARIAL' (código: ADMI_1110) tiene un total de 22 estudiantes reprobados.
+En el periodo académico '202462', el curso 'LEGISLACION MERCANTIL Y SOCIET' (código: DERE_2072) tiene un total de 43 estudiantes reprobados.
+En el periodo académico '202462', el curso 'LEGISLACION TURISTICA Y AMBIEN' (código: TURI_2013) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'MACROECONOMIA ABIERTA' (código: ECON_3041) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'MACROECONOMIA CERRADA' (código: ECON_2034) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'MANAGEMENT 3.0' (código: ADMI_1117) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'MARKETING' (código: MERC_4007) tiene un total de 24 estudiantes reprobados.
+En el periodo académico '202462', el curso 'MARKETING TURISTICO' (código: MERC_4004) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'MATEMATICA BASICA' (código: MATE_1106) tiene un total de 49 estudiantes reprobados.
+En el periodo académico '202462', el curso 'MATEMATICA FINANCIERA' (código: MATE_1109) tiene un total de 30 estudiantes reprobados.
+En el periodo académico '202462', el curso 'MATRIMONIO Y FAMILIA' (código: RELI_1033) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'MERCADO DE VALORES' (código: COME_5000) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202462', el curso 'METH TO ADOLESCENTS AND ADULTS' (código: EDUC_3188) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'METHODO FOR TEAC ENGL TO CHILD' (código: EDUC_3191) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'METHODOLOGY FOR TEACHING ENGLI' (código: EDUC_3182) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'METODOS DE VALOR DE EMPRESAS' (código: ADMI_5065) tiene un total de 22 estudiantes reprobados.
+En el periodo académico '202462', el curso 'MODELOS ECONOMETRICOS' (código: ECON_3040) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'NEGOCIOS INTERNACIONALES' (código: COME_3003) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202462', el curso 'NEURO MARKT Y TEORIAS DE INFOR' (código: TURI_4021) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'NEUROCIENCIA Y PSICOL DEL DESA' (código: PSIC_1104) tiene un total de 15 estudiantes reprobados.
+En el periodo académico '202462', el curso 'NUEVAS ALTERNATIVAS DE TURISMO' (código: TURI_2018) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'ORGANIZACION DE EVENTOS Y PROT' (código: TURI_2015) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PASANT PRE-PROF PRACTICUM 3.2' (código: ADMI_5046) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PATRIMONIO NATURAL Y BIODIVERS' (código: TURI_3013) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PEDAGOGIA' (código: EDUC_3113) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PLANIFICACION DE DESTINOS TURI' (código: TURI_4016) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PLATAFORMAS PARA JUEGOS' (código: DSOF_4071) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PLATAFORMAS WEB' (código: DSOF_3038) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'POLITICA AMBIENTAL' (código: ECON_3046) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202462', el curso 'POLITICA ECONOMICA' (código: ECON_3044) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'POLITICA PUBLICA Y MARCO LEGA' (código: FDCE_2030) tiene un total de 19 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICA TRIBUTARIA' (código: CONT_2026) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 1' (código: ADMI_2029) tiene un total de 73 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 1' (código: CONT_2029) tiene un total de 30 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 1' (código: EDUC_2120) tiene un total de 36 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 1' (código: TURI_2010) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 1.2' (código: COMP_2012) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 2' (código: ADMI_3027) tiene un total de 27 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 2' (código: CONT_3037) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 2' (código: EDUC_3181) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 2' (código: TURI_3017) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 2.2' (código: COMP_3014) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 3' (código: ADMI_4080) tiene un total de 40 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 3' (código: EDUC_3186) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 3 SERVICIO COMUN' (código: ECON_3054) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 3 SERVICIO COMUNITA' (código: CONT_3038) tiene un total de 21 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 3 SERVICIO COMUNITAR' (código: TURI_3012) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1' (código: COMP_4015) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1' (código: EDUC_4107) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1' (código: TURI_4020) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: ADMI_4087) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1 TRAB DE INTE/EXA' (código: CONT_4032) tiene un total de 11 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 4.1:TRABAJO DE INT E' (código: ECON_4115) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 4.2' (código: EDUC_4114) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 4.2' (código: TURI_5010) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: ADMI_5068) tiene un total de 17 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 4.2 TRAB DE INTE/EXA' (código: CONT_4034) tiene un total de 49 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRACTICUM 4.2:TRABAJO DE INTEG' (código: ECON_5074) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRINCIPIOS DE AUDITORIA' (código: CONT_3027) tiene un total de 22 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRINCIPIOS DE MACROECONOMIA' (código: ECON_2033) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PRINCIPIOS DEL TURISMO' (código: HOTE_1045) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PROC DE INGENIERIA DE SOFTWARE' (código: DSOF_5001) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PROG ORIENTADA A OBJETOS' (código: DSOF_2034) tiene un total de 24 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PROGRAMACION AVANZADA' (código: COMP_4011) tiene un total de 7 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4105) tiene un total de 46 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4106) tiene un total de 49 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PROPUESTA DE INVESTIGACION' (código: EDUC_4118) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PROSPECTIVA EMPRESARIAL Y A' (código: ADMI_4092) tiene un total de 31 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PROTOTIPADO' (código: DSOF_3036) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'PROYECTOS' (código: ADMI_4090) tiene un total de 9 estudiantes reprobados.
+En el periodo académico '202462', el curso 'RECURSOS TANGIB E INTANGIB' (código: TURI_3015) tiene un total de 2 estudiantes reprobados.
+En el periodo académico '202462', el curso 'RELACIONES PUB Y PROTOCOLO' (código: HOTE_1040) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'REPRESENT AVAN CONOCI Y RAZON' (código: COMP_4014) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'RESEARCH METHODS IN ELT' (código: EDUC_3184) tiene un total de 8 estudiantes reprobados.
+En el periodo académico '202462', el curso 'RESPONSABILIDAD SOCIAL EMPRE' (código: ADMI_4088) tiene un total de 25 estudiantes reprobados.
+En el periodo académico '202462', el curso 'SECOND LANGUAGE ACQUISITION' (código: EDUC_4113) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202462', el curso 'SEMANTICS AND PRAGMATICS' (código: EDUC_4108) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'SEMINARIO DE FIN DE CARRERA' (código: ADMI_5047) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202462', el curso 'SEMINARIO DE FIN DE CARRERA' (código: FDCE_4031) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'SISTEMAS DE COSTOS' (código: CONT_2035) tiene un total de 31 estudiantes reprobados.
+En el periodo académico '202462', el curso 'SISTEMAS TECNOLOGICOS APLICADO' (código: TURI_4013) tiene un total de 4 estudiantes reprobados.
+En el periodo académico '202462', el curso 'SOCIOLOGIA DE LA EDUCACION' (código: EDUC_1109) tiene un total de 23 estudiantes reprobados.
+En el periodo académico '202462', el curso 'SOSTENIBILIDAD EMPRESARIAL' (código: ADMI_3024) tiene un total de 26 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TEACHING CULTURE IN THE EFL CL' (código: EDUC_4110) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TECHNOLOGY IN THE EFL CLASSROO' (código: IDIO_2023) tiene un total de 10 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TECNICAS DE INFERENCIA ESTADIS' (código: ESTA_2022) tiene un total de 16 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TEFL METHODOLOGY AND DIDACTICS' (código: EDUC_2089) tiene un total de 18 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TEORIA DE AUTOMATAS Y COMPILAD' (código: COMP_3012) tiene un total de 6 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TEORIA MACROECONOMICA' (código: ECON_2031) tiene un total de 14 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TEORIA MICROECONOMICA' (código: ECON_2030) tiene un total de 26 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TEORIAS DEL DESARROLLO' (código: ECON_5075) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: ADMI_5060) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TRABAJO DE TIT (PRACTICUM 4)' (código: CONT_5000) tiene un total de 3 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TRABAJO DE TITULACION' (código: FDCE_4043) tiene un total de 5 estudiantes reprobados.
+En el periodo académico '202462', el curso 'TURISMO Y HOTELERIA' (código: HOTE_1030) tiene un total de 1 estudiantes reprobados.
+En el periodo académico '202462', el curso 'VALORACION DE EMPRESAS' (código: FINZ_5000) tiene un total de 7 estudiantes reprobados.
