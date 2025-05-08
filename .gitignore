@@ -1,14 +1,16 @@
 myEnv/
 
 # Salida generada
-agentic_rag/data/output/
+agentic_rag/data/output/documents
+agentic_rag/data/output/chat
+
 
 # Archivos Python compilados
 __pycache__/
 *.pyc
 
-# Archivos grandes
-*.ckpt
-*.bin
-*.pt
-*.h5
+# # Archivos grandes
+# *.ckpt
+# *.bin
+# *.pt
+# *.h5
